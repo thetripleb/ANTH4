@@ -151,6 +151,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g011",
+      "term": "coded slur",
+      "def": "A term that is secretly derogatory only to those with in-group knowledge (e.g., 'Monday' used as a coded racial slur) — derogatory without necessarily causing offense to the unaware target.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g022",
       "term": "corpus",
       "def": "A large database collecting real examples of language use (books, newspapers, message boards, video, audio) used as a tool for making observations.",
@@ -158,6 +167,33 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g020",
+      "term": "deadnaming",
+      "def": "Using a trans person's former (pre-transition) name, whether accidentally or deliberately; a way names are used to enforce power.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g009",
+      "term": "derogation (pejoration)",
+      "def": "Harm in which a linguistic expression disparages people; expresses the utterer's condemnation of a referent.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g010",
+      "term": "derogatory (pejorative)",
+      "def": "Describing expressions that disparage people. Offense (impact on hearers) and derogation (utterer's attitude) are distinct: an expression can be one, both, or neither.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
       "id": "ch1-g016",
@@ -176,6 +212,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g008",
+      "term": "expletive",
+      "def": "An expression used for emotional outbursts (e.g., damn). An expression can be both a vulgarity and an expletive.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
       "id": "ch1-g030",
@@ -205,6 +250,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g018",
+      "term": "guise",
+      "def": "In a matched-guise study, the varying label or presentation applied to the stimulus (e.g., the name on a résumé, an accent, a face shown with a voice).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g014",
       "term": "implicit knowledge",
       "def": "Unconscious knowledge a fluent user has about their language that they cannot easily articulate (contrast: explicit knowledge).",
@@ -214,6 +268,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g019",
+      "term": "indexical bleaching",
+      "def": "Replacing or mispronouncing someone's name to make it 'sound more English/white,' stripping their connection to family, community, and language (Bucholtz).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g025",
+      "term": "language policy",
+      "def": "Governmental/institutional rules that encourage or force the use (or non-use) of languages, require proficiency, or regulate languages in public space — usable to erase OR reinforce identities.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g023",
       "term": "Large Language Model (LLM)",
       "def": "A program trained on a vast corpus that calculates the probability that pieces of language relate to one another, used to generate statistically plausible text; it has no mind or communicative intent.",
@@ -221,6 +293,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g026",
+      "term": "linguicide",
+      "def": "The 'killing' of a language through policy (e.g., residential-school prohibitions on Indigenous languages).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
       "id": "ch1-g028",
@@ -239,6 +320,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g016",
+      "term": "matched-guise study",
+      "def": "A technique for revealing hidden attitudes: hold a STIMULUS constant and vary its GUISE; any difference in participant ratings is attributed to the guise, not the stimulus.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
       "id": "ch1-g002",
@@ -295,6 +385,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g006",
+      "term": "offense",
+      "def": "Social/psychological harm done to discourse participants (hearers/viewers) by an expression in a given context; can occur regardless of the speaker's intent.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g029",
       "term": "oralism",
       "def": "The view that vocal language is more important than signed language — a bias that has caused harm to deaf people and to the study of sign languages.",
@@ -302,6 +401,42 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g012",
+      "term": "particularistic insult",
+      "def": "A derogatory term (jerk, idiot, asshole; also called a general pejorative) condemning a specific person for specific behavior, rather than an entire group.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g023",
+      "term": "perceptual adaptation",
+      "def": "Improved comprehension of an unfamiliar talker or accent as a result of more listening experience; extends across speakers and even across different accents.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g002",
+      "term": "performative speech act",
+      "def": "An utterance that not only conveys information but performs an action that changes reality (e.g., 'I concede,' 'I now pronounce you married') — provided the right authority, sincerity, and audience uptake exist.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g001",
+      "term": "performativity",
+      "def": "The property of language by which utterances (and other social practices) can perform actions and affect reality, including constructing identity (Austin; extended by Butler).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
       "id": "ch1-g007",
@@ -358,6 +493,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g015",
+      "term": "reclamation",
+      "def": "Repurposing a slur as a marker of shared identity and solidarity against oppression (e.g., 'queer'); not all targeted members may be ready to embrace a reclaimed term.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g027",
+      "term": "second language (L2)",
+      "def": "Any language learned after one already has an L1 (even if it is one's third or fourth language). One's L2 accent is shaped by the phonology of one's L1.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g012",
       "term": "semantics",
       "def": "The part of grammar that calculates the meanings of words, phrases, and sentences; works together with syntax.",
@@ -365,6 +518,24 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g013",
+      "term": "slur",
+      "def": "An insult that denigrates a specific marginalized group; targets a person BECAUSE of group membership. Power imbalance is essential — insults aimed at high-status groups lack the same force.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g021",
+      "term": "specific singular they",
+      "def": "Use of 'they/them' to refer to a single, known individual (e.g., 'Samnang told me they needed an extension'); an in-progress grammatical change resisted by prescriptivists.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
       "id": "ch1-g026",
@@ -376,6 +547,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g024",
+      "term": "stigma",
+      "def": "Negative attitudes and expectations attached to a non-standard accent or variety (the variety itself is neither good nor bad); can cause real harm in jobs, housing, courts, and education.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g017",
+      "term": "stimulus",
+      "def": "In a matched-guise study, the element held constant across conditions (e.g., the résumé, the sales script, the recorded voice).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g011",
       "term": "syntax",
       "def": "The part of grammar that determines how words can and cannot be combined into phrases and sentences.",
@@ -385,6 +574,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-g003",
+      "term": "taboo",
+      "def": "A word or expression whose use is avoided except in certain circumstances; using it in the wrong context breaks the taboo and causes offence. Taboos can arise for negative OR positive (respect) reasons.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g004",
+      "term": "taboo avoidance",
+      "def": "A strategy of replacing a taboo word with another word — either to avoid resembling it (e.g., Kambaata in-law names) or to evoke it via a similar form (e.g., 'sugar,' 'shoot' for a swear).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
       "id": "ch1-g025",
       "term": "token",
       "def": "In an LLM, a unit of language — a letter, word, piece of a word (morpheme), or punctuation mark — whose co-occurrence probabilities are calculated.",
@@ -392,6 +599,42 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-g014",
+      "term": "toxicity",
+      "def": "The especially offensive emotional power of slurs, arising from the power differential and the invocation of historical violence against the targeted group; so strong that even mentioning some slurs can cause harm.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g005",
+      "term": "use–mention distinction",
+      "def": "The difference between USING a word to refer to something in the world vs. MENTIONING the word itself as a linguistic object (conventionally shown in italics).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g022",
+      "term": "vocal fry (creak)",
+      "def": "A voice quality produced by very low-frequency vocal-fold vibration, sounding creaky; a normal part of many languages' phonetics/prosody, disproportionately criticized in women's voices.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-g007",
+      "term": "vulgarity",
+      "def": "An expression involving taboo bodily references (e.g., shit, ass).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     }
   ],
   "flashcards": [
@@ -511,6 +754,132 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-f001",
+      "front": "What is a performative speech act?",
+      "back": "An utterance that performs an action and changes reality (e.g., 'I now pronounce you married'), given proper authority, sincerity, and audience uptake.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f002",
+      "front": "Whose ideas underlie performativity?",
+      "back": "J. L. Austin ('How to Do Things With Words') and Judith Butler (who extended it to gender/identity).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f003",
+      "front": "Offense vs. derogation?",
+      "back": "Offense = harm to the hearers/viewers (impact); derogation = the utterer's disparaging attitude. An expression can be one, both, or neither.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f004",
+      "front": "Vulgarity vs. expletive?",
+      "back": "Vulgarity = taboo bodily reference (shit, ass); expletive = outburst term (damn). Some words are both.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f005",
+      "front": "What makes something a slur (vs. a particularistic insult)?",
+      "back": "A slur denigrates a whole marginalized GROUP and depends on a power imbalance; a particularistic insult condemns one person for specific behavior.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f006",
+      "front": "Why are slurs 'toxic'?",
+      "back": "Their emotional power comes from a power differential and the invocation of historical violence — even mentioning some can harm.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f007",
+      "front": "What is the use–mention distinction?",
+      "back": "Using a word refers to a thing; mentioning a word treats the word itself as a linguistic object (shown in italics).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f008",
+      "front": "How does a matched-guise study work?",
+      "back": "Hold the STIMULUS constant, vary the GUISE; any rating difference is due to the guise (the label), revealing hidden attitudes.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f009",
+      "front": "In the résumé study, what were stimulus and guise?",
+      "back": "Stimulus = the (constant) résumé; guise = the name at the top (English- vs. non-English-sounding).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f010",
+      "front": "What is indexical bleaching?",
+      "back": "Replacing/mispronouncing a name to make it 'sound more English/white,' erasing identity (Bucholtz).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f011",
+      "front": "Singular 'they' — new or old?",
+      "back": "Unspecified singular 'they' is ~600 years old; the NEW change is SPECIFIC singular 'they' for a known person.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f012",
+      "front": "Can anyone stop language from changing?",
+      "back": "No. Language change is inevitable; prescriptive complaints don't stop it.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f013",
+      "front": "What is linguicide?",
+      "back": "The killing of a language through policy (e.g., residential schools forbidding Indigenous languages).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-f014",
+      "front": "Why do L2 users have accents?",
+      "back": "Their L2 mental grammar is shaped by their L1's phonology; accent 'reduction' is hard after childhood — but comprehension adapts more easily.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     }
   ],
   "questions": [
@@ -707,9 +1076,277 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-q001",
+      "type": "mc",
+      "text": "How recently has 'they' been used as a SINGULAR pronoun in English?",
+      "options": [
+        "It has been a generic singular for centuries and is now also changing to a specific singular",
+        "It started being used as a singular around 2015",
+        "Never — 'they' is always plural",
+        "Only since the Merriam-Webster 2019 vote"
+      ],
+      "answer": "It has been a generic singular for centuries and is now also changing to a specific singular",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q002",
+      "type": "mc",
+      "text": "How can people stop a language from 'deteriorating'?",
+      "options": [
+        "No one can stop language from changing",
+        "Teach only correct grammar in schools",
+        "Correct every mistake people make",
+        "Publish and distribute extensive dictionaries"
+      ],
+      "answer": "No one can stop language from changing",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q003",
+      "type": "mc",
+      "text": "In a study where the same sales script was spoken with either a standardized American accent or a Greek accent, which is true?",
+      "options": [
+        "The script is the stimulus and the accent is the guise",
+        "The product is the stimulus and the accent is the guise",
+        "The accent is the stimulus and the product is the guise",
+        "The script is the guise and the accent is the stimulus"
+      ],
+      "answer": "The script is the stimulus and the accent is the guise",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q004",
+      "type": "mc",
+      "text": "Identical résumés were sent under English, Indian, or Chinese names and callbacks were measured. Which is true?",
+      "options": [
+        "The job-seeker's name is the guise and the résumé is the stimulus",
+        "The résumé is the guise and the interview is the stimulus",
+        "The name is the stimulus and the interview is the guise",
+        "The hiring manager is the guise and the résumé is the stimulus"
+      ],
+      "answer": "The job-seeker's name is the guise and the résumé is the stimulus",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q005",
+      "type": "mc",
+      "text": "Which best distinguishes a SLUR from a particularistic insult?",
+      "options": [
+        "A slur targets a whole marginalized group and depends on a power imbalance",
+        "A slur is simply any rude word",
+        "A slur only targets one person's specific behavior",
+        "A slur is always less harmful than an insult"
+      ],
+      "answer": "A slur targets a whole marginalized group and depends on a power imbalance",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q006",
+      "type": "tf",
+      "text": "True or False: 'Offense' and 'derogation' are the same thing.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q007",
+      "type": "tf",
+      "text": "True or False: A performative speech act like 'I now pronounce you married' changes the world regardless of who says it or in what context.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q008",
+      "type": "tf",
+      "text": "True or False: Men and women who speak English are about equally likely to use vocal fry (creak).",
+      "answer": "True",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q009",
+      "type": "tf",
+      "text": "True or False: Because power imbalance is essential to a slur, an insult aimed at a high-status group carries the same toxic force as a slur.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q010",
+      "type": "fitb",
+      "text": "In a matched-guise study, the element held constant is the ____, while the varying label is the guise.",
+      "answer": "stimulus",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q011",
+      "type": "fitb",
+      "text": "Making a person's name 'sound more English/white' by replacing or mispronouncing it is called indexical ____.",
+      "answer": "bleaching",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q012",
+      "type": "fitb",
+      "text": "The killing of a language through policy (as in residential schools) is called ____.",
+      "answer": "linguicide",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-q014",
+      "type": "match",
+      "text": "Match each concept with its example or description.",
+      "pairs": [
+        {
+          "left": "Deadnaming",
+          "right": "Using a trans person's former name"
+        },
+        {
+          "left": "Reclamation",
+          "right": "Repurposing 'queer' as solidarity"
+        },
+        {
+          "left": "Coded slur",
+          "right": "'Monday' understood only by an in-group"
+        },
+        {
+          "left": "Perceptual adaptation",
+          "right": "Understanding an accent better with more exposure"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     }
   ],
   "notes": [
+    {
+      "id": "ch2-n010",
+      "title": "★ KEY EXAM POINTS — Chapter 2",
+      "body": "★ PERFORMATIVE speech acts DO things (Austin); Butler extends performativity to IDENTITY. Power needs authority + sincerity + uptake. ★ TABOO words are context-avoided; violating them causes OFFENSE. Taboos can be positive (respect) or negative. ★ OFFENSE = harm to hearers (impact); DEROGATION = utterer's disparaging attitude — INDEPENDENT of each other. ★ VULGARITY (bodily: shit) vs. EXPLETIVE (outburst: damn). ★ PARTICULARISTIC INSULT = one person for behavior; SLUR = a whole marginalized GROUP + POWER IMBALANCE → TOXICITY; slurs can be RECLAIMED (queer). ★ USE (refer) vs. MENTION (word as object, italics). ★ MATCHED-GUISE: hold STIMULUS constant, vary GUISE → rating difference = attitude toward the guise. ★ INDEXICAL BLEACHING = making a name 'sound more white'; DEADNAMING enforces power. ★ SPECIFIC singular 'they' = new change (unspecified singular they is ~600 yrs old); no one can stop language change. ★ VOCAL FRY/creak = normal phonation, policed in women. ★ STIGMA attaches to non-standard accents (accent itself is neutral); L2 accent shaped by L1; fix via PERCEPTUAL ADAPTATION. ★ LANGUAGE POLICY can erase or reinforce identity; residential-school prohibition = LINGUICIDE; Official Languages Act 1969 (FR/EN) ignored Indigenous languages; Indigenous Languages Act 2019.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n009",
+      "title": "2.8 Exercise your linguistics skills",
+      "body": "Practice: (1) use morphology to compare 'standardized' vs. 'standard language' (what does -ize add, and why choose one term?); (2) reflect on feelings about your L2 accent and whether they trace to prestige/power; (3) examine which names/nicknames you use with different groups and why; (4) analyze swearing across contexts in terms of face (is positive or negative face threatened or enhanced?).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n008",
+      "title": "2.7 Legally enshrined harms",
+      "body": "Governments use language policy to create unity or division. Canada's Official Languages Act (1969) recognized French and English and helped Francophones, but ignored Indigenous languages. Residential-school policies mandating English/French were a form of linguicide whose harms are ongoing. The 2015 Truth and Reconciliation Commission led to the Indigenous Languages Act (2019) supporting reclamation. Tensions remain: Mary Simon (bilingual in English and Inuktitut) was criticized for limited French; Quebec's French-protection laws can suppress Indigenous and other languages (many Cree/Mohawk speakers use English, not French, as their L2).",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n007",
+      "title": "2.6 Linguistic law enforcement",
+      "body": "Unlike most social differences, deviating from a privileged language standard is openly policed. People police voices — criticizing 'uptalk' and vocal fry (creak), a normal low-frequency phonation disproportionately condemned in women even though men creak equally. People also police accents: a non-standard accent is stigmatized (the accent itself is neutral). L2 accents arise because the L2 grammar is shaped by L1 phonology. Stigma has real consequences (jobs, housing, courts, special-ed streaming, voice assistants). A UBC matched-guise study: the SAME voice was rated as more accented when paired with a Chinese-Canadian face — a mismatch of expectations. Remedy: perceptual adaptation — the more you attend to a talker/accent, the better you understand them.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n006",
+      "title": "2.5 Pronouns, language change, and the grammar police",
+      "body": "Pronouns index identity. English third-person singular pronouns (it/he/she) give broad clues (thing/male/female) that can exclude people; 'they' avoids this. Unspecified singular 'they' is ~600 years old; the current change adds SPECIFIC singular 'they' for a known person. Because this tracks changing gender norms, prescriptivists resist it, but it keeps spreading (2015 ADS Word of the Year). A parallel: English lost thou/thee, leaving 'you' for both singular and plural. No one can stop language change, but users can speed it — using specific-singular-'they' reduces harmful misgendering.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n005",
+      "title": "2.4 The power of names",
+      "body": "Names index social categories (gender, age, ethnicity). Matched-guise studies reveal hidden attitudes by holding a stimulus constant and varying its guise: identical résumés got fewer callbacks under non-English names (Oreopoulos 2011); Toronto landlords replied less to typically Arabic names. Names express identity and resistance — Indigenous name reclamation (e.g., Ta7talíya Nahanee, whose Sḵwx̱wú7mesh name uses '7' for the glottal stop) and trans naming. Deadnaming, forcible renaming, and mispronunciation enforce power (e.g., Black train porters all called 'George'; NDP leader Jagmeet Singh called 'Juggy'). Bucholtz calls making a name 'sound more English/white' indexical bleaching.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n004",
+      "title": "2.3 Derogation, toxicity, and power imbalances",
+      "body": "Language expresses solidarity (e.g., Japanese honorific/endearment suffixes -san, -chan) but also harms. Offense = harm to discourse participants (impact); derogation/pejoration = the utterer's disparaging attitude. These are independent: 'shit' can offend without being derogatory; a coded slur ('Monday') can be derogatory without offending an unaware target. Particularistic insults (general pejoratives: jerk, idiot, asshole) target one person for specific behavior; slurs denigrate a whole marginalized GROUP and depend on a power imbalance, invoking historical violence — this is their toxicity. Insults aimed at high-status groups lack that force. Slurs can be reclaimed for solidarity (e.g., 'queer'; 'suffragette'). [Content note: discusses slurs.]",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n003",
+      "title": "2.2 Language and offence",
+      "body": "Words carry emotional effects. Taboo words are avoided except in certain contexts; violating a taboo causes offence (e.g., 'shit' vs. innocuous 'poop'). Taboos arise for negative reasons OR positive ones (respect — e.g., Kambaata women avoiding sounds in in-laws' names). Taboo avoidance replaces a taboo word, either to avoid resembling it or to evoke it with a similar form ('sugar,' 'shoot'). The use–mention distinction matters: using 'shit' violates the taboo, but mentioning it as a linguistic object (in italics) usually doesn't — though for highly volatile words like racial slurs, even mentions can harm, so people use circumlocution or masking (s***, s-word). [Content note: swearing; brief mention of slurs.]",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n002",
+      "title": "2.1 Language and identity (performativity)",
+      "body": "Language can change the world. Performative speech acts (Austin) both convey information and perform an action ('I concede,' 'I now pronounce you married,' 'you're hired'). Their power depends on the authority and sincerity of the utterer plus the audience's uptake and society's agreement — a kid at recess saying 'I now pronounce you married' changes nothing. Butler extended performativity beyond speech acts: identity (e.g., gender) is a 'performative accomplishment' built through repeated social practice, including language. Saying 'eh' both expresses and reinforces a Canadian identity. Performativity ≠ acting/pretending — it means language performs functions that construct who we are.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-n001",
+      "title": "Chapter 2 — Learning Objectives",
+      "body": "By the end of Chapter 2 you should be able to: (1) describe relationships between power and language across a variety of scenarios; (2) find real-world examples of language–power relationships; and (3) use metalinguistic awareness to interpret your own and others' attitudes about language.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
     {
       "id": "ch1-n011",
       "title": "★ KEY EXAM POINTS — Chapter 1",
