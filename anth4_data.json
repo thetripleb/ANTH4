@@ -178,6 +178,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch11-g015",
+      "term": "age notation",
+      "def": "The convention year;month for a child's age (e.g., 2;6 = two years, six months).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch6-g035",
       "term": "agent",
       "def": "The thematic role of an animate participant that does something on purpose (e.g., 'The pirate sank the ship').",
@@ -331,6 +340,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch11-g001",
+      "term": "babbling",
+      "def": "An early stage where babies practice producing the units of language; vocal babbling begins ~0;6 in hearing and deaf babies, and babies in signing environments babble on the hands (manual babbling).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch3-g029",
       "term": "backness",
       "def": "Horizontal tongue position: front (beat), central (but), or back (boot). Do not confuse central (backness) with mid (height).",
@@ -385,6 +403,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
+      "id": "ch11-g002",
+      "term": "canonical babbling",
+      "def": "Repeated consonant-vowel syllables like [bababa] or [dadada] that emerge as babies gain articulatory control.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch10-g022",
       "term": "categorical alternation",
       "def": "A change fully determined by the linguistic environment (not free social choice), which therefore does NOT count as a sociolinguistic variable.",
@@ -410,6 +437,15 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch11-g017",
+      "term": "child-directed speech",
+      "def": "The special register caregivers often use with infants (exaggerated prosody, simplified forms), which can support acquisition.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch5-g009",
@@ -628,6 +664,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch11-g013",
+      "term": "critical period",
+      "def": "A window early in life during which language is acquired most readily and to native-like attainment; acquisition is harder afterward.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch2-g020",
       "term": "deadnaming",
       "def": "Using a trans person's former (pre-transition) name, whether accidentally or deliberately; a way names are used to enforce power.",
@@ -844,6 +889,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch11-g004",
+      "term": "first words",
+      "def": "A child's earliest vocabulary (~0;12 for speech, often ~0;8-0;9 in sign), similar across children; nouns for things and verbs for actions like 'cry' or 'eat'.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch8-g009",
       "term": "flouting",
       "def": "Blatantly and obviously failing to observe a maxim in order to trigger an implicature (the listener assumes cooperation and infers extra meaning) — e.g., sarcasm.",
@@ -977,6 +1031,24 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch11-g009",
+      "term": "high-amplitude sucking",
+      "def": "An experimental paradigm using an infant's sucking rate: a novel stimulus raises the rate; habituation lowers it; a change back up (dishabituation) shows the infant perceives a difference.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-g005",
+      "term": "holophrastic stage",
+      "def": "The one-word stage, where a single word conveys a whole utterance's worth of meaning.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch9-g011",
@@ -1177,6 +1249,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch11-g016",
+      "term": "language milestone",
+      "def": "A typical developmental achievement reached around a certain age (babbling, first words, two-word stage, etc.).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch2-g025",
       "term": "language policy",
       "def": "Governmental/institutional rules that encourage or force the use (or non-use) of languages, require proficiency, or regulate languages in public space — usable to erase OR reinforce identities.",
@@ -1328,6 +1409,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch11-g003",
+      "term": "manual babbling",
+      "def": "Rhythmic, syllable-like babbling on the hands by babies acquiring a signed language — evidence that babbling reflects the ambient language, not just random motor activity.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch3-g003",
@@ -1672,6 +1762,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch11-g007",
+      "term": "overextension",
+      "def": "Using a word too broadly, applying it to things outside its adult meaning (e.g., calling anyone with a beard 'Dada', or a motorcycle by one's word for a car).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-g011",
+      "term": "overregularization",
+      "def": "Applying a regular pattern to an irregular form (e.g., 'goed', 'foots') — evidence the child has learned the rule.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch10-g011",
       "term": "overt prestige",
       "def": "Prestige attached to a standardized, socially dominant variety, openly recognized as 'correct.'",
@@ -1715,6 +1823,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch11-g010",
+      "term": "perceptual narrowing",
+      "def": "The process by which infants, initially sensitive to many phonemic contrasts, tune to the contrasts of their ambient language(s) and lose sensitivity to unused ones.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch3-g004",
@@ -2104,6 +2221,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch11-g014",
+      "term": "sensitive period",
+      "def": "A softer version of the critical-period idea: a span of heightened (but not strictly all-or-nothing) readiness for language learning.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch6-g003",
       "term": "sentence",
       "def": "A string of words expressing a complete statement, question, or command; a clause that stands on its own as an utterance. A statement expresses a proposition (true or false).",
@@ -2138,6 +2264,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch11-g018",
+      "term": "simultaneous bilingualism",
+      "def": "Acquiring two (or more) languages from early childhood at the same time; children can separate the systems and reach native competence in each.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch2-g013",
@@ -2419,6 +2554,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch11-g006",
+      "term": "telegraphic speech",
+      "def": "An early multiword stage containing mostly content words (nouns, verbs) and omitting function words like obligatory determiners — like a telegram.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
       "id": "ch3-g031",
       "term": "tenseness",
       "def": "Tongue-root position distinguishing tense (advanced root, e.g., beat) from lax (retracted root, e.g., bit) vowels.",
@@ -2525,6 +2669,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch11-g008",
+      "term": "underextension",
+      "def": "Using a word too narrowly, applying it to fewer things than the adult meaning covers.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch4-g018",
@@ -2723,6 +2876,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch11-g012",
+      "term": "wug test",
+      "def": "A method (Berko 1958) using nonce words like 'wug' to show children apply morphological rules productively (one wug, two wugs).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
       "id": "ch6-g040",
@@ -4003,6 +4165,114 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch11-f001",
+      "front": "When does vocal babbling begin, and what about deaf babies?",
+      "back": "~0;6 for both hearing and deaf babies; babies in a signing environment also babble on the hands (manual babbling).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f002",
+      "front": "What is canonical babbling?",
+      "back": "Repeated CV syllables like [bababa]/[dadada].",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f003",
+      "front": "What does manual babbling show?",
+      "back": "Babbling reflects the ambient language (signed or spoken), not just random motor noise.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f004",
+      "front": "Overextension vs. underextension?",
+      "back": "Overextension = word used too broadly (all bearded men = 'Dada'); underextension = word used too narrowly.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f005",
+      "front": "What is telegraphic speech?",
+      "back": "Early multiword speech with mostly content words, omitting function words (like a telegram).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f006",
+      "front": "How does the high-amplitude sucking method work?",
+      "back": "Sucking rate rises to novelty, falls with habituation; a rise again (dishabituation) shows the baby noticed a change.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f007",
+      "front": "What is perceptual narrowing?",
+      "back": "Infants start sensitive to many contrasts, then tune to their ambient language's contrasts and lose unused ones.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f008",
+      "front": "What does overregularization ('goed') reveal?",
+      "back": "The child has internalized the regular rule and is applying it.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f009",
+      "front": "What is the wug test for?",
+      "back": "Showing children apply morphological rules productively to novel words (one wug → two wugs).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f010",
+      "front": "What does '2;6' mean?",
+      "back": "Two years, six months (age notation = year;month).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f011",
+      "front": "Critical vs. sensitive period?",
+      "back": "Critical = a hard window for native-like acquisition; sensitive = a softer span of heightened readiness.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-f012",
+      "front": "Can children acquire two languages natively at once?",
+      "back": "Yes — simultaneous bilinguals separate the systems and can reach native competence in each.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     }
   ],
   "questions": [
@@ -6771,9 +7041,276 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch11-q001",
+      "type": "mc",
+      "text": "Which is good evidence for the importance of the language ENVIRONMENT to acquisition?",
+      "options": [
+        "A child adopted at birth acquires the language of their adoptive parents",
+        "A newborn can tell a child's voice from an adult's",
+        "Deaf children sign because they lack spoken language",
+        "Screen time slows development"
+      ],
+      "answer": "A child adopted at birth acquires the language of their adoptive parents",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q002",
+      "type": "mc",
+      "text": "How is the age 'two-and-a-half years' conventionally written?",
+      "options": [
+        "2;6",
+        "2.5",
+        "2:6",
+        "0;30"
+      ],
+      "answer": "2;6",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q003",
+      "type": "mc",
+      "text": "In the high-amplitude sucking paradigm, which observation shows the infant perceives a NEW stimulus?",
+      "options": [
+        "The sucking rate increases after declining",
+        "The sucking rate stays high forever",
+        "The sucking rate only declines",
+        "The infant stops sucking"
+      ],
+      "answer": "The sucking rate increases after declining",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q004",
+      "type": "mc",
+      "text": "By ~0;10 hearing babies keep babbling but deaf babies' vocal babbling drops off. Why?",
+      "options": [
+        "Deaf babies don't have access to vocal language to shape their babbles",
+        "Deaf babies have less articulatory control",
+        "Deaf babies dislike babbling",
+        "Deaf babies skip the babbling stage"
+      ],
+      "answer": "Deaf babies don't have access to vocal language to shape their babbles",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q005",
+      "type": "mc",
+      "text": "A child calls every bearded man 'Dada'. This is an example of:",
+      "options": [
+        "overextension",
+        "underextension",
+        "telegraphic speech",
+        "overregularization"
+      ],
+      "answer": "overextension",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q006",
+      "type": "mc",
+      "text": "A child says 'goed' instead of 'went'. This shows:",
+      "options": [
+        "overregularization — the child has learned the regular rule",
+        "the child has no grammar",
+        "suppletion",
+        "underextension"
+      ],
+      "answer": "overregularization — the child has learned the regular rule",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q007",
+      "type": "tf",
+      "text": "True or False: Babies in a signing environment babble on their hands (manual babbling).",
+      "answer": "True",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q008",
+      "type": "tf",
+      "text": "True or False: Telegraphic speech mainly omits content words like nouns and verbs.",
+      "answer": "False",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q009",
+      "type": "tf",
+      "text": "True or False: Simultaneous bilingual children can reach native competence in each of their languages.",
+      "answer": "True",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q010",
+      "type": "tf",
+      "text": "True or False: Non-adult sentences like 'The want babies some milk' show children's speech is just random.",
+      "answer": "False",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q011",
+      "type": "fitb",
+      "text": "Repeated consonant-vowel syllables like [bababa] are called ____ babbling.",
+      "answer": "canonical",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q012",
+      "type": "fitb",
+      "text": "Early multiword speech that keeps content words and drops function words is called ____ speech.",
+      "answer": "telegraphic",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q013",
+      "type": "fitb",
+      "text": "The tuning of infants to their ambient language's phonemic contrasts (losing unused ones) is called perceptual ____.",
+      "answer": "narrowing",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q014",
+      "type": "fitb",
+      "text": "The classic test using nonce words (one 'wug', two 'wugs') is the ____ test.",
+      "answer": "wug",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-q016",
+      "type": "match",
+      "text": "Match each milestone/term with its typical description.",
+      "pairs": [
+        {
+          "left": "Canonical babbling",
+          "right": "Repeated CV syllables (~0;6)"
+        },
+        {
+          "left": "First words",
+          "right": "Earliest vocabulary (~0;12)"
+        },
+        {
+          "left": "High-amplitude sucking",
+          "right": "Method using infant sucking rate"
+        },
+        {
+          "left": "Critical period",
+          "right": "Early window for native-like acquisition"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     }
   ],
   "notes": [
+    {
+      "id": "ch11-n007",
+      "title": "★ KEY EXAM POINTS — Chapter 11",
+      "body": "★ AGE notation year;month (2;6 = 2 yrs 6 mo). ★ HIGH-AMPLITUDE SUCKING: novelty↑, habituation↓, DISHABITUATION↑ = infant detected a change. ★ PERCEPTUAL NARROWING: broad→ambient-language contrasts. ★ BABBLING ~0;6 (hearing & deaf); CANONICAL = [bababa]; MANUAL babbling on the hands = babbling reflects ambient language. ★ FIRST WORDS ~0;12 (earlier in sign). OVEREXTENSION (too broad, 'Dada' for all beards) vs. UNDEREXTENSION (too narrow). ★ TELEGRAPHIC speech = content words, function words dropped. ★ OVERREGULARIZATION ('goed') = rule learned; WUG TEST = productive morphology. ★ CRITICAL vs. SENSITIVE period. ★ Simultaneous BILINGUAL children reach native competence in each language.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-n006",
+      "title": "11.9-11.10 Bilingualism & milestones",
+      "body": "Children can grow up bilingual (or multilingual): simultaneous bilinguals separate their languages and can reach native competence in each; apparent 'mixing' is normal and rule-governed. The chapter maps typical milestones (babbling → first words → two-word/telegraphic → complex sentences) across the early years, noting comparable stages in signed-language acquisition.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-n005",
+      "title": "11.7-11.8 Early syntax",
+      "body": "Early multiword speech is telegraphic — mostly content words, omitting obligatory function words like determiners. Children's errors are rule-governed: overregularization ('goed', 'foots') shows they've learned regular patterns, and non-adult sentences ('My cereal is very milk', 'The want babies some milk') reveal an emerging grammar rather than random noise. The wug test shows productive rule use with novel words.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-n004",
+      "title": "11.5-11.6 Environment, methods & word learning",
+      "body": "Studying acquisition requires sampling children's speech (e.g., recording fixed or random one-hour windows) — each method trades off naturalness and coverage. In word learning, children exploit morphosyntactic cues: adjective vs. noun frames ('the feppy one' → the odd-patterned object; 'the fep' → the novel object) and mass/count syntax ('some corvel' vs. 'a corvel') guide what a new word refers to.",
+      "image": "images/ch11-fig-11-looking-time-objects.png",
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-n003",
+      "title": "11.4 Early production: babbling & first words",
+      "body": "Vocal babbling begins ~0;6 in both hearing and deaf babies; canonical babbling is repeated CV syllables ([bababa]). Deaf babies' vocal babbling drops off (no vocal input to shape it), while babies in signing environments babble on the hands (manual babbling) — showing babbling reflects the ambient language. First words appear ~0;12 (often earlier, ~0;8-0;9, in sign) and are similar across children. Word meanings are often overextended (bearded men all 'Dada'; a motorcycle called by the car-word) or underextended.",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-n002",
+      "title": "11.1-11.3 Powerful learners, timing & phonemic contrast",
+      "body": "Infants are powerful language learners shaped by their environment (a child adopted at birth acquires the adoptive family's language). Methods like high-amplitude sucking exploit habituation/dishabituation: sucking rate rises to novelty, falls with habituation, and rises again when the baby detects a change. Newborns already track prosodic rhythm from the womb. Through perceptual narrowing, infants tune from broad sensitivity to the phonemic contrasts of their ambient language — so a contrast present in the input is likely to be acquired, while an unused one fades.",
+      "image": "images/ch11-fig-11-looking-time-verbs.png",
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch11-n001",
+      "title": "Chapter 11 — Overview",
+      "body": "Children acquire language rapidly and systematically. This chapter surveys the milestones and the methods used to study pre-verbal infants, from perception (high-amplitude sucking) to production (babbling, first words, telegraphic speech), plus word learning, early syntax, and bilingual acquisition. Ages use the notation year;month (e.g., 2;6).",
+      "image": null,
+      "module": "wk13",
+      "chapter": 11,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
     {
       "id": "ch10-n007",
       "title": "★ KEY EXAM POINTS — Chapter 10",
