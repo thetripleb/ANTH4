@@ -133,6 +133,42 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch3-g005",
+      "term": "acoustic phonetics",
+      "def": "The subfield studying the physical sound waves of spoken language (no comparable light-wave subfield exists yet for signed languages).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g010",
+      "term": "active articulator",
+      "def": "The moving (lower) articulator in a consonant — e.g., the lower lip or a part of the tongue (tip/blade/front/back/root) or the epiglottis.",
+      "image": "images/ch3-fig-3-03-active-articulators.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g023",
+      "term": "affricate",
+      "def": "A plosive with a slow, fricated release (e.g., the start of jet); counts as a single phone.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g022",
+      "term": "approximant",
+      "def": "A consonant with articulators far enough apart to give little/no frication. Central (e.g., yet, wet) vs. lateral, where air flows around the tongue sides (e.g., let).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g006",
       "term": "arbitrariness",
       "def": "The property that, for most words, the pairing between a word's form and its meaning is conventional rather than inherent (e.g., 'pumpkin' vs. Nishnaabemwin 'kosmaan').",
@@ -140,6 +176,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g001",
+      "term": "articulation",
+      "def": "Using parts of the body to give a message physical reality — the movements/configurations that produce a linguistic signal (sound waves for speech, light waves for sign).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch1-g008",
@@ -151,6 +196,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch3-g029",
+      "term": "backness",
+      "def": "Horizontal tongue position: front (beat), central (but), or back (boot). Do not confuse central (backness) with mid (height).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g052",
+      "term": "coda",
+      "def": "The consonant(s) after the nucleus. A syllable with a coda is closed; without one, open. A syllable with no onset is onsetless.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g011",
       "term": "coded slur",
       "def": "A term that is secretly derogatory only to those with in-group knowledge (e.g., 'Monday' used as a coded racial slur) — derogatory without necessarily causing offense to the unaware target.",
@@ -158,6 +221,24 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch3-g007",
+      "term": "consonant",
+      "def": "A phone made with a relatively narrow constriction somewhere in the vocal tract.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g026",
+      "term": "continuant",
+      "def": "The class with continuous oral airflow: fricatives and approximants (sometimes trills).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch1-g022",
@@ -205,6 +286,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch3-g035",
+      "term": "diphthong",
+      "def": "A vowel that shifts from one quality to another within a single phone (e.g., the vowel in toy).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g046",
+      "term": "dominant hand",
+      "def": "The hand used more for daily tasks and one-handed signs; the other is the nondominant hand (often the location in two-handed signs).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g018",
       "term": "empirical",
       "def": "Based on systematic observation of data as evidence for theories.",
@@ -230,6 +329,24 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g021",
+      "term": "fricative",
+      "def": "A consonant with a narrow constriction causing turbulent, noisy airflow (frication) — e.g., the start of set and vet.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g015",
+      "term": "glottis",
+      "def": "The opening between the vocal folds; the glottal place of articulation involves the vocal folds (e.g., the first sound of he/who).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch1-g003",
@@ -259,6 +376,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g042",
+      "term": "handshape",
+      "def": "The static configuration of the base knuckles and interphalangeal joints (e.g., the ASL '5' or 'B' handshape); may be unmarked (common, basic) or marked.",
+      "image": "images/ch3-fig-3-28-handshapes.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g014",
       "term": "implicit knowledge",
       "def": "Unconscious knowledge a fluent user has about their language that they cannot easily articulate (contrast: explicit knowledge).",
@@ -277,6 +403,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g038",
+      "term": "International Phonetic Alphabet (IPA)",
+      "def": "A standard transcription system (est. 1886) with one symbol per phone; its underlying structure (like the periodic table) matters more than memorizing symbols.",
+      "image": "images/ch3-fig-3-20-ipa-chart.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g060",
+      "term": "intonation",
+      "def": "Pitch manipulated across phrases/sentences for conversational functions (e.g., statement vs. question). Such a language is intonational.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g025",
       "term": "language policy",
       "def": "Governmental/institutional rules that encourage or force the use (or non-use) of languages, require proficiency, or regulate languages in public space — usable to erase OR reinforce identities.",
@@ -293,6 +437,24 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g013",
+      "term": "larynx",
+      "def": "The 'voice box' at the top of the trachea; a set of cartilages surrounding the airway, housing the vocal folds.",
+      "image": "images/ch3-fig-3-08-larynx.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g057",
+      "term": "lexical stress",
+      "def": "Stress whose placement is unpredictable and memorized per word; can create minimal pairs. Contrast with predictable (rule-governed) stress.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g026",
@@ -320,6 +482,33 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g044",
+      "term": "location",
+      "def": "Where in space or on the body a sign is articulated (default = neutral signing space in front of the torso).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g018",
+      "term": "manner of articulation",
+      "def": "How air flows through the vocal tract, based on the size/shape of the constriction (stop, fricative, approximant, affricate, tap, trill).",
+      "image": "images/ch3-fig-3-10-manners.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g003",
+      "term": "manual-visual modality",
+      "def": "The modality of signed languages: articulated by the hands/arms (manual), transmitted by light waves (photic), received by sight (visual).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g016",
@@ -358,6 +547,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch3-g047",
+      "term": "minimal pair",
+      "def": "Two signs (or, in Ch.4, two words) that differ in exactly one parameter/property — e.g., ASL SORRY vs. PLEASE differ only in handshape.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g004",
       "term": "modality",
       "def": "The physical channel of a language: whether it is vocalized (spoken) or signed.",
@@ -365,6 +563,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g034",
+      "term": "monophthong",
+      "def": "A vowel with a stable quality from start to finish.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch1-g009",
@@ -376,6 +583,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch3-g045",
+      "term": "movement (sign)",
+      "def": "How the manual articulators move: path movement (elbow/shoulder, moving through space) vs. local movement (wrist/radioulnar/knuckles).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g024",
       "term": "n-gram",
       "def": "A sequence of N items occurring in a given order in a corpus (bigram = 2, trigram = 3), used to model co-occurrence probabilities.",
@@ -383,6 +599,42 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g032",
+      "term": "nasality",
+      "def": "Whether a vowel is oral (raised velum) or nasal/nasalized (lowered velum, e.g., the vowel in bent).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g040",
+      "term": "nonmanual articulators",
+      "def": "Signing articulators other than the hands/arms — torso, head, face (brow, eyes, cheeks, lips) — which carry essential meaning.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g050",
+      "term": "nucleus",
+      "def": "The loudest, most prominent core of a syllable, usually a vowel (or a syllabic consonant, e.g., the second syllable of bottle).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g024",
+      "term": "obstruent",
+      "def": "The class of consonants with significant obstruction to airflow: oral stops, fricatives, and affricates.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g006",
@@ -394,6 +646,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g051",
+      "term": "onset",
+      "def": "The consonant(s) before the nucleus. A margin (onset or coda) is simple with one phone, complex with two or more.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g029",
       "term": "oralism",
       "def": "The view that vocal language is more important than signed language — a bias that has caused harm to deaf people and to the study of sign languages.",
@@ -401,6 +662,24 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g043",
+      "term": "orientation",
+      "def": "The direction the hand faces (palm orientation + finger orientation), set by the wrist, radioulnar, elbow, and shoulder joints.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g041",
+      "term": "parameters (primes)",
+      "def": "The four categories describing a sign: handshape, orientation, location, and movement.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g012",
@@ -412,6 +691,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g011",
+      "term": "passive articulator",
+      "def": "The target (upper) articulator a consonant moves toward — e.g., upper lip, teeth, alveolar ridge, palate, velum, uvula, pharyngeal wall.",
+      "image": "images/ch3-fig-3-04-passive-articulators.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g023",
       "term": "perceptual adaptation",
       "def": "Improved comprehension of an unfamiliar talker or accent as a result of more listening experience; extends across speakers and even across different accents.",
@@ -419,6 +707,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch3-g004",
+      "term": "perceptual phonetics",
+      "def": "The subfield studying how the body perceives and processes linguistic signals (works for both signed and spoken languages).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g002",
@@ -439,6 +736,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g016",
+      "term": "phonation",
+      "def": "The general category of manipulating airflow with the vocal folds. In this book limited to voiced vs. voiceless.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g006",
+      "term": "phone (segment)",
+      "def": "An individual unit of speech that can be part of a word in a language; what counts as a phone depends on whether the sound appears in ordinary words of that language.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g007",
       "term": "phonetics",
       "def": "The area of grammar concerned with the physical production and perception of the sounds or signs of language.",
@@ -455,6 +770,33 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g058",
+      "term": "pitch",
+      "def": "The auditory perception of vocal-fold vibration rate (the physical rate is the fundamental frequency, f0).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g012",
+      "term": "place of articulation",
+      "def": "The overall combination of an active and a passive articulator (e.g., bilabial, labiodental, alveolar, velar, glottal). Named active-first (e.g., labiodental).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g020",
+      "term": "plosive",
+      "def": "The most common oral stop: lung air trapped behind the closure, then released in an explosive burst (e.g., English p, t, k, b, d, g).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch1-g013",
@@ -502,6 +844,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g030",
+      "term": "rounding",
+      "def": "Lip shape in a vowel: rounded (boot) vs. unrounded (spread as in beat, or neutral as in but).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g027",
       "term": "second language (L2)",
       "def": "Any language learned after one already has an L1 (even if it is one's third or fourth language). One's L2 accent is shaped by the phonology of one's L1.",
@@ -520,6 +871,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch3-g039",
+      "term": "sign",
+      "def": "The basic independent meaningful unit of a signed language (equivalent to a spoken word); analyzed by parameters rather than phones.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g013",
       "term": "slur",
       "def": "An insult that denigrates a specific marginalized group; targets a person BECAUSE of group membership. Power imbalance is essential — insults aimed at high-status groups lack the same force.",
@@ -527,6 +887,33 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch3-g025",
+      "term": "sonorant",
+      "def": "The class of consonants with relatively free airflow: nasal stops, approximants, taps, and trills.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g054",
+      "term": "sonority",
+      "def": "An abstract measure of a phone's relative prominence (roughly loudness); a sonority hierarchy orders phones (vowels highest, obstruents lowest).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g055",
+      "term": "sonority sequencing principle (SSP)",
+      "def": "The tendency for sonority to rise through the onset, peak at the nucleus, and fall through the coda (e.g., [plænt] obeys it; *[lpætn] violates it).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g021",
@@ -565,6 +952,51 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g048",
+      "term": "Stokoe notation",
+      "def": "The first major sign-notation system (Stokoe 1960), which analyzed signs into parameters and showed signed languages have full linguistic structure.",
+      "image": "images/ch3-fig-3-35-stokoe.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g019",
+      "term": "stop",
+      "def": "A consonant with complete closure blocking airflow. Oral stops (raised velum) include plosives, ejectives, implosives, clicks; nasal stops (lowered velum) send air through the nose.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g056",
+      "term": "stress",
+      "def": "Extra prominence on a syllable (via loudness, duration, and/or pitch). Levels: primary [ˈ], secondary [ˌ], and unstressed.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g053",
+      "term": "syllabification",
+      "def": "Associating phones to positions in syllable structure, based partly on sonority.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g049",
+      "term": "syllable",
+      "def": "A layer of structure (abbreviated σ) between the word and the phone; every syllable has a nucleus and optional onset/coda.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g011",
       "term": "syntax",
       "def": "The part of grammar that determines how words can and cannot be combined into phrases and sentences.",
@@ -592,6 +1024,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g031",
+      "term": "tenseness",
+      "def": "Tongue-root position distinguishing tense (advanced root, e.g., beat) from lax (retracted root, e.g., bit) vowels.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch1-g025",
       "term": "token",
       "def": "In an LLM, a unit of language — a letter, word, piece of a word (morpheme), or punctuation mark — whose co-occurrence probabilities are calculated.",
@@ -599,6 +1040,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-g059",
+      "term": "tone",
+      "def": "Pitch manipulated at the syllable/word level to change meaning (high/low/mid). A language using it is a tone/tonal language.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g014",
@@ -610,6 +1060,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g037",
+      "term": "transcription",
+      "def": "Notating the phones of a word unambiguously; can be broad (minimal detail) or narrow (fine detail). Written in square brackets [ ].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g036",
+      "term": "triphthong",
+      "def": "A vowel phone that moves through three qualities (e.g., Vietnamese rượu 'alcohol').",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g005",
       "term": "use–mention distinction",
       "def": "The difference between USING a word to refer to something in the world vs. MENTIONING the word itself as a linguistic object (conventionally shown in italics).",
@@ -619,6 +1087,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-g014",
+      "term": "vocal folds",
+      "def": "Two membranes in the larynx that can vibrate; the space between them is the glottis.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
       "id": "ch2-g022",
       "term": "vocal fry (creak)",
       "def": "A voice quality produced by very low-frequency vocal-fold vibration, sounding creaky; a normal part of many languages' phonetics/prosody, disproportionately criticized in women's voices.",
@@ -626,6 +1103,69 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch3-g009",
+      "term": "vocal tract",
+      "def": "The lips, tongue, and other parts of the mouth and throat used to articulate spoken language, often shown in a midsagittal diagram.",
+      "image": "images/ch3-fig-3-02-vocal-tract.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g002",
+      "term": "vocal-auditory modality",
+      "def": "The modality of spoken languages: articulated with the vocal tract (vocal), transmitted by sound waves (acoustic), received by hearing (auditory).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g017",
+      "term": "voicing",
+      "def": "Vocal-fold vibration. A phone with vibration is voiced (e.g., buzz's [z]); one without is voiceless/unvoiced (e.g., bus's [s]).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g008",
+      "term": "vowel",
+      "def": "A phone made with a wider opening than a consonant; described by quality (height, backness, rounding) rather than place/manner.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g028",
+      "term": "vowel height",
+      "def": "Vertical tongue position: high (beat), mid (bet), or low (bat).",
+      "image": "images/ch3-fig-3-15-vowel-quadrangle.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g033",
+      "term": "vowel length",
+      "def": "Duration contrast between long and short vowels (phonemic in Japanese; sub-phonemic in English). Long/short consonants = geminates/singletons.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-g027",
+      "term": "vowel quality",
+      "def": "The overall configuration of tongue and lips in a vowel; more of a continuum than consonant categories.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
       "id": "ch2-g007",
@@ -880,6 +1420,177 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch3-f001",
+      "front": "Modality of spoken vs. signed languages?",
+      "back": "Spoken = vocal-auditory; signed = manual-visual.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f002",
+      "front": "Three parts of a full consonant description (and order)?",
+      "back": "Phonation – Place – Manner (e.g., voiced bilabial nasal stop).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f003",
+      "front": "Active vs. passive articulator?",
+      "back": "Active = the moving/lower articulator; passive = the target/upper articulator.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f004",
+      "front": "Name the 4 core manners (this book) + affricate.",
+      "back": "Stop, fricative, approximant, (+ affricate = plosive with fricated release).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f005",
+      "front": "Oral vs. nasal stop — what differs?",
+      "back": "Velum position: raised = oral stop; lowered = nasal stop (air through the nose).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f006",
+      "front": "Obstruents vs. sonorants?",
+      "back": "Obstruents = oral stops, fricatives, affricates (big obstruction); sonorants = nasals, approximants, taps, trills (free airflow).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f007",
+      "front": "Voiced vs. voiceless?",
+      "back": "Voiced = vocal folds vibrate (buzz [z]); voiceless = no vibration (bus [s]).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f008",
+      "front": "Three main dimensions of vowel quality?",
+      "back": "Height (vertical tongue), backness (horizontal tongue), rounding (lip shape).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f009",
+      "front": "Central vs. mid — don't confuse!",
+      "back": "Central = intermediate BACKNESS; mid = intermediate HEIGHT.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f010",
+      "front": "Tense vs. lax vowels?",
+      "back": "Tense = advanced tongue root (beat); lax = retracted tongue root (bit).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f011",
+      "front": "What is the IPA and why like the periodic table?",
+      "back": "A one-symbol-per-phone transcription system; its organizing principles matter more than rote symbol memorization.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f012",
+      "front": "The 4 sign parameters (primes)?",
+      "back": "Handshape, orientation, location, movement.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f013",
+      "front": "Path vs. local movement in signs?",
+      "back": "Path = elbow/shoulder (moves through space); local = wrist/radioulnar/knuckles.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f014",
+      "front": "What is a minimal pair (signs)?",
+      "back": "Two signs differing in exactly one parameter (e.g., SORRY vs. PLEASE = handshape only).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f015",
+      "front": "Parts of a syllable?",
+      "back": "Onset (optional) + nucleus (required, usually a vowel) + coda (optional).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f016",
+      "front": "Open vs. closed syllable? Onsetless?",
+      "back": "Closed = has a coda; open = no coda; onsetless = no onset.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f017",
+      "front": "Sonority Sequencing Principle?",
+      "back": "Sonority rises through the onset, peaks at the nucleus, falls through the coda.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f018",
+      "front": "Primary vs. secondary stress marks (IPA)?",
+      "back": "Primary = upper tick [ˈ]; secondary = lower tick [ˌ]; before the syllable's onset.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-f019",
+      "front": "Tone vs. intonation?",
+      "back": "Tone = pitch on syllables/words changing meaning; intonation = pitch over phrases/sentences for functions (question vs. statement).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     }
   ],
   "questions": [
@@ -1254,9 +1965,545 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch3-q001",
+      "type": "mc",
+      "text": "Which of the following is the modality of signed languages?",
+      "options": [
+        "manual-visual",
+        "manual-auditory",
+        "vocal-visual",
+        "vocal-auditory"
+      ],
+      "answer": "manual-visual",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q002",
+      "type": "mc",
+      "text": "What kind of languages can be studied in phonetics?",
+      "options": [
+        "Both signed and spoken languages",
+        "Spoken languages only",
+        "Signed languages only",
+        "Only tone languages"
+      ],
+      "answer": "Both signed and spoken languages",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q003",
+      "type": "mc",
+      "text": "Which part of the body is NOT considered part of the vocal tract for spoken-language phones?",
+      "options": [
+        "esophagus",
+        "pharynx",
+        "oral cavity",
+        "trachea"
+      ],
+      "answer": "esophagus",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q004",
+      "type": "mc",
+      "text": "Which way of producing sound is known to create phones in some spoken languages?",
+      "options": [
+        "clicking",
+        "clapping",
+        "burping",
+        "snapping"
+      ],
+      "answer": "clicking",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q005",
+      "type": "mc",
+      "text": "How is a consonant's place of articulation ordinarily defined?",
+      "options": [
+        "A combination of an active and a passive articulator",
+        "A constriction anywhere in the oral cavity",
+        "A combination of any two articulators",
+        "A part of the tongue plus a part of the roof of the mouth"
+      ],
+      "answer": "A combination of an active and a passive articulator",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q006",
+      "type": "mc",
+      "text": "Which odd place of articulation uses the same articulators needed for phonation?",
+      "options": [
+        "glottal",
+        "palatal",
+        "pharyngeal",
+        "bilabial"
+      ],
+      "answer": "glottal",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q007",
+      "type": "fitb",
+      "text": "Another name for vocal-fold vibration is ____.",
+      "answer": "voicing",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q008",
+      "type": "mc",
+      "text": "Which manner of articulation has the WIDEST opening in the oral cavity?",
+      "options": [
+        "approximant",
+        "oral stop",
+        "fricative",
+        "nasal stop"
+      ],
+      "answer": "approximant",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q009",
+      "type": "mc",
+      "text": "Which passive articulator's position determines whether a stop is oral or nasal?",
+      "options": [
+        "velum",
+        "hard palate",
+        "upper teeth",
+        "alveolar ridge"
+      ],
+      "answer": "velum",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q010",
+      "type": "tf",
+      "text": "True or False: Nasal stops, approximants, taps, and trills belong to the class of sonorants.",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q011",
+      "type": "mc",
+      "text": "Which aspect of vowel quality is determined by the VERTICAL position of the tongue?",
+      "options": [
+        "height",
+        "backness",
+        "rounding",
+        "tenseness"
+      ],
+      "answer": "height",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q012",
+      "type": "mc",
+      "text": "What articulation distinguishes an oral vowel from a nasal vowel?",
+      "options": [
+        "Oral vowels have a raised velum; nasal vowels have a lowered velum",
+        "Oral vowels have a lowered velum; nasal vowels have a raised velum",
+        "Oral vowels have a raised tongue; nasal vowels have a lowered tongue",
+        "There is no articulatory difference"
+      ],
+      "answer": "Oral vowels have a raised velum; nasal vowels have a lowered velum",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q013",
+      "type": "tf",
+      "text": "True or False: The technical terms 'central' and 'mid' are interchangeable when describing vowels.",
+      "answer": "False",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q014",
+      "type": "fitb",
+      "text": "A vowel with an advanced tongue root (as in 'beat') is called ____, while one with a retracted tongue root (as in 'bit') is lax.",
+      "answer": "tense",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q015",
+      "type": "mc",
+      "text": "What is the IPA symbol for a voiceless velar plosive?",
+      "options": [
+        "[k]",
+        "[x]",
+        "[t]",
+        "[ɡ]"
+      ],
+      "answer": "[k]",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q016",
+      "type": "tf",
+      "text": "True or False: [θ] and [ʃ] share the same phonation and manner (both are voiceless fricatives).",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q017",
+      "type": "mc",
+      "text": "Which is NOT one of the four sign parameters (primes)?",
+      "options": [
+        "phonation",
+        "handshape",
+        "orientation",
+        "movement"
+      ],
+      "answer": "phonation",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q018",
+      "type": "mc",
+      "text": "In signs, movement produced at the elbow and/or shoulder (moving the hand through space) is called:",
+      "options": [
+        "path movement",
+        "local movement",
+        "orientation",
+        "abduction"
+      ],
+      "answer": "path movement",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q019",
+      "type": "fitb",
+      "text": "The most prominent core of a syllable, usually filled by a vowel, is the ____.",
+      "answer": "nucleus",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q020",
+      "type": "tf",
+      "text": "True or False: A syllable that has a coda is called an 'open' syllable.",
+      "answer": "False",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q021",
+      "type": "fitb",
+      "text": "Pitch used at the level of syllables or words to signal different meanings is called ____ (contrast with intonation).",
+      "answer": "tone",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q022",
+      "type": "tf",
+      "text": "True or False: The Sonority Sequencing Principle says sonority should rise through the onset, peak at the nucleus, and fall through the coda.",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q023",
+      "type": "match",
+      "text": "Match each manner of articulation with its defining airflow.",
+      "pairs": [
+        {
+          "left": "Stop",
+          "right": "Complete closure blocking airflow"
+        },
+        {
+          "left": "Fricative",
+          "right": "Narrow gap with turbulent frication"
+        },
+        {
+          "left": "Central approximant",
+          "right": "Wide gap with little/no frication"
+        },
+        {
+          "left": "Affricate",
+          "right": "Plosive with a slow, fricated release"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q024",
+      "type": "match",
+      "text": "Match each vowel property with what it describes.",
+      "pairs": [
+        {
+          "left": "Height",
+          "right": "Vertical tongue position"
+        },
+        {
+          "left": "Backness",
+          "right": "Horizontal tongue position"
+        },
+        {
+          "left": "Rounding",
+          "right": "Lip shape"
+        },
+        {
+          "left": "Tenseness",
+          "right": "Tongue-root position"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q025",
+      "type": "match",
+      "text": "Match each sign parameter with its definition.",
+      "pairs": [
+        {
+          "left": "Handshape",
+          "right": "Configuration of the knuckles/finger joints"
+        },
+        {
+          "left": "Orientation",
+          "right": "Direction the palm and fingers face"
+        },
+        {
+          "left": "Location",
+          "right": "Where on the body or in space it is made"
+        },
+        {
+          "left": "Movement",
+          "right": "How the manual articulators move"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-q026",
+      "type": "match",
+      "text": "Match each place of articulation with its articulators.",
+      "pairs": [
+        {
+          "left": "Bilabial",
+          "right": "Lower lip + upper lip"
+        },
+        {
+          "left": "Labiodental",
+          "right": "Lower lip + upper teeth"
+        },
+        {
+          "left": "Alveolar",
+          "right": "Tongue tip + alveolar ridge"
+        },
+        {
+          "left": "Velar",
+          "right": "Tongue back + velum"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     }
   ],
   "notes": [
+    {
+      "id": "ch3-n014",
+      "title": "★ KEY EXAM POINTS — Chapter 3",
+      "body": "★ MODALITY: spoken = vocal-auditory; signed = manual-visual. Phonetics studies ALL modalities. Subfields: articulatory (production), perceptual, acoustic. ★ CONSONANT = full description in order PHONATION–PLACE–MANNER. ★ ACTIVE (lower, moving) vs. PASSIVE (upper, target) articulator; PLACE = their combo (named active-first). ★ PHONATION: voiced (folds vibrate) vs. voiceless. ★ MANNERS: stop (oral/nasal via velum), fricative (frication), approximant (central/lateral), affricate (fricated-release plosive). CLASSES: obstruents (stops/fricatives/affricates), sonorants (nasals/approximants/taps/trills), continuants (fricatives/approximants). ★ VOWELS: height (vertical), backness (horizontal — central ≠ mid!), rounding (lips); + tenseness (tongue root: tense=advanced beat / lax=retracted bit), nasality (velum), length. Mono/di/triphthong. ★ IPA = one symbol per phone, [ ] phonetic vs. < > orthographic; principles > memorization. ★ SIGN PARAMETERS: HANDSHAPE, ORIENTATION, LOCATION, MOVEMENT (path = elbow/shoulder; local = wrist/knuckles). Minimal pair = differ in ONE parameter. Stokoe notation = first system. Nonmanuals matter. ★ SYLLABLE (σ): (onset) + NUCLEUS + (coda); open/closed/onsetless; SSP = sonority rises to nucleus, falls after. ★ STRESS: primary [ˈ] / secondary [ˌ] / unstressed; lexical (memorized) vs. predictable. ★ TONE (syllable/word meaning; H/L/M) vs. INTONATION (phrase/sentence function); f0 = pitch.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n013",
+      "title": "3.12 Tone and intonation",
+      "body": "Vocal-fold vibration rate = fundamental frequency (f0), perceived as pitch. Tone = pitch used on syllables/words to change meaning; such a language is a tone/tonal language (e.g., Bemba lúk 'vomit' H vs. lùk 'weave' L). Many tone languages have H/L, some add a mid (M) tone; each syllable can carry its own tone. IPA notates tone with diacritics (´ high, ` low, ¯ mid), tone letters (˥ ˧ ˩), or non-IPA 1–5 numbers — all three appear in the literature, and each has ambiguity pitfalls. Intonation = pitch over phrases/sentences for conversational functions (statement vs. question); such a language is intonational.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n012",
+      "title": "3.11 Stress",
+      "body": "Stress gives a syllable prominence via loudness, duration, and/or pitch (in sign: tension, quicker movement, longer holds). Levels: primary stress [ˈ], secondary stress [ˌ], and unstressed (e.g., ˈbʌ.niˌhʌɡ 'bunny hug'). Lexical stress is unpredictable and memorized (can make minimal pairs); predictable stress follows syllable-structure rules. Broad patterns: primary stress is nearly always within the first two or last two syllables — initial, peninitial, penultimate, ultimate (or antepenultimate). Secondary stress often alternates rhythmically. The 'stress-timed vs. syllable-timed' idea is not phonetically supported and best avoided.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n011",
+      "title": "3.10 Syllables",
+      "body": "Syllables (σ) sit between words and phones. Structure: optional onset + required nucleus (usually a vowel, or a syllabic consonant like the end of bottle) + optional coda; onset/coda margins are simple (1 phone) or complex (2+). Open = no coda; closed = has coda; onsetless = no onset. CV-notation: e.g., approach = V.CCVC. Cross-linguistically, languages prefer onsets and disprefer codas, and prefer simple margins. Syllabification follows sonority; a sonority hierarchy ranks phones (vowels highest, obstruents lowest), and the Sonority Sequencing Principle (SSP) says sonority rises to the nucleus then falls ([plænt] obeys; *[lpætn] violates). Syllables may have psychological reality without consistent physical reality (hire vs. higher). Signs may also have syllable-like static (holds) vs. dynamic (movement) units — an open research question.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n010",
+      "title": "3.9 Signed language notation",
+      "body": "There's no IPA-equivalent standard for signs. Stokoe notation (Stokoe 1960) was the first major system and proved signed languages have full linguistic structure; it analyzes signs by parameters (location, handshape, orientation, movement). Later, more iconic and language-neutral systems appeared: SignWriting and HamNoSys. None has become a universal standard, partly because they need special symbols with poor font support — which makes studying sign phonetics/phonology harder.",
+      "image": "images/ch3-fig-3-35-stokoe.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n009",
+      "title": "3.8 Describing signs",
+      "body": "Signs are described by four parameters (primes): handshape (base-knuckle/interphalangeal configuration; unmarked = common/basic vs. marked), orientation (palm + finger direction, from the other four joints), location (where on the body/space; default = neutral signing space), and movement (path = elbow/shoulder through space; local = wrist/radioulnar/knuckles). One-handed signs use the dominant hand; two-handed signs add the nondominant hand (often the location). A minimal pair = two signs differing in exactly one parameter (SORRY/PLEASE differ in handshape; PROOF/STOP in orientation; APPLE/ONION in location; THINK/WONDER in movement). Chapter 4 extends minimal pairs to spoken languages.",
+      "image": "images/ch3-fig-3-28-handshapes.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n008",
+      "title": "3.7 Signed language articulators",
+      "body": "The basic meaningful unit of a signed language is the sign (like a word). Unlike spoken words, signs don't clearly break into independent phone-like pieces — the hand's shape and location are inseparable. Two articulator groups: manual (arms, hands, fingers) and nonmanual (torso, head, face). Manual joints (shoulder, elbow, radioulnar, wrist, base knuckles, interphalangeal) move via abduction/adduction, flexion/extension, and rotation. Describe only the core movement of a sign, ignoring transitional movement into/out of it. Nonmanual articulation (brow, eyes, cheeks, head) is essential — a limitation of 'sign-language gloves,' which capture only some manual movement and burden deaf users.",
+      "image": "images/ch3-fig-3-21-manual-joints.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n007",
+      "title": "3.6 The IPA",
+      "body": "Segmentation = dividing a word into phones (easy for nab, hard for wool). Transcription notates phones unambiguously in square brackets [ ]; it can be broad or narrow. Writing-system symbols go in angle brackets < >. Ordinary spelling is unreliable (English <a> spells many vowels; the beat vowel is spelled i/ee/ea/e/y). The International Phonetic Alphabet (IPA, est. 1886) gives one symbol per phone. Like the periodic table, its organizing principles matter more than memorizing symbols — knowing that [m] is a voiced bilabial nasal stop means knowing what those terms mean.",
+      "image": "images/ch3-fig-3-20-ipa-chart.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n006",
+      "title": "3.5 Vowels",
+      "body": "Vowels are described by quality (a continuum): height (high beat / mid bet / low bat), backness (front beat / central but / back boot — don't confuse central with mid!), and rounding (rounded boot / unrounded — spread beat or neutral but). Extra properties: tenseness (tense = advanced tongue root, beat; lax = retracted, bit), nasality (oral vs. nasal/nasalized, e.g., bent), and length (long vs. short; long/short consonants = geminates/singletons). Dynamic vowels: monophthong (stable), diphthong (two qualities, e.g., toy), triphthong (three). Common description order: height–backness–rounding (with tenseness/length before, nasality after).",
+      "image": "images/ch3-fig-3-15-vowel-quadrangle.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n005",
+      "title": "3.4 Consonants: manner",
+      "body": "Manner = how air flows given the constriction. Stop = complete closure (oral stop with raised velum, e.g., plosives — plus ejectives/implosives/clicks; nasal stop with lowered velum). Fricative = narrow gap → turbulent frication (set, vet). Approximant = wide gap, little/no frication (central: yet/wet; lateral: let). Affricate = plosive with a slow, fricated release (jet). Also taps/flaps (very brief closure, e.g., North American 'atom') and trills. Classes: obstruents (oral stops + fricatives + affricates), sonorants (nasals, approximants, taps, trills), continuants (fricatives + approximants). Full description order: phonation–place–manner (e.g., met begins with a voiced bilabial nasal stop; set with a voiceless alveolar fricative).",
+      "image": "images/ch3-fig-3-10-manners.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n004",
+      "title": "3.3 Consonants: place & phonation",
+      "body": "Consonants are constrictions: an active (lower) articulator moves toward a passive (upper) one. Active articulators (front→back): lower lip (labial), tongue tip (apical), blade (laminal), front (coronal), back (dorsal), root (radical), epiglottis (epiglottal). Passive articulators: upper lip, teeth (dental), alveolar ridge (alveolar), postalveolar, palate (palatal), velum (velar), uvula (uvular), pharyngeal wall (pharyngeal). Place of articulation = the active+passive combo, named active-first (e.g., labiodental = lower lip + upper teeth; often shortened, e.g., dorsovelar → velar). Special cases: bilabial, interdental, retroflex. The glottal place uses the vocal folds. In the larynx, the vocal folds can vibrate = voicing (voiced vs. voiceless); the broader category of vocal-fold airflow control is phonation.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n003",
+      "title": "3.2 Speech articulators",
+      "body": "Articulation for speech happens in the vocal tract, shown in a midsagittal diagram (split down the middle; nostrils/lips on the left). Open regions: oral cavity, pharynx, nasal cavity. Below the pharynx: the trachea (windpipe → lungs; important) and esophagus (→ stomach; not used for speech). Individual speech sounds are phones (segments) — e.g., spill/slip/lisp/lips share four phones reordered. Whether a sound is a phone depends on whether it appears in ordinary words of that language (clicks are phones in isiZulu/Hadza but not English). The most fundamental split: consonants vs. vowels.",
+      "image": "images/ch3-fig-3-02-vocal-tract.png",
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n002",
+      "title": "3.1 Modality",
+      "body": "Communication runs: message → articulation → linguistic signal → perception → reconstructed message. Modality = the whole physical chain of how a language is produced and perceived. Spoken languages are vocal-auditory (vocal tract → sound waves → hearing); signed languages are manual-visual (hands/arms → light waves → sight). Other modalities exist (e.g., manual-somatic tactile signing). Language is often multimodal (co-speech gesture; facial expression in sign). Phonetics is the study of modality in general (not just sound). Subfields: articulatory (how the body makes the signal — this chapter's focus), perceptual (how it's received), and acoustic (the sound waves themselves).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-n001",
+      "title": "Chapter 3 — Learning Objectives",
+      "body": "By the end of Chapter 3 you should be able to: (1) identify the locations and functions of human anatomy relevant to articulating spoken and signed languages; (2) give articulatory descriptions of phones and signs; and (3) identify the meanings of many common IPA symbols.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
     {
       "id": "ch2-n010",
       "title": "★ KEY EXAM POINTS — Chapter 2",
