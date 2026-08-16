@@ -709,6 +709,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch9-g003",
+      "term": "endangered language",
+      "def": "A language with a shrinking community of speakers, at risk of falling out of use — often the legacy of colonial policies.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
       "id": "ch7-g005",
       "term": "entailment",
       "def": "A relation where if sentence p is true, q is necessarily true. Tested with the contradiction test: negating an entailment while asserting the original yields a contradiction.",
@@ -770,6 +779,15 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch9-g004",
+      "term": "fluent speaker",
+      "def": "Someone who can readily use a language in conversation; fluent Elders and first-language speakers are central mentors in reclamation work.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
       "id": "ch5-g012",
@@ -889,6 +907,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch9-g011",
+      "term": "Hul'q'umi'num'",
+      "def": "A Coast Salish language of British Columbia, the focus of family- and community-based reclamation work described in the chapter.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
       "id": "ch7-g019",
       "term": "idiom",
       "def": "A multi-word expression whose meaning is non-compositional and must be stored as a whole (e.g., 'let the cat out of the bag').",
@@ -905,6 +932,15 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch9-g005",
+      "term": "immersion program",
+      "def": "A teaching setting where learners are surrounded by and use the target language (e.g., the Six Nations immersion program for Mohawk).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
       "id": "ch6-g013",
@@ -1033,6 +1069,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch9-g007",
+      "term": "Kanien'kéha (Mohawk)",
+      "def": "The language of the Kanien'kehá:ka (Mohawk); an Iroquoian language discussed by Dr. David Kanatawakhon-Maracle (Turtle Clan Mohawk).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-g006",
+      "term": "language and culture",
+      "def": "The principle, stressed by the chapter's contributors, that a language carries cultural knowledge and cannot be taught apart from its culture (e.g., Mohawk nyaweh means far more than English 'thank you').",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
       "id": "ch2-g025",
       "term": "language policy",
       "def": "Governmental/institutional rules that encourage or force the use (or non-use) of languages, require proficiency, or regulate languages in public space — usable to erase OR reinforce identities.",
@@ -1040,6 +1094,24 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch9-g001",
+      "term": "language reclamation",
+      "def": "A community's work to reclaim and bring back use of its heritage language, especially after colonial suppression; the theme uniting this chapter (Mohawk, Michif, Hul'q'umi'num', Nishnaabemwin).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-g002",
+      "term": "language revitalization",
+      "def": "Efforts to restore vitality to an endangered or dormant language by growing its number of speakers and its everyday use.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
       "id": "ch1-g023",
@@ -1058,6 +1130,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch9-g013",
+      "term": "legacy of colonialism",
+      "def": "The historical suppression of Indigenous languages (including through residential schools), which made speaking them feel shameful and drove language endangerment — the backdrop reclamation responds to.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
       "id": "ch5-g026",
@@ -1240,6 +1321,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch9-g009",
+      "term": "Métis",
+      "def": "A distinct Indigenous people whose historically multilingual communities are associated with Michif and a homeland spread across the Prairies and northern US.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-g008",
+      "term": "Michif",
+      "def": "A mixed language of the Métis people combining Algonquian (e.g., Cree/Ojibwe/Saulteaux) and French elements; spoken across the western provinces and into North Dakota.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
       "id": "ch3-g047",
       "term": "minimal pair",
       "def": "Two signs (or, in Ch.4, two words) that differ in exactly one parameter/property — e.g., ASL SORRY vs. PLEASE differ only in handshape.",
@@ -1247,6 +1346,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch9-g010",
+      "term": "mixed language",
+      "def": "A language whose grammar and lexicon draw substantially from two source languages (Michif is a well-known example).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
       "id": "ch1-g004",
@@ -1355,6 +1463,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch9-g012",
+      "term": "Nishnaabemwin",
+      "def": "An Anishinaabe (Ojibwe) language variety; the chapter describes learning it in a university/community setting.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
       "id": "ch8-g002",
@@ -3472,6 +3589,96 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch9-f001",
+      "front": "What is language reclamation?",
+      "back": "A community reclaiming active use of its heritage language, especially after colonial suppression.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f002",
+      "front": "Reclamation vs. revitalization?",
+      "back": "Reclamation = a community reclaiming its language; revitalization = restoring its vitality by growing speakers and everyday use.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f003",
+      "front": "Dr. Kanatawakhon-Maracle's core point about survival?",
+      "back": "For a language to survive it must be widely SPOKEN — used in daily life, not just supported in principle.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f004",
+      "front": "Why teach language WITH culture?",
+      "back": "Language carries cultural knowledge; e.g., Mohawk 'nyaweh' means far more than English 'thank you.'",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f005",
+      "front": "What is Michif?",
+      "back": "A mixed language of the Métis combining Algonquian (Cree/Ojibwe) and French elements.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f006",
+      "front": "Who are the Métis (re: language)?",
+      "back": "A distinct, historically multilingual Indigenous people associated with Michif, spread across the Prairies and into North Dakota.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f007",
+      "front": "What is an immersion program?",
+      "back": "A setting where learners are surrounded by and use the target language (e.g., Six Nations Mohawk immersion).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f008",
+      "front": "What drove Indigenous-language endangerment in Canada?",
+      "back": "The legacy of colonialism, including residential schools, which suppressed the languages and made speaking them feel shameful.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f009",
+      "front": "Name three languages featured in this chapter.",
+      "back": "Kanien'kéha (Mohawk), Michif, Hul'q'umi'num' (plus Nishnaabemwin).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-f010",
+      "front": "Role of fluent Elders in reclamation?",
+      "back": "They are key mentors — sources of the language and the stories/knowledge carried in it.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     }
   ],
   "questions": [
@@ -5742,9 +5949,285 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch9-q001",
+      "type": "mc",
+      "text": "According to Dr. Kanatawakhon-Maracle, what does a language most need in order to survive?",
+      "options": [
+        "To be widely spoken in daily life",
+        "To have verbal support from the community",
+        "To be written down in dictionaries",
+        "To be taught only at universities"
+      ],
+      "answer": "To be widely spoken in daily life",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q002",
+      "type": "mc",
+      "text": "Michif is best described as:",
+      "options": [
+        "A mixed language combining Algonquian and French elements",
+        "A dialect of Canadian French",
+        "A creole based on English",
+        "An Iroquoian language"
+      ],
+      "answer": "A mixed language combining Algonquian and French elements",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q003",
+      "type": "mc",
+      "text": "Michif is associated with which people?",
+      "options": [
+        "The Métis",
+        "The Haida",
+        "The Inuit",
+        "The Kanien'kehá:ka"
+      ],
+      "answer": "The Métis",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q004",
+      "type": "mc",
+      "text": "The chapter stresses teaching language together with culture. Which example illustrates this?",
+      "options": [
+        "Mohawk 'nyaweh' carries far more weight than English 'thank you'",
+        "Michif borrows nouns from French",
+        "Hul'q'umi'num' is a Coast Salish language",
+        "Immersion happens at Six Nations"
+      ],
+      "answer": "Mohawk 'nyaweh' carries far more weight than English 'thank you'",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q005",
+      "type": "mc",
+      "text": "What is a major historical driver of Indigenous language endangerment in Canada, as the chapter frames it?",
+      "options": [
+        "The legacy of colonialism, including residential schools",
+        "A lack of interest among Indigenous communities",
+        "The difficulty of the languages",
+        "Natural language change"
+      ],
+      "answer": "The legacy of colonialism, including residential schools",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q006",
+      "type": "mc",
+      "text": "According to the chapter, a limitation sometimes seen in immersion-program learners is that they:",
+      "options": [
+        "Gain a feel for the language without yet becoming fluent speakers",
+        "Learn only the writing system",
+        "Forget their first language",
+        "Refuse to learn culture"
+      ],
+      "answer": "Gain a feel for the language without yet becoming fluent speakers",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q007",
+      "type": "tf",
+      "text": "True or False: Language reclamation, as presented here, treats language and culture as separable.",
+      "answer": "False",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q008",
+      "type": "tf",
+      "text": "True or False: The Métis have historically been a multilingual people.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q009",
+      "type": "tf",
+      "text": "True or False: Hul'q'umi'num' is a Coast Salish language featured in the chapter.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q010",
+      "type": "tf",
+      "text": "True or False: Fluent Elders play a central mentoring role in the reclamation efforts described.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q011",
+      "type": "fitb",
+      "text": "The community effort to bring a heritage language back into active use is called language ____.",
+      "answer": "reclamation",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q012",
+      "type": "fitb",
+      "text": "A teaching setting where learners are surrounded by and use the target language is an ____ program.",
+      "answer": "immersion",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q013",
+      "type": "fitb",
+      "text": "____ is the language of the Kanien'kehá:ka (Mohawk), discussed by Dr. Kanatawakhon-Maracle.",
+      "answer": "Kanien'kéha",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q014",
+      "type": "match",
+      "text": "Match each language with its description.",
+      "pairs": [
+        {
+          "left": "Kanien'kéha (Mohawk)",
+          "right": "Iroquoian language of the Kanien'kehá:ka"
+        },
+        {
+          "left": "Michif",
+          "right": "Mixed language of the Métis (Algonquian + French)"
+        },
+        {
+          "left": "Hul'q'umi'num'",
+          "right": "Coast Salish language of BC"
+        },
+        {
+          "left": "Nishnaabemwin",
+          "right": "An Anishinaabe (Ojibwe) variety"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-q015",
+      "type": "match",
+      "text": "Match each concept with its meaning.",
+      "pairs": [
+        {
+          "left": "Reclamation",
+          "right": "Reclaiming active use of a heritage language"
+        },
+        {
+          "left": "Revitalization",
+          "right": "Restoring a language's vitality and speakers"
+        },
+        {
+          "left": "Endangered language",
+          "right": "A language at risk of falling out of use"
+        },
+        {
+          "left": "Immersion",
+          "right": "Learning by being surrounded by the language"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     }
   ],
   "notes": [
+    {
+      "id": "ch9-n006",
+      "title": "★ KEY EXAM POINTS — Chapter 9",
+      "body": "★ RECLAMATION = a community reclaiming active use of its language; REVITALIZATION = restoring its vitality (more speakers, everyday use). ★ A language must be actively SPOKEN to survive (Kanatawakhon-Maracle). ★ LANGUAGE + CULTURE are inseparable — words carry cultural meaning (Mohawk 'nyaweh' ≫ 'thank you'). ★ IMMERSION (e.g., Six Nations) builds understanding; the goal is genuine SPEAKERS. ★ MICHIF = a MIXED language of the MÉTIS (Algonquian + French). ★ Featured languages: Kanien'kéha (Mohawk), Michif, Hul'q'umi'num', Nishnaabemwin. ★ Reclamation responds to the LEGACY OF COLONIALISM (residential schools, shame around speaking) and is intergenerational and relationship-based, centring fluent Elders.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-n005",
+      "title": "9.8-9.11 Hul'q'umi'num', Nishnaabemwin & resources",
+      "body": "Further sections describe reclaiming Hul'q'umi'num' (a Coast Salish language) through family- and community-based work — often anchored by a fluent grandmother/Elder and the stories she carries — and learning Nishnaabemwin (an Anishinaabe/Ojibwe variety) in a university/community setting. The chapter closes with resources for teaching and learning these languages. Across all cases, reclamation is intergenerational, relationship-based, and tied to cultural continuity.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-n004",
+      "title": "9.7 Reclaiming Michif",
+      "body": "A contributor and citizen of the Métis Nation Saskatchewan describes working with the languages of the Michif/Métis people. Michif is a mixed language drawing on Algonquian languages (Cree, Ojibwe, Saulteaux) and French. The Métis have long been multilingual, with relatives among Cree, Ojibwe, and settler communities, and a homeland spread widely across the western provinces and into North Dakota — which shapes how reclamation happens across dispersed communities.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-n003",
+      "title": "9.4-9.6 Teaching materials & the future (Mohawk)",
+      "body": "The chapter discusses creating teaching materials, the realities of speaking Mohawk day-to-day, and one contributor's view of the language's future. A recurring theme is moving learners from understanding toward genuine speaking, and building the resources (written and spoken) a living language community needs.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-n002",
+      "title": "9.1-9.3 Preserving, learning & culture (Mohawk)",
+      "body": "Dr. David Kanatawakhon-Maracle (Turtle Clan Mohawk, Western University) argues that for a language to survive it must be widely spoken — verbal support isn't enough if people aren't actually using it. He is both a speaker and literate in Mohawk, a goal for university-level learners since much is written in the language. Many learn Mohawk by growing up among fluent speakers; others learn in school or immersion (e.g., Six Nations), though immersion learners may gain a feel for the language without yet becoming speakers. He deliberately teaches culture with language: words carry cultural weight (e.g., 'nyaweh' is far weightier than English 'thank you'), and knowledge comes from Elders.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-n001",
+      "title": "Chapter 9 — Overview",
+      "body": "Chapter 9 centres Indigenous voices on reclaiming their languages. Rather than abstract theory, it presents first-person accounts from language teachers and community members working on Kanien'kéha (Mohawk), Michif, Hul'q'umi'num', and Nishnaabemwin. Common threads: languages must be actively spoken to survive; language and culture are inseparable; and reclamation responds to the harms of colonialism, including residential schools. [Content note: colonial harm, residential schools.]",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
     {
       "id": "ch8-n008",
       "title": "★ KEY EXAM POINTS — Chapter 8",
