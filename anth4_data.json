@@ -286,6 +286,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch8-g012",
+      "term": "assertion",
+      "def": "An illocutionary act of putting forward a proposition as true (a statement).",
+      "image": "images/ch8-fig-8-assertion-cp.png",
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
       "id": "ch4-g021",
       "term": "assimilation",
       "def": "The most common rule type: a phoneme changes to match a property of its environment (e.g., French sonorant devoicing; nasal-place assimilation; vowel nasalization).",
@@ -293,6 +302,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch8-g001",
+      "term": "at-issue meaning",
+      "def": "The main, literal, 'surface' meaning of a sentence — the primary issue being conveyed; targeted by sentential negation ('it is not the case that…'). Often called truth-conditional meaning.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch6-g029",
@@ -347,6 +365,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch8-g016",
+      "term": "cancellability",
+      "def": "The property of an implicature that it can be explicitly denied or suspended without contradiction — distinguishing it from an entailment.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch5-g009",
@@ -475,6 +502,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch8-g015",
+      "term": "context",
+      "def": "The shared situation and common ground (what participants mutually take to be established) against which utterances are interpreted and update the conversation.",
+      "image": "images/ch8-fig-8-common-ground.png",
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
       "id": "ch3-g026",
       "term": "continuant",
       "def": "The class with continuous oral airflow: fricatives and approximants (sometimes trills).",
@@ -491,6 +527,24 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch8-g003",
+      "term": "conversational implicature",
+      "def": "An inference a listener draws from an utterance in context, beyond its literal meaning, by assuming the speaker is being cooperative; cancellable.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-g004",
+      "term": "cooperative principle",
+      "def": "Grice's principle that, in conversation, participants generally cooperate toward the accepted purpose of the talk; the basis for calculating implicatures.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch6-g026",
@@ -709,6 +763,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch8-g009",
+      "term": "flouting",
+      "def": "Blatantly and obviously failing to observe a maxim in order to trigger an implicature (the listener assumes cooperation and infers extra meaning) — e.g., sarcasm.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
       "id": "ch5-g012",
       "term": "free morpheme",
       "def": "A morpheme that can stand alone as a word (e.g., cat). Only roots can be free.",
@@ -833,6 +896,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch8-g011",
+      "term": "illocutionary meaning",
+      "def": "The meaning of an utterance in terms of what the speaker is doing with it (asserting, questioning, ordering) — the act performed in making the utterance.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch6-g013",
@@ -1105,6 +1177,42 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch8-g008",
+      "term": "maxim of manner",
+      "def": "A conversational maxim: be clear — avoid obscurity and ambiguity, be brief and orderly.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-g005",
+      "term": "maxim of quality",
+      "def": "A conversational maxim: be truthful — do not say what you believe to be false or lack evidence for.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-g006",
+      "term": "maxim of quantity",
+      "def": "A conversational maxim: be as informative as required, but not more informative than needed.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-g007",
+      "term": "maxim of relation",
+      "def": "A conversational maxim (relevance): make your contribution relevant to the conversation.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
       "id": "ch1-g002",
       "term": "mental grammar",
       "def": "The shared cognitive system in a language user's mind that lets them produce and understand a language and be understood by others who know it.",
@@ -1247,6 +1355,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch8-g002",
+      "term": "non-at-issue meaning",
+      "def": "Meaning that is not part of the literal surface content (e.g., implicatures and presuppositions); not targeted by 'it is not the case that…'.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch4-g010",
@@ -1645,6 +1762,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch8-g013",
+      "term": "question (illocutionary)",
+      "def": "An illocutionary act of inviting the addressee to supply information.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
       "id": "ch2-g015",
       "term": "reclamation",
       "def": "Repurposing a slur as a marker of shared identity and solidarity against oppression (e.g., 'queer'); not all targeted members may be ready to embrace a reclaimed term.",
@@ -1823,6 +1949,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch8-g014",
+      "term": "speech act",
+      "def": "An act performed by producing an utterance (asserting, questioning, promising, pronouncing); performatives are one kind. Applies across modalities.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch7-g016",
@@ -2129,6 +2264,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch8-g010",
+      "term": "violating",
+      "def": "Quietly failing to observe a maxim (e.g., lying), without intending the listener to derive an implicature — unlike flouting.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
       "id": "ch3-g014",
@@ -3220,6 +3364,114 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch8-f001",
+      "front": "At-issue vs. non-at-issue meaning?",
+      "back": "At-issue = literal surface meaning (targeted by 'it is not the case that…'); non-at-issue = implicatures/presuppositions (not targeted).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f002",
+      "front": "What is a conversational implicature?",
+      "back": "An inference beyond the literal meaning, drawn by assuming the speaker is being cooperative; it's cancellable.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f003",
+      "front": "State the Cooperative Principle (Grice).",
+      "back": "In conversation, cooperate toward the accepted purpose of the talk — the basis for computing implicatures.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f004",
+      "front": "Name Grice's four maxims.",
+      "back": "Quality (be truthful), Quantity (be appropriately informative), Relation (be relevant), Manner (be clear/brief/orderly).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f005",
+      "front": "Flouting vs. violating a maxim?",
+      "back": "Flouting = blatantly breaking a maxim to trigger an implicature (sarcasm); violating = quietly breaking it (lying), no implicature intended.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f006",
+      "front": "What is illocutionary meaning?",
+      "back": "What you DO with an utterance — assert, ask, order — the act performed in saying it.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f007",
+      "front": "Assertion vs. question (illocutionary)?",
+      "back": "Assertion = put a proposition forward as true; question = invite the addressee to supply information.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f008",
+      "front": "What is a speech act?",
+      "back": "An act performed by uttering (asserting, questioning, promising, pronouncing); works across modalities.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f009",
+      "front": "Why is implicature 'cancellable'?",
+      "back": "Because you can deny/suspend it without contradiction — unlike an entailment.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f010",
+      "front": "What is 'context' / common ground?",
+      "back": "The shared situation participants mutually take as established; utterances are interpreted against it and update it.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f011",
+      "front": "Are presuppositions at-issue?",
+      "back": "No — like implicatures, presuppositions are non-at-issue (survive 'it is not the case that…').",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-f012",
+      "front": "Do all cultures apply the maxims identically?",
+      "back": "No — e.g., the Maxim of Quality is parameterized differently across communities (Mopan/Mopan Maya study).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     }
   ],
   "questions": [
@@ -5214,9 +5466,357 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch8-q001",
+      "type": "mc",
+      "text": "Which diagnostic identifies the AT-ISSUE meaning of a declarative sentence?",
+      "options": [
+        "Sentential negation: 'it is not the case that…'",
+        "Adding 'again'",
+        "Turning it into a question",
+        "Checking the dictionary"
+      ],
+      "answer": "Sentential negation: 'it is not the case that…'",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q002",
+      "type": "mc",
+      "text": "For 'Mounissa will buy the discounted strawberries,' which is a NON-at-issue (presupposed) meaning?",
+      "options": [
+        "There are discounted strawberries",
+        "Mounissa will buy the strawberries",
+        "Mounissa will not buy them",
+        "Mounissa is at the store"
+      ],
+      "answer": "There are discounted strawberries",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q003",
+      "type": "mc",
+      "text": "Which maxim is broken by giving far more detail than the conversation needs?",
+      "options": [
+        "Maxim of Quantity",
+        "Maxim of Quality",
+        "Maxim of Relation",
+        "Maxim of Manner"
+      ],
+      "answer": "Maxim of Quantity",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q004",
+      "type": "mc",
+      "text": "Saying something you know is false, hoping the listener won't notice, is best described as:",
+      "options": [
+        "violating the Maxim of Quality",
+        "flouting the Maxim of Quality",
+        "observing the Maxim of Manner",
+        "a presupposition"
+      ],
+      "answer": "violating the Maxim of Quality",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q005",
+      "type": "mc",
+      "text": "Loudly saying 'What a lovely day!' during a thunderstorm, expecting the listener to get the sarcasm, is:",
+      "options": [
+        "flouting the Maxim of Quality",
+        "violating the Maxim of Quantity",
+        "an entailment",
+        "observing the Maxim of Relation"
+      ],
+      "answer": "flouting the Maxim of Quality",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q006",
+      "type": "mc",
+      "text": "Whether an utterance is an assertion or a question is a matter of its:",
+      "options": [
+        "illocutionary meaning",
+        "at-issue denotation",
+        "phonology",
+        "morphology"
+      ],
+      "answer": "illocutionary meaning",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q007",
+      "type": "mc",
+      "text": "'Some of the students passed' typically implicates 'not all passed.' Which maxim drives this inference?",
+      "options": [
+        "Maxim of Quantity",
+        "Maxim of Quality",
+        "Maxim of Manner",
+        "Maxim of Relation"
+      ],
+      "answer": "Maxim of Quantity",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q008",
+      "type": "tf",
+      "text": "True or False: Presuppositions are at-issue meaning.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q009",
+      "type": "tf",
+      "text": "True or False: Conversational implicatures are cancellable.",
+      "answer": "True",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q010",
+      "type": "tf",
+      "text": "True or False: All cultures apply Grice's Maxim of Quality (truthfulness) in exactly the same way.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q011",
+      "type": "tf",
+      "text": "True or False: Flouting a maxim is meant to be obvious so the listener derives an implicature.",
+      "answer": "True",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q012",
+      "type": "fitb",
+      "text": "Grice's overarching principle that participants cooperate toward the purpose of the talk is the ____ Principle.",
+      "answer": "Cooperative",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q013",
+      "type": "fitb",
+      "text": "The maxim 'be relevant' is the Maxim of ____.",
+      "answer": "Relation",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q014",
+      "type": "fitb",
+      "text": "An inference drawn beyond the literal meaning by assuming the speaker is cooperating is a conversational ____.",
+      "answer": "implicature",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q015",
+      "type": "fitb",
+      "text": "The act you perform in making an utterance (asserting, questioning, ordering) is its ____ meaning.",
+      "answer": "illocutionary",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q016",
+      "type": "match",
+      "text": "Match each Gricean maxim with its instruction.",
+      "pairs": [
+        {
+          "left": "Quality",
+          "right": "Be truthful; don't say what's false"
+        },
+        {
+          "left": "Quantity",
+          "right": "Be as informative as required, no more"
+        },
+        {
+          "left": "Relation",
+          "right": "Be relevant"
+        },
+        {
+          "left": "Manner",
+          "right": "Be clear, brief, and orderly"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q017",
+      "type": "match",
+      "text": "Match each term with its description.",
+      "pairs": [
+        {
+          "left": "At-issue meaning",
+          "right": "Literal surface content (negation targets it)"
+        },
+        {
+          "left": "Non-at-issue meaning",
+          "right": "Implicatures and presuppositions"
+        },
+        {
+          "left": "Flouting",
+          "right": "Blatantly breaking a maxim to imply something"
+        },
+        {
+          "left": "Violating",
+          "right": "Quietly breaking a maxim (e.g., lying)"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-q018",
+      "type": "match",
+      "text": "Match each illocutionary act / notion with its description.",
+      "pairs": [
+        {
+          "left": "Assertion",
+          "right": "Put a proposition forward as true"
+        },
+        {
+          "left": "Question",
+          "right": "Invite the addressee to supply information"
+        },
+        {
+          "left": "Speech act",
+          "right": "An act performed by uttering"
+        },
+        {
+          "left": "Context",
+          "right": "The shared common ground"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     }
   ],
   "notes": [
+    {
+      "id": "ch8-n008",
+      "title": "★ KEY EXAM POINTS — Chapter 8",
+      "body": "★ AT-ISSUE (literal, surface, truth-conditional) vs. NON-AT-ISSUE (implicatures, presuppositions). Diagnostic: 'it is not the case that…' targets ONLY at-issue meaning. ★ CONVERSATIONAL IMPLICATURE = inference beyond the literal, via assuming cooperation; CANCELLABLE. ★ COOPERATIVE PRINCIPLE (Grice) + four MAXIMS: QUALITY (truthful), QUANTITY (right amount of info), RELATION (relevant), MANNER (clear/brief/orderly). ★ VIOLATING (quietly break, e.g., lying) vs. FLOUTING (blatantly break to trigger an implicature, e.g., sarcasm). ★ ILLOCUTIONARY meaning = what you DO: ASSERTION (put forward as true) vs. QUESTION (request info); these are SPEECH ACTS. ★ CONTEXT = common ground; meaning is DYNAMIC — assertions update the common ground, questions set up answer spaces. ★ Pragmatic norms vary across cultures and minds (neurodiversity).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n007",
+      "title": "8.11-8.14 Context & dynamic meaning",
+      "body": "A context is the shared situation / common ground — what participants mutually take to be established. Meaning is dynamic: an assertion (if accepted) updates the common ground by adding its content; a question sets up the space of possible answers. Interpreting an utterance both depends on the current context and changes it for what comes next.",
+      "image": "images/ch8-fig-8-common-ground.png",
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n006",
+      "title": "8.9-8.10 Illocutionary meaning & speech acts",
+      "body": "Illocutionary meaning is what a speaker/signer does in making an utterance — the act performed. Classifying by illocution: an assertion puts a proposition forward as true; a question invites the addressee to supply information; imperatives give orders. These are speech acts (the term applies in all modalities; performatives like 'I now pronounce you married' are one kind). The same literal sentence can perform different acts in context.",
+      "image": "images/ch8-fig-8-assertion-cp.png",
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n005",
+      "title": "8.7-8.8 Violating vs. flouting",
+      "body": "A speaker can fail a maxim in two ways. Violating = quietly failing (e.g., lying by breaking Quality) with no intent for the listener to infer extra meaning. Flouting = blatantly, obviously breaking a maxim so the listener, still assuming cooperation, derives an implicature (e.g., heavy sarcasm floats Quality; 'It's a lovely day' during a storm). What counts as satisfying a maxim (e.g., Quality) can also differ across cultures.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n004",
+      "title": "8.4-8.6 Conversational implicature & the Cooperative Principle",
+      "body": "A conversational implicature is an inference a listener draws beyond the literal meaning by assuming the speaker is cooperating. Grice's Cooperative Principle: contribute as required by the accepted purpose of the talk. It's fleshed out by four maxims — Quality (be truthful), Quantity (be appropriately informative — not too little or too much), Relation (be relevant), and Manner (be clear, brief, orderly). Listeners assume the maxims hold, so apparent breaches trigger inferences (e.g., 'Some students passed' implicates 'not all' via Quantity).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n003",
+      "title": "8.2-8.3 Diversity & the mind",
+      "body": "What counts as cooperative or 'honest' can vary across communities, and people compute non-at-issue meaning differently (neurodiversity in pragmatics). Pragmatic meaning is real cognitive work, not a fixed literal decoding — so it's important not to treat one community's or one mind's pragmatic norms as the only valid ones.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n002",
+      "title": "8.1 At-issue vs. non-at-issue meaning",
+      "body": "The at-issue meaning is the main literal 'surface' meaning; other meanings are non-at-issue. Test: sentential negation 'it is not the case that…' targets ONLY the at-issue meaning. So for 'Mounissa will buy the discounted strawberries': at-issue = she'll buy them; non-at-issue implicature = she likes strawberries; non-at-issue presupposition = there are discounted strawberries. Because negation leaves the implicature and presupposition intact, both are non-at-issue. (Some texts call at-issue meaning 'truth-conditional'.)",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch8-n001",
+      "title": "Chapter 8 — Learning Objectives",
+      "body": "By the end of Chapter 8 you should be able to: appreciate the diversity of linguistic meaning; understand that meaning is more than literal word/sentence meaning; see why meaning matters in daily life; use conversational principles to calculate how implicatures are produced; and appreciate neurodiversity in pragmatics (people can compute implicatures differently).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
     {
       "id": "ch7-n010",
       "title": "★ KEY EXAM POINTS — Chapter 7",
