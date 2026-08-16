@@ -259,6 +259,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch14-g013",
+      "term": "analogy",
+      "def": "When a word shifts to match a pattern found in other words — typically from a rare pattern toward a common one; often reduces the number of allomorphs in a paradigm.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch10-g015",
       "term": "apparent-time analysis",
       "def": "Inferring language change by comparing speakers of different ages at one time (older vs. younger as a proxy for earlier vs. later).",
@@ -412,6 +421,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch14-g004",
+      "term": "borrowing",
+      "def": "Adopting a word from another language (e.g., English 'falcon' from Old French 'faucon'); borrowed words may later be respelled or re-pronounced.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch13-g004",
       "term": "bottom-up information",
       "def": "Information that flows from the physical signal up to the brain during perception (the incoming acoustic/visual input).",
@@ -520,6 +538,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch14-g018",
+      "term": "cognate",
+      "def": "A word in one language that descends from the same ancestor word as a word in a related language (e.g., English 'gift' and German 'Gift', which are true cognates despite different meanings).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-g017",
+      "term": "comparative method",
+      "def": "The core historical method: comparing multiple related languages and their systematic sound correspondences to reconstruct their common ancestor.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch6-g021",
       "term": "complement",
       "def": "A phrase selected by (required by) a head, sitting close to it (e.g., the object NP that a verb selects).",
@@ -581,6 +617,15 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch14-g007",
+      "term": "conditioned sound change",
+      "def": "A sound change that applies only in a particular phonological environment.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch3-g007",
@@ -943,6 +988,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch14-g019",
+      "term": "false friends",
+      "def": "Words in two languages that look/sound similar but differ in meaning (and may or may not be cognates) — a trap when comparing languages.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch1-g030",
       "term": "first language (L1)",
       "def": "A language learned from the people around you in early childhood; a person may have more than one L1. (Contrast with L2, introduced in Ch. 2.)",
@@ -1060,6 +1114,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch14-g015",
+      "term": "grammaticalization",
+      "def": "When an ordinary word gradually becomes a grammatical marker (e.g., the adjective 'stille' becoming the adverb/particle 'still').",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-g009",
+      "term": "Great Vowel Shift",
+      "def": "A large chain of changes to English long vowels (after spelling had settled), which is why English spelling and pronunciation often mismatch; analysed as push and/or pull chains.",
+      "image": "images/ch14-fig-14-great-vowel-shift.png",
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch2-g018",
       "term": "guise",
       "def": "In a matched-guise study, the varying label or presentation applied to the stimulus (e.g., the name on a résumé, an accent, a face shown with a voice).",
@@ -1103,6 +1175,15 @@
       "module": "wk13",
       "chapter": 11,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch14-g001",
+      "term": "historical linguistics",
+      "def": "The study of how languages change over time and how related languages descend from a common ancestor.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch11-g005",
@@ -1321,6 +1402,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch14-g002",
+      "term": "language change",
+      "def": "The gradual, systematic change all living languages undergo across time, at every level (sound, morphology, syntax, meaning, lexicon).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch13-g009",
       "term": "language comprehension",
       "def": "The mental process of perceiving and understanding linguistic input.",
@@ -1328,6 +1418,15 @@
       "module": "wk16",
       "chapter": 13,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch14-g022",
+      "term": "language family",
+      "def": "A group of languages descended from a common proto-language (daughter languages of one ancestor).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch11-g016",
@@ -1418,6 +1517,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch14-g003",
+      "term": "lexical change",
+      "def": "Change in a language's vocabulary — adding, losing, borrowing, or shifting words.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch7-g010",
@@ -1670,6 +1778,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch14-g012",
+      "term": "morphological change",
+      "def": "Change in a language's word-building system, often via analogy.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch5-g003",
@@ -2266,6 +2383,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch14-g020",
+      "term": "proto-language",
+      "def": "The reconstructed common ancestor of a set of related languages (reconstructed forms are marked with * ; unknown forms may be marked with ?).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch7-g012",
       "term": "prototype",
       "def": "A theory/observation that categories have fuzzy boundaries and better/worse examples; the 'cup or bowl' experiments show categorization isn't captured by strict necessary-and-sufficient conditions alone.",
@@ -2291,6 +2417,24 @@
       "module": "wk16",
       "chapter": 13,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch14-g011",
+      "term": "pull chain",
+      "def": "A chain shift in which one sound moves away, leaving a gap that 'pulls' another sound in (e.g., [iː]>[ai] pulling others up).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-g010",
+      "term": "push chain",
+      "def": "A chain shift in which one sound moves into another's space, 'pushing' it to move too.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch8-g013",
@@ -2347,6 +2491,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch14-g006",
+      "term": "regular sound change",
+      "def": "A sound change that applies systematically to all eligible words (often in a specific conditioning environment).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch5-g006",
       "term": "root",
       "def": "The smallest possible base — the indivisible core of a word (e.g., cat, library, nation).",
@@ -2390,6 +2543,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch14-g016",
+      "term": "semantic change",
+      "def": "Change in the meaning of words over time (broadening, narrowing, shift, amelioration, pejoration).",
+      "image": "images/ch14-fig-14-semantic-change-arrive.png",
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch1-g012",
@@ -2518,6 +2680,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch14-g005",
+      "term": "sound change",
+      "def": "A change that specifically affects the phonology of a spoken language; may add, lose, merge, or simply re-pronounce phonemes.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-g021",
+      "term": "sound correspondence",
+      "def": "A regular match between sounds in related languages (e.g., a sound in one language regularly corresponds to another), used as evidence in reconstruction.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
       "id": "ch2-g021",
       "term": "specific singular they",
       "def": "Use of 'they/them' to refer to a single, known individual (e.g., 'Samnang told me they needed an extension'); an in-progress grammatical change resisted by prescriptivists.",
@@ -2543,6 +2723,15 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch14-g008",
+      "term": "sporadic sound change",
+      "def": "An irregular sound change affecting only some words (e.g., changes driven by stereotypes about pronunciation).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch7-g016",
@@ -2696,6 +2885,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch14-g014",
+      "term": "syntactic change",
+      "def": "Change in a language's sentence structure/word order over time.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
       "id": "ch6-g045",
@@ -4624,6 +4822,114 @@
       "module": "wk16",
       "chapter": 13,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch14-f001",
+      "front": "What is historical linguistics?",
+      "back": "The study of how languages change over time and how related languages descend from a shared ancestor.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f002",
+      "front": "What is a sound change?",
+      "back": "A change affecting the phonology of a spoken language (adding, losing, merging, or re-pronouncing phonemes).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f003",
+      "front": "Regular vs. sporadic sound change?",
+      "back": "Regular = systematic across all eligible words (often conditioned by environment); sporadic = irregular, affecting only some words.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f004",
+      "front": "Push chain vs. pull chain?",
+      "back": "Push = a sound moves into another's space, pushing it along; pull = a sound moves away, leaving a gap that pulls another in.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f005",
+      "front": "What was the Great Vowel Shift?",
+      "back": "A chain of changes to English long vowels (after spelling settled) — a main reason English spelling and pronunciation mismatch.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f006",
+      "front": "What is analogy?",
+      "back": "A word shifts to match a pattern in other words (rare → common), often reducing allomorphs in a paradigm.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f007",
+      "front": "What is grammaticalization?",
+      "back": "An ordinary word becomes a grammatical marker over time (e.g., 'stille' adjective → 'still').",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f008",
+      "front": "What is the comparative method?",
+      "back": "Comparing related languages' systematic sound correspondences to reconstruct their common ancestor (proto-language).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f009",
+      "front": "What is a cognate?",
+      "back": "A word descended from the same ancestor word as a word in a related language (gift/Gift are true cognates).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f010",
+      "front": "Cognates vs. false friends?",
+      "back": "Cognates share an ancestor; false friends look/sound similar but differ in meaning (and may not be cognates).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f011",
+      "front": "What is a proto-language?",
+      "back": "The reconstructed common ancestor of related languages; reconstructed forms get a *.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-f012",
+      "front": "What is a language family?",
+      "back": "A group of languages descended from one common proto-language (daughter languages).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     }
   ],
   "questions": [
@@ -7904,9 +8210,332 @@
       "module": "wk16",
       "chapter": 13,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch14-q001",
+      "type": "mc",
+      "text": "A change that specifically affects the phonology of a spoken language is a:",
+      "options": [
+        "sound change",
+        "semantic change",
+        "lexical change",
+        "syntactic change"
+      ],
+      "answer": "sound change",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q002",
+      "type": "mc",
+      "text": "English 'gift' and German 'Gift' descend from the same ancestor word (despite different meanings). They are:",
+      "options": [
+        "cognates",
+        "false friends only",
+        "borrowings",
+        "calques"
+      ],
+      "answer": "cognates",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q003",
+      "type": "mc",
+      "text": "The core method of comparing related languages' sound correspondences to reconstruct an ancestor is the:",
+      "options": [
+        "comparative method",
+        "wug test",
+        "matched-guise study",
+        "high-amplitude sucking method"
+      ],
+      "answer": "comparative method",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q004",
+      "type": "mc",
+      "text": "When an ordinary word gradually becomes a grammatical marker (e.g., 'stille' → 'still'), this is:",
+      "options": [
+        "grammaticalization",
+        "analogy",
+        "borrowing",
+        "pejoration"
+      ],
+      "answer": "grammaticalization",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q005",
+      "type": "mc",
+      "text": "A word shifting to match a pattern found in other words (rare → common) is:",
+      "options": [
+        "analogy",
+        "sound change",
+        "borrowing",
+        "semantic broadening"
+      ],
+      "answer": "analogy",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q006",
+      "type": "mc",
+      "text": "The Great Vowel Shift is best described as:",
+      "options": [
+        "A chain of changes to English long vowels",
+        "A borrowing from French",
+        "A grammaticalization of 'still'",
+        "A morphological analogy"
+      ],
+      "answer": "A chain of changes to English long vowels",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q007",
+      "type": "tf",
+      "text": "True or False: A reconstructed proto-language form is conventionally marked with an asterisk (*).",
+      "answer": "True",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q008",
+      "type": "tf",
+      "text": "True or False: False friends are words in two languages that look similar but differ in meaning.",
+      "answer": "True",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q009",
+      "type": "tf",
+      "text": "True or False: A regular sound change applies only to a random handful of words.",
+      "answer": "False",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q010",
+      "type": "tf",
+      "text": "True or False: A language family is a group of languages descended from a common proto-language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q011",
+      "type": "fitb",
+      "text": "Adopting a word from another language (e.g., 'falcon' from Old French) is called ____.",
+      "answer": "borrowing",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q012",
+      "type": "fitb",
+      "text": "The reconstructed common ancestor of related languages is a ____-language.",
+      "answer": "proto",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q013",
+      "type": "fitb",
+      "text": "A chain shift where a sound moves away and leaves a gap that draws another sound in is a ____ chain.",
+      "answer": "pull",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q014",
+      "type": "fitb",
+      "text": "Meaning change such as broadening, narrowing, or pejoration is called ____ change.",
+      "answer": "semantic",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q015",
+      "type": "match",
+      "text": "Match each type of change with its example.",
+      "pairs": [
+        {
+          "left": "Sound change",
+          "right": "English [sk] > [ʃ]"
+        },
+        {
+          "left": "Grammaticalization",
+          "right": "'stille' (adjective) → 'still'"
+        },
+        {
+          "left": "Borrowing",
+          "right": "'falcon' from Old French 'faucon'"
+        },
+        {
+          "left": "Analogy",
+          "right": "A rare pattern reshaped to a common one"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q016",
+      "type": "match",
+      "text": "Match each reconstruction term with its meaning.",
+      "pairs": [
+        {
+          "left": "Comparative method",
+          "right": "Compare related languages to reconstruct an ancestor"
+        },
+        {
+          "left": "Cognate",
+          "right": "Word from the same ancestor as a related word"
+        },
+        {
+          "left": "False friends",
+          "right": "Similar-looking words with different meanings"
+        },
+        {
+          "left": "Proto-language",
+          "right": "Reconstructed common ancestor (marked *)"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-q017",
+      "type": "match",
+      "text": "Match each sound-change term with its description.",
+      "pairs": [
+        {
+          "left": "Regular sound change",
+          "right": "Systematic across all eligible words"
+        },
+        {
+          "left": "Sporadic sound change",
+          "right": "Irregular, only some words"
+        },
+        {
+          "left": "Push chain",
+          "right": "A sound pushes another out of its space"
+        },
+        {
+          "left": "Pull chain",
+          "right": "A gap pulls another sound in"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     }
   ],
   "notes": [
+    {
+      "id": "ch14-n007",
+      "title": "★ KEY EXAM POINTS — Chapter 14",
+      "body": "★ HISTORICAL LINGUISTICS = how languages change + how related languages share an ancestor. All languages change at every level. ★ LEXICAL change incl. BORROWING (falcon ← faucon). ★ SOUND CHANGE: REGULAR (systematic, often CONDITIONED by environment) vs. SPORADIC (irregular). GREAT VOWEL SHIFT = English long-vowel chain (PUSH/PULL chains); why spelling ≠ pronunciation. ★ MORPHOLOGICAL change via ANALOGY (rare→common pattern; fewer allomorphs). SYNTACTIC change incl. GRAMMATICALIZATION (word → grammatical marker; 'stille' → 'still'). ★ SEMANTIC change: broadening/narrowing/amelioration/pejoration. ★ COMPARATIVE METHOD compares SOUND CORRESPONDENCES in related languages to reconstruct a PROTO-LANGUAGE (* = reconstructed). COGNATES share an ancestor (gift/Gift); beware FALSE FRIENDS. A LANGUAGE FAMILY = daughters of one proto-language.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-n006",
+      "title": "14.8-14.9 Reconstructing the past",
+      "body": "The comparative method compares multiple related languages and their regular sound correspondences to reconstruct their common ancestor, a proto-language (reconstructed forms marked with *, unknown ones temporarily with ?). Evidence comes from cognates — words descended from the same ancestor (English 'gift' and German 'Gift' are true cognates despite different meanings) — but analysts must beware false friends, similar-looking words with different meanings. The chapter's case study reconstructs aspects of Proto-Chinese. Languages sharing a proto-language form a language family.",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-n005",
+      "title": "14.6 Semantic change",
+      "body": "Word meanings change over time: broadening (a word covers more), narrowing (less), shift, and evaluative changes (amelioration = more positive; pejoration = more negative). Semantic change is pervasive and interacts with lexical and cultural change.",
+      "image": "images/ch14-fig-14-semantic-change-arrive.png",
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-n004",
+      "title": "14.4-14.5 Morphological & syntactic change",
+      "body": "Morphological change often proceeds by analogy: a word shifts to match a pattern in other words (rare → common), commonly reducing the allomorphs in a paradigm; analogy can also regularize inflectional affixes. Syntactic change alters sentence structure/word order over time. A key syntactic process is grammaticalization, where an ordinary word becomes a grammatical marker (e.g., the adjective 'stille' → Modern English 'still').",
+      "image": "images/ch14-fig-14-syntactic-change-passive.png",
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-n003",
+      "title": "14.3 Phonological (sound) change",
+      "body": "A change affecting a spoken language's phonology is a sound change. It can be regular (systematic across all eligible words, often conditioned by a specific environment), or sporadic (irregular, affecting only some words). Sound change may add, lose, or merge phonemes, or merely re-pronounce them (e.g., English [sk] > [ʃ]). The Great Vowel Shift reshaped English long vowels — analysed as push and/or pull chains — and is a key reason English spelling and pronunciation mismatch.",
+      "image": "images/ch14-fig-14-great-vowel-shift.png",
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-n002",
+      "title": "14.1-14.2 Why languages change; lexical change",
+      "body": "Languages change for many reasons (contact, internal pressures, social factors). Lexical change alters the vocabulary — coining, losing, or borrowing words. Borrowing adopts words from other languages (English 'falcon' from Old French 'faucon', later respelled); borrowings can reinforce a word's 'foreign' feel (e.g., the [ʒ] in azure, genre).",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch14-n001",
+      "title": "Chapter 14 — Overview",
+      "body": "Historical linguistics studies how languages change over time and how related languages descend from a common ancestor. All living languages change, systematically, at every level: lexicon, sound, morphology, syntax, and meaning. The chapter surveys each type of change and then the methods for reconstructing the past. [Marked in progress in the source.]",
+      "image": null,
+      "module": "wk11",
+      "chapter": 14,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
     {
       "id": "ch13-n005",
       "title": "★ KEY EXAM POINTS — Chapter 13",
