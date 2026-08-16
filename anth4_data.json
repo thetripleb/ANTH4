@@ -151,6 +151,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-g004",
+      "term": "affix",
+      "def": "A bound morpheme that must attach to a base (prefix, suffix, circumfix, infix, or simultaneous affix).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch3-g023",
       "term": "affricate",
       "def": "A plosive with a slow, fricated release (e.g., the start of jet); counts as a single phone.",
@@ -158,6 +167,33 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-g019",
+      "term": "agglutinative language",
+      "def": "A synthetic type where words are built from many easily separated affixes, each with one consistent meaning (e.g., Japanese tabe-sase-rare-ta).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g022",
+      "term": "allomorph",
+      "def": "One of the variant forms of a morpheme (e.g., English plural -s/-z/-ɪz/-(r)en/internal change/-∅).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g021",
+      "term": "allomorphy",
+      "def": "When one morpheme with a consistent meaning appears in different forms depending on its environment.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch4-g002",
@@ -232,6 +268,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-g005",
+      "term": "base",
+      "def": "The unit an affix attaches to; can itself be simple or complex (library → librarian → librarianship).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g013",
+      "term": "bound morpheme",
+      "def": "A morpheme that must occur with other morphemes (all affixes, plus bound roots like -whelmed); shown with a hyphen on its attaching side.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g009",
+      "term": "circumfix",
+      "def": "An affix attached around its base — part before and part after (e.g., Meskwaki ne-…-ena·n 'our').",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch3-g052",
       "term": "coda",
       "def": "The consonant(s) after the nucleus. A syllable with a coda is closed; without one, open. A syllable with no onset is onsetless.",
@@ -257,6 +320,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch5-g029",
+      "term": "compounding",
+      "def": "Building a word from two or more roots (e.g., blackboard, dog-tired); in English, compounds are stressed on their first member.",
+      "image": "images/ch5-fig-5-08-compound-riverboat-race.png",
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch3-g007",
@@ -302,6 +374,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch5-g027",
+      "term": "derivational morphology",
+      "def": "Morphology that changes the meaning or the lexical category of its base (e.g., -er turns the verb teach into the noun teacher).",
+      "image": "images/ch5-fig-5-06-derivation-foolishly.png",
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch2-g009",
@@ -403,6 +484,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch5-g012",
+      "term": "free morpheme",
+      "def": "A morpheme that can stand alone as a word (e.g., cat). Only roots can be free.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch3-g021",
       "term": "fricative",
       "def": "A consonant with a narrow constriction causing turbulent, noisy airflow (frication) — e.g., the start of set and vet.",
@@ -412,6 +502,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-g020",
+      "term": "fusional language",
+      "def": "A synthetic type where a single affix fuses several grammatical meanings (e.g., Spanish -áramos = person+number+tense+aspect+mood).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch4-g019",
       "term": "generative phonology",
       "def": "A framework (Chomsky & Halle 1968) in which URs are inputs 'generated' into SRs by ordered phonological rules; phonemes/rules may reflect cognitive reality.",
@@ -419,6 +518,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch5-g031",
+      "term": "gloss",
+      "def": "A morpheme-by-morpheme translation line pairing each piece with its meaning/function, using abbreviations (1=first person, PL=plural, etc.).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch3-g015",
@@ -484,6 +592,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch5-g010",
+      "term": "infix",
+      "def": "An affix inserted inside another morpheme (e.g., Tagalog -um- in t-um-akbuh 'ran').",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g028",
+      "term": "inflectional morphology",
+      "def": "Morphology expressing grammatical information appropriate to a word's category; it never changes the category (e.g., -s plural, -ed past, agreement).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g014",
+      "term": "internal change",
+      "def": "A morphological change that alters sounds inside a root rather than adding an affix (e.g., mouse→mice, sit→sat); irregular in modern English.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch3-g038",
       "term": "International Phonetic Alphabet (IPA)",
       "def": "A standard transcription system (est. 1886) with one symbol per phone; its underlying structure (like the periodic table) matters more than memorizing symbols.",
@@ -500,6 +635,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-g017",
+      "term": "isolating (analytic) language",
+      "def": "A language where words tend to be morphologically simple, expressing grammar via separate function words (e.g., Mandarin, Cantonese; English is fairly analytic).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch2-g025",
@@ -529,6 +673,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-g026",
+      "term": "lexical category",
+      "def": "A word's grammatical class (part of speech: noun, verb, adjective, adverb), defined by distribution (grammatical context), not meaning.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch3-g057",
       "term": "lexical stress",
       "def": "Stress whose placement is unpredictable and memorized per word; can create minimal pairs. Contrast with predictable (rule-governed) stress.",
@@ -536,6 +689,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-g024",
+      "term": "lexically conditioned allomorphy",
+      "def": "Allomorph choice determined by the specific root, which must be memorized (e.g., ox→oxen, sheep→sheep).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch2-g026",
@@ -653,6 +815,24 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-g002",
+      "term": "morpheme",
+      "def": "The smallest systematic pairing of form (sound/sign) and meaning or grammatical function (e.g., cat, -s, inter-).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g003",
+      "term": "morphologically complex",
+      "def": "A word containing more than one morpheme (e.g., cats, non-renew-abil-ity); a one-morpheme word is morphologically simple.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch1-g009",
@@ -916,6 +1096,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch5-g023",
+      "term": "phonologically conditioned allomorphy",
+      "def": "Allomorph choice determined by surrounding sounds (e.g., a/an; English plural [s]/[z]/[ɪz] by the final sound).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch1-g010",
       "term": "phonology",
       "def": "The part of grammar governing how the physical units of a language can be combined and how they change in different contexts.",
@@ -968,6 +1157,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch5-g007",
+      "term": "prefix",
+      "def": "An affix attached before its base (e.g., inter- in international).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch1-g017",
@@ -1024,6 +1222,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch5-g016",
+      "term": "reduplication",
+      "def": "Repeating part or all of a word as a morphological process (e.g., Halq'eméylem qwélqwel 'talkative'; English 'salad-salad').",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g006",
+      "term": "root",
+      "def": "The smallest possible base — the indivisible core of a word (e.g., cat, library, nation).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch3-g030",
       "term": "rounding",
       "def": "Lip shape in a vowel: rounded (boot) vs. unrounded (spread as in beat, or neutral as in but).",
@@ -1058,6 +1274,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-g011",
+      "term": "simultaneous affix",
+      "def": "An affix realized at the same time as its base — common in signed languages (added motion) and tone languages (tonal morphemes).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch2-g013",
@@ -1159,6 +1384,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-g030",
+      "term": "structural ambiguity",
+      "def": "When one string of morphemes (or words) has more than one possible structure and therefore more than one meaning (e.g., unlockable).",
+      "image": "images/ch5-fig-5-09-structural-ambiguity-untieable.png",
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g008",
+      "term": "suffix",
+      "def": "An affix attached after its base (e.g., -s in cats).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g015",
+      "term": "suppletion",
+      "def": "An irregular pattern that replaces a morpheme's form entirely (go→went, good→better→best); always memorized, often on very frequent words. A type of allomorphy.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
       "id": "ch4-g017",
       "term": "surface representation (SR)",
       "def": "The (relatively concrete) phonetic form of a word, made of phones, written in [ ]. Also called the phonetic representation.",
@@ -1202,6 +1454,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch5-g018",
+      "term": "synthetic language",
+      "def": "A language with much word-internal morphology; subtypes are agglutinative and fusional.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
       "id": "ch2-g003",
@@ -1400,6 +1661,24 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch5-g001",
+      "term": "word",
+      "def": "The smallest separable unit of language — the smallest unit that can stand on its own in an utterance and move independently in a sentence.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-g025",
+      "term": "zero affix",
+      "def": "A morpheme with no overt form, written ∅ (e.g., the plural of sheep/deer).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     }
   ],
   "flashcards": [
@@ -1942,6 +2221,132 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch5-f001",
+      "front": "What is a morpheme?",
+      "back": "The smallest systematic pairing of form and meaning/grammatical function (e.g., cat, -s).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f002",
+      "front": "Linguistic definition of 'word'?",
+      "back": "The smallest separable unit — can stand alone and reorder in a sentence (not the spelling/spaces definition).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f003",
+      "front": "Root vs. base vs. affix?",
+      "back": "Root = indivisible core; base = whatever an affix attaches to (can be complex); affix = bound morpheme needing a base.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f004",
+      "front": "Five affix types?",
+      "back": "Prefix (before), suffix (after), circumfix (around), infix (inside), simultaneous (at the same time).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f005",
+      "front": "Free vs. bound morpheme?",
+      "back": "Free = can stand alone (cat); bound = must attach (all affixes + bound roots like -whelmed). Only roots can be free.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f006",
+      "front": "Three 'beyond affix' processes?",
+      "back": "Internal change (mouse→mice), suppletion (go→went), reduplication (salad-salad).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f007",
+      "front": "Allomorph vs. allomorphy?",
+      "back": "Allomorphs = the variant forms of one morpheme; allomorphy = the phenomenon of a morpheme having them.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f008",
+      "front": "Phonologically vs. lexically conditioned allomorphy?",
+      "back": "Phonological = chosen by nearby sounds (a/an); lexical = chosen by the specific root, memorized (ox→oxen).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f009",
+      "front": "Derivational vs. inflectional — key difference?",
+      "back": "Derivation can change meaning/category; inflection expresses grammatical info and NEVER changes category.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f010",
+      "front": "How are lexical categories defined in linguistics?",
+      "back": "By distribution (grammatical contexts a word appears in), not by meaning ('action word').",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f011",
+      "front": "What is a compound?",
+      "back": "A word built from two or more roots (blackboard); in English, stressed on the first member.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f012",
+      "front": "Isolating vs. synthetic; agglutinative vs. fusional?",
+      "back": "Isolating = few morphemes/word (Mandarin); synthetic = many. Agglutinative = separable one-meaning affixes; fusional = one affix, many meanings.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f013",
+      "front": "What is a zero (∅) affix?",
+      "back": "A morpheme with no overt form (e.g., plural of sheep).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-f014",
+      "front": "What is structural ambiguity?",
+      "back": "One string with two possible structures → two meanings (e.g., unlockable).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     }
   ],
   "questions": [
@@ -2996,9 +3401,384 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch5-q001",
+      "type": "mc",
+      "text": "Which is the best linguistic definition of a 'word'?",
+      "options": [
+        "The smallest separable unit that can stand on its own",
+        "Any string of letters with spaces around it",
+        "The smallest unit of meaning",
+        "A root plus at least one affix"
+      ],
+      "answer": "The smallest separable unit that can stand on its own",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q002",
+      "type": "mc",
+      "text": "A morpheme is best defined as:",
+      "options": [
+        "The smallest systematic pairing of form and meaning/grammatical function",
+        "The smallest unit that can stand alone",
+        "Any prefix or suffix",
+        "A word with more than one part"
+      ],
+      "answer": "The smallest systematic pairing of form and meaning/grammatical function",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q003",
+      "type": "mc",
+      "text": "The Tagalog infix -um- appears inside t-um-akbuh 'ran'. What kind of affix is this?",
+      "options": [
+        "infix",
+        "prefix",
+        "suffix",
+        "circumfix"
+      ],
+      "answer": "infix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q004",
+      "type": "mc",
+      "text": "go → went is an example of which process?",
+      "options": [
+        "suppletion",
+        "internal change",
+        "reduplication",
+        "affixation"
+      ],
+      "answer": "suppletion",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q005",
+      "type": "mc",
+      "text": "The English plural surfaces as [s] in 'books', [z] in 'dogs', and [ɪz] in 'nieces' depending on the final sound. This is:",
+      "options": [
+        "phonologically conditioned allomorphy",
+        "lexically conditioned allomorphy",
+        "suppletion",
+        "internal change"
+      ],
+      "answer": "phonologically conditioned allomorphy",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q006",
+      "type": "mc",
+      "text": "How do linguists primarily define lexical categories (parts of speech)?",
+      "options": [
+        "By distribution — the grammatical contexts a word appears in",
+        "By meaning — e.g., 'a noun is a person, place, or thing'",
+        "By spelling",
+        "By word length"
+      ],
+      "answer": "By distribution — the grammatical contexts a word appears in",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q007",
+      "type": "mc",
+      "text": "Which statement about inflectional morphology is correct?",
+      "options": [
+        "It never changes the lexical category of its base",
+        "It always creates a brand-new word in a different category",
+        "It combines two roots",
+        "It is always irregular"
+      ],
+      "answer": "It never changes the lexical category of its base",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q008",
+      "type": "tf",
+      "text": "True or False: Only roots can be free morphemes.",
+      "answer": "True",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q009",
+      "type": "tf",
+      "text": "True or False: Derivational morphology can change the lexical category of its base (e.g., teach → teacher).",
+      "answer": "True",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q010",
+      "type": "tf",
+      "text": "True or False: In English, compounds are typically stressed on their second member.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q011",
+      "type": "tf",
+      "text": "True or False: Whether a word is morphologically complex depends on its historical etymology, not on how today's speakers analyze it.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q012",
+      "type": "fitb",
+      "text": "A morpheme with no overt form, written ∅, is called a ____ affix.",
+      "answer": "zero",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q013",
+      "type": "fitb",
+      "text": "A word built from two or more roots (e.g., blackboard) is formed by ____.",
+      "answer": "compounding",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q014",
+      "type": "fitb",
+      "text": "The different forms of a single morpheme (like plural -s/-z/-ɪz) are its ____.",
+      "answer": "allomorphs",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q015",
+      "type": "fitb",
+      "text": "A ____ language (like Japanese) builds words from many easily separated affixes, each with one consistent meaning.",
+      "answer": "agglutinative",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q016",
+      "type": "match",
+      "text": "Match each affix type with its position.",
+      "pairs": [
+        {
+          "left": "Prefix",
+          "right": "Before the base"
+        },
+        {
+          "left": "Suffix",
+          "right": "After the base"
+        },
+        {
+          "left": "Circumfix",
+          "right": "Around the base (part before, part after)"
+        },
+        {
+          "left": "Infix",
+          "right": "Inside another morpheme"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q017",
+      "type": "match",
+      "text": "Match each morphological process with its example.",
+      "pairs": [
+        {
+          "left": "Internal change",
+          "right": "mouse → mice"
+        },
+        {
+          "left": "Suppletion",
+          "right": "go → went"
+        },
+        {
+          "left": "Reduplication",
+          "right": "salad-salad"
+        },
+        {
+          "left": "Compounding",
+          "right": "black + board → blackboard"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-q018",
+      "type": "match",
+      "text": "Match each morphological type with its description.",
+      "pairs": [
+        {
+          "left": "Isolating/analytic",
+          "right": "Few morphemes per word; grammar via function words"
+        },
+        {
+          "left": "Agglutinative",
+          "right": "Many separable affixes, each one meaning"
+        },
+        {
+          "left": "Fusional",
+          "right": "One affix fuses several meanings"
+        },
+        {
+          "left": "Derivational",
+          "right": "Can change a word's meaning or category"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     }
   ],
   "notes": [
+    {
+      "id": "ch5-n011",
+      "title": "★ KEY EXAM POINTS — Chapter 5",
+      "body": "★ MORPHEME = smallest form + meaning/function pairing. WORD = smallest SEPARABLE unit (not the spelling definition). Complex = >1 morpheme. ★ ROOT (indivisible core) vs. BASE (what an affix attaches to) vs. AFFIX (bound). Affix types: PREFIX, SUFFIX, CIRCUMFIX, INFIX, SIMULTANEOUS. FREE (stands alone) vs. BOUND (must attach; only roots can be free). ★ BEYOND AFFIXES: internal change (mouse→mice), suppletion (go→went, memorized), reduplication (salad-salad). ★ TYPOLOGY: isolating/analytic vs. synthetic → agglutinative (separable, one-meaning) vs. fusional (one affix = many meanings). ★ ALLOMORPHY: allomorphs = variant forms; PHONOLOGICALLY conditioned (a/an; plural [s]/[z]/[ɪz]) vs. LEXICALLY conditioned (ox→oxen). ZERO affix = ∅. ★ LEXICAL CATEGORY defined by DISTRIBUTION, not meaning. ★ DERIVATION changes meaning/CATEGORY (new word); INFLECTION expresses grammatical info and NEVER changes category. ★ COMPOUND = 2+ ROOTS; English stress on FIRST member. ★ STRUCTURAL AMBIGUITY = one string, two structures/meanings (unlockable); shown with morphological TREES.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n010",
+      "title": "5.9-5.11 Structure, trees & solving problems",
+      "body": "Words have internal structure, which can create structural ambiguity: one string with two possible structures and meanings (e.g., unlockable = 'able to be unlocked' [[un-lock]-able] vs. 'unable to be locked' [un-[lock-able]]). We show structure with morphological tree diagrams built by successive affixation. To solve an unfamiliar-language morphology problem, compare glossed forms, line up recurring form-meaning pairings, and isolate each morpheme's form, meaning, and position.",
+      "image": "images/ch5-fig-5-09-structural-ambiguity-untieable.png",
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n009",
+      "title": "5.8 Compounding",
+      "body": "Compounding builds a word from two or more roots (blackboard, dog-tired, dishwasher). English compounds freely across categories (N-N, Adj-N, V-N, etc.). Spelling is inconsistent (solid, hyphenated, or spaced), so it's an unreliable test; a better cue is stress — English compounds are stressed on the FIRST member (gréenhouse vs. green hóuse). Compounding differs from derivation and inflection because it combines roots rather than adding affixes.",
+      "image": "images/ch5-fig-5-08-compound-riverboat-race.png",
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n008",
+      "title": "5.7 Inflectional morphology",
+      "body": "Inflectional morphology expresses grammatical information appropriate to a word's category and NEVER changes the category. English has a small inflectional system: noun plural -s and possessive -'s; verb 3rd-person-singular present -s, past -ed, and participles; adjective comparative -er / superlative -est. Other languages inflect far more (case, gender, agreement, tense/aspect/mood). Some 'inflectional' meanings can instead be shown syntactically (e.g., 'will' for future) — that's not inflectional morphology.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n007",
+      "title": "5.6 Derivational morphology",
+      "body": "Derivational morphology changes the meaning and/or the lexical category of its base, building a new word: teach (V) + -er → teacher (N); happy (Adj) + -ness → happiness (N); un- + kind → unkind (meaning change, same category). Derivation is often not fully productive (idiosyncratic, with gaps) and typically sits closer to the root than inflection. It's how languages expand the lexicon.",
+      "image": "images/ch5-fig-5-06-derivation-foolishly.png",
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n006",
+      "title": "5.5 Lexical categories",
+      "body": "A lexical category (part of speech) is a group of words that behave the same for grammatical purposes. Crucially, linguists define categories by DISTRIBUTION (the grammatical contexts a word appears in), not by meaning — semantic tests ('a noun is a person/place/thing') fail on cases like action and event (both nouns). Tests for the four lexical categories (noun, verb, adjective, adverb) mix syntactic distribution (e.g., nouns follow determiners, can be subjects/objects, take plurals) and morphological behaviour. Morphology divides into derivational and inflectional, plus compounding.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n005",
+      "title": "5.4 Allomorphy",
+      "body": "Allomorphy is when one morpheme (consistent meaning) has different forms (allomorphs) by environment. Phonologically conditioned allomorphy is chosen by nearby sounds: a/an, and the English plural surfacing as [s] (books), [z] (dogs), or [ɪz]/[əz] (nieces) based on the noun's final sound. Lexically conditioned allomorphy is tied to the specific root and must be memorized: child→children, ox→oxen, mouse→mice, sheep→sheep. A form with no overt marking is a zero affix, written ∅ (plural of sheep/deer). English plural allomorphs: -s, -z, -ɪz, -(r)en, internal change, -∅.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n004",
+      "title": "5.3 Morphology beyond affixes",
+      "body": "Some processes don't add an affix: internal change (sounds inside the root change — mouse→mice, sit→sat; irregular relics of old regular patterns), suppletion (the form is wholly replaced — go→went, good→better→best; always memorized, often on frequent words), and reduplication (repeating part/all of a word — Halq'eméylem qwélqwel 'talkative'; English 'salad-salad' = prototypical example). Morphological typology: isolating/analytic (few morphemes per word — Mandarin) vs. synthetic (much word-internal morphology), which splits into agglutinative (many separable one-meaning affixes — Japanese) vs. fusional (one affix fuses many meanings — Spanish -áramos).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n003",
+      "title": "5.2 Roots, bases, and affixes",
+      "body": "An affix is a bound morpheme that must attach to a base; the base can be simple or complex (library → librarian → librarianship). A root is the smallest, indivisible base. Affix types: prefix (before, inter-), suffix (after, -s), circumfix (around, Meskwaki ne-…-ena·n), infix (inside another morpheme, Tagalog -um-), and simultaneous affix (at the same time — signed motion, or a tonal/stress morpheme like récord/recórd). Cross-cutting distinction: free morphemes stand alone (cat); bound morphemes cannot (all affixes + bound roots like -whelmed). Only roots can be free; bound morphemes are written with a hyphen on the attaching side.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n002",
+      "title": "5.1 What is morphology?",
+      "body": "Morphology is the study of how words are built from smaller pieces. A word is the smallest separable unit — it can stand alone and reorder in a sentence (a linguistic definition, not the orthographic 'spaces' one, since not all languages are written or spaced). Linguists distinguish phonological, morphological, and syntactic words. A morpheme is the smallest systematic pairing of form and meaning-or-grammatical-function (cat, -s). Words with more than one morpheme are morphologically complex (cats, non-renew-abil-ity); one-morpheme words are simple. Whether a word is complex depends on how today's speakers analyze it, not its etymology.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-n001",
+      "title": "Chapter 5 — Learning Objectives",
+      "body": "By the end of Chapter 5 you should be able to: define morphemes and identify them in words; distinguish roots, bases, and affixes (and affix types); recognize non-affixal morphology (internal change, suppletion, reduplication) and morphological typology; analyze allomorphy; identify lexical categories by distribution; distinguish derivational from inflectional morphology; and analyze compounds and structural ambiguity, including drawing morphological trees.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
     {
       "id": "ch4-n011",
       "title": "★ KEY EXAM POINTS — Chapter 4",
