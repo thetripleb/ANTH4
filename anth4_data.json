@@ -4,7 +4,124 @@
     "course": "Introduction to Linguistics",
     "created": "2026-08-06T23:58:36.648Z"
   },
-  "modules": [],
+  "modules": [
+    {
+      "id": "wk01",
+      "week": 1,
+      "title": "Introduction: What Is Language & Linguistics",
+      "chapter": 1,
+      "order": 1
+    },
+    {
+      "id": "wk02",
+      "week": 2,
+      "title": "Language, Power, and Privilege",
+      "chapter": 2,
+      "order": 2
+    },
+    {
+      "id": "wk03",
+      "week": 3,
+      "title": "Phonetics",
+      "chapter": 3,
+      "order": 3
+    },
+    {
+      "id": "wk04",
+      "week": 4,
+      "title": "Phonology",
+      "chapter": 4,
+      "order": 4
+    },
+    {
+      "id": "wk05",
+      "week": 5,
+      "title": "Morphology",
+      "chapter": 5,
+      "order": 5
+    },
+    {
+      "id": "wk06",
+      "week": 6,
+      "title": "Syntax",
+      "chapter": 6,
+      "order": 6
+    },
+    {
+      "id": "wk07",
+      "week": 7,
+      "title": "Semantics",
+      "chapter": 7,
+      "order": 7
+    },
+    {
+      "id": "wk08",
+      "week": 8,
+      "title": "Pragmatics",
+      "chapter": 8,
+      "order": 8
+    },
+    {
+      "id": "wk09",
+      "week": 9,
+      "title": "Reclaiming Indigenous Languages",
+      "chapter": 9,
+      "order": 9
+    },
+    {
+      "id": "wk10",
+      "week": 10,
+      "title": "Language Variation and Change",
+      "chapter": 10,
+      "order": 10
+    },
+    {
+      "id": "wk11",
+      "week": 11,
+      "title": "Historical Linguistics",
+      "chapter": 14,
+      "order": 11
+    },
+    {
+      "id": "wk12",
+      "week": 12,
+      "title": "History of English",
+      "chapter": null,
+      "order": 12,
+      "status": "TBD",
+      "note": "Source not in this textbook; Benjamin will upload data later."
+    },
+    {
+      "id": "wk13",
+      "week": 13,
+      "title": "Child Language Acquisition",
+      "chapter": 11,
+      "order": 13
+    },
+    {
+      "id": "wk14",
+      "week": 14,
+      "title": "Second Language Acquisition",
+      "chapter": 12,
+      "order": 14
+    },
+    {
+      "id": "wk15",
+      "week": 15,
+      "title": "Bilingualism",
+      "chapter": null,
+      "order": 15,
+      "status": "TBD",
+      "note": "Source not designated in this textbook; Benjamin will upload data later."
+    },
+    {
+      "id": "wk16",
+      "week": 16,
+      "title": "Psycholinguistics",
+      "chapter": 13,
+      "order": 16
+    }
+  ],
   "glossary": [],
   "flashcards": [],
   "questions": [],
