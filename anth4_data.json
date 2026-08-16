@@ -160,6 +160,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch4-g002",
+      "term": "allophone",
+      "def": "One of the physical phones that realize a phoneme in a particular environment (e.g., [ɾ] and [tʰ] are allophones of English /t/).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch3-g022",
       "term": "approximant",
       "def": "A consonant with articulators far enough apart to give little/no frication. Central (e.g., yet, wet) vs. lateral, where air flows around the tongue sides (e.g., let).",
@@ -196,6 +205,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch4-g004",
+      "term": "aspiration",
+      "def": "A puff of air on a plosive, transcribed [ʰ] (e.g., aspirated [tʰ] in 'atomic').",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g021",
+      "term": "assimilation",
+      "def": "The most common rule type: a phoneme changes to match a property of its environment (e.g., French sonorant devoicing; nasal-place assimilation; vowel nasalization).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch3-g029",
       "term": "backness",
       "def": "Horizontal tongue position: front (beat), central (but), or back (boot). Do not confuse central (backness) with mid (height).",
@@ -223,6 +250,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch4-g011",
+      "term": "complementary distribution",
+      "def": "When two phones never occur in the same environment (non-overlapping). They may be allophones of the SAME phoneme (if phonetically similar) or of different phonemes.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch3-g007",
       "term": "consonant",
       "def": "A phone made with a relatively narrow constriction somewhere in the vocal tract.",
@@ -239,6 +275,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-g008",
+      "term": "contrastive distribution",
+      "def": "When two phones can occur in the same environment (overlapping distributions); proven by a single minimal pair. Contrastive phones belong to different phonemes.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch1-g022",
@@ -295,6 +340,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch4-g007",
+      "term": "distribution",
+      "def": "The overall set of environments in which a given phone can occur.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch3-g046",
       "term": "dominant hand",
       "def": "The hand used more for daily tasks and one-handed signs; the other is the nondominant hand (often the location in two-handed signs).",
@@ -313,6 +367,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch4-g003",
+      "term": "environment",
+      "def": "The surrounding context (usually the phone(s) immediately left and/or right) that determines which allophone of a phoneme is used.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch2-g008",
       "term": "expletive",
       "def": "An expression used for emotional outbursts (e.g., damn). An expression can be both a vulgarity and an expletive.",
@@ -320,6 +383,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch4-g015",
+      "term": "faithfulness",
+      "def": "The default principle that a phoneme is pronounced as its matching default allophone in any environment not covered by a rule ('faithful' to the phoneme).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch1-g030",
@@ -338,6 +410,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-g019",
+      "term": "generative phonology",
+      "def": "A framework (Chomsky & Halle 1968) in which URs are inputs 'generated' into SRs by ordered phonological rules; phonemes/rules may reflect cognitive reality.",
+      "image": "images/ch4-fig-4-05-generative-phonology.png",
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch3-g015",
@@ -610,6 +691,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch4-g006",
+      "term": "natural class",
+      "def": "A set of phones that share phonetic properties AND share phonological behaviour; must be exhaustive for the language (e.g., English voiceless plosives [p t k]).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g009",
+      "term": "near-minimal pair",
+      "def": "Two words that would be a minimal pair except for extra difference(s) elsewhere; weaker evidence, so several are needed.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g010",
+      "term": "nonce word",
+      "def": "An invented word used for testing; speakers' acceptance of a nonce word can show two phones contrast without a real minimal pair.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch3-g040",
       "term": "nonmanual articulators",
       "def": "Signing articulators other than the hands/arms — torso, head, face (brow, eyes, cheeks, lips) — which carry essential meaning.",
@@ -754,6 +862,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch4-g001",
+      "term": "phoneme",
+      "def": "An abstract sound category that speakers treat as a single unit; notated in slashes / /. A phoneme is a set of allophones that appear in different environments (e.g., English /t/ = {[ɾ],[tʰ]…}).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g013",
+      "term": "phonemic analysis",
+      "def": "The process of determining a language's phonemes, their allophones, and each allophone's distribution; the result is a phonemicization.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g012",
+      "term": "phonetic similarity",
+      "def": "How much two phones share in articulation; used (with complementary distribution) to decide whether they're allophones of the same phoneme.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch1-g007",
       "term": "phonetics",
       "def": "The area of grammar concerned with the physical production and perception of the sounds or signs of language.",
@@ -763,6 +898,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch4-g020",
+      "term": "phonological derivation",
+      "def": "The process turning a UR into an SR by applying phonological rules; shown in a derivation table (UR on top, rules down the side, SR on the bottom; — = rule didn't apply).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g016",
+      "term": "phonological rule",
+      "def": "A statement A → B / C _ D: a target natural class (A) changes (B) in a stated environment (C _ D). Notation uses → , / , _ (target position), and # (word boundary).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch1-g010",
       "term": "phonology",
       "def": "The part of grammar governing how the physical units of a language can be combined and how they change in different contexts.",
@@ -770,6 +923,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch4-g005",
+      "term": "phonotactics",
+      "def": "Language-specific restrictions on which combinations of units are allowed in which positions (e.g., English bans [tl]/[dl] onsets).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch3-g058",
@@ -824,6 +986,24 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch4-g014",
+      "term": "principle of simplicity",
+      "def": "When two analyses fit the data equally, prefer the simpler one (fewest statements/rules).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g025",
+      "term": "productive (rule)",
+      "def": "A rule that applies to EVERY form meeting its target and environment, with no exceptions (typical of spoken-language phonological rules; signed languages seem to lack these).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch1-g015",
@@ -979,6 +1159,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch4-g017",
+      "term": "surface representation (SR)",
+      "def": "The (relatively concrete) phonetic form of a word, made of phones, written in [ ]. Also called the phonetic representation.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
       "id": "ch3-g053",
       "term": "syllabification",
       "def": "Associating phones to positions in syllable structure, based partly on sonority.",
@@ -995,6 +1184,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-g022",
+      "term": "Symmetry Condition",
+      "def": "An ASL phonotactic constraint: a two-handed sign with both hands moving must use the same handshape and move the same way (rare exceptions exist).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch1-g011",
@@ -1076,6 +1274,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-g018",
+      "term": "underlying representation (UR)",
+      "def": "The abstract phonemic form of a word, made of phonemes, written in / /. Also called the phonemic representation; the input to a derivation.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
       "id": "ch2-g005",
@@ -1175,6 +1382,24 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch4-g024",
+      "term": "weak hand drop",
+      "def": "A sign process where the nondominant hand is dropped entirely (a kind of deletion) in a two-handed sign.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-g023",
+      "term": "weak hand freeze",
+      "def": "A sign process where the moving nondominant ('weak') hand stops moving in a two-handed sign.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     }
   ],
   "flashcards": [
@@ -1591,6 +1816,132 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-f001",
+      "front": "Phoneme vs. allophone?",
+      "back": "Phoneme = abstract category /x/; allophones = its physical realizations [ ] in specific environments.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f002",
+      "front": "Notation: / / vs. [ ] vs. < >?",
+      "back": "/ / = phonemic (UR); [ ] = phonetic (SR/phones); < > = spelling/orthography.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f003",
+      "front": "What proves two phones are contrastive (different phonemes)?",
+      "back": "One minimal pair — same context, one phone differs, different meaning.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f004",
+      "front": "Complementary distribution means…?",
+      "back": "The two phones never share an environment. Same phoneme if phonetically similar; different phonemes if not (e.g., [h]/[ŋ]).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f005",
+      "front": "Two allophones of English /t/ and their environments?",
+      "back": "[ɾ] before an unstressed vowel (atom); [tʰ] before a stressed vowel (atomic).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f006",
+      "front": "What is a natural class?",
+      "back": "A set of phones sharing phonetic properties AND phonological behaviour; must include ALL such phones in the language.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f007",
+      "front": "Three parts of a phonological rule?",
+      "back": "Target (A) → change (B) / environment (C _ D).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f008",
+      "front": "UR vs. SR?",
+      "back": "UR = underlying/phonemic /x/ (input); SR = surface/phonetic [x] (output). Rules derive SR from UR.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f009",
+      "front": "Principle of faithfulness?",
+      "back": "Absent any rule, a phoneme surfaces as its default allophone ('elsewhere' case) — so we don't write that statement.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f010",
+      "front": "Principle of simplicity?",
+      "back": "Given equal data coverage, choose the analysis with fewer rules/statements.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f011",
+      "front": "Most common rule type — assimilation?",
+      "back": "A phoneme changes to match a property in its environment (e.g., sonorants devoice after a voiceless obstruent).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f012",
+      "front": "If no minimal pair exists, what tools help?",
+      "back": "Near-minimal pairs (need several) and nonce-word judgments.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f013",
+      "front": "Do signed languages have productive phonological rules?",
+      "back": "Not the fully productive kind; they have sign-specific processes (weak hand freeze/drop, lowering) affecting individual signs.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-f014",
+      "front": "What is the Symmetry Condition (ASL)?",
+      "back": "In a two-handed sign where both hands move, both must share handshape and movement.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     }
   ],
   "questions": [
@@ -2375,9 +2726,378 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-q001",
+      "type": "mc",
+      "text": "Two phones are found to occur in the SAME environment, forming a minimal pair. What does this prove?",
+      "options": [
+        "They are allophones of different phonemes (contrastive distribution)",
+        "They are allophones of the same phoneme",
+        "They are in complementary distribution",
+        "They form a natural class"
+      ],
+      "answer": "They are allophones of different phonemes (contrastive distribution)",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q002",
+      "type": "mc",
+      "text": "English /t/ is a flap [ɾ] in 'atom' but aspirated [tʰ] in 'atomic'. What conditions the choice?",
+      "options": [
+        "Whether the following vowel is stressed",
+        "The place of articulation of the previous sound",
+        "Whether the word is a noun",
+        "Vowel rounding"
+      ],
+      "answer": "Whether the following vowel is stressed",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q003",
+      "type": "mc",
+      "text": "[h] and [ŋ] are in complementary distribution in English yet are treated as DIFFERENT phonemes. Why?",
+      "options": [
+        "They have very little phonetic similarity",
+        "They form a minimal pair",
+        "They are the same natural class",
+        "They are both vowels"
+      ],
+      "answer": "They have very little phonetic similarity",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q004",
+      "type": "mc",
+      "text": "In the rule template A → B / C _ D, what does A represent?",
+      "options": [
+        "The target natural class that changes",
+        "The change in phonetic properties",
+        "The environment",
+        "The word boundary"
+      ],
+      "answer": "The target natural class that changes",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q005",
+      "type": "mc",
+      "text": "Which pair of brackets correctly matches its representation?",
+      "options": [
+        "/ / phonemic (UR), [ ] phonetic (SR), < > orthographic",
+        "[ ] phonemic, / / phonetic, < > orthographic",
+        "< > phonemic, / / phonetic, [ ] orthographic",
+        "/ / phonetic, [ ] phonemic, < > orthographic"
+      ],
+      "answer": "/ / phonemic (UR), [ ] phonetic (SR), < > orthographic",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q006",
+      "type": "mc",
+      "text": "French sonorants become voiceless word-finally after a voiceless obstruent. This kind of rule (change matches the environment) is called:",
+      "options": [
+        "assimilation",
+        "dissimilation",
+        "epenthesis",
+        "metathesis"
+      ],
+      "answer": "assimilation",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q007",
+      "type": "tf",
+      "text": "True or False: A single minimal pair is enough to prove that two phones contrast.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q008",
+      "type": "tf",
+      "text": "True or False: Complementary distribution always means two phones are allophones of the same phoneme.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q009",
+      "type": "tf",
+      "text": "True or False: A natural class must be exhaustive — it includes every phone in the language with the relevant properties.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q010",
+      "type": "tf",
+      "text": "True or False: Signed languages have fully productive phonological rules exactly like spoken languages.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q011",
+      "type": "tf",
+      "text": "True or False: By the principle of faithfulness, a phoneme surfaces as its default allophone in any environment where no rule applies.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q012",
+      "type": "fitb",
+      "text": "An abstract sound category speakers treat as one unit (written in slashes) is a ____.",
+      "answer": "phoneme",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q013",
+      "type": "fitb",
+      "text": "The physical realizations of a phoneme, each used in a specific environment, are its ____.",
+      "answer": "allophones",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q014",
+      "type": "fitb",
+      "text": "Language-specific restrictions on which sound combinations are allowed are called ____.",
+      "answer": "phonotactics",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q015",
+      "type": "fitb",
+      "text": "When no true minimal pair exists, linguists can test contrast using invented ____ words that speakers judge.",
+      "answer": "nonce",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q016",
+      "type": "match",
+      "text": "Match each distribution/analysis term with its description.",
+      "pairs": [
+        {
+          "left": "Contrastive distribution",
+          "right": "Overlapping environments → different phonemes"
+        },
+        {
+          "left": "Complementary distribution",
+          "right": "Non-overlapping environments"
+        },
+        {
+          "left": "Minimal pair",
+          "right": "Differs in exactly one position, different meaning"
+        },
+        {
+          "left": "Natural class",
+          "right": "Phones sharing properties and behaviour"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q017",
+      "type": "match",
+      "text": "Match each rule/derivation term with its meaning.",
+      "pairs": [
+        {
+          "left": "Underlying representation",
+          "right": "Phonemic input in / /"
+        },
+        {
+          "left": "Surface representation",
+          "right": "Phonetic output in [ ]"
+        },
+        {
+          "left": "Faithfulness",
+          "right": "Default allophone when no rule applies"
+        },
+        {
+          "left": "Assimilation",
+          "right": "Change matches a property of the environment"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-q018",
+      "type": "match",
+      "text": "Match each ASL/signed phonology process with what it does.",
+      "pairs": [
+        {
+          "left": "Weak hand freeze",
+          "right": "Nondominant hand stops moving"
+        },
+        {
+          "left": "Weak hand drop",
+          "right": "Nondominant hand is deleted"
+        },
+        {
+          "left": "Lowering",
+          "right": "Sign articulated at a lower location"
+        },
+        {
+          "left": "Symmetry Condition",
+          "right": "Two moving hands share handshape and movement"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     }
   ],
   "notes": [
+    {
+      "id": "ch4-n011",
+      "title": "★ KEY EXAM POINTS — Chapter 4",
+      "body": "★ PHONEME /x/ (abstract) = a set of ALLOPHONES [x] (physical), each in its ENVIRONMENT. Notation: / / phonemic, [ ] phonetic, < > spelling. ★ English /t/: [ɾ] before UNstressed vowel (atom), [tʰ] before STRESSED vowel (atomic). ★ CONTRASTIVE distribution (overlap) ⇒ DIFFERENT phonemes; one MINIMAL PAIR proves it. COMPLEMENTARY distribution (no overlap) ⇒ same OR different phonemes — decide by PHONETIC SIMILARITY ([iː]/[i] same phoneme; [h]/[ŋ] different). ★ No minimal pair? Use NEAR-minimal pairs (need several) or NONCE words. ★ NATURAL CLASS = shared properties + shared behaviour, must be EXHAUSTIVE + language-specific. PHONOTACTICS = allowable combinations. ★ RULE template A → B / C _ D (target → change / environment); _ = position, # = word edge. FAITHFULNESS = default allophone elsewhere; SIMPLICITY = fewest rules. ★ UR /phonemes/ → (rules) → SR [phones] = DERIVATION (table: UR top, rules side, SR bottom, — = no apply). ★ ASSIMILATION = change matches environment (phonation/place/nasality). ★ Signed languages lack fully PRODUCTIVE rules; have sign processes: weak hand FREEZE, weak hand DROP, LOWERING. Symmetry Condition = two-handed moving signs share handshape + movement.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n010",
+      "title": "4.10 Signed language phonology",
+      "body": "Spoken-language phonological rules are typically fully productive (no exceptions). Signed languages don't seem to have such productive rules — perhaps because there's no phone-like unit between parameters and syllable/sign to target. They do have rule-like processes affecting individual signs, especially effort-reducing ones on two-handed signs: weak hand freeze (nondominant hand stops moving), weak hand drop (nondominant hand deleted), and lowering (sign made at a lower, easier location). Reminder: analyze signed languages in their own right, not by importing spoken-language analysis.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n009",
+      "title": "4.9 Types of phonological rules",
+      "body": "The most common type is assimilation — a phoneme changes to match a property of its environment: phonation assimilation (French sonorant devoicing; Wemba Wemba post-nasal voicing; Polish regressive devoicing), place assimilation (Persian alveolar→postalveolar before postalveolar), and nasality assimilation (Ka'apor vowels nasalized after a nasal stop). Other rule types include dissimilation, deletion, epenthesis (insertion), and metathesis (reordering).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n008",
+      "title": "4.8 Phonological derivations",
+      "body": "A derivation demonstrates the analysis: build each word's UR (identical to SR except where a rule applies, per faithfulness), then run a derivation table — URs across the top, named rules down the side, SRs across the bottom, with — where a rule doesn't apply. Good demonstrations include words where the rule applies (a representative spread of the target class), words where it doesn't (wrong environment), and similar phonemes in the right environment that are unaffected.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n007",
+      "title": "4.7 Phonological rules",
+      "body": "Rather than list a default statement for every phoneme, we rely on faithfulness: a phoneme surfaces as its default allophone anywhere no rule applies. Remaining patterns are captured as phonological rules using natural classes. A rule has the template A → B / C _ D: target (natural class A) → change (properties B) / environment (C _ D), with _ = the target's position and # = a word boundary (e.g., 'sonorant → voiceless / voiceless-obstruent _ #'). In generative phonology, words have an underlying representation (UR, /phonemes/) and a surface representation (SR, [phones]); rules 'generate' the SR from the UR.",
+      "image": "images/ch4-fig-4-05-generative-phonology.png",
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n006",
+      "title": "4.5-4.6 Phonemic analysis",
+      "body": "Phonemic analysis = working out a language's phonemes, allophones, and distributions; the result is a phonemicization (not unique — multiple analyses can fit). Procedure: list the phones of interest, find their environments, decide contrastive vs. complementary, and group them. When analyses tie on the data, apply the principle of simplicity (fewest statements). Worked examples in the text include Georgian laterals ([l] vs. [ɫ]) and Canadian French sonorant devoicing.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n005",
+      "title": "4.4 Complementary distribution",
+      "body": "Two phones with non-overlapping environments are in complementary distribution — but that alone doesn't tell you the phoneme count. [h] and [ŋ] are complementary yet feel like different consonants (little phonetic similarity → different phonemes). Long [iː] and short [i] are complementary AND phonetically similar (same quality, differ only in length) → allophones of one phoneme /i/. Decision tool: phonetic similarity. Key result: contrastive distribution ⇒ different phonemes; complementary distribution ⇒ could be same or different phonemes.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n004",
+      "title": "4.3 Contrastive distribution & minimal pairs",
+      "body": "Two phones with overlapping distributions contrast → contrastive distribution → different phonemes. A single minimal pair (identical except one position, different meaning: pill/kill) proves contrast. When true minimal pairs are scarce (e.g., rare [ʒ]), use near-minimal pairs (need several, since one could be misleading) or nonce words (invented words speakers judge). Larger sets are possible — English beet/bit/bait/bet/bat/but/bot/bought/boat/boot is a minimal 10-tuplet showing ten contrasting vowels at once.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n003",
+      "title": "4.2 Phonotactics and natural classes",
+      "body": "Phonotactics = language-specific restrictions on allowable combinations (English bans [tl]/[dl] onsets; three-consonant onsets must be [s] + voiceless plosive + approximant). Restrictions aren't random — they target natural classes: sets of phones sharing phonetic properties and phonological behaviour. Natural classes must be exhaustive (include every qualifying phone in that language), so membership is language-specific ([p t k] are a natural class in English, but Kalaallisut's voiceless plosives also include [q]). In ASL, the Symmetry Condition is a phonotactic constraint on two-handed moving signs (same handshape + movement).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n002",
+      "title": "4.1 Phonemes and allophones",
+      "body": "Phonology studies the patterns governing which unit combinations are valid and what changes occur when units combine (spoken and signed). A phoneme is an abstract category (in / /) that speakers treat as one sound; its physical realizations are allophones (in [ ]), each used in a particular environment. English /t/ surfaces as flap [ɾ] before an unstressed vowel (atom, data, writer) but aspirated [tʰ] before a stressed vowel (atomic, attack, return). Phonemes are abstractions we infer from distributional patterns — the core work of phonology is figuring out a language's phonemes, their allophones, and each allophone's environment. Modality matters, so spoken and signed phonology are treated separately.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-n001",
+      "title": "Chapter 4 — Learning Objectives",
+      "body": "By the end of Chapter 4 you should be able to: identify phonemes and their allophones; determine the distribution of phones (contrastive vs. complementary) using minimal pairs, near-minimal pairs, and nonce words; carry out a basic phonemic analysis; write phonological rules and derivations; and describe how signed-language phonology differs from spoken.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
     {
       "id": "ch3-n014",
       "title": "★ KEY EXAM POINTS — Chapter 3",
