@@ -124,6 +124,15 @@
   ],
   "glossary": [
     {
+      "id": "ch12-g013",
+      "term": "accent (L2)",
+      "def": "The pronunciation pattern of a later-learned language, shaped by transfer from the learner's first language's phonology.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch1-g021",
       "term": "acceptability judgment",
       "def": "A speaker's/signer's judgment about whether a form is possible in their language; an empirical observation used as data. Also called a grammaticality judgment.",
@@ -160,6 +169,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch12-g002",
+      "term": "adult language learner",
+      "def": "Someone acquiring a language after childhood; adults differ from child learners in cognition, existing language knowledge, and motivation.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch5-g004",
       "term": "affix",
       "def": "A bound morpheme that must attach to a base (prefix, suffix, circumfix, infix, or simultaneous affix).",
@@ -185,6 +203,15 @@
       "module": "wk13",
       "chapter": 11,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch12-g012",
+      "term": "age of acquisition",
+      "def": "The age at which someone begins learning a language; earlier onset is generally associated with more native-like attainment, especially for phonology/accent.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
       "id": "ch6-g035",
@@ -538,6 +565,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch12-g014",
+      "term": "comprehension vs. production",
+      "def": "Two sides of proficiency; learners often understand more than they can produce, and both improve as proficiency grows.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch3-g007",
       "term": "consonant",
       "def": "A phone made with a relatively narrow constriction somewhere in the vocal tract.",
@@ -689,6 +725,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch12-g009",
+      "term": "declarative knowledge",
+      "def": "Conscious, fact-like knowledge (e.g., explicitly knowing a grammar rule); one of two memory systems relevant to later language learning (Paradis).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
       "id": "ch7-g003",
@@ -1177,6 +1222,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch12-g003",
+      "term": "interlanguage",
+      "def": "A learner's own evolving language system, distinct from both the L1 and the target L2, with its own rule-governed patterns (Selinker 1972).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch5-g014",
       "term": "internal change",
       "def": "A morphological change that alters sounds inside a root rather than adding an affix (e.g., mouse→mice, sit→sat); irregular in modern English.",
@@ -1654,6 +1708,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch12-g006",
+      "term": "negative transfer",
+      "def": "When an existing-language feature differs from the target and interferes (a common source of L2 accent and errors).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-g011",
+      "term": "new-modality learning",
+      "def": "Learning a language in an unfamiliar modality (e.g., a hearing speaker learning a signed language as an M2 learner), where learners transfer existing iconic gesture at first.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch9-g012",
       "term": "Nishnaabemwin",
       "def": "An Anishinaabe (Ojibwe) language variety; the chapter describes learning it in a university/community setting.",
@@ -2005,6 +2077,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch12-g005",
+      "term": "positive transfer",
+      "def": "When an existing-language feature matches the target and helps learning (e.g., the new language has a phoneme contrast the learner already has).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch1-g013",
       "term": "pragmatics",
       "def": "The part of grammar concerned with how meaning arises in context (e.g., how 'I have some news' can be read as good or bad).",
@@ -2077,6 +2158,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch12-g010",
+      "term": "procedural knowledge",
+      "def": "Automatic, skill-like knowledge used without conscious effort (fluent real-time use); the other memory system relevant to language learning.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
       "id": "ch4-g025",
       "term": "productive (rule)",
       "def": "A rule that applies to EVERY form meeting its target and environment, with no exceptions (typical of spoken-language phonological rules; signed languages seem to lack these).",
@@ -2093,6 +2183,24 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch12-g007",
+      "term": "proficiency",
+      "def": "How well a learner can use the language; gaining proficiency means moving from limited toward more native-like comprehension and production.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-g008",
+      "term": "proficiency benchmark",
+      "def": "A standardized scale for rating proficiency (e.g., ACTFL Proficiency Guidelines, the CEFR/Canadian Language Benchmarks), used by programs including language-reclamation schools.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
       "id": "ch7-g008",
@@ -2192,6 +2300,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch12-g001",
+      "term": "second language acquisition",
+      "def": "The study of how people learn an additional language after early childhood (SLA); this book frames it broadly to include later language learning of any kind, including reclamation contexts.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
       "id": "ch6-g023",
@@ -2642,6 +2759,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch12-g004",
+      "term": "transfer",
+      "def": "The influence of a learner's existing language(s) on the new one.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
       "id": "ch6-g010",
@@ -4273,6 +4399,96 @@
       "module": "wk13",
       "chapter": 11,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch12-f001",
+      "front": "How do adult learners differ from children?",
+      "back": "They have mature cognition, an existing language system, and different motivations — so the process differs from child acquisition.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f002",
+      "front": "What is interlanguage (Selinker)?",
+      "back": "A learner's own evolving, rule-governed system, separate from both L1 and the target L2.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f003",
+      "front": "Positive vs. negative transfer?",
+      "back": "Positive = an existing feature matches the target and helps; negative = a mismatch interferes (source of accent/errors).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f004",
+      "front": "What shapes an L2 accent?",
+      "back": "Transfer from the phonology of the learner's first language.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f005",
+      "front": "What are proficiency benchmarks?",
+      "back": "Standardized scales (ACTFL, CEFR/Canadian Language Benchmarks) for rating how well someone uses a language.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f006",
+      "front": "Declarative vs. procedural knowledge?",
+      "back": "Declarative = conscious, fact-like (knowing a rule); procedural = automatic skill (fluent real-time use).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f007",
+      "front": "What happens when learning a new modality (M2)?",
+      "back": "Hearing learners of a signed language at first transfer existing iconic gesture before acquiring the linguistic system.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f008",
+      "front": "How does age of acquisition matter?",
+      "back": "Earlier onset generally means more native-like attainment, especially for pronunciation.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f009",
+      "front": "Comprehension vs. production in proficiency?",
+      "back": "Learners usually understand more than they can produce; both grow with proficiency.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-f010",
+      "front": "Is interlanguage just 'broken' language?",
+      "back": "No — it's a systematic, rule-governed system of its own, a normal stage of learning.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     }
   ],
   "questions": [
@@ -7245,9 +7461,257 @@
       "module": "wk13",
       "chapter": 11,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch12-q001",
+      "type": "mc",
+      "text": "What is 'interlanguage' (Selinker 1972)?",
+      "options": [
+        "A learner's own evolving, rule-governed system between L1 and L2",
+        "A mix of two languages spoken by a whole community",
+        "Broken language with no rules",
+        "The standardized form of a second language"
+      ],
+      "answer": "A learner's own evolving, rule-governed system between L1 and L2",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q002",
+      "type": "mc",
+      "text": "A learner already has a phoneme contrast that the new language also uses, making it easier to learn. This is:",
+      "options": [
+        "positive transfer",
+        "negative transfer",
+        "fossilization",
+        "overextension"
+      ],
+      "answer": "positive transfer",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q003",
+      "type": "mc",
+      "text": "An L2 learner's accent is primarily shaped by:",
+      "options": [
+        "transfer from their first language's phonology",
+        "their vocabulary size",
+        "their age notation",
+        "their reading speed"
+      ],
+      "answer": "transfer from their first language's phonology",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q004",
+      "type": "mc",
+      "text": "Which pair are standardized proficiency benchmarks?",
+      "options": [
+        "ACTFL Guidelines and the CEFR/Canadian Language Benchmarks",
+        "IPA and X-bar",
+        "MLU and the wug test",
+        "SVO and SOV"
+      ],
+      "answer": "ACTFL Guidelines and the CEFR/Canadian Language Benchmarks",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q005",
+      "type": "mc",
+      "text": "Consciously knowing a grammar rule as a fact is which kind of knowledge?",
+      "options": [
+        "declarative",
+        "procedural",
+        "phonemic",
+        "telegraphic"
+      ],
+      "answer": "declarative",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q006",
+      "type": "mc",
+      "text": "When hearing adults first learn a signed language (a new modality), they tend to:",
+      "options": [
+        "transfer existing iconic gesture before acquiring the linguistic system",
+        "acquire it faster than any spoken language",
+        "skip the interlanguage stage",
+        "have no accent"
+      ],
+      "answer": "transfer existing iconic gesture before acquiring the linguistic system",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q007",
+      "type": "tf",
+      "text": "True or False: Adult learners are essentially just older children and learn in the same way.",
+      "answer": "False",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q008",
+      "type": "tf",
+      "text": "True or False: Interlanguage is a systematic, rule-governed system rather than merely 'broken' language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q009",
+      "type": "tf",
+      "text": "True or False: Negative transfer occurs when an existing-language feature differs from the target and interferes.",
+      "answer": "True",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q010",
+      "type": "tf",
+      "text": "True or False: Language-reclamation programs sometimes use proficiency benchmarks like ACTFL's.",
+      "answer": "True",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q011",
+      "type": "fitb",
+      "text": "A learner's own evolving language system, separate from L1 and L2, is called ____.",
+      "answer": "interlanguage",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q012",
+      "type": "fitb",
+      "text": "Automatic, skill-like knowledge used in fluent real-time speech is ____ knowledge.",
+      "answer": "procedural",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q013",
+      "type": "fitb",
+      "text": "The influence of a learner's existing language on the new one is called ____.",
+      "answer": "transfer",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-q015",
+      "type": "match",
+      "text": "Match each concept with its description.",
+      "pairs": [
+        {
+          "left": "Declarative knowledge",
+          "right": "Conscious, fact-like rule knowledge"
+        },
+        {
+          "left": "Procedural knowledge",
+          "right": "Automatic skill for fluent use"
+        },
+        {
+          "left": "New-modality (M2) learning",
+          "right": "Hearing learner acquiring a signed language"
+        },
+        {
+          "left": "Age of acquisition",
+          "right": "Earlier onset → more native-like"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     }
   ],
   "notes": [
+    {
+      "id": "ch12-n006",
+      "title": "★ KEY EXAM POINTS — Chapter 12",
+      "body": "★ SLA = learning a language after childhood (framed broadly, incl. reclamation). Adults ≠ children: mature cognition, existing L1, different motivations. ★ INTERLANGUAGE (Selinker) = the learner's own rule-governed system between L1 and L2 — not 'broken' language. ★ TRANSFER: POSITIVE (shared feature helps, e.g., an already-known contrast) vs. NEGATIVE (mismatch interferes → accent/errors). L2 ACCENT comes from L1 phonology. ★ PROFICIENCY measured by BENCHMARKS (ACTFL, CEFR/Canadian Language Benchmarks). ★ DECLARATIVE (conscious rule-knowledge) vs. PROCEDURAL (automatic skill). ★ NEW-MODALITY (M2) learners transfer iconic gesture before the signed system. ★ Earlier AGE OF ACQUISITION → more native-like attainment (esp. pronunciation).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-n005",
+      "title": "12.5-12.7 New modality; phonetics & phonemes",
+      "body": "Learning a language in a new modality — e.g., a hearing person learning a signed language (an M2 learner) — shows learners transferring existing iconic, non-linguistic gesture before acquiring the signed system. In learning pronunciation, positive transfer is predicted when the new language has a phoneme contrast the learner already has, and negative transfer where contrasts differ; this shapes the persistent 'accent' of the interlanguage stage.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-n004",
+      "title": "12.4 Cognitive processes & interlanguage",
+      "body": "Learners build an interlanguage (Selinker 1972): their own evolving, rule-governed system between the L1 and the target language. Transfer from existing languages can be positive (a shared feature helps — e.g., an already-known phoneme contrast) or negative (a mismatch interferes, a major source of L2 accent). Two memory systems are relevant: declarative knowledge (conscious, fact-like — knowing a rule) and procedural knowledge (automatic skill — fluent real-time use); later learning often leans more on declarative knowledge.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-n003",
+      "title": "12.3 Gaining proficiency",
+      "body": "Gaining proficiency in a later language means moving, in both comprehension and production, from limited ability toward more native-like use. Proficiency is measured with standardized benchmarks — e.g., ACTFL Proficiency Guidelines (five levels) or the CEFR/Canadian Language Benchmarks — which are used by programs including Indigenous-language reclamation schools (e.g., Onkwawenna Kentyohkwa).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-n002",
+      "title": "12.1-12.2 Adults are not children; motivations",
+      "body": "Adult learners are not just older children: they bring mature cognition, an already-established first language, and distinct motivations. Reasons for learning a later language vary widely (work, migration, connection, and — importantly in this text — language reclamation), and these motivations shape how and how well people learn.",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch12-n001",
+      "title": "Chapter 12 — Overview",
+      "body": "This chapter covers learning a language later in life — often called Second Language Acquisition (SLA), framed broadly to include reclamation and any post-childhood learning. It contrasts adult and child learners, motivations for learning, how proficiency is gained and measured, cognitive processes, and the special case of learning a new modality (a signed language).",
+      "image": null,
+      "module": "wk14",
+      "chapter": 12,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
     {
       "id": "ch11-n007",
       "title": "★ KEY EXAM POINTS — Chapter 11",
