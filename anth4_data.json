@@ -223,6 +223,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch10-g015",
+      "term": "apparent-time analysis",
+      "def": "Inferring language change by comparing speakers of different ages at one time (older vs. younger as a proxy for earlier vs. later).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch3-g022",
       "term": "approximant",
       "def": "A consonant with articulators far enough apart to give little/no frication. Central (e.g., yet, wet) vs. lateral, where air flows around the tongue sides (e.g., let).",
@@ -374,6 +383,33 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch10-g022",
+      "term": "categorical alternation",
+      "def": "A change fully determined by the linguistic environment (not free social choice), which therefore does NOT count as a sociolinguistic variable.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g017",
+      "term": "change from above",
+      "def": "Language change that speakers are consciously aware of, often spreading from higher-prestige speech (e.g., importing 'r-fulness' into NYC English).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g018",
+      "term": "change from below",
+      "def": "Language change below conscious awareness, spreading through the vernacular.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch5-g009",
@@ -574,6 +610,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch10-g012",
+      "term": "covert prestige",
+      "def": "Hidden, in-group prestige attached to a non-standard variety, indexing values like toughness or local solidarity.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch6-g044",
       "term": "CP (complementizer phrase)",
       "def": "A projection of C (complementizer); embedded clauses are CPs, and the landing site for moved auxiliaries (T-to-C) and wh-phrases.",
@@ -655,6 +700,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch10-g005",
+      "term": "dialect",
+      "def": "A variety of a language associated with a region or group; note that everyone speaks a dialect and no dialect is linguistically better than another.",
+      "image": "images/ch10-fig-10-halloween-regional-variants.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g019",
+      "term": "dialectology",
+      "def": "The older study of variation across regional dialects, producing dialect maps; early work was biased toward N.O.R.M. speakers (non-mobile older rural males).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch3-g035",
       "term": "diphthong",
       "def": "A vowel that shifts from one quality to another within a single phone (e.g., the vowel in toy).",
@@ -716,6 +779,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch10-g014",
+      "term": "enregisterment",
+      "def": "The process by which a set of linguistic features becomes recognized as a distinct, socially meaningful register or 'way of speaking' (e.g., Canadian 'eh').",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch7-g005",
@@ -916,6 +988,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch10-g007",
+      "term": "idiolect",
+      "def": "The unique language variety of a single individual.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch7-g019",
       "term": "idiom",
       "def": "A multi-word expression whose meaning is non-compositional and must be stored as a whole (e.g., 'let the cat out of the bag').",
@@ -977,6 +1058,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch10-g013",
+      "term": "indexicality",
+      "def": "The way linguistic forms point to social meaning. Referential indexicality points to something in context; non-referential indexicality signals social identity/stance.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch6-g009",
@@ -1202,6 +1292,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch10-g003",
+      "term": "linguistic variable",
+      "def": "A point in a language where speakers have two or more ways of expressing the same thing in the same linguistic environment (e.g., the -ing variable: walking vs. walkin').",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch1-g001",
@@ -1510,6 +1609,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch10-g009",
+      "term": "observer's paradox",
+      "def": "The methodological problem that to study natural vernacular speech, linguists must observe it — but observation makes speech less natural.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch3-g024",
       "term": "obstruent",
       "def": "The class of consonants with significant obstruction to airflow: oral stops, fricatives, and affricates.",
@@ -1562,6 +1670,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch10-g011",
+      "term": "overt prestige",
+      "def": "Prestige attached to a standardized, socially dominant variety, openly recognized as 'correct.'",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch3-g041",
@@ -1888,6 +2005,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
+      "id": "ch10-g016",
+      "term": "real-time analysis",
+      "def": "Studying change by comparing a community's speech at two actual points in time.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch2-g015",
       "term": "reclamation",
       "def": "Repurposing a slur as a marker of shared identity and solidarity against oppression (e.g., 'queer'); not all targeted members may be ready to embrace a reclaimed term.",
@@ -2023,6 +2149,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch10-g020",
+      "term": "sociolinguistic correlation",
+      "def": "A statistical association between a linguistic variable and a social factor such as class, gender, age, or ethnicity.",
+      "image": "images/ch10-fig-10-class-gender-correlation.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g002",
+      "term": "sociolinguistic variation",
+      "def": "Variation within a single language/variety (and even within one speaker), as opposed to cross-linguistic variation between different languages.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch3-g025",
       "term": "sonorant",
       "def": "The class of consonants with relatively free airflow: nasal stops, approximants, taps, and trills.",
@@ -2147,6 +2291,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch10-g010",
+      "term": "style-shifting",
+      "def": "Varying one's speech across situations; in Labov's attention-paid-to-speech model, more careful speech goes with more attention (other motivations exist too).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch6-g007",
@@ -2293,6 +2446,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch10-g021",
+      "term": "three waves of sociolinguistics",
+      "def": "An organizing history: 1st wave correlates variables with broad social categories; 2nd wave adds locally meaningful community facts; 3rd wave treats variation as active identity/style construction.",
+      "image": "images/ch10-fig-10-jocks-burnouts.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
       "id": "ch1-g025",
       "term": "token",
       "def": "In an LLM, a unit of language — a letter, word, piece of a word (morpheme), or punctuation mark — whose co-occurrence probabilities are calculated.",
@@ -2381,6 +2543,42 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch10-g004",
+      "term": "variant",
+      "def": "One of the alternative forms of a linguistic variable (e.g., [ɪŋ] vs. [ɪn] for -ing).",
+      "image": "images/ch10-fig-10-01-name-sign-variants.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g001",
+      "term": "variationist sociolinguistics",
+      "def": "The study of language variation and change that counts and quantifies variants of linguistic variables to uncover social patterns; grew out of dialectology (Labov).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g006",
+      "term": "variety",
+      "def": "A neutral term for any subdivision of a language (used in this chapter to avoid the loaded connotations of 'dialect').",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-g008",
+      "term": "vernacular",
+      "def": "The natural, everyday way a person uses language when not monitoring their speech (e.g., when not being recorded by a linguist).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
       "id": "ch8-g010",
@@ -3679,6 +3877,132 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch10-f001",
+      "front": "What is a linguistic variable?",
+      "back": "A place where speakers have two+ ways of saying the same thing in the same environment (e.g., -ing: walking/walkin').",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f002",
+      "front": "Variable vs. variant?",
+      "back": "The variable is the choice point (-ing); the variants are the alternatives ([ɪŋ] vs. [ɪn]).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f003",
+      "front": "Cross-linguistic vs. sociolinguistic variation?",
+      "back": "Cross-linguistic = between different languages; sociolinguistic = within one language/variety (even one speaker).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f004",
+      "front": "Dialect vs. variety — why 'variety'?",
+      "back": "'Dialect' can carry a loaded 'lesser' connotation; 'variety' is neutral. Everyone speaks a variety; none is 'better.'",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f005",
+      "front": "Idiolect vs. vernacular?",
+      "back": "Idiolect = one individual's variety; vernacular = natural unmonitored speech (how you talk when not being recorded).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f006",
+      "front": "What is the observer's paradox?",
+      "back": "To study natural speech linguists must observe it — but observing makes it less natural.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f007",
+      "front": "What is style-shifting (Labov)?",
+      "back": "Varying speech by situation; the attention-paid-to-speech model links careful speech to more attention.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f008",
+      "front": "Overt vs. covert prestige?",
+      "back": "Overt = open prestige of the standard variety; covert = hidden in-group prestige of a non-standard form (toughness/solidarity).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f009",
+      "front": "Apparent-time vs. real-time?",
+      "back": "Apparent-time = compare age groups at one time; real-time = compare the community at two actual times.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f010",
+      "front": "Change from above vs. below?",
+      "back": "Above = conscious, often from higher-prestige speech; below = below awareness, via the vernacular.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f011",
+      "front": "What are the three waves of sociolinguistics?",
+      "back": "1st: variable × broad social category; 2nd: locally meaningful community facts; 3rd: variation as active identity/style-making.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f012",
+      "front": "What's NOT a sociolinguistic variable?",
+      "back": "A categorical alternation fully forced by the linguistic environment (no social choice).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f013",
+      "front": "What does indexicality mean?",
+      "back": "Forms point to social meaning: referential (points to context) vs. non-referential (signals identity/stance).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-f014",
+      "front": "What is enregisterment?",
+      "back": "When a bundle of features becomes recognized as a socially meaningful 'way of speaking' (e.g., Canadian 'eh').",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     }
   ],
   "questions": [
@@ -6171,9 +6495,348 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch10-q001",
+      "type": "mc",
+      "text": "A linguistic variable is best defined as:",
+      "options": [
+        "Two or more ways of expressing the same thing in the same environment",
+        "Two words with different meanings",
+        "A rule forced by the phonological environment",
+        "A difference between two separate languages"
+      ],
+      "answer": "Two or more ways of expressing the same thing in the same environment",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q002",
+      "type": "mc",
+      "text": "[ɪŋ] (walking) vs. [ɪn] (walkin') are two ____ of the -ing variable.",
+      "options": [
+        "variants",
+        "dialects",
+        "idiolects",
+        "registers"
+      ],
+      "answer": "variants",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q003",
+      "type": "mc",
+      "text": "Which is an example of SOCIOLINGUISTIC (not cross-linguistic) variation?",
+      "options": [
+        "One English speaker sometimes says 'walking' and sometimes 'walkin''",
+        "English uses SVO while Japanese uses SOV",
+        "French marks gender but English does not",
+        "Two unrelated languages have different sounds"
+      ],
+      "answer": "One English speaker sometimes says 'walking' and sometimes 'walkin''",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q004",
+      "type": "mc",
+      "text": "The problem that observing speech makes it less natural is called the:",
+      "options": [
+        "observer's paradox",
+        "apparent-time problem",
+        "categorical alternation",
+        "third wave"
+      ],
+      "answer": "observer's paradox",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q005",
+      "type": "mc",
+      "text": "Comparing speakers of different AGES at one point in time to infer change is:",
+      "options": [
+        "apparent-time analysis",
+        "real-time analysis",
+        "enregisterment",
+        "style-shifting"
+      ],
+      "answer": "apparent-time analysis",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q006",
+      "type": "mc",
+      "text": "Hidden, in-group prestige attached to a NON-standard form (indexing toughness/solidarity) is called:",
+      "options": [
+        "covert prestige",
+        "overt prestige",
+        "enregisterment",
+        "dialectology"
+      ],
+      "answer": "covert prestige",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q007",
+      "type": "mc",
+      "text": "In the THIRD wave of sociolinguistics, variation is understood mainly as:",
+      "options": [
+        "Speakers actively constructing identity and style",
+        "A reflection of fixed broad social categories",
+        "An error to be corrected",
+        "Purely random noise"
+      ],
+      "answer": "Speakers actively constructing identity and style",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q008",
+      "type": "tf",
+      "text": "True or False: A so-called 'standard' variety is linguistically superior to other varieties.",
+      "answer": "False",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q009",
+      "type": "tf",
+      "text": "True or False: A categorical alternation fully determined by the linguistic environment counts as a sociolinguistic variable.",
+      "answer": "False",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q010",
+      "type": "tf",
+      "text": "True or False: The vernacular is the careful speech people use when they know they're being recorded.",
+      "answer": "False",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q011",
+      "type": "tf",
+      "text": "True or False: Sociolinguistic correlations (with class, age, gender) are statistical tendencies rather than absolute rules.",
+      "answer": "True",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q012",
+      "type": "fitb",
+      "text": "The natural, unmonitored way a person speaks when not being observed is their ____.",
+      "answer": "vernacular",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q013",
+      "type": "fitb",
+      "text": "The unique language variety of a single individual is an ____.",
+      "answer": "idiolect",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q014",
+      "type": "fitb",
+      "text": "Varying your speech across situations (e.g., careful vs. casual) is called ____-shifting.",
+      "answer": "style",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q015",
+      "type": "fitb",
+      "text": "When a set of features becomes recognized as a distinct socially meaningful 'way of speaking' (e.g., Canadian 'eh'), it has undergone ____.",
+      "answer": "enregisterment",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q016",
+      "type": "match",
+      "text": "Match each term with its meaning.",
+      "pairs": [
+        {
+          "left": "Linguistic variable",
+          "right": "Two+ ways of saying the same thing"
+        },
+        {
+          "left": "Variant",
+          "right": "One alternative form of the variable"
+        },
+        {
+          "left": "Idiolect",
+          "right": "One individual's variety"
+        },
+        {
+          "left": "Vernacular",
+          "right": "Natural, unmonitored speech"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q017",
+      "type": "match",
+      "text": "Match each method/concept with its description.",
+      "pairs": [
+        {
+          "left": "Apparent-time analysis",
+          "right": "Compare age groups at one time"
+        },
+        {
+          "left": "Real-time analysis",
+          "right": "Compare the community at two actual times"
+        },
+        {
+          "left": "Change from above",
+          "right": "Conscious, often higher-prestige change"
+        },
+        {
+          "left": "Change from below",
+          "right": "Change below conscious awareness"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-q018",
+      "type": "match",
+      "text": "Match each wave/prestige term with its description.",
+      "pairs": [
+        {
+          "left": "First wave",
+          "right": "Variables × broad social categories"
+        },
+        {
+          "left": "Second wave",
+          "right": "Locally meaningful community facts"
+        },
+        {
+          "left": "Third wave",
+          "right": "Variation as identity/style construction"
+        },
+        {
+          "left": "Covert prestige",
+          "right": "In-group value of a non-standard form"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     }
   ],
   "notes": [
+    {
+      "id": "ch10-n007",
+      "title": "★ KEY EXAM POINTS — Chapter 10",
+      "body": "★ SOCIOLINGUISTIC variation = within one language/variety (vs. CROSS-LINGUISTIC = between languages). ★ LINGUISTIC VARIABLE = two+ ways to say the same thing in the same environment; VARIANTS = the alternatives (-ing: [ɪŋ]/[ɪn]). NOT variables: synonyms, categorical (environment-forced) alternations. ★ Everyone has a DIALECT/VARIETY; none is 'better.' IDIOLECT = one person; VERNACULAR = unmonitored speech. OBSERVER'S PARADOX = observing changes the speech. ★ STYLE-SHIFTING (Labov: attention-paid-to-speech). INDEXICALITY: referential vs. non-referential; ENREGISTERMENT (e.g., 'eh'). ★ Track change in APPARENT time (age groups now) vs. REAL time (two actual times); CHANGE FROM ABOVE (conscious) vs. BELOW (unaware). ★ SOCIOLINGUISTIC CORRELATIONS with class, gender, age, ethnicity, style. OVERT (standard) vs. COVERT (non-standard, solidarity) PRESTIGE. ★ THREE WAVES: (1) broad categories → (2) local community facts → (3) variation as identity/style construction.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-n006",
+      "title": "10.10 Three waves of sociolinguistics",
+      "body": "The field's history is often told as three waves. First wave: correlate variables with broad, predefined social categories (class, sex, age). Second wave: add locally meaningful, community-specific facts about participants (ethnographic detail). Third wave: treat variation as active work — speakers use variants to construct identity and style, not just reflect fixed categories. Each wave builds on, rather than replaces, the previous.",
+      "image": "images/ch10-fig-10-jocks-burnouts.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-n005",
+      "title": "10.6-10.9 Sociolinguistic correlations",
+      "body": "A central finding is that linguistic variables correlate systematically with social factors — social class, gender/sex, age, and ethnicity — and with style. Classic cases include Fischer's -ing study (standardized [ɪŋ] vs. [ɪn]) showing both social and stylistic patterning. These correlations are statistical tendencies, read off quantitative graphs, not absolute rules. Prestige matters in two directions: overt prestige for the standardized variety and covert prestige for non-standard forms that index toughness or local solidarity.",
+      "image": "images/ch10-fig-10-class-gender-correlation.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-n004",
+      "title": "10.5 Variationist methods & concepts",
+      "body": "Sociolinguists elicit natural speech but face the observer's paradox: observing speech makes it less natural, so eliciting the vernacular (unmonitored speech) is a core challenge (often via the sociolinguistic interview). Variationist methods descend from dialectology, whose dialect maps were biased toward N.O.R.M. participants (non-mobile older rural males). Change can be tracked in apparent time (comparing age groups now) or real time (comparing the community at two actual times), and can be change from above (conscious, higher-prestige) or below (below awareness).",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-n003",
+      "title": "10.3-10.4 Language changes & conveys social meaning",
+      "body": "Variation is the seed of language change: e.g., English negation shifted gradually from VERB-NEGATIVE order to 'do not VERB' over time. Beyond referential content, language conveys social meaning through indexicality — referential indexicality points to context, while non-referential indexicality signals social identity or stance. Bundles of features can undergo enregisterment, becoming recognized 'ways of speaking' (e.g., Canadian 'eh'). Speakers also style-shift: Labov's attention-paid-to-speech model links more careful speech to more self-monitoring, though other motivations for shifting exist.",
+      "image": "images/ch10-fig-10-vowel-chain-shift.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-n002",
+      "title": "10.1-10.2 Variationist sociolinguistics & variables",
+      "body": "Variationist sociolinguistics quantifies variants of linguistic variables to uncover social patterns; it grew out of dialectology. Sociolinguistic variation is variation within one language/variety (even within one person), unlike cross-linguistic variation between languages. A linguistic variable is a point where speakers have two or more ways of expressing the same thing in the same linguistic environment; its alternatives are variants (e.g., the -ing variable: [ɪŋ] walking vs. [ɪn] walkin'). Variables exist in all languages, all modalities, and all domains. Not everything counts: synonyms (different meanings/uses) and categorical alternations (forced by the environment) are not sociolinguistic variables. Everyone speaks a dialect/variety, and no variety is linguistically 'better' (recall Chapter 2).",
+      "image": "images/ch10-fig-10-01-name-sign-variants.png",
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch10-n001",
+      "title": "Chapter 10 — Learning Objectives",
+      "body": "By the end of Chapter 10 you should be able to: explain the difference between cross-linguistic and sociolinguistic variation; define key sociolinguistics concepts; recognize linguistic variables in data; discuss major findings of variationist sociolinguistics; and interpret basic quantitative sociolinguistic graphs.",
+      "image": null,
+      "module": "wk10",
+      "chapter": 10,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
     {
       "id": "ch9-n006",
       "title": "★ KEY EXAM POINTS — Chapter 9",
