@@ -151,6 +151,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g042",
+      "term": "adjunct",
+      "def": "A modifier attached at an extra bar level — neither a specifier nor a complement (e.g., a modifying PP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch5-g004",
       "term": "affix",
       "def": "A bound morpheme that must attach to a base (prefix, suffix, circumfix, infix, or simultaneous affix).",
@@ -167,6 +176,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch6-g035",
+      "term": "agent",
+      "def": "The thematic role of an animate participant that does something on purpose (e.g., 'The pirate sank the ship').",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g019",
@@ -223,6 +241,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch6-g006",
+      "term": "argument",
+      "def": "A phrase (usually a noun phrase) corresponding to a participant in the predicate's event.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g038",
+      "term": "argument structure",
+      "def": "The set of arguments a predicate requires and the thematic roles it assigns; can be changed by operations like the passive.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g001",
       "term": "articulation",
       "def": "Using parts of the body to give a message physical reality — the movements/configurations that produce a linguistic signal (sound waves for speech, light waves for sign).",
@@ -259,6 +295,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-g029",
+      "term": "auxiliary",
+      "def": "A functional verb carrying tense/aspect/mood (have, be, will, can); analyzed as the head T (tense).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g029",
       "term": "backness",
       "def": "Horizontal tongue position: front (beat), central (but), or back (boot). Do not confuse central (backness) with mid (height).",
@@ -268,6 +313,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g041",
+      "term": "bar level",
+      "def": "The intermediate node (X') between the head (X) and the full phrase (XP) in X-bar structure.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch5-g005",
       "term": "base",
       "def": "The unit an affix attaches to; can itself be simple or complex (library → librarian → librarianship).",
@@ -275,6 +329,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-g002",
+      "term": "basic word order",
+      "def": "The order of subject, object, and verb in a neutral declarative clause. English is SVO; the most common type worldwide is SOV; all six orders are attested.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g013",
@@ -295,6 +358,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch6-g004",
+      "term": "clause",
+      "def": "A constituent containing a subject and a predicate; some clauses are embedded inside others, so not every clause is an independent sentence.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g052",
       "term": "coda",
       "def": "The consonant(s) after the nucleus. A syllable with a coda is closed; without one, open. A syllable with no onset is onsetless.",
@@ -313,6 +385,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch6-g021",
+      "term": "complement",
+      "def": "A phrase selected by (required by) a head, sitting close to it (e.g., the object NP that a verb selects).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch4-g011",
       "term": "complementary distribution",
       "def": "When two phones never occur in the same environment (non-overlapping). They may be allophones of the SAME phoneme (if phonetically similar) or of different phonemes.",
@@ -320,6 +401,33 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch6-g030",
+      "term": "complementizer",
+      "def": "A functional category (C) introducing an embedded clause (that, if, whether).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g016",
+      "term": "complex sentence",
+      "def": "A sentence containing a subordinate embedded clause (a clause inside a clause) — an instance of recursion.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g015",
+      "term": "compound sentence",
+      "def": "A sentence with two or more clauses joined by a coordinator (and, or, but).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g029",
@@ -340,6 +448,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g024",
+      "term": "constituency test",
+      "def": "A diagnostic showing that a string of words is a constituent: substitution/pro-form replacement, movement, it-cleft, stand-alone (fragment) answer, and (less reliably) coordination.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g019",
+      "term": "constituent",
+      "def": "A group of words that functions as a single unit in the structure of a sentence; identified with constituency tests.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g033",
+      "term": "content question",
+      "def": "A question formed with a wh-word (who, what, where…), also called a wh-question; involves wh-movement to the front.",
+      "image": "images/ch6-fig-6-31-wh-movement.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g026",
       "term": "continuant",
       "def": "The class with continuous oral airflow: fricatives and approximants (sometimes trills).",
@@ -358,6 +493,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-g026",
+      "term": "coordination",
+      "def": "Joining two elements with a coordinator (and, or, but); also called conjunction. Coordinated elements are usually the same type of constituent.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch1-g022",
       "term": "corpus",
       "def": "A large database collecting real examples of language use (books, newspapers, message boards, video, audio) used as a tool for making observations.",
@@ -367,6 +511,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch6-g044",
+      "term": "CP (complementizer phrase)",
+      "def": "A projection of C (complementizer); embedded clauses are CPs, and the landing site for moved auxiliaries (T-to-C) and wh-phrases.",
+      "image": "images/ch6-fig-6-25-embedded-cp.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch2-g020",
       "term": "deadnaming",
       "def": "Using a trans person's former (pre-transition) name, whether accidentally or deliberately; a way names are used to enforce power.",
@@ -374,6 +527,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch6-g011",
+      "term": "declarative",
+      "def": "A clause type used to make a statement (true or false).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g027",
@@ -412,6 +574,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch6-g028",
+      "term": "determiner",
+      "def": "A functional category (D) marking a noun phrase (the, a, this, my, 's-possessors); determiners are in complementary distribution with each other.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g035",
       "term": "diphthong",
       "def": "A vowel that shifts from one quality to another within a single phone (e.g., the vowel in toy).",
@@ -419,6 +590,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch6-g008",
+      "term": "direct object",
+      "def": "The argument that (in English) appears after the verb; accusative case if a pronoun (me, us, them).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch4-g007",
@@ -439,6 +619,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g031",
+      "term": "embedding",
+      "def": "Placing one clause inside another; the outer clause is the matrix/main clause and the inner one is the embedded (subordinate) clause.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch1-g018",
       "term": "empirical",
       "def": "Based on systematic observation of data as evidence for theories.",
@@ -455,6 +644,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch6-g036",
+      "term": "experiencer",
+      "def": "The thematic role of an animate participant that perceives or undergoes a mental state (e.g., 'Pirates frighten me').",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch2-g008",
@@ -500,6 +698,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch6-g027",
+      "term": "functional category",
+      "def": "A closed-class category providing grammatical 'glue' (determiner, auxiliary/tense, complementizer, pronoun, conjunction), as opposed to lexical categories.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g020",
@@ -574,6 +781,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g020",
+      "term": "head",
+      "def": "The central word of a phrase that determines its category and is obligatory; every phrase is a projection of a head (e.g., a noun heads an NP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g046",
+      "term": "head movement",
+      "def": "Movement of a head into the next higher head position (e.g., T-to-C movement, which derives English yes-no questions).",
+      "image": "images/ch6-fig-6-29-t-to-c-movement.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g013",
+      "term": "imperative",
+      "def": "A clause type expressing a request or command (e.g., 'Open the door!').",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch1-g014",
       "term": "implicit knowledge",
       "def": "Unconscious knowledge a fluent user has about their language that they cannot easily articulate (contrast: explicit knowledge).",
@@ -590,6 +824,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch6-g009",
+      "term": "indirect object",
+      "def": "In a ditransitive, the (often recipient) argument, frequently marked by 'to'; accusative in English (dative in languages with dative case).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g010",
@@ -628,6 +871,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g012",
+      "term": "interrogative",
+      "def": "A clause type used to ask a question — either a yes-no question or a content (wh-) question.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g060",
       "term": "intonation",
       "def": "Pitch manipulated across phrases/sentences for conversational functions (e.g., statement vs. question). Such a language is intonational.",
@@ -644,6 +896,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-g025",
+      "term": "it-cleft",
+      "def": "A test using the frame 'It is/was ___ that ___'; only a constituent can go in the blank.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch2-g025",
@@ -1123,6 +1384,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-g018",
+      "term": "phrase",
+      "def": "A set of words that act together as a single unit and can occupy the same structural position.",
+      "image": "images/ch6-fig-6-02-np-structure.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g039",
+      "term": "phrase structure rule",
+      "def": "A rule (e.g., S → NP VP) specifying how a constituent breaks into smaller constituents; equivalent to a tree diagram.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g058",
       "term": "pitch",
       "def": "The auditory perception of vocal-fold vibration rate (the physical rate is the fundamental frequency, f0).",
@@ -1157,6 +1436,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch6-g005",
+      "term": "predicate",
+      "def": "The state, event, or activity a sentence attributes to its subject (in this chapter, a single head — usually a verb or adjective — that combines with a subject and objects).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g007",
@@ -1222,6 +1510,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch6-g017",
+      "term": "recursion",
+      "def": "The property that a structure can contain another instance of the same kind of structure (e.g., a clause inside a clause), allowing infinitely long sentences.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch5-g016",
       "term": "reduplication",
       "def": "Repeating part or all of a word as a morphological process (e.g., Halq'eméylem qwélqwel 'talkative'; English 'salad-salad').",
@@ -1258,6 +1555,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch6-g023",
+      "term": "selection",
+      "def": "A head's requirement about what complement it combines with (e.g., a transitive verb selects an object).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch1-g012",
       "term": "semantics",
       "def": "The part of grammar that calculates the meanings of words, phrases, and sentences; works together with syntax.",
@@ -1267,6 +1573,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch6-g003",
+      "term": "sentence",
+      "def": "A string of words expressing a complete statement, question, or command; a clause that stands on its own as an utterance. A statement expresses a proposition (true or false).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g039",
       "term": "sign",
       "def": "The basic independent meaningful unit of a signed language (equivalent to a spoken word); analyzed by parameters rather than phones.",
@@ -1274,6 +1589,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch6-g014",
+      "term": "simple sentence",
+      "def": "A sentence with only one clause.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g011",
@@ -1328,6 +1652,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch6-g022",
+      "term": "specifier",
+      "def": "A phrase in a designated structural position at the top edge of a phrase (e.g., the subject is the specifier of TP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch1-g026",
@@ -1393,6 +1726,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch6-g007",
+      "term": "subject",
+      "def": "The argument that (in English) appears before the predicate and controls verb agreement; nominative case if a pronoun (I, we, they).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g032",
+      "term": "subject-auxiliary inversion",
+      "def": "The English yes-no-question process that reverses subject and auxiliary (You have left → Have you left?); analyzed as T-to-C head movement.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch5-g008",
       "term": "suffix",
       "def": "An affix attached after its base (e.g., -s in cats).",
@@ -1447,6 +1798,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-g045",
+      "term": "syntactic movement",
+      "def": "A transformation that moves an element from its base position to another position in the tree (e.g., head movement, wh-movement); shown by striking the base position and drawing an arrow (trace notation is an alternative).",
+      "image": "images/ch6-fig-6-29-t-to-c-movement.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch1-g011",
       "term": "syntax",
       "def": "The part of grammar that determines how words can and cannot be combined into phrases and sentences.",
@@ -1492,6 +1852,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-g034",
+      "term": "thematic role",
+      "def": "The role a participant plays in an event (agent, experiencer, theme/patient, instrument, goal, source, etc.); also called theta role.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g037",
+      "term": "theme",
+      "def": "The thematic role of a participant that something happens to; a patient is a theme that is also changed by the event.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch1-g025",
       "term": "token",
       "def": "In an LLM, a unit of language — a letter, word, piece of a word (morpheme), or punctuation mark — whose co-occurrence probabilities are calculated.",
@@ -1519,6 +1897,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch6-g043",
+      "term": "TP (tense phrase)",
+      "def": "The X-bar analysis of a sentence: a projection of T (tense/auxiliary), with the subject in its specifier and the VP as its complement. (Also called IP.)",
+      "image": "images/ch6-fig-6-14-tp-tree.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch3-g037",
       "term": "transcription",
       "def": "Notating the phones of a word unambiguously; can be broad (minimal detail) or narrow (fine detail). Written in square brackets [ ].",
@@ -1526,6 +1913,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch6-g010",
+      "term": "transitivity",
+      "def": "The number of arguments a predicate takes (also called valency): intransitive (1: subject), transitive (2: subject + object), ditransitive (3: subject + two objects).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch3-g036",
@@ -1663,6 +2059,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-g047",
+      "term": "wh-movement",
+      "def": "Movement of a wh-phrase to the front of the clause (into the specifier of CP) to form a content question.",
+      "image": "images/ch6-fig-6-31-wh-movement.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
       "id": "ch5-g001",
       "term": "word",
       "def": "The smallest separable unit of language — the smallest unit that can stand on its own in an utterance and move independently in a sentence.",
@@ -1670,6 +2075,24 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-g001",
+      "term": "word order",
+      "def": "The order of words in a sentence; fixed in some languages (English) and flexible in others (Latin, Kanien'kéha, ASL), where order is often set by topic/focus.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-g040",
+      "term": "X-bar theory",
+      "def": "A theory constraining tree structure: every phrase (XP) is the projection of a head (X) through an intermediate bar level (X'), with positions for a specifier, complement(s), and adjuncts.",
+      "image": "images/ch6-fig-6-14-tp-tree.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
       "id": "ch5-g025",
@@ -2347,6 +2770,168 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-f001",
+      "front": "What are the two most common basic word orders?",
+      "back": "SOV (most common, ~41%) and SVO (~35%, incl. English). All six orders are attested.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f002",
+      "front": "Sentence vs. clause?",
+      "back": "A clause = subject + predicate; a sentence = a clause that stands alone. Clauses can be embedded inside others.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f003",
+      "front": "Transitivity: intransitive / transitive / ditransitive?",
+      "back": "1 argument (subject) / 2 (subject+object) / 3 (subject + two objects).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f004",
+      "front": "Simple / compound / complex sentence?",
+      "back": "Simple = one clause; compound = clauses joined by and/or/but; complex = has an embedded clause (recursion).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f005",
+      "front": "What is a constituent?",
+      "back": "A group of words acting as a single structural unit, identified by constituency tests.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f006",
+      "front": "Name the main constituency tests.",
+      "back": "Substitution (pro-form), movement, it-cleft, stand-alone (fragment) answer, and (weakly) coordination.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f007",
+      "front": "Head, complement, specifier?",
+      "back": "Head = the obligatory central word; complement = a phrase the head selects; specifier = phrase at the phrase's top edge (e.g., subject = specifier of TP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f008",
+      "front": "Lexical vs. functional categories?",
+      "back": "Lexical (N, V, Adj, Adv) name things/events; functional (D, T/Aux, C, pronouns, conjunctions) are grammatical glue.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f009",
+      "front": "What does a complementizer do?",
+      "back": "Introduces an embedded clause (that, if, whether); it's the head C of a CP.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f010",
+      "front": "Name four thematic roles.",
+      "back": "Agent (does on purpose), experiencer (mental state), theme/patient (thing affected), instrument (tool used).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f011",
+      "front": "Core claim of X-bar theory?",
+      "back": "Every phrase XP is a projection of a head X via an intermediate X' (bar level), with specifier, complement, and adjunct positions.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f012",
+      "front": "Why is a sentence a TP?",
+      "back": "Because it's always headed by tense (an auxiliary, tense on the verb, or nonfinite 'to'); subject = specifier of TP, VP = complement.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f013",
+      "front": "What is a CP?",
+      "back": "A complementizer phrase — embedded clauses are CPs, and it's the landing site for T-to-C and wh-movement.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f014",
+      "front": "How are English yes-no questions formed (in X-bar terms)?",
+      "back": "Subject-Auxiliary Inversion = T-to-C head movement (the auxiliary moves from T up to C).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f015",
+      "front": "How are content questions formed?",
+      "back": "With a wh-word via wh-movement — the wh-phrase moves to the front (specifier of CP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f016",
+      "front": "What is an adjunct?",
+      "back": "A modifier attached at an extra bar level — neither specifier nor complement.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f017",
+      "front": "Agent vs. experiencer?",
+      "back": "Agent acts on purpose (The pirate sank it); experiencer undergoes a mental state (Pirates frighten me).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-f018",
+      "front": "What does the passive do to argument structure?",
+      "back": "It rearranges arguments (the theme becomes subject; the agent is demoted/optional), changing argument structure without changing the event's roles.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     }
   ],
   "questions": [
@@ -3677,9 +4262,507 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-q001",
+      "type": "mc",
+      "text": "English basic word order is:",
+      "options": [
+        "SVO (Subject-Verb-Object)",
+        "SOV",
+        "VSO",
+        "OSV"
+      ],
+      "answer": "SVO (Subject-Verb-Object)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q002",
+      "type": "mc",
+      "text": "Which basic word order is the MOST common among the world's languages?",
+      "options": [
+        "SOV",
+        "SVO",
+        "VSO",
+        "OVS"
+      ],
+      "answer": "SOV",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q003",
+      "type": "mc",
+      "text": "A predicate that takes three arguments (a subject and two objects) is:",
+      "options": [
+        "ditransitive",
+        "intransitive",
+        "transitive",
+        "impersonal"
+      ],
+      "answer": "ditransitive",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q004",
+      "type": "mc",
+      "text": "'Seo-yeon knows that Danai laughed.' This is what kind of sentence?",
+      "options": [
+        "complex (contains an embedded clause)",
+        "simple",
+        "compound",
+        "imperative"
+      ],
+      "answer": "complex (contains an embedded clause)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q005",
+      "type": "mc",
+      "text": "Which is NOT a standard constituency test?",
+      "options": [
+        "Counting the number of syllables",
+        "Substitution with a pro-form",
+        "It-cleft",
+        "Stand-alone (fragment) answer"
+      ],
+      "answer": "Counting the number of syllables",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q006",
+      "type": "mc",
+      "text": "Which set are all FUNCTIONAL categories?",
+      "options": [
+        "determiner, auxiliary, complementizer",
+        "noun, verb, adjective",
+        "noun, determiner, adverb",
+        "verb, adjective, preposition"
+      ],
+      "answer": "determiner, auxiliary, complementizer",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q007",
+      "type": "mc",
+      "text": "In 'The pirate sank the ship,' what is the thematic role of 'the pirate'?",
+      "options": [
+        "agent",
+        "theme",
+        "experiencer",
+        "instrument"
+      ],
+      "answer": "agent",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q008",
+      "type": "mc",
+      "text": "In X-bar theory, a sentence is analyzed as which kind of phrase?",
+      "options": [
+        "TP (tense phrase)",
+        "NP",
+        "VP",
+        "PP"
+      ],
+      "answer": "TP (tense phrase)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q009",
+      "type": "mc",
+      "text": "English yes-no questions (Subject-Auxiliary Inversion) are analyzed as which operation?",
+      "options": [
+        "T-to-C head movement",
+        "wh-movement",
+        "adjunction",
+        "coordination"
+      ],
+      "answer": "T-to-C head movement",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q010",
+      "type": "mc",
+      "text": "In X-bar theory, the subject of a sentence sits in which position?",
+      "options": [
+        "the specifier of TP",
+        "the complement of V",
+        "an adjunct of VP",
+        "the head C"
+      ],
+      "answer": "the specifier of TP",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q011",
+      "type": "tf",
+      "text": "True or False: Every phrase is the projection of a head of the same category.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q012",
+      "type": "tf",
+      "text": "True or False: A clause must be able to stand on its own as a sentence.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q013",
+      "type": "tf",
+      "text": "True or False: The result of a constituency test applies only to the specific sentence it was tested on.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q014",
+      "type": "tf",
+      "text": "True or False: Content questions (who, what, where) are formed by wh-movement.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q015",
+      "type": "tf",
+      "text": "True or False: The passive changes a predicate's argument structure by making the theme the subject and demoting the agent.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q016",
+      "type": "fitb",
+      "text": "A group of words that acts together as a single structural unit is called a ____.",
+      "answer": "constituent",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q017",
+      "type": "fitb",
+      "text": "The obligatory central word of a phrase, which determines its category, is the ____.",
+      "answer": "head",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q018",
+      "type": "fitb",
+      "text": "A phrase that a head requires (selects), sitting close to it, is called a ____.",
+      "answer": "complement",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q019",
+      "type": "fitb",
+      "text": "An embedded clause is analyzed as a ____ (a complementizer phrase).",
+      "answer": "CP",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q020",
+      "type": "fitb",
+      "text": "A modifier attached at an extra bar level (neither specifier nor complement) is an ____.",
+      "answer": "adjunct",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q021",
+      "type": "match",
+      "text": "Match each grammatical term with its definition.",
+      "pairs": [
+        {
+          "left": "Clause",
+          "right": "A subject plus a predicate"
+        },
+        {
+          "left": "Argument",
+          "right": "A phrase for a participant in the event"
+        },
+        {
+          "left": "Transitivity",
+          "right": "The number of arguments a predicate takes"
+        },
+        {
+          "left": "Recursion",
+          "right": "A structure containing another of the same kind"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q022",
+      "type": "match",
+      "text": "Match each X-bar term with its role.",
+      "pairs": [
+        {
+          "left": "Head (X)",
+          "right": "Obligatory core that fixes the category"
+        },
+        {
+          "left": "Complement",
+          "right": "Phrase selected by the head"
+        },
+        {
+          "left": "Specifier",
+          "right": "Phrase at the top edge (e.g., subject of TP)"
+        },
+        {
+          "left": "Adjunct",
+          "right": "Modifier at an extra bar level"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q023",
+      "type": "match",
+      "text": "Match each thematic role with its example participant.",
+      "pairs": [
+        {
+          "left": "Agent",
+          "right": "The pirate (sank the ship on purpose)"
+        },
+        {
+          "left": "Theme",
+          "right": "The ship (affected by sinking)"
+        },
+        {
+          "left": "Experiencer",
+          "right": "me (Pirates frighten me)"
+        },
+        {
+          "left": "Instrument",
+          "right": "a cannon (used to do it)"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-q024",
+      "type": "match",
+      "text": "Match each category/phrase with what heads it.",
+      "pairs": [
+        {
+          "left": "TP",
+          "right": "T (tense/auxiliary)"
+        },
+        {
+          "left": "CP",
+          "right": "C (complementizer)"
+        },
+        {
+          "left": "NP",
+          "right": "a noun"
+        },
+        {
+          "left": "VP",
+          "right": "a verb"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     }
   ],
   "notes": [
+    {
+      "id": "ch6-n014",
+      "title": "★ KEY EXAM POINTS — Chapter 6",
+      "body": "★ WORD ORDER fixed (English SVO) vs. flexible (topic/focus). Basic order = S/O/V order; SOV most common, SVO next; all six attested. ★ CLAUSE = subject + predicate; SENTENCE = standalone clause. TRANSITIVITY/valency: intransitive(1)/transitive(2)/ditransitive(3). Sentence types: declarative/interrogative(yes-no, content)/imperative; simple/compound/complex(=embedding=RECURSION). ★ CONSTITUENT = unit; tests = SUBSTITUTION, MOVEMENT, IT-CLEFT, STAND-ALONE, (coordination). ★ HEAD (obligatory core, fixes category) + COMPLEMENT (selected) + SPECIFIER (top edge) + ADJUNCT (modifier). SELECTION = head's complement requirement. ★ LEXICAL (N V Adj Adv) vs. FUNCTIONAL (D, T/Aux, C, pronoun, conj) categories. ★ THEMATIC ROLES: AGENT (on purpose), EXPERIENCER (mental state), THEME/PATIENT (affected), INSTRUMENT. ARGUMENT STRUCTURE changed by PASSIVE. ★ X-BAR: XP → (specifier) X'; X' → X (complement); every phrase projects a HEAD. SENTENCE = TP (subject = spec-TP, T = tense/aux); embedded clause = CP (head C). ★ MOVEMENT: Subj-Aux Inversion = T-to-C HEAD MOVEMENT (yes-no Qs); content Qs = WH-MOVEMENT to spec-CP.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n013",
+      "title": "6.19-6.20 Movement",
+      "body": "Transformations relate structures by movement. Subject-Auxiliary Inversion is Head Movement — the auxiliary moves from T into the next-higher head C (T-to-C movement), deriving yes-no questions. Content questions add wh-movement, moving the wh-phrase to the specifier of CP. Movement is notated by striking through the element in its base position and drawing an arrow to its landing site (trace notation, using t, is an alternative not used in this book).",
+      "image": "images/ch6-fig-6-29-t-to-c-movement.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n012",
+      "title": "6.15-6.18 TP, adjuncts, CP & ambiguity",
+      "body": "A sentence is a TP (tense phrase): T heads it (an auxiliary, tense on the verb, or nonfinite 'to'), the subject sits in the specifier of TP, and the VP is the complement (sometimes labelled IP/InflP). Modifiers attach as adjuncts — extra bar levels that are neither specifier nor complement. Embedded clauses are CPs headed by a complementizer. Because one string can have two tree structures, syntax produces structural ambiguity (e.g., 'The raccoon thought about the food in that trashcan'), with each structure giving a different meaning.",
+      "image": "images/ch6-fig-6-25-embedded-cp.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n011",
+      "title": "6.13-6.14 Phrase structure & X-bar theory",
+      "body": "Phrase structure rules (e.g., S → NP VP; NP → (D) (AdjP) N (PP)) generate trees, but don't explain why only certain structures occur. X-bar theory adds constraints: every phrase XP is the projection of a head X through an intermediate bar level X', with fixed slots for a specifier, complement(s), and adjuncts. Crucially, every phrase is headed by a word of the same category (endocentricity), and all categories — including functional ones — project the same X-bar schema.",
+      "image": "images/ch6-fig-6-14-tp-tree.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n010",
+      "title": "6.10-6.11 Arguments & thematic roles",
+      "body": "Arguments also carry thematic (theta) roles — the part a participant plays in the event: agent (acts on purpose: 'The pirate sank the ship'), experiencer (has a mental state: 'Pirates frighten me'), theme (the thing something happens to; a patient is additionally changed), instrument (tool: 'with a cannon'), plus goal, source, and causer. A predicate's argument structure is the arguments it needs and the roles it assigns. Operations like the passive change argument structure — the theme becomes the subject and the agent is demoted or optional — without changing the underlying event roles.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n009",
+      "title": "6.7-6.9 Questions",
+      "body": "English yes-no questions are formed by Subject-Auxiliary Inversion — swapping the subject and the auxiliary (You have left → Have you left?). Content questions use a wh-word (who/what/where/why/how) and front it. In embedded questions the wh-word still moves, but the main-clause inversion doesn't apply the same way. In X-bar terms (6.19-6.20) these are movement: inversion = T-to-C head movement; wh-questions = wh-movement to the front of the clause (specifier of CP).",
+      "image": "images/ch6-fig-6-31-wh-movement.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n008",
+      "title": "6.6 Clausal embedding",
+      "body": "Embedding places one clause inside another: the outer clause is the matrix (main) clause, the inner one the embedded (subordinate) clause, typically introduced by a complementizer (e.g., 'Seo-yeon knows [that Danai laughed]'). Because a clause can contain a clause that contains a clause…, embedding is recursive, giving language its unbounded productivity.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n007",
+      "title": "6.5 Functional categories",
+      "body": "Beyond lexical categories (N, V, Adj, Adv), words like the, will, in, that belong to functional categories — the grammatical glue of syntax, often with purely grammatical meaning. Key ones: determiners (D: the, a, this, my, 's — in complementary distribution with one another), auxiliaries (analyzed as T, carrying tense), complementizers (C: that, if, whether), pronouns, and conjunctions/coordinators. Functional categories are closed classes.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n006",
+      "title": "6.4 Constituency tests",
+      "body": "Constituency tests show that a string is a single unit. Substitution/pro-form: replace the string with a pronoun/pro-form. Movement: move the string as a block. It-cleft: put the string in 'It is/was ___ that ___' (VPs cleft with 'do'). Stand-alone (fragment): the string can be a one-phrase answer to a question. Coordination: constituents of the same type can be joined by and/or/but (introduced but flagged as less reliable). A test result applies only to the specific sentence tested — 'constituent' is always relative to a structure.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n005",
+      "title": "6.3 Phrases, heads, and selection",
+      "body": "Languages group words into constituents; grammar refers to phrases in structural positions, not linear counts. A phrase is a set of words acting as a unit (whatever can replace 'all kittens' as the subject). Every phrase has a head — its obligatory central word, which fixes the phrase's category (a noun heads an NP, a verb a VP). Heads select (require) complements — e.g., a transitive verb selects an object NP; adjectives typically take PP complements. Headedness and constituency are the two central ideas of syntax.",
+      "image": "images/ch6-fig-6-02-np-structure.png",
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n004",
+      "title": "6.2 Sentence types & typology",
+      "body": "By function: declarative (statement), interrogative (question — yes-no or content), imperative (command). By structure: simple (one clause), compound (clauses joined by a coordinator and/or/but), complex (contains an embedded subordinate clause — an example of recursion). Across languages, basic word order is stated as the order of Subject, Object, Verb; SVO and SOV dominate, but all six orders occur, and many languages allow far more flexibility than English.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n003",
+      "title": "6.2 Key grammatical terminology",
+      "body": "A sentence expresses a complete statement/question/command; a statement expresses a proposition (true or false). A clause = a subject + a predicate (the state/event attributed to the subject). Arguments are phrases (usually NPs) for the event's participants. Subjects precede the predicate in English and control agreement (nominative pronouns: I, we, they); direct objects follow the verb (accusative: me, us, them); indirect objects (ditransitives) are often the recipient, often marked by 'to'. Transitivity (valency) = number of arguments: intransitive (1), transitive (2), ditransitive (3).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n002",
+      "title": "6.1-6.2 Syntactic knowledge & word order",
+      "body": "Syntax is knowledge of how words combine into phrases and sentences; speakers judge some orders grammatical and others not. Word order can be fixed (English, French) or flexible (Latin, Kanien'kéha, ASL — where order tracks topic/focus). English requires the verb to follow the subject: schematically N V (N). Basic word order describes subject/object/verb order in neutral declaratives: English is SVO (~35% of languages); SOV is most common worldwide (~41%); VSO and object-initial orders also exist. Flexible-order languages are often topic-comment (first element = topic, rest = comment).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-n001",
+      "title": "Chapter 6 — Learning Objectives",
+      "body": "By the end of Chapter 6 you should be able to: use constituency tests to identify the phrases in a sentence; categorize words into lexical and functional categories by distribution; identify relationships between grammatically related sentences (active/passive, statements/questions); and draw tree diagrams representing the structure of English sentences.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
     {
       "id": "ch5-n011",
       "title": "★ KEY EXAM POINTS — Chapter 5",
