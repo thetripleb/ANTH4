@@ -511,6 +511,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch7-g013",
+      "term": "count noun",
+      "def": "A noun that can be counted and pluralized and take numerals/'many' (e.g., three cats).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch6-g044",
       "term": "CP (complementizer phrase)",
       "def": "A projection of C (complementizer); embedded clauses are CPs, and the landing site for moved auxiliaries (T-to-C) and wh-phrases.",
@@ -536,6 +545,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-g003",
+      "term": "denotation",
+      "def": "What a linguistic expression points to in the world (more precisely, in our cognitive model of the world); written ⟦x⟧. The denotation of 'pencil' is the set of all pencils.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch5-g027",
@@ -635,6 +653,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch7-g005",
+      "term": "entailment",
+      "def": "A relation where if sentence p is true, q is necessarily true. Tested with the contradiction test: negating an entailment while asserting the original yields a contradiction.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch4-g003",
@@ -799,6 +826,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch7-g019",
+      "term": "idiom",
+      "def": "A multi-word expression whose meaning is non-compositional and must be stored as a whole (e.g., 'let the cat out of the bag').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch6-g013",
       "term": "imperative",
       "def": "A clause type expressing a request or command (e.g., 'Open the door!').",
@@ -806,6 +842,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-g006",
+      "term": "implicature",
+      "def": "A meaning a sentence suggests but does not necessarily make true; unlike an entailment, an implicature is cancellable (can be negated without contradiction).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch1-g014",
@@ -833,6 +878,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-g015",
+      "term": "individual-level predicate",
+      "def": "A predicate expressing a stable, more-or-less permanent property (e.g., 'is tall', 'is intelligent').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch5-g010",
@@ -943,6 +997,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch7-g010",
+      "term": "lexical semantics",
+      "def": "The study of the meaning of individual words (the semantic information stored with a lexical item, alongside its form and syntactic category).",
+      "image": "images/ch7-fig-7-mind-lexicon.png",
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch3-g057",
       "term": "lexical stress",
       "def": "Stress whose placement is unpredictable and memorized per word; can create minimal pairs. Contrast with predictable (rule-governed) stress.",
@@ -979,6 +1042,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch7-g001",
+      "term": "linguistic meaning",
+      "def": "The meaning encoded by linguistic expressions themselves (words/sentences), as opposed to non-linguistic 'meaning' (e.g., 'those clouds mean rain').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch1-g001",
       "term": "linguistics",
       "def": "The scientific study of human language: describing the patterns of languages and drawing conclusions about the shared systems in speakers' and signers' minds.",
@@ -1013,6 +1085,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch7-g014",
+      "term": "mass noun",
+      "def": "A noun treated as an uncountable substance, taking 'much' and resisting plural/numerals (e.g., water, furniture).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch2-g016",
@@ -1150,6 +1231,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch7-g011",
+      "term": "necessary and sufficient conditions",
+      "def": "A classical theory of word meaning: the minimal set of conditions that something must meet (necessary) and that suffice (sufficient) to belong to a category (e.g., defining 'doe').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-g018",
+      "term": "negative polarity item",
+      "def": "An expression (e.g., 'any', 'ever', 'lift a finger') that is only licensed in negative or similar downward-entailing environments.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch4-g010",
       "term": "nonce word",
       "def": "An invented word used for testing; speakers' acceptance of a nonce word can show two phones contrast without a real minimal pair.",
@@ -1193,6 +1292,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch7-g017",
+      "term": "one-place predicate",
+      "def": "A predicate taking a single argument; its denotation is the set of things that satisfy it (⟦sour⟧ = the set of all sour things).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch3-g051",
@@ -1474,6 +1582,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch7-g007",
+      "term": "presupposition",
+      "def": "A special kind of entailment that a sentence takes for granted / assumes to be true already (e.g., 'again' presupposes a prior occurrence).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-g004",
+      "term": "principle of compositionality",
+      "def": "The meaning of a complex expression is determined by the meanings of its parts AND how those parts are combined (not just which words, but their structure).",
+      "image": "images/ch7-fig-7-compositionality-tree.png",
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch4-g014",
       "term": "principle of simplicity",
       "def": "When two analyses fit the data equally, prefer the simpler one (fewest statements/rules).",
@@ -1501,6 +1627,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch7-g008",
+      "term": "proposition",
+      "def": "The content of a declarative sentence that can be true or false.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-g012",
+      "term": "prototype",
+      "def": "A theory/observation that categories have fuzzy boundaries and better/worse examples; the 'cup or bowl' experiments show categorization isn't captured by strict necessary-and-sufficient conditions alone.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
       "id": "ch2-g015",
       "term": "reclamation",
       "def": "Repurposing a slur as a marker of shared identity and solidarity against oppression (e.g., 'queer'); not all targeted members may be ready to embrace a reclaimed term.",
@@ -1526,6 +1670,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch7-g020",
+      "term": "referent",
+      "def": "The actual thing in the world (or cognitive model) that a linguistic expression points to on a given use.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch5-g006",
@@ -1571,6 +1724,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch7-g002",
+      "term": "sense",
+      "def": "The meaning of a word that language users store in their heads — the concept associated with the expression (e.g., what you know when you know the word strawberry).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch6-g003",
@@ -1661,6 +1823,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-g016",
+      "term": "stage-level predicate",
+      "def": "A predicate expressing a temporary state or stage (e.g., 'is available', 'is being restless right now').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch1-g026",
@@ -1931,6 +2102,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch7-g009",
+      "term": "truth conditions",
+      "def": "The conditions under which a sentence would be true; at-issue (literal) meaning is often called truth-conditional meaning.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
       "id": "ch4-g018",
@@ -2932,6 +3112,114 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-f001",
+      "front": "Linguistic vs. non-linguistic meaning?",
+      "back": "Linguistic = meaning encoded by words/sentences (sense of 'swill'); non-linguistic = 'clouds mean rain', a gift 'means' I'm sorry.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f002",
+      "front": "Sense vs. denotation?",
+      "back": "Sense = the concept stored in your head; denotation = what the expression points to in the world (⟦pencil⟧ = the set of all pencils).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f003",
+      "front": "Principle of compositionality?",
+      "back": "A complex meaning depends on the meanings of the parts AND how they're combined — not just which words, but the structure.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f004",
+      "front": "Entailment vs. implicature — key test?",
+      "back": "Negate it: negating an entailment (while keeping the original) is a contradiction; an implicature is cancellable (no contradiction).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f005",
+      "front": "What is a presupposition?",
+      "back": "A special entailment the sentence takes for granted as already true (e.g., 'The professor petted a cat again' presupposes a previous petting).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f006",
+      "front": "Why isn't meaning just necessary & sufficient conditions?",
+      "back": "The 'cup or bowl' experiments show category boundaries are fuzzy and depend on world knowledge — prototypes, not strict definitions.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f007",
+      "front": "Count vs. mass noun?",
+      "back": "Count = countable, pluralizes, takes 'many' (cats); mass = uncountable substance, takes 'much' (water).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f008",
+      "front": "Individual-level vs. stage-level predicate?",
+      "back": "Individual-level = stable property (is tall); stage-level = temporary state (is available / being restless now).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f009",
+      "front": "What does ⟦x⟧ mean?",
+      "back": "'The denotation of x' — what the expression x points to; for a one-place predicate, the set of things it's true of.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f010",
+      "front": "What is a negative polarity item (NPI)?",
+      "back": "A word like 'any/ever' licensed only in negative/downward-entailing contexts (*'I saw anyone' vs. 'I didn't see anyone').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f011",
+      "front": "Are idioms compositional?",
+      "back": "No — idioms ('let the cat out of the bag') are non-compositional and stored whole.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-f012",
+      "front": "Is a dictionary the authority on meaning?",
+      "back": "No — dictionaries lag usage and don't list all senses; meaning lives in speakers' minds, not the OED.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     }
   ],
   "questions": [
@@ -4634,9 +4922,391 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-q001",
+      "type": "mc",
+      "text": "Which sentence describes NON-linguistic meaning?",
+      "options": [
+        "I saw a double rainbow; what does it mean?!",
+        "What does 'swill' even mean?",
+        "Explain the meaning of the word 'ode'imin'.",
+        "What is the sense of 'strawberry'?"
+      ],
+      "answer": "I saw a double rainbow; what does it mean?!",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q002",
+      "type": "tf",
+      "text": "True or False: All DPs (determiner phrases) are referential in their meaning.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q003",
+      "type": "mc",
+      "text": "'The professor petted a cat again' relates to 'The professor has previously petted a cat.' This is a:",
+      "options": [
+        "presupposition",
+        "regular entailment",
+        "implicature",
+        "contradiction"
+      ],
+      "answer": "presupposition",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q004",
+      "type": "mc",
+      "text": "'The professor petted a cat' relates to 'The professor likes cats.' This is a(n):",
+      "options": [
+        "implicature",
+        "regular entailment",
+        "presupposition",
+        "tautology"
+      ],
+      "answer": "implicature",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q005",
+      "type": "mc",
+      "text": "'The professor adopted a brown cat' relates to 'The professor adopted a cat.' This is a:",
+      "options": [
+        "regular entailment",
+        "presupposition",
+        "implicature",
+        "contradiction"
+      ],
+      "answer": "regular entailment",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q006",
+      "type": "mc",
+      "text": "'Do you brush your cat daily?' — the bolded 'brush' has what kind of meaning?",
+      "options": [
+        "compositional (literal)",
+        "non-compositional (idiomatic)",
+        "presuppositional",
+        "referential only"
+      ],
+      "answer": "compositional (literal)",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q007",
+      "type": "mc",
+      "text": "'She let the cat out of the bag' (revealing a secret). The bracketed idiom has what kind of meaning?",
+      "options": [
+        "non-compositional (idiomatic)",
+        "compositional (literal)",
+        "presuppositional",
+        "denotational"
+      ],
+      "answer": "non-compositional (idiomatic)",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q008",
+      "type": "mc",
+      "text": "The 'cup or bowl' categorization experiments mainly show that:",
+      "options": [
+        "Category boundaries are fuzzy and depend on world knowledge",
+        "Words have strict necessary-and-sufficient definitions",
+        "Denotation equals sense",
+        "All nouns are mass nouns"
+      ],
+      "answer": "Category boundaries are fuzzy and depend on world knowledge",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q009",
+      "type": "tf",
+      "text": "True or False: If a word used by a language community is not in the Oxford English Dictionary, it is not a real word.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q010",
+      "type": "tf",
+      "text": "True or False: Dictionaries do not necessarily list all meanings/uses of a word.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q011",
+      "type": "mc",
+      "text": "What does ⟦sour⟧ denote?",
+      "options": [
+        "The set of all sour things in the model of the world",
+        "The concept of sourness in your head",
+        "The word 'sour' itself",
+        "A presupposition of sourness"
+      ],
+      "answer": "The set of all sour things in the model of the world",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q012",
+      "type": "tf",
+      "text": "True or False: An implicature is cancellable, whereas an entailment is not.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q013",
+      "type": "tf",
+      "text": "True or False: By the principle of compositionality, you must memorize the meaning of every sentence as a whole.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q014",
+      "type": "fitb",
+      "text": "The concept a language user stores in their head for a word is its ____ (as opposed to its denotation).",
+      "answer": "sense",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q015",
+      "type": "fitb",
+      "text": "A special entailment that a sentence takes for granted as already true is a ____.",
+      "answer": "presupposition",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q016",
+      "type": "fitb",
+      "text": "Words like 'any' and 'ever', licensed only in negative contexts, are called negative ____ items.",
+      "answer": "polarity",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q017",
+      "type": "match",
+      "text": "Match each meaning relation with its description.",
+      "pairs": [
+        {
+          "left": "Entailment",
+          "right": "If p is true, q must be true"
+        },
+        {
+          "left": "Presupposition",
+          "right": "Taken for granted as already true"
+        },
+        {
+          "left": "Implicature",
+          "right": "Suggested but cancellable"
+        },
+        {
+          "left": "Compositionality",
+          "right": "Meaning from parts + how combined"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q018",
+      "type": "match",
+      "text": "Match each term with its example or description.",
+      "pairs": [
+        {
+          "left": "Sense",
+          "right": "The concept of 'strawberry' in your mind"
+        },
+        {
+          "left": "Denotation",
+          "right": "The set of all strawberries in the world"
+        },
+        {
+          "left": "Count noun",
+          "right": "three cats"
+        },
+        {
+          "left": "Mass noun",
+          "right": "much water"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-q019",
+      "type": "match",
+      "text": "Match each predicate/noun type with an example.",
+      "pairs": [
+        {
+          "left": "Individual-level predicate",
+          "right": "is tall (stable property)"
+        },
+        {
+          "left": "Stage-level predicate",
+          "right": "is available (temporary)"
+        },
+        {
+          "left": "Idiom",
+          "right": "let the cat out of the bag"
+        },
+        {
+          "left": "Negative polarity item",
+          "right": "I didn't see anyone"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     }
   ],
   "notes": [
+    {
+      "id": "ch7-n010",
+      "title": "★ KEY EXAM POINTS — Chapter 7",
+      "body": "★ SEMANTICS = study of linguistic meaning. LINGUISTIC vs. NON-linguistic meaning ('swill' vs. 'clouds mean rain'). ★ SENSE (concept in the mind) vs. DENOTATION ⟦x⟧ (what it points to in the world; a set for predicates). ★ COMPOSITIONALITY = meaning from PARTS + how COMBINED; idioms are the non-compositional exception. ★ ENTAILMENT (p true ⇒ q true; contradiction test) vs. PRESUPPOSITION (entailment taken for granted) vs. IMPLICATURE (suggested, CANCELLABLE). ★ Lexical meaning ≠ just NECESSARY & SUFFICIENT conditions — categories are FUZZY (prototypes; 'cup or bowl'). ★ COUNT vs. MASS nouns; INDIVIDUAL-level (stable) vs. STAGE-level (temporary) predicates; gradable adjectives = DEGREES on a scale. ★ Dictionary is NOT the authority on meaning. ★ NPIs (any/ever) need negative/downward-entailing contexts.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n009",
+      "title": "7.12-7.13 Set theory & negative polarity items",
+      "body": "Denotations can be modelled with basic set theory (membership, subset, intersection), which helps state semantic relations precisely. Negative polarity items (NPIs) like 'any', 'ever', 'lift a finger' are licensed only in negative or otherwise downward-entailing environments ('I didn't see anyone' ✓ vs. *'I saw anyone').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n008",
+      "title": "7.10-7.11 Dictionaries & denotation",
+      "body": "The dictionary is NOT the ultimate authority on meaning: a word used by a community is real even if it's not in the OED, and dictionaries don't list every sense. Formally, denotation is what an expression points to in our cognitive model of the world, written ⟦x⟧. A one-place predicate denotes a set: ⟦sour⟧ = the set of all sour things; ⟦pencil⟧ = the set of all pencils. Sense and denotation are linked — the sense lets you compute the denotation.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n007",
+      "title": "7.7-7.9 Countability, predicate types, degrees",
+      "body": "Nouns are used as count (countable, pluralizable, 'many': cats) or mass (uncountable substance, 'much': water) — many nouns can be both. Predicates are individual-level (stable property: is tall) or stage-level (temporary: is available); some Spanish adjectives are ambivalent. Gradable adjectives involve degrees on a scale (tall→taller), and languages differ in how they mark comparison (some, like Washo, lack overt comparative morphemes).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n006",
+      "title": "7.6 Events & thematic roles",
+      "body": "Verb meanings can be analysed with event semantics: a sentence asserts there is an event e of a certain type with participants filling thematic roles (agent, theme, experiencer, etc., from Chapter 6). E.g., 'The sound frightened the child' ≈ there is an event e, e is a frightening, the sound is the cause/stimulus, the child is the experiencer.",
+      "image": "images/ch7-fig-7-event-instrument-tree.png",
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n005",
+      "title": "7.4-7.5 The lexicon & lexical meaning",
+      "body": "A lexical entry pairs a form with syntactic category and semantic (lexical) meaning. One classical theory: word meaning = necessary and sufficient conditions (e.g., 'doe' = [animal, deer, female, adult]). But the 'cup or bowl' experiments show category boundaries are fuzzy — whether something counts as a cup depends on context (e.g., having tea in it) and world knowledge, so meaning involves prototypes, not just strict definitions. Compositional vs. non-compositional (idiomatic) meaning also matters (prebake = compositional; 'let the cat out of the bag' = non-compositional).",
+      "image": "images/ch7-fig-7-mind-lexicon.png",
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n004",
+      "title": "7.3 Entailments, presuppositions, implicatures",
+      "body": "When p is true, if q must also be true, p entails q (an entailment). Test with contradiction: if negating q while asserting p is contradictory, it's an entailment. A presupposition is a special entailment the sentence takes for granted ('...again' presupposes a prior event). An implicature is merely suggested, not necessarily true, and is cancellable (negating it isn't a contradiction). So when a sentence 'means' something, ask: entailment, presupposition, or implicature?",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n003",
+      "title": "7.2 Compositionality",
+      "body": "The principle of compositionality: the meaning of a complex expression is built from the meanings of its parts AND how they're combined. This holds for sentences (from word meanings + syntactic structure) and for multimorphemic words (unhelpfulness from un-, help, -ful, -ness in a particular structure). It predicts that structural ambiguity yields multiple meanings, and it's why we don't have to memorize whole sentences — only morphemes. Exceptions are idioms, which are non-compositional and stored whole.",
+      "image": "images/ch7-fig-7-compositionality-tree.png",
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n002",
+      "title": "7.1 Linguistic meaning",
+      "body": "Semantics is the study of linguistic meaning — how word meanings combine into sentence meaning. Distinguish linguistic meaning (the sense of an expression, e.g., 'what does swill mean?') from non-linguistic meaning ('those clouds mean rain'; a gift 'means' I'm sorry). Use–mention matters: 'strawberry has 4 syllables' talks about the word. Two complementary views of meaning: sense (the concept stored in the mind) and denotation (what the expression points to in the world). Saying ode'imin and strawberry 'mean the same' = they denote the same thing.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch7-n001",
+      "title": "Chapter 7 — Learning Objectives",
+      "body": "By the end of Chapter 7 you should be able to: acknowledge the plurality of theories about the lexicon; explain why the dictionary isn't the authority on meaning; analyse linguistic meaning from descriptive observations; understand what concepts lexical meaning encodes; and explain the difference between sense and denotation.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
     {
       "id": "ch6-n014",
       "title": "★ KEY EXAM POINTS — Chapter 6",
