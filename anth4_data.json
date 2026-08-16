@@ -412,6 +412,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch13-g004",
+      "term": "bottom-up information",
+      "def": "Information that flows from the physical signal up to the brain during perception (the incoming acoustic/visual input).",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
       "id": "ch5-g013",
       "term": "bound morpheme",
       "def": "A morpheme that must occur with other morphemes (all affixes, plus bound roots like -whelmed); shown with a hyphen on its attaching side.",
@@ -842,6 +851,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch13-g007",
+      "term": "early processing",
+      "def": "Evidence (e.g., from EEG) that the brain registers phonological contrasts very early in perceptual processing, before higher-level areas engage.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
       "id": "ch6-g031",
@@ -1303,6 +1321,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch13-g009",
+      "term": "language comprehension",
+      "def": "The mental process of perceiving and understanding linguistic input.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
       "id": "ch11-g016",
       "term": "language milestone",
       "def": "A typical developmental achievement reached around a certain age (babbling, first words, two-word stage, etc.).",
@@ -1321,6 +1348,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch13-g008",
+      "term": "language production",
+      "def": "The mental process of planning and generating linguistic output (speech or sign).",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
       "id": "ch9-g001",
       "term": "language reclamation",
       "def": "A community's work to reclaim and bring back use of its heritage language, especially after colonial suppression; the theme uniting this chapter (Mohawk, Michif, Hul'q'umi'num', Nishnaabemwin).",
@@ -1337,6 +1373,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch13-g006",
+      "term": "language-specific processing",
+      "def": "The finding that a person's native language influences how they process linguistic input (e.g., which phonological contrasts the brain responds to).",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
       "id": "ch1-g023",
@@ -1715,6 +1760,15 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch13-g002",
+      "term": "neurolinguistics",
+      "def": "The study of how the brain supports language, using brain measures (e.g., electrical activity/EEG) to test where and when linguistic processing happens.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
       "id": "ch12-g011",
@@ -2219,6 +2273,24 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch13-g001",
+      "term": "psycholinguistics",
+      "def": "The study of the mental processes involved in language production and comprehension, using experiments (e.g., reaction times) to test theories of how linguistic knowledge is deployed in real time.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-g003",
+      "term": "psychological reality",
+      "def": "The idea that abstract linguistic units (like phonemes) are not just analysts' constructs but are actually used by the mind/brain — supported by psycho- and neurolinguistic evidence.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
       "id": "ch8-g013",
@@ -2732,6 +2804,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch13-g005",
+      "term": "top-down influence",
+      "def": "The effect of a person's existing knowledge (e.g., of words) on how they perceive incoming input — knowledge shaping perception.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
       "id": "ch2-g014",
@@ -4489,6 +4570,60 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch13-f001",
+      "front": "Psycholinguistics vs. neurolinguistics?",
+      "back": "Psycholinguistics studies the mental processes of language (via behaviour, e.g., reaction times); neurolinguistics studies the brain basis (via brain measures like EEG).",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-f002",
+      "front": "What does 'psychological reality' of phonemes mean?",
+      "back": "That phonemes are actually used by the mind/brain, not just analysts' abstractions — supported by experiments.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-f003",
+      "front": "Bottom-up vs. top-down in perception?",
+      "back": "Bottom-up = the incoming signal flowing to the brain; top-down = existing knowledge (e.g., of words) shaping perception.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-f004",
+      "front": "Give an example of a top-down effect.",
+      "back": "Your knowledge of real words biases how you perceive an ambiguous sound on a [d]-[t] continuum toward a real word.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-f005",
+      "front": "What does 'language-specific processing' show?",
+      "back": "Your native language shapes how your brain processes input (e.g., which contrasts it responds to).",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-f006",
+      "front": "What do EEG studies suggest about phonological contrasts?",
+      "back": "The brain registers them very early in processing, before higher-level language areas engage.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     }
   ],
   "questions": [
@@ -7655,9 +7790,168 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch13-q001",
+      "type": "mc",
+      "text": "Which field studies the mental processes of language production and comprehension using behavioural experiments?",
+      "options": [
+        "psycholinguistics",
+        "neurolinguistics",
+        "sociolinguistics",
+        "historical linguistics"
+      ],
+      "answer": "psycholinguistics",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q002",
+      "type": "mc",
+      "text": "Your knowledge of real words biasing how you perceive an ambiguous [d]-[t] sound is an example of:",
+      "options": [
+        "a top-down influence",
+        "bottom-up information",
+        "language production",
+        "overextension"
+      ],
+      "answer": "a top-down influence",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q003",
+      "type": "mc",
+      "text": "Information flowing from the physical signal up to the brain during perception is called:",
+      "options": [
+        "bottom-up information",
+        "top-down influence",
+        "psychological reality",
+        "procedural knowledge"
+      ],
+      "answer": "bottom-up information",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q004",
+      "type": "mc",
+      "text": "Evidence that phonemes are actually used by the mind/brain supports their:",
+      "options": [
+        "psychological reality",
+        "semantic change",
+        "covert prestige",
+        "valency"
+      ],
+      "answer": "psychological reality",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q005",
+      "type": "tf",
+      "text": "True or False: Neurolinguistics typically uses brain measures (like EEG) to study language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q006",
+      "type": "tf",
+      "text": "True or False: A person's native language has no influence on how they process linguistic input.",
+      "answer": "False",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q007",
+      "type": "tf",
+      "text": "True or False: EEG evidence suggests the brain registers phonological contrasts fairly early in processing.",
+      "answer": "True",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q008",
+      "type": "fitb",
+      "text": "The study of how the brain supports language, using measures like EEG, is ____.",
+      "answer": "neurolinguistics",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-q009",
+      "type": "fitb",
+      "text": "The effect of existing word knowledge on perception is a ____-down influence.",
+      "answer": "top",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     }
   ],
   "notes": [
+    {
+      "id": "ch13-n005",
+      "title": "★ KEY EXAM POINTS — Chapter 13",
+      "body": "★ PSYCHOLINGUISTICS = mental processes of production/comprehension (behavioural methods, e.g., reaction times). NEUROLINGUISTICS = brain basis (e.g., EEG). ★ Evidence supports the PSYCHOLOGICAL REALITY of phonemes — they're used by the mind/brain, not just analysts' abstractions. ★ Processing is LANGUAGE-SPECIFIC (native language shapes it). ★ Perception = BOTTOM-UP (signal→brain) + TOP-DOWN (word knowledge shapes perception, e.g., [d]-[t] continuum). ★ Brain registers phonological contrasts EARLY. [Chapter marked in progress in source.]",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-n004",
+      "title": "13.4 Top-down effects of word knowledge",
+      "body": "Perception combines bottom-up information (the incoming signal flowing to the brain) with top-down influences (existing knowledge shaping perception). A speaker's knowledge of the words of their language affects the sounds they hear — e.g., on a [d]-to-[t] continuum, word knowledge biases perception toward real words. This top-down effect operates early, showing language knowledge shapes processing from an early stage.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-n003",
+      "title": "13.3 Language-specific processing",
+      "body": "Processing is shaped by the specific language a person knows: a speaker's native language influences how they process incoming linguistic input, including which phonological contrasts their brain responds to. This shows that linguistic knowledge, not just the raw signal, drives perception.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-n002",
+      "title": "13.1-13.2 The mind makes language; phonemes are real",
+      "body": "Language is produced and understood by mental processes. A recurring question is whether the abstract units of linguistic theory have psychological reality. Psycho- and neurolinguistic experiments provide evidence that phonemes are real to the mind/brain — for instance, brain responses distinguish phonological contrasts, supporting phonology as something the mind and brain actually use.",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch13-n001",
+      "title": "Chapter 13 — Overview",
+      "body": "Psycholinguistics and neurolinguistics ask how the mind and brain actually make language. Psycholinguistics uses behavioural experiments (e.g., reaction times) to evaluate theories of production and comprehension; neurolinguistics uses brain measures (e.g., EEG). This short chapter focuses on evidence that abstract units like phonemes are psychologically real. [The chapter is marked in progress in the source.]",
+      "image": null,
+      "module": "wk16",
+      "chapter": 13,
+      "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
     {
       "id": "ch12-n006",
       "title": "★ KEY EXAM POINTS — Chapter 12",
