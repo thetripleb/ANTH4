@@ -232,6 +232,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch1-ppt-g023",
+      "term": "alarm call",
+      "def": "A vervet monkey vocalization warning of a specific predator (snake, eagle, leopard), each triggering a different escape response; appears learned and can even be used deceptively, but lacks discreteness and duality of patterning.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch5-g022",
       "term": "allomorph",
       "def": "One of the variant forms of a morpheme (e.g., English plural -s/-z/-ɪz/-(r)en/internal change/-∅).",
@@ -266,6 +275,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch1-ppt-g020",
+      "term": "animal communication",
+      "def": "Signaling systems used by non-human animals; they may share some hallmarks (communication, systematicity, limited displacement) but lack the full set that defines human language.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch10-g015",
@@ -691,6 +709,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch1-ppt-g009",
+      "term": "convention (conventional relationship)",
+      "def": "An agreed-upon, community-shared link between a form and its meaning; because the link is not natural or causal, it must be shared and learned rather than deduced.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch8-g003",
       "term": "conversational implicature",
       "def": "An inference a listener draws from an utterance in context, beyond its literal meaning, by assuming the speaker is being cooperative; cancellable.",
@@ -761,6 +788,24 @@
       "module": "wk13",
       "chapter": 11,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch1-ppt-g005",
+      "term": "cultural transmission",
+      "def": "The property that (at least part of) a language must be learned from the surrounding community rather than inherited genetically; which language you speak depends on your environment, and no one person can change the shared code alone.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-g025",
+      "term": "cuneiform",
+      "def": "The earliest known writing system, developed in Mesopotamia about 5,000 years ago; part of the lecture's point that writing is very recent compared with speech.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch2-g020",
@@ -835,6 +880,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch1-ppt-g001",
+      "term": "design features (of language)",
+      "def": "The set of core properties that define human language; in this lecture called the \"eight hallmarks.\" A communication system that shows all of them counts as a true language.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch6-g028",
       "term": "determiner",
       "def": "A functional category (D) marking a noun phrase (the, a, this, my, 's-possessors); determiners are in complementary distribution with each other.",
@@ -880,6 +934,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch1-ppt-g002",
+      "term": "discreteness",
+      "def": "The property that language is built from a small set of separable, elemental units (sounds/signs) that can be pulled apart and recombined; e.g., \"tap\" breaks into t–a–p.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-g004",
+      "term": "displacement",
+      "def": "The ability to communicate about things and events that are not physically or temporally present — the past, the future, the hypothetical, the absent.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch4-g007",
       "term": "distribution",
       "def": "The overall set of environments in which a given phone can occur.",
@@ -896,6 +968,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch1-ppt-g003",
+      "term": "duality of patterning",
+      "def": "\"Complexly patterned at multiple levels\": meaningless elemental units (sounds) at a lower level combine into meaningful units at a higher level; the same sounds t–a–p yield tap, apt, and pat.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch13-g007",
@@ -1168,6 +1249,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch1-ppt-g026",
+      "term": "hieroglyphics",
+      "def": "The ancient Egyptian writing system that appeared around the same time as cuneiform; one of several independently invented scripts (alongside Mayan).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch11-g009",
       "term": "high-amplitude sucking",
       "def": "An experimental paradigm using an infant's sucking rate: a novel stimulus raises the rate; habituation lowers it; a change back up (dishabituation) shows the infant perceives a difference.",
@@ -1202,6 +1292,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch1-ppt-g012",
+      "term": "iconicity",
+      "def": "A resemblance between a form and its meaning; iconic (representational) words like onomatopoeia are relatively rare because most language is arbitrary.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch10-g007",
@@ -1321,6 +1420,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch1-ppt-g007",
+      "term": "interchangeability",
+      "def": "The property that any competent user of the code can both send and receive messages, switching freely between producing and understanding.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch12-g003",
       "term": "interlanguage",
       "def": "A learner's own evolving language system, distinct from both the L1 and the target L2, with its own rule-governed patterns (Selinker 1972).",
@@ -1391,6 +1499,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch1-ppt-g013",
+      "term": "Kiki–Bouba effect",
+      "def": "A classic demonstration of sound symbolism: across cultures, people match the sharp nonsense word \"kiki\" to a spiky shape and the round word \"bouba\" to a curvy shape, showing non-random sound–meaning associations.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch9-g006",
@@ -1553,6 +1670,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch1-ppt-g024",
+      "term": "lexigram",
+      "def": "A visual symbol on a keyboard used by trained apes (e.g., Kanzi) to \"say\" words; Kanzi answered complex questions by selecting lexigrams.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch2-g026",
@@ -1976,6 +2102,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch1-ppt-g010",
+      "term": "onomatopoeia",
+      "def": "Words that imitate the actual sound they name (buzz, slurp, clank, woof, meow); a partial exception to arbitrariness, though even these vary across languages and stay somewhat arbitrary.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch3-g051",
@@ -2491,6 +2626,33 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch1-ppt-g006",
+      "term": "reflexivity",
+      "def": "The ability to use language to talk about language itself (metalanguage) — e.g., \"How do you pronounce that?\" or \"I don't like what you just said.\"",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-g015",
+      "term": "regional dialect",
+      "def": "A language variety associated with a particular geographic area, differing in words, pronunciations, and grammar.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-g014",
+      "term": "register",
+      "def": "A variety of language chosen to express formality (or informality) appropriate to a situation; part of how language signals social identity.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch14-g006",
       "term": "regular sound change",
       "def": "A sound change that applies systematically to all eligible words (often in a specific conditioning environment).",
@@ -2507,6 +2669,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch1-ppt-g022",
+      "term": "round dance",
+      "def": "A honey bee behavior signaling simply that a food source is present (nearby), as opposed to the more detailed waggle dance.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch3-g030",
@@ -2599,6 +2770,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch1-ppt-g008",
+      "term": "sign (linguistic sign)",
+      "def": "An indicator that stands for something else. Linguistic signs are arbitrary and used by convention, like a traffic light or a wedding ring, with no inherent or causal link between form and meaning.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch6-g014",
       "term": "simple sentence",
       "def": "A sentence with only one clause.",
@@ -2635,6 +2815,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch1-ppt-g016",
+      "term": "social dialect",
+      "def": "A language variety associated with a particular social group (class, ethnicity, community) rather than a geographic region.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
       "id": "ch10-g020",
       "term": "sociolinguistic correlation",
       "def": "A statistical association between a linguistic variable and a social factor such as class, gender, age, or ethnicity.",
@@ -2651,6 +2840,15 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch1-ppt-g017",
+      "term": "sociolinguistics",
+      "def": "The subfield of linguistics that studies language in its social contexts — how language varies with and signals social identity.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch3-g025",
@@ -2696,6 +2894,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch1-ppt-g011",
+      "term": "sound symbolism",
+      "def": "A tendency for certain sound combinations to become associated with certain meanings within a language (English gl-: glisten, gleam, glare, glow, glitter); still only weakly, not fully, non-arbitrary.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch2-g021",
@@ -3236,6 +3443,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch1-ppt-g021",
+      "term": "waggle dance",
+      "def": "A honey bee behavior encoding the distance, direction, and quantity of a food source; a striking but limited, largely genetic communication system.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
       "id": "ch4-g024",
@@ -4930,6 +5146,141 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch1-ppt-f001",
+      "front": "Linguistics is the ___ study of natural human language.",
+      "back": "Scientific and empirical — it treats language as data to be observed and analyzed objectively, describing what people actually do.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f002",
+      "front": "Descriptive vs. prescriptive grammar — what's the difference?",
+      "back": "Descriptive grammar describes and explains what speakers actually do (subconscious, never taught, necessary for communication). Prescriptive grammar tells people what they \"should\" do (must be taught, easily forgotten, decided by \"experts,\" not needed to communicate).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f003",
+      "front": "Name the eight hallmarks of human language.",
+      "back": "Arbitrariness, discreteness, duality of patterning (complex patterns at multiple levels), displacement, productivity, cultural transmission, reflexivity, and interchangeability.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f004",
+      "front": "What is arbitrariness? Give evidence.",
+      "back": "No inherent/causal link between a word's form and its meaning; the pairing is by convention. Evidence: the same concept has unrelated forms across languages (bread / pain / xleb / mian bao / kenyér).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f005",
+      "front": "What is discreteness?",
+      "back": "Words are built from separable elemental units you can break apart — e.g., \"tap\" = t + a + p.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f006",
+      "front": "What is duality of patterning?",
+      "back": "Language patterns at two levels: meaningless sound units at the lower level combine into meaningful units at the higher level — the sounds t, a, p recombine as tap, apt, pat.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f007",
+      "front": "What is displacement?",
+      "back": "We can talk about things and events not present — the absent, past, future, or hypothetical (\"If I had a million dollars…\").",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f008",
+      "front": "What is productivity (generativity)?",
+      "back": "We can produce and understand an almost infinite number of messages by recombining relatively few elements and patterns (e.g., The Cat in the Hat: ~200 unique words, endless imagination).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f009",
+      "front": "What are onomatopoeia and sound symbolism, and why don't they break arbitrariness?",
+      "back": "Onomatopoeia imitates real sounds (buzz, woof); sound symbolism links certain sound clusters to meanings (English gl-: gleam, glow). Both are only partially motivated and still vary across languages, so language stays mostly arbitrary.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f010",
+      "front": "Is the honey bee waggle dance a language? Why or why not?",
+      "back": "No. It's genuine, systematic, rule-based communication with limited displacement, but it isn't really arbitrary, has no duality of patterning, is essentially non-productive (no innovation), and is genetic rather than learned.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f011",
+      "front": "What did vervet monkey alarm calls show — and what did they lack?",
+      "back": "At least ~10 predator-specific calls (snake/eagle/leopard → different responses) that appear learned and can be used to \"lie.\" But the calls lack discreteness, duality of patterning, and real productivity (no syntax).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f012",
+      "front": "Vicki, Washoe, and Kanzi — what did each ape achieve?",
+      "back": "Vicki (chimp): spoke only ~4 words (mama, papa, up, cup). Washoe (chimp): produced ~132 ASL signs, understood far more. Kanzi (bonobo): understood complex spoken commands and answered via a lexigram keyboard.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f013",
+      "front": "Physically, what adapts humans for speech? (name a few)",
+      "back": "Upright even teeth, muscular lips, a small mouth, a small muscular tongue, a velum that raises/lowers, and — most importantly — bipedalism, which puts the head above the spine and lowers the larynx, creating a long pharynx for resonance.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f014",
+      "front": "How is human language different from even advanced animal communication?",
+      "back": "Beyond lexical items (nouns, verbs), roughly half of human speech is purely grammatical (prepositions, conjunctions, articles, auxiliaries), and grammar lets us build infinite sentences from finite words — far beyond a 5-year-old-level any animal reaches.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-f015",
+      "front": "Which is older, spoken or written language — and by how much?",
+      "back": "Speech is far older: spoken/signed language goes back tens of thousands of years (~50,000+), while writing is only a few thousand years old (cuneiform ~5,000 years ago). Children learn speech naturally but must be taught to write.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     }
   ],
   "questions": [
@@ -8470,9 +8821,408 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch1-ppt-q001",
+      "type": "mc",
+      "text": "According to the lecture, which property lets us talk about things and events that are not present?",
+      "options": [
+        "Displacement",
+        "Discreteness",
+        "Interchangeability",
+        "Arbitrariness"
+      ],
+      "answer": "Displacement",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q002",
+      "type": "mc",
+      "text": "Breaking the word \"cat\" into the non-meaningful pieces k–æ–t illustrates which hallmark?",
+      "options": [
+        "Discreteness",
+        "Displacement",
+        "Productivity",
+        "Reflexivity"
+      ],
+      "answer": "Discreteness",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q003",
+      "type": "mc",
+      "text": "The fact that words can be analyzed at two levels — their component sounds AND the meaning built from them — is called:",
+      "options": [
+        "Duality of patterning",
+        "Arbitrariness",
+        "Cultural transmission",
+        "Interchangeability"
+      ],
+      "answer": "Duality of patterning",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q004",
+      "type": "mc",
+      "text": "The Cat in the Hat uses only ~200 unique words yet tells a vivid, imaginative story. This best illustrates:",
+      "options": [
+        "Productivity",
+        "Discreteness",
+        "Displacement",
+        "Reflexivity"
+      ],
+      "answer": "Productivity",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q005",
+      "type": "mc",
+      "text": "The word for 'bread' is bread, pain, xleb, mian bao, and kenyér across different languages. This is evidence for:",
+      "options": [
+        "Arbitrariness",
+        "Iconicity",
+        "Productivity",
+        "Cultural transmission"
+      ],
+      "answer": "Arbitrariness",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q006",
+      "type": "mc",
+      "text": "Which best describes what the honey bee waggle dance communicates?",
+      "options": [
+        "Distance, direction, and quantity of a food source",
+        "The identity of a predator",
+        "An emotional state only",
+        "Nothing systematic"
+      ],
+      "answer": "Distance, direction, and quantity of a food source",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q007",
+      "type": "mc",
+      "text": "Using language to talk about language itself (e.g., \"How do you pronounce that?\") is which hallmark?",
+      "options": [
+        "Reflexivity",
+        "Displacement",
+        "Discreteness",
+        "Interchangeability"
+      ],
+      "answer": "Reflexivity",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q008",
+      "type": "mc",
+      "text": "Which subfield studies language in its social contexts?",
+      "options": [
+        "Sociolinguistics",
+        "Phonetics",
+        "Historical linguistics",
+        "Semantics"
+      ],
+      "answer": "Sociolinguistics",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q009",
+      "type": "mc",
+      "text": "According to the lecture, what is the earliest known writing system?",
+      "options": [
+        "Cuneiform",
+        "The Greek alphabet",
+        "Egyptian hieroglyphics",
+        "The Phoenician alphabet"
+      ],
+      "answer": "Cuneiform",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q010",
+      "type": "tf",
+      "text": "True or False: Written language is much more recent in human history than spoken (or signed) language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q011",
+      "type": "tf",
+      "text": "True or False: The honey bee waggle dance qualifies as a full human-style language under the eight hallmarks.",
+      "answer": "False",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q012",
+      "type": "tf",
+      "text": "True or False: Linguistics is primarily about prescriptive grammar — telling people what is correct.",
+      "answer": "False",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q013",
+      "type": "tf",
+      "text": "True or False: Onomatopoeia and sound symbolism completely eliminate arbitrariness from language.",
+      "answer": "False",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q014",
+      "type": "tf",
+      "text": "True or False: Vervet monkey alarm calls appear to be learned rather than purely instinctive, and may even be used deceptively.",
+      "answer": "True",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q015",
+      "type": "fitb",
+      "text": "The honey bee behavior that encodes the distance, direction, and quantity of food is the ____ dance.",
+      "answer": "waggle",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q016",
+      "type": "fitb",
+      "text": "Words that imitate real-world sounds, such as buzz and woof, are examples of ____.",
+      "answer": "onomatopoeia",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q017",
+      "type": "fitb",
+      "text": "Kanzi communicated by selecting visual symbols on a keyboard called ____.",
+      "answer": "lexigrams",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q018",
+      "type": "fitb",
+      "text": "Because the link between a word's form and its meaning is not natural, we say the sign is used by ____ (agreement shared across a community).",
+      "answer": "convention",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q019",
+      "type": "match",
+      "text": "Match each hallmark of human language to its definition.",
+      "pairs": [
+        {
+          "left": "Displacement",
+          "right": "Talking about things not physically present"
+        },
+        {
+          "left": "Discreteness",
+          "right": "Words break into separable elemental units"
+        },
+        {
+          "left": "Productivity",
+          "right": "Infinite messages from finite elements"
+        },
+        {
+          "left": "Reflexivity",
+          "right": "Using language to talk about language itself"
+        },
+        {
+          "left": "Interchangeability",
+          "right": "Users can both send and receive messages"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q020",
+      "type": "match",
+      "text": "Match each ape to what it accomplished.",
+      "pairs": [
+        {
+          "left": "Vicki",
+          "right": "Spoke only about four words aloud (mama, papa, up, cup)"
+        },
+        {
+          "left": "Washoe",
+          "right": "Produced roughly 132 ASL signs"
+        },
+        {
+          "left": "Kanzi",
+          "right": "Answered complex questions using a lexigram keyboard"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-q021",
+      "type": "match",
+      "text": "Match each linguistics subfield to what it studies.",
+      "pairs": [
+        {
+          "left": "Phonetics",
+          "right": "Production and perception of speech sounds"
+        },
+        {
+          "left": "Sociolinguistics",
+          "right": "Language in social contexts"
+        },
+        {
+          "left": "Historical linguistics",
+          "right": "How languages change over time"
+        },
+        {
+          "left": "Semantics",
+          "right": "Meaning"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     }
   ],
   "notes": [
+    {
+      "id": "ch1-ppt-n009",
+      "title": "★ KEY EXAM POINTS — Lecture 1 (What Is Language & Linguistics)",
+      "body": "★ Linguistics = SCIENTIFIC, EMPIRICAL, DESCRIPTIVE study of language — describe what people DO, not what they 'should' do.\n★ Descriptive grammar = subconscious, never taught, necessary for communication; Prescriptive grammar = taught, forgettable, decided by 'experts,' not required to communicate.\n★ MEMORIZE the eight hallmarks: Arbitrariness, Discreteness, Duality of patterning, Displacement, Productivity, Cultural transmission, Reflexivity, Interchangeability.\n★ Match the classic examples to the hallmark: not-present events = DISPLACEMENT; k–æ–t pieces = DISCRETENESS; sounds→meaning at two levels = DUALITY OF PATTERNING; Cat-in-the-Hat / infinite sentences = PRODUCTIVITY; cross-language 'bread' = ARBITRARINESS.\n★ Arbitrariness has only PARTIAL exceptions: onomatopoeia & sound symbolism (and the Kiki–Bouba effect) — language stays mostly arbitrary.\n★ Animal systems (bees, vervets, apes, dolphins) show SOME features (communication, limited displacement, learned signs, even rudimentary grammar) but NONE shows the full set — key gaps: no true duality of patterning, very limited productivity/syntax.\n★ Bee dance = genetic, non-productive; vervet calls = learned, predator-specific, no syntax; Washoe (132 signs) & Kanzi (lexigrams) = trained, not spontaneous full language.\n★ Bipedalism (lowered larynx → long pharynx) is the MOST important physical adaptation for human speech.\n★ Speech is ancient; WRITING is recent (cuneiform ~5,000 yrs) and must be taught — reading/writing are SECONDARY to spoken/signed language.\n★ Human language ≠ animal communication: ~half of human speech is grammatical items, and grammar yields infinite sentences from finite words.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n008",
+      "title": "Humans, Animals, and the Evolution of Language",
+      "body": "Why humans can speak (physical adaptations):\n• Upright, even teeth; muscular lips; smaller mouth; smaller, more muscular tongue; velum that raises/lowers.\n• MOST IMPORTANT: bipedalism → head sits directly above the spinal column and the larynx is lower, creating a longer pharynx for air resonance.\n\nConclusions on animal vs. human communication:\n• Many animals learn signs that stand for things; some learn rudimentary grammar.\n• But even a 5-year-old human's language is far more advanced.\n• Human language isn't just lexical (nouns/verbs) — about HALF of typical speech is grammatical items (prepositions, conjunctions, articles, auxiliaries). Grammar builds infinite sentences from finite words.\n\nEvolution & writing:\n• Language origin is controversial — perhaps ~60,000 years ago, around when humans began making art (abstract cognition).\n• Writing is recent: cuneiform (Mesopotamia) ~5,000 years ago; Egyptian hieroglyphs about the same time; Maya developed writing independently; Phoenicians are credited with the first alphabet → Greek → Latin & Cyrillic.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n007",
+      "title": "Animal Communication — Case Studies",
+      "body": "HONEY BEES:\n• Round dance = food is present; waggle dance = distance, direction, quantity.\n• Communication? Yes — systematic and rule-based, with limited displacement. But NOT really arbitrary, NO duality of patterning, essentially non-productive (no innovation), and GENETIC, not learned → not a full language.\n\nVERVET MONKEYS:\n• Most sophisticated monkey system studied; at least ~10 predator-specific alarm calls (snake → stand & look down; eagle → hide in bush; leopard → run up a tree).\n• Appears LEARNED, not instinctive; may be used for 'lying' (deception → theory of mind?).\n• BUT lacks discreteness/recombination, limited productivity, no syntax (no duality of patterning).\n\nAPES:\n• Vicki (chimp): spoke only mama, papa, up, cup.\n• Washoe (chimp): produced 132 ASL signs; understood ~3× as many.\n• Kanzi (bonobo): understood complex verbal commands/questions; answered via a lexigram keyboard (~74% correct on 600 questions).\n• Ape vocal tracts aren't built for human speech.\n\nDOLPHINS:\n• Some learned rudimentary grammar — can use WORD ORDER to code differences in meaning.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n006",
+      "title": "Arbitrariness & Its (Partial) Exceptions",
+      "body": "• Language is a system of ARBITRARY signs — signs indicate something else and are used by convention (like a traffic light or wedding ring), with no causal/inherent form–meaning relationship.\n• Most words have no direct relationship to their meanings (cross-linguistic 'bread', or a dozen/twelve/12/XII).\n• Rare representational (ICONIC) exceptions:\n   – Onomatopoeia: words imitating sounds (buzz, slurp, clank, woof, meow).\n   – Sound symbolism: sound clusters linked to meanings (English gl-: glisten, gleam, glare, glimmer, glow, glitter).\n• Kiki–Bouba effect: people cross-culturally match 'kiki' to a spiky shape, 'bouba' to a round one.\n• BUT both onomatopoeia and sound symbolism are still only PARTLY motivated — language remains largely arbitrary.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n005",
+      "title": "The Eight Hallmarks of Human Language",
+      "body": "1. Arbitrariness — no inherent link between form and meaning; signs used by convention (bread/pain/xleb/mian bao/kenyér).\n2. Discreteness — words break into elemental units (tap = t–a–p).\n3. Duality of patterning (complex patterns at multiple levels) — meaningless sounds combine into meaningful units (t,a,p → tap, apt, pat).\n4. Displacement — talk about things/events not present.\n5. Productivity — infinite messages from finite elements & patterns.\n6. Cultural transmission — the code must be learned from the environment; shared by a community; no individual can change it alone.\n7. Reflexivity — use the code to talk about the code itself (metalanguage).\n8. Interchangeability — users can both transmit AND receive messages.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n004",
+      "title": "What Language IS",
+      "body": "Language is:\n• A complex, RULE-BASED system for organizing and expressing information.\n• Inherently INTERACTIONAL — used to share knowledge, coordinate actions, make requests/complaints.\n• CREATIVE — we coin and understand new forms (supercalifragilistic…, bae, YOLO, FOMO).\n• An expression of SOCIAL IDENTITY — word choice, pronunciation, registers (formality), regional dialects, social dialects.\n• SPOKEN or SIGNED — not necessarily written. Writing is recent in human history; children must be TAUGHT to write, but not to speak/sign.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n003",
+      "title": "Course Objectives & Subfields of Linguistics",
+      "body": "Objectives:\n• Examine your own beliefs/attitudes about language and language use.\n• Become aware of the diversity of language systems AND their similarities.\n• Get introduced to the subfields of linguistics and to tools for linguistic analysis.\n\nSubfields (what linguists do):\n• Phonetics — sounds: production & perception.\n• Phonology — how sounds pattern together in a language.\n• Morphology — how words are formed.\n• Syntax — how words combine into clauses and sentences.\n• Semantics — meaning.\n• Pragmatics — meaning in context.\n• Sociolinguistics — language in social contexts.\n• Historical linguistics — how language changes.\n• Also: psycholinguistics, computational linguistics, applied linguistics, etc.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n002",
+      "title": "Prescriptive vs. Descriptive Grammar",
+      "body": "DESCRIPTIVE grammar:\n• Absolutely necessary for effective communication.\n• Not explicitly taught; never forgotten.\n• Known SUBCONSCIOUSLY.\n• No one 'decides' these rules — they emerge from use.\n\nPRESCRIPTIVE grammar:\n• Communication can still happen without these rules.\n• Must be taught explicitly; we forget them all the time.\n• Must be consciously thought about.\n• Grammar 'experts' decide on them.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch1-ppt-n001",
+      "title": "What Is Linguistics? (Empirical & Descriptive)",
+      "body": "• Linguistics = the SCIENTIFIC study of natural human language.\n• Empirical: relies on / derives from OBSERVATION — language is treated as scientific data to be analyzed objectively.\n• The study of language structure and language use = GRAMMAR (in the linguistic sense).\n• Linguistics is NOT about prescriptive grammar (telling people what they \"should\" do / what is \"correct\").\n• Linguistics IS about DESCRIPTIVE grammar: the goal is to describe and explain what people ACTUALLY do — study of language WITHOUT judgment.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
     {
       "id": "ch14-n007",
       "title": "★ KEY EXAM POINTS — Chapter 14",
