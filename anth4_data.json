@@ -322,6 +322,24 @@
       "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
     },
     {
+      "id": "ch4-fa-g003",
+      "term": "alveolar tap (flap)",
+      "def": "[ɾ] — a single rapid contact of the tongue tip against the alveolar ridge, shorter than a trill. In Farsi it appears only between vowels.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-g001",
+      "term": "alveolar trill",
+      "def": "[r] — a consonant produced by rapid vibration of the tongue tip against the alveolar ridge. In the Farsi data it is the voiced trill appearing word-initially and next to consonants, and is taken to be the underlying phoneme.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
       "id": "ch14-g013",
       "term": "analogy",
       "def": "When a word shifts to match a pattern found in other words — typically from a rare pattern toward a common one; often reduces the number of allomorphs in a paradigm.",
@@ -1186,6 +1204,15 @@
       "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch4-fa-g006",
+      "term": "elsewhere case",
+      "def": "The allophone that appears in every environment not claimed by a more specific rule. Because it is defined by default rather than by a stated condition, it is normally the one chosen as the underlying phoneme. In Farsi, [r] is the elsewhere case.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
       "id": "ch6-g031",
       "term": "embedding",
       "def": "Placing one clause inside another; the outer clause is the matrix/main clause and the inner one is the embedded (subordinate) clause.",
@@ -1283,6 +1310,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch4-fa-g004",
+      "term": "final devoicing",
+      "def": "A phonological process in which a voiced sound loses its voicing at the end of a word. The Farsi rule /r/ → [r̥] / ___ # is an instance: the voiced trill devoices word-finally.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
     },
     {
       "id": "ch1-g030",
@@ -1724,6 +1760,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch4-fa-g005",
+      "term": "intervocalic",
+      "def": "Occurring between two vowels (V ___ V). The conditioning environment for the Farsi tap [ɾ].",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
     },
     {
       "id": "ch3-g060",
@@ -4046,6 +4091,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-fa-g002",
+      "term": "voiceless alveolar trill",
+      "def": "[r̥] — an alveolar trill produced without vocal-fold vibration, marked by the under-ring diacritic. In Farsi it appears only in word-final position.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
     },
     {
       "id": "ch3-g017",
@@ -6631,6 +6685,87 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-fa-f001",
+      "front": "In the Farsi data, do [r], [ɾ], and [r̥] belong to one, two, or three phonemes?",
+      "back": "ONE. There are no minimal pairs among them and none of their environments overlap, so they are in complementary distribution — three allophones of a single phoneme.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f002",
+      "front": "State the environments for [r], [ɾ], and [r̥] in the Farsi data.",
+      "back": "[r]: word-initially (#_a rah, #_i ris, #_u ruz), after a consonant (d_i qædri), and before a consonant (æ_n hærntowr̥). [ɾ]: only between vowels (e_i beɾid, i_æ biɾæŋg, e_a tʃeɾa, a_i daɾid). [r̥]: only word-finally (tʃar̥, tʃedʒur̥, ʃir̥, hærntowr̥).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f003",
+      "front": "Which Farsi sound is the underlying phoneme, and why?",
+      "back": "/r/. It has the WIDEST distribution — word-initial, post-consonantal, and pre-consonantal — and is the ELSEWHERE case, appearing wherever the two more specific rules don't apply. The restricted allophones each need a stated condition; [r] does not.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f004",
+      "front": "Write the three rules for the Farsi data.",
+      "back": "/r/ → [r̥] / ___ #  (word-final devoicing)\n/r/ → [ɾ] / V ___ V  (intervocalic tapping)\n/r/ → [r] elsewhere",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f005",
+      "front": "Why is 'intervocalic' a better generalization than 'before a front vowel' for the Farsi tap?",
+      "back": "Because every environment in the data has a vowel on BOTH sides: e_i, i_æ, e_a, a_i. Stating only the following vowel ignores half the pattern and wrongly predicts a tap after a consonant. V___V is the stronger, more economical claim.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f006",
+      "front": "What two phonological processes are at work in the Farsi data?",
+      "back": "FINAL DEVOICING — the voiced trill loses voicing word-finally ([r̥]). LENITION (tapping) — the trill weakens to a single tap between vowels ([ɾ]), the same kind of weakening as English /t/ → [ɾ].",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f007",
+      "front": "Do the Farsi tapping and devoicing rules conflict?",
+      "back": "No. Intervocalic tapping requires a vowel AFTER the rhotic; word-final devoicing requires a word boundary after it. Those conditions can never both be met, so the rules never compete and no ordering is needed.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f008",
+      "front": "Compare the Farsi and Standard Italian problems.",
+      "back": "ITALIAN: one phoneme /n/, TWO allophones, conditioned by a FOLLOWING natural class (velar stops), process = place assimilation. FARSI: one phoneme /r/, THREE allophones, conditioned by POSITION (word-final vs. intervocalic vs. elsewhere), processes = devoicing and lenition. Both are solved with the same six-step method.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-f009",
+      "front": "Why can't you describe a vowel as 'alveolar'?",
+      "back": "Place-of-articulation labels (bilabial, alveolar, velar...) describe where a consonant constriction is formed. Vowels involve little or no constriction, so they're described instead by tongue HEIGHT, tongue BACKNESS, and lip ROUNDING — e.g. /i/ is high front unrounded, /æ/ is low front.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
     }
   ],
   "questions": [
@@ -12389,9 +12524,290 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-fa-q001",
+      "type": "mc",
+      "text": "In the Farsi data, [r], [ɾ], and [r̥] are best analyzed as:",
+      "options": [
+        "Three allophones of one phoneme",
+        "Three separate phonemes",
+        "Two phonemes, one with two allophones",
+        "Free variants of each other"
+      ],
+      "answer": "Three allophones of one phoneme",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q002",
+      "type": "mc",
+      "text": "In the Farsi data, the tap [ɾ] occurs in which environment?",
+      "options": [
+        "Between two vowels",
+        "Word-finally",
+        "Word-initially",
+        "Before a velar stop"
+      ],
+      "answer": "Between two vowels",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q003",
+      "type": "mc",
+      "text": "In the Farsi data, the voiceless trill [r̥] occurs:",
+      "options": [
+        "Word-finally",
+        "Between vowels",
+        "Word-initially",
+        "After a nasal"
+      ],
+      "answer": "Word-finally",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q004",
+      "type": "mc",
+      "text": "Which Farsi sound is chosen as the underlying phoneme, and on what grounds?",
+      "options": [
+        "/r/, because it is the elsewhere case with the widest distribution",
+        "/ɾ/, because it is easiest to produce",
+        "/r̥/, because it appears at word edges",
+        "/ɾ/, because it occurs between vowels"
+      ],
+      "answer": "/r/, because it is the elsewhere case with the widest distribution",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q005",
+      "type": "mc",
+      "text": "Which rule correctly captures Farsi word-final devoicing?",
+      "options": [
+        "/r/ → [r̥] / ___ #",
+        "/r̥/ → [r] / ___ #",
+        "/r/ → [ɾ] / ___ #",
+        "/r/ → [r̥] / # ___"
+      ],
+      "answer": "/r/ → [r̥] / ___ #",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q006",
+      "type": "mc",
+      "text": "The weakening of a trill to a tap between vowels is an example of:",
+      "options": [
+        "Lenition",
+        "Assimilation",
+        "Metathesis",
+        "Epenthesis"
+      ],
+      "answer": "Lenition",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q007",
+      "type": "mc",
+      "text": "Which feature is used to describe vowels, rather than place of articulation?",
+      "options": [
+        "Tongue height, backness, and lip rounding",
+        "Voicing and nasality",
+        "Airstream mechanism",
+        "Manner of articulation"
+      ],
+      "answer": "Tongue height, backness, and lip rounding",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q008",
+      "type": "tf",
+      "text": "True or False: The Farsi data contains minimal pairs proving [r] and [ɾ] are separate phonemes.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q009",
+      "type": "tf",
+      "text": "True or False: In the Farsi data none of the three rhotic environments overlap, confirming complementary distribution.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q010",
+      "type": "tf",
+      "text": "True or False: Vowels such as [i] and [æ] can correctly be described as alveolar.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q011",
+      "type": "tf",
+      "text": "True or False: The Farsi tapping and devoicing rules must be ordered because their environments conflict.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q012",
+      "type": "fitb",
+      "text": "A sound occurring between two vowels is said to be in ____ position.",
+      "answer": "intervocalic",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q013",
+      "type": "fitb",
+      "text": "The allophone appearing in every environment not claimed by a more specific rule is called the ____ case.",
+      "answer": "elsewhere",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q014",
+      "type": "fitb",
+      "text": "The Farsi process by which /r/ loses its voicing at the end of a word is called final ____.",
+      "answer": "devoicing",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q015",
+      "type": "match",
+      "text": "Match each Farsi allophone to its environment.",
+      "pairs": [
+        {
+          "left": "[r]",
+          "right": "Word-initial and next to consonants (elsewhere)"
+        },
+        {
+          "left": "[ɾ]",
+          "right": "Between two vowels"
+        },
+        {
+          "left": "[r̥]",
+          "right": "Word-final"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q016",
+      "type": "match",
+      "text": "Match each Farsi word to the rhotic allophone it contains.",
+      "pairs": [
+        {
+          "left": "[ruz] 'day'",
+          "right": "[r] — word-initial"
+        },
+        {
+          "left": "[tʃeɾa] 'why'",
+          "right": "[ɾ] — intervocalic"
+        },
+        {
+          "left": "[ʃir̥] 'lion'",
+          "right": "[r̥] — word-final"
+        },
+        {
+          "left": "[qædri] 'a little bit'",
+          "right": "[r] — after a consonant"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-q017",
+      "type": "match",
+      "text": "Match each phonology problem to its analysis.",
+      "pairs": [
+        {
+          "left": "Standard Italian [n]/[ŋ]",
+          "right": "Two allophones; conditioned by following velar stops; assimilation"
+        },
+        {
+          "left": "Farsi [r]/[ɾ]/[r̥]",
+          "right": "Three allophones; conditioned by position; devoicing and lenition"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
     }
   ],
   "notes": [
+    {
+      "id": "ch4-fa-n003",
+      "title": "★ KEY EXAM POINTS — Farsi Problem & Common Mistakes",
+      "body": "★ ANSWER: ONE phoneme /r/ with THREE allophones — [r] elsewhere, [ɾ] intervocalic, [r̥] word-final.\n★ No minimal pairs + no overlapping environments = COMPLEMENTARY DISTRIBUTION. Say both parts.\n★ The underlying phoneme is the ELSEWHERE case — widest distribution AND no stated condition needed.\n★ RULES: /r/ → [r̥] / ___ # ; /r/ → [ɾ] / V ___ V ; /r/ → [r] elsewhere.\n★ MISTAKE TO AVOID #1: calling vowels 'alveolar'. Place of articulation describes CONSONANT constrictions. Vowels take tongue HEIGHT, BACKNESS, and ROUNDING — /i/ high front, /æ/ low front, /a/ low.\n★ MISTAKE TO AVOID #2: stating only the FOLLOWING segment. If the data shows a vowel on both sides, the generalization is INTERVOCALIC — the stronger and more economical claim.\n★ MISTAKE TO AVOID #3: naming only some of the allophones in your conclusion. With three allophones, all three must appear in the final statement.\n★ SPELLING: it is COMPLEMENTARY distribution (completing each other), not 'complimentary'.\n★ PROCESSES: final devoicing + lenition (trill → tap). Compare Italian, which was place ASSIMILATION.\n★ CONTRAST THE TWO PROBLEMS: Italian = 2 allophones conditioned by a FOLLOWING NATURAL CLASS; Farsi = 3 allophones conditioned by POSITION in the word.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-n002",
+      "title": "Farsi Classwork — Worked Analysis (six-step method)",
+      "body": "STEP 1 — IDENTIFY THE SOUNDS: [r], [ɾ], [r̥].\n\nSTEP 2 — MINIMAL PAIRS?\n• None. The closest near-pair is [beɾid] 'go' and [daɾid] 'you have', but these differ in TWO places (b/d and e/a), so they are not a minimal pair — and in any case both contain [ɾ].\n• No minimal pairs → not contrastive → expect complementary distribution.\n\nSTEP 3 — LIST THE ENVIRONMENTS:\n   [r]            [ɾ]            [r̥]\n   #__a (rah)     e__i (beɾid)   w__# (hærntowr̥)\n   #__i (ris)     i__æ (biɾæŋg) a__# (tʃar̥)\n   #__u (ruz)     e__a (tʃeɾa)   u__# (tʃedʒur̥)\n   d__i (qædri)   a__i (daɾid)   i__# (ʃir̥)\n   æ__n (hærntowr̥)\n• No environments overlap → COMPLEMENTARY DISTRIBUTION confirmed.\n\nSTEP 4 — GENERALIZE WITH NATURAL CLASSES:\n• [ɾ] always has a VOWEL ON BOTH SIDES → INTERVOCALIC (V__V). ⚠ Note: it is NOT enough to say '[ɾ] appears before front vowels' — that ignores the preceding vowel and would wrongly predict a tap after a consonant.\n• [r̥] always sits at the END OF A WORD → __#. (Note it is preceded by a vowel three times and by a consonant once, so the preceding segment is irrelevant.)\n• [r] appears word-initially, after a consonant, and before a consonant — no single positive condition unites these. It is the ELSEWHERE case.\n\nSTEP 5 — DETERMINE THE UNDERLYING SOUND:\n• [r] has the widest distribution (5 environments vs. 4 each) AND is the only one requiring no stated condition.\n• → /r/ is the PHONEME; [r], [ɾ], [r̥] are its allophones.\n\nSTEP 6 — WRITE THE RULES:\n   /r/ → [r̥] / ___ #        (word-final devoicing)\n   /r/ → [ɾ]  / V ___ V      (intervocalic tapping — lenition)\n   /r/ → [r]  elsewhere\n\nRULE INTERACTION: the two conditioned rules never compete. Tapping requires a vowel AFTER the rhotic; devoicing requires a word boundary after it. Both can never be satisfied at once, so no ordering is required.\n\nWHY THE RULES MAKE SENSE:\n• Final devoicing is extremely common cross-linguistically — voicing is hard to sustain at the end of an utterance.\n• Trill → tap between vowels is LENITION, the same weakening seen in English /t/ → [ɾ].",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch4-fa-n001",
+      "title": "Farsi Classwork — Data and the Problem",
+      "body": "SOURCE: ANTH 4 phonology classwork, question 3. Farsi is an Indo-Iranian language widely spoken in Iran.\nFOCUS SOUNDS: [r] (voiced alveolar trill), [ɾ] (alveolar tap/flap), [r̥] (voiceless alveolar trill).\n\nDATA:\n[qædri] 'a little bit'      [hærntowr̥] 'however'     [beɾid] 'go'\n[rah] 'road'               [tʃar̥] 'four'            [biɾæŋg] 'pale'\n[ris] 'beard'              [tʃedʒur̥] 'what kind'     [tʃeɾa] 'why'\n[ruz] 'day'                [ʃir̥] 'lion'             [daɾid] 'you have'\n\nTHE QUESTION:\nDo [r], [ɾ], and [r̥] belong to one, two, or three different phonemes?\n• If they belong to different phonemes, give the minimal pairs that show this.\n• If they are allophones of one (or two) phonemes, state the rule for their distribution. Which one would you choose to represent the phonemic form, and why?",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
     {
       "id": "ch4-asn-n001",
       "title": "Discussion 4 - Assignment Requirements",
