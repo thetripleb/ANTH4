@@ -124,6 +124,15 @@
   ],
   "glossary": [
     {
+      "id": "ch2-v-g004",
+      "term": "'Don't Say Gay' bill",
+      "def": "Media name for Florida's Parental Rights in Education bill, signed into law by Gov. Ron DeSantis, barring classroom instruction on sexual orientation or gender identity in K-3 or in a manner not age- or developmentally appropriate. The lecture treats it as a language ideology enacted as law, noting the statute does not define 'age appropriate' and that consequences have included AP Psychology not being offered in Florida.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
       "id": "ch12-g013",
       "term": "accent (L2)",
       "def": "The pronunciation pattern of a later-learned language, shaped by transfer from the learner's first language's phonology.",
@@ -131,6 +140,15 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch2-ppt-g004",
+      "term": "accent hallucination",
+      "def": "Coined by Rubin (1992): hearing something in speech that is not there in reality, usually a stereotypically attributed feature, through top-down processing. Teachers in the UCD study reported slang words, filler 'umms and ahhs', and a stutter in the African American guise when the recording contained none of these.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch1-g021",
@@ -194,6 +212,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch2-ppt-g009",
+      "term": "African American English (AAE/AAVE)",
+      "def": "A rule-governed variety of English spoken largely by African Americans. The lecture stresses it is not 'improper English' but a different variety with its own systematic grammar, and that the ideology framing it as improper links language to race and power.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch11-g015",
@@ -284,6 +311,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch2-ppt-g011",
+      "term": "Appalachian English",
+      "def": "A regional variety spoken in the Appalachian Mountains (crossing North Carolina, Tennessee, West Virginia and others), frequently stigmatized as uneducated or lower-class — a judgment the lecture identifies as classist rather than linguistic.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch10-g015",
@@ -484,6 +520,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
+      "id": "ch2-ppt-g012",
+      "term": "Carolina Brogue",
+      "def": "The distinctive dialect of the North Carolina Outer Banks, documented by the Language and Life Project at NC State; used in lecture to show dialect variation within a single state.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch10-g022",
       "term": "categorical alternation",
       "def": "A change fully determined by the linguistic environment (not free social choice), which therefore does NOT count as a sociolinguistic variable.",
@@ -509,6 +554,15 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch2-ppt-g010",
+      "term": "Chicano English",
+      "def": "A variety of English associated with Latino/a communities, one of the three varieties John Baugh used in his housing-discrimination studies.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch11-g017",
@@ -934,6 +988,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch2-ppt-g015",
+      "term": "discourse marker",
+      "def": "A word or phrase that structures talk by breaking an utterance into units, such as 'like' in 'I went to the store and then like, I went to the mall'. The lecture contrasts this descriptive term with the prescriptive, negatively loaded label 'filler word'.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch1-ppt-g002",
       "term": "discreteness",
       "def": "The property that language is built from a small set of separable, elemental units (sounds/signs) that can be pulled apart and recombined; e.g., \"tap\" breaks into t–a–p.",
@@ -970,6 +1033,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch2-ppt-g014",
+      "term": "double modal",
+      "def": "The use of two modal verbs in sequence, e.g. 'might could'. Grammatical in African American English and Southern American English, ungrammatical in California English — a grammatical, not merely lexical, dimension of variation.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch1-ppt-g003",
       "term": "duality of patterning",
       "def": "\"Complexly patterned at multiple levels\": meaningless elemental units (sounds) at a lower level combine into meaningful units at a higher level; the same sounds t–a–p yield tap, apt, and pat.",
@@ -986,6 +1058,15 @@
       "module": "wk16",
       "chapter": 13,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
+    },
+    {
+      "id": "ch2-ppt-g003",
+      "term": "earwitness testimony",
+      "def": "Testimony or judgment based on identifying a speaker by voice alone; paired with linguistic profiling in the lecture because both rest on the assumption that a listener can reliably infer a speaker's race or identity from speech.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch6-g031",
@@ -1366,6 +1447,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-v-g002",
+      "term": "inclusive language ideology",
+      "def": "The belief that people should be able to choose the labels and gendered pronouns used for them, and that speakers should monitor their own and others' language accordingly. Includes coming-out narratives as a genre, pronoun sharing, and debate over terms such as Latinx.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
       "id": "ch2-g019",
       "term": "indexical bleaching",
       "def": "Replacing or mispronouncing someone's name to make it 'sound more English/white,' stripping their connection to family, community, and language (Bucholtz).",
@@ -1519,6 +1609,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch2-v-g007",
+      "term": "Language and Life Project",
+      "def": "A documentary and research project at North Carolina State University, led by Walt Wolfram, that records speakers across North Carolina. Source of the Carolina Brogue and Mountain Talk excerpts used in lecture.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
       "id": "ch14-g002",
       "term": "language change",
       "def": "The gradual, systematic change all living languages undergo across time, at every level (sound, morphology, syntax, meaning, lexicon).",
@@ -1544,6 +1643,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch2-ppt-g001",
+      "term": "language ideology",
+      "def": "Beliefs or attitudes, held beyond the individual level, concerning what types of languages should be spoken, by whom, and in which contexts. Lecture examples: prescriptivism in schools, the belief that African American English is 'improper', and the belief that only English should be spoken in public in the US. All are tied to power. 'Language attitudes' is used more or less interchangeably in this course, though attitudes skew individual and ideologies are community-held.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch11-g016",
@@ -1681,6 +1789,15 @@
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
+      "id": "ch2-ppt-g008",
+      "term": "Likert scale",
+      "def": "A rating scale (e.g., 1-5 or 1-6) between opposed descriptors, used in matched-guise experiments to quantify listeners' judgments: educated/not educated, friendly/unfriendly, employable/unemployable.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch2-g026",
       "term": "linguicide",
       "def": "The 'killing' of a language through policy (e.g., residential-school prohibitions on Indigenous languages).",
@@ -1699,6 +1816,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch2-v-g005",
+      "term": "linguistic insecurity",
+      "def": "A speaker's or community's anxiety that their own way of speaking is incorrect. Dennis Preston describes a long-standing American linguistic insecurity rooted in English having been inherited rather than invented, held in tension with American populism and a desire not to sound stuffy.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
       "id": "ch7-g001",
       "term": "linguistic meaning",
       "def": "The meaning encoded by linguistic expressions themselves (words/sentences), as opposed to non-linguistic 'meaning' (e.g., 'those clouds mean rain').",
@@ -1706,6 +1832,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch2-ppt-g002",
+      "term": "linguistic profiling",
+      "def": "The denial of goods or services based on a person's way of speaking and the assumed characteristics of people who sound a particular way. Per Baugh, it has a detrimental impact on the collective quest to advance equal access to fair housing and fair lending, and courts are ill equipped to offer adequate legal redress against housing providers, lending institutions, or insurance companies.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch10-g003",
@@ -1859,6 +1994,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch2-v-g006",
+      "term": "Midland dialect",
+      "def": "The dialect region spanning much of the Midwest (Ohio, Michigan, Indiana, Wisconsin, and neighboring states) that Americans across regions — including Southerners — most often identify as 'normal', accent-free, or correct English, and treat as the broadcast target.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
     },
     {
       "id": "ch3-g047",
@@ -2201,6 +2345,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-ppt-g013",
+      "term": "perceptual dialectology",
+      "def": "The study of where non-linguists believe dialect boundaries lie and how they evaluate those areas. Dennis Preston's research asked people to draw and label regions on blank maps, revealing widely shared beliefs about 'correct' and 'incorrect' English.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch11-g010",
@@ -2581,6 +2734,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
+      "id": "ch2-v-g003",
+      "term": "reactionary ideology",
+      "def": "An ideology formed in reaction against social progress. Lecture examples: 'I don't have pronouns', opposition to singular they as ungrammatical, and 'Don't Say Gay' legislation.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
       "id": "ch10-g016",
       "term": "real-time analysis",
       "def": "Studying change by comparing a community's speech at two actual points in time.",
@@ -2662,6 +2824,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
+      "id": "ch2-ppt-g016",
+      "term": "rising intonation",
+      "def": "A pitch rise at the end of an utterance. In English it typically marks questions, but it also occurs on declaratives, where it is stereotyped as part of the Valley Girl persona.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch5-g006",
       "term": "root",
       "def": "The smallest possible base — the indivisible core of a word (e.g., cat, library, nation).",
@@ -2723,6 +2894,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch2-ppt-g005",
+      "term": "semantic shift",
+      "def": "Change in a word's meaning over time, which often reflects changing attitudes toward a social phenomenon. Lecture examples trace gay, girl, harlot, hussy, and Cantonese tongzhi.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch1-g012",
@@ -2851,6 +3031,15 @@
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
+      "id": "ch2-ppt-g007",
+      "term": "solidarity variables",
+      "def": "Traits measured in matched-guise studies that index social closeness: friendly, helpful, trustworthy. The pattern reverses here, with lower-status guises rated HIGHER on these than higher-status guises.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch3-g025",
       "term": "sonorant",
       "def": "The class of consonants with relatively free airflow: nasal stops, approximants, taps, and trills.",
@@ -2950,6 +3139,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch2-v-g001",
+      "term": "standard language ideology",
+      "def": "The belief that one variety — standardized American English, following prescriptive rules — is the proper or correct form, and that other varieties are deficient. The lecture's core counterargument: nothing about the standard is linguistically better; its authority comes from its association with power.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
       "id": "ch1-g026",
       "term": "standardized variety",
       "def": "The variety of a language that most closely matches dictionaries, textbooks, and high-status media; its status comes from social/economic/political power, not from being linguistically 'better.'",
@@ -2957,6 +3155,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch2-ppt-g006",
+      "term": "status variables",
+      "def": "Traits measured in matched-guise studies that index social standing: educated, intelligent, attractive. Speakers in lower-status guises are rated LOWER on these, even by judges who speak the same variety.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch2-g024",
@@ -3265,6 +3472,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch2-ppt-g018",
+      "term": "tridialectal",
+      "def": "Command of three dialects. John Baugh was a tridialectal speaker of standard American English, AAVE, and Chicano English, which allowed him to vary only intonation and prosody across his test calls.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
       "id": "ch3-g036",
       "term": "triphthong",
       "def": "A vowel phone that moves through three qualities (e.g., Vietnamese rượu 'alcohol').",
@@ -3308,6 +3524,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch2-ppt-g017",
+      "term": "Valley Girl persona",
+      "def": "A stereotyped speech persona associated with young, wealthy white women of the San Fernando Valley, indexed by frequent 'like', creaky voice, and rising intonation on declaratives.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
       "id": "ch10-g004",
@@ -5281,6 +5506,240 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch2-ppt-f001",
+      "front": "What is a language ideology, and how does it differ from a personal language attitude?",
+      "back": "A language ideology is a belief about what languages should be spoken, by whom, and in which contexts, held at a community rather than individual level, and tied to power. Thinking Italian sounds nice is a personal attitude; believing only standardized English belongs in classrooms is an ideology. For this course the two terms are treated as effectively the same.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f002",
+      "front": "Name three language ideologies the lecture identifies, and what each is tied to.",
+      "back": "(1) Prescriptivism in schools — standardized American English is 'proper' and anything else is wrong. (2) African American English is 'improper English' — ties language ideology to race. (3) Only English should be spoken in public in the US — surfaces in viral videos of people harassed for speaking Spanish.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f003",
+      "front": "Define linguistic profiling and name the linguist associated with it.",
+      "back": "Denial of goods or services based on a person's way of speaking and the characteristics assumed of people who sound that way. John Baugh. He showed it undermines fair housing and fair lending, and that courts are poorly equipped to provide redress.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f004",
+      "front": "Describe Baugh's housing study design and result.",
+      "back": "Baugh, tridialectal in standard American English, AAVE, and Chicano English, called landlords about advertised apartments saying the same sentence and varying ONLY intonation and prosody, not grammar. Conducted 1988 across five Bay Area communities (Palo Alto, East Palo Alto, San Francisco, Oakland, Woodside). Appointments were far more often offered to the standard American English guise.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f005",
+      "front": "How does a matched guise experiment work?",
+      "back": "A bilingual or bidialectal speaker records the same neutral material in two varieties of differing community status. Typically 8-10 speakers are used and presented randomly. Listeners rate each guise on Likert scales. Judges do not realize they have heard the same speaker twice, so any rating difference is attributable to the variety alone.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f006",
+      "front": "What is the consistent split between status and solidarity variables in matched-guise results?",
+      "back": "Lower-status guises are rated LOWER on status variables (educated, intelligent, attractive) — even by judges who speak that variety. The reverse holds for solidarity variables (friendly, helpful, trustworthy), where lower-status guises are rated HIGHER.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f007",
+      "front": "Summarize the Mengesha (2015) UC Davis study.",
+      "back": "Zion Mengesha recruited a bidialectal African American student to record the same weather report twice — once in African American phonology and intonation, once in 'standard' English — with grammar unchanged and both takes the same length. Teachers from three school types each heard one guise, were told the speaker was auditioning for KDVS radio, and rated his employability and traits.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f008",
+      "front": "What is accent hallucination? Give two examples from the study.",
+      "back": "Rubin (1992): hearing a feature that is not actually present, stereotypically attributed via top-down processing. One teacher reported 'too many slang words' though the weather report contained none; another heard excessive 'umms and ahhs' that were not in the recording.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f009",
+      "front": "What did teacher BX report, and why is it the most serious finding?",
+      "back": "BX said the African American guise seemed to stutter, was 'a little slow', 'not the smartest cookie', and sounded 'bigger and heavy set' — attributing a nonexistent speech impediment and invoking stereotypes of African American men as large and aggressive. BX then judged the same speaker in the standard guise as more intelligent and 'skinnier', reading the identical slow pace as methodical and tactful.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f010",
+      "front": "Who was the speaker in the UCD study actually?",
+      "back": "A concert pianist and Sociology major at UC Davis. His reading ability was identical across both guises, so the negative judgments reflected attitudes toward AAVE, not literacy.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f011",
+      "front": "What is semantic shift? Trace 'gay' and 'queer'.",
+      "back": "Change in word meaning over time reflecting shifting social attitudes. GAY: happy (c.1300) → immoral woman (1825) → homosexual (1935) → 'hopeless/ridiculous' (1980s). QUEER: originally 'weird' → a slur for non-normative sexuality → reclaimed by the community in the 1980s-90s → now common in academia and activism, though some older gay speakers still hear it as offensive.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f012",
+      "front": "Trace the semantic shift of girl, harlot, and hussy — what pattern emerges?",
+      "back": "GIRL: child of either gender (1290) → unmarried female child (1530) → sweetheart (1650) → female sex worker (1711). HARLOT: low fellow/knave (1330) → male servant (1390) → unchaste woman (1450). HUSSY: housewife (1530) → playfully rude address (1600s) → woman of low behavior (1700s). The pattern: terms for women drift toward derogation tied to perceived sexual promiscuity.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f013",
+      "front": "What is the tongzhi example?",
+      "back": "In Cantonese/Chinese in Hong Kong, tongzhi originally meant 'comrade' in the context of the Communist revolution, and was taken up in the 1990s to refer to members of the gay community — semantic shift outside English.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f014",
+      "front": "What is perceptual dialectology, and what did Dennis Preston find?",
+      "back": "The study of where ordinary people believe dialects lie and how they judge them. Preston had people draw and label regions on blank US maps. Respondents overwhelmingly marked the US South and New York City as places where 'bad' English is spoken, and identified the Midland region (Ohio, Michigan, Wisconsin, Indiana) as 'normal' or correct — even Southerners did so.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f015",
+      "front": "Three levels on which language varies, with a lecture example of each.",
+      "back": "SOUND: British English speakers don't pronounce /r/ after vowels (flower). GRAMMAR: AAE and Southern American English permit double modals ('might could'), ungrammatical in California English. LEXICON: 'sigogglin'' for something crooked in Appalachian English; lift/elevator and nappy/diaper across British and American English.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f016",
+      "front": "What does the soda/pop/Coke map illustrate?",
+      "back": "Lexical variation by region within the US. Soda dominates California and most of the Northeast, pop dominates the Midwest (Oregon splits), and Coke is used as a generic in the South — where a server may ask what kind of Coke you want and accept 'Sprite' as an answer.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f017",
+      "front": "What is the lecture's single most important takeaway about language varieties?",
+      "back": "No language variety, language, or dialect is better than any other. All varieties are complex, logical, and rule-governed in their own ways. There is nothing linguistically superior about standardized American English — its status comes from its association with power.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-f018",
+      "front": "How can language ideologies cut both ways?",
+      "back": "They can harm speakers interpersonally and institutionally — teachers treating students differently or placing them in remedial classes, people being pulled over or profiled by law enforcement. But they can also uplift marginalized groups, as with inclusive language ideologies in LGBTQ communities.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-v-f001",
+      "front": "What is the lecture's point about Californians and accent?",
+      "back": "Most Californians assume they have no accent and that their speech is simply normal — but it is noticeable to outsiders, and the SNL 'Californians' sketch parodies it (drawn-out vowels, slurred words, obsessive freeway directions). Everyone has an accent; believing you don't is itself a product of how unmarked your variety feels.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f002",
+      "front": "Why is 'filler word' a loaded term for 'like'?",
+      "back": "'Filler word' is a prescriptive, negatively valued label, aimed especially at young women. Descriptively, sentence-medial 'like' is a DISCOURSE MARKER that segments units within an utterance — it does real work in discourse rather than merely filling space.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f003",
+      "front": "Who actually uses creaky voice, and why does it happen?",
+      "back": "Nearly everyone. Sociolinguistic studies find it roughly equal between men and women, and trans and non-binary speakers use it too — despite the stereotype tying it to young women and the Valley Girl persona. It arises naturally at the ends of English sentences, where pitch drops to distinguish statements from questions.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f004",
+      "front": "What does the Havre, Montana Border Patrol incident illustrate?",
+      "back": "Two US citizens buying milk and eggs were asked for ID by a Border Patrol agent who said it was because he heard them speaking Spanish, denying it was racial. The lecture frames it as linguistic profiling fused with racial profiling, driven by the ideology that only English belongs in public. The women sued for discrimination and reportedly received a substantial settlement.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f005",
+      "front": "How does Baugh's original definition of linguistic profiling differ from this case?",
+      "back": "Baugh originally conceived linguistic profiling as audio-only — over the phone, where the listener cannot see the speaker. The Montana case shows it can also occur face to face, where it combines with visual racial profiling.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f006",
+      "front": "Why is language often a 'proxy' in discrimination?",
+      "back": "Because it remains more socially acceptable to say 'I didn't hire her because she didn't sound educated' than to name race, class, or regional origin directly. Judgments about speech stand in for those categories while appearing neutral.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f007",
+      "front": "What is the troubling consequence for students who speak non-standard varieties?",
+      "back": "Their variety can be pathologized — treated as a speech impediment rather than a dialect — leading to inappropriate referral to speech-language pathologists and placement in remedial classes.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-f008",
+      "front": "Why is singular 'they' not actually a grammatical error?",
+      "back": "Speakers have used singular they for hundreds of years and do so uncontroversially all the time, as in 'a student left their bag in the classroom'. Objections arise only because it has become associated with LGBTQ rights and inclusive language ideologies — it's an ideological reaction, not a grammatical one.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
     }
   ],
   "questions": [
@@ -9139,9 +9598,642 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch2-ppt-q001",
+      "type": "mc",
+      "text": "Language ideologies are best defined as beliefs about language that are…",
+      "options": [
+        "Held at a community level, concerning who should speak what, where",
+        "Purely individual aesthetic preferences",
+        "Rules found only in dictionaries",
+        "Limited to written language"
+      ],
+      "answer": "Held at a community level, concerning who should speak what, where",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q002",
+      "type": "mc",
+      "text": "In Baugh's housing study, what did he vary across his phone calls?",
+      "options": [
+        "Only intonation and prosody",
+        "The grammar of his sentences",
+        "The words of his request",
+        "The time of day he called"
+      ],
+      "answer": "Only intonation and prosody",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q003",
+      "type": "mc",
+      "text": "Baugh's early linguistic profiling studies were conducted in 1988 in which area?",
+      "options": [
+        "Five Bay Area communities",
+        "Five Los Angeles neighborhoods",
+        "Three Montana towns",
+        "The North Carolina Outer Banks"
+      ],
+      "answer": "Five Bay Area communities",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q004",
+      "type": "mc",
+      "text": "In matched-guise results, speakers using a LOWER-status variety are typically rated…",
+      "options": [
+        "Lower on status variables but higher on solidarity variables",
+        "Higher on both status and solidarity variables",
+        "Lower on both status and solidarity variables",
+        "Identically to higher-status guises"
+      ],
+      "answer": "Lower on status variables but higher on solidarity variables",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q005",
+      "type": "mc",
+      "text": "A teacher reported hearing 'too many slang words' in a weather-report recording that contained none. This is an example of:",
+      "options": [
+        "Accent hallucination",
+        "Semantic shift",
+        "Perceptual adaptation",
+        "Double modal use"
+      ],
+      "answer": "Accent hallucination",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q006",
+      "type": "mc",
+      "text": "In the Mengesha (2015) UCD study, what was held constant across the two recordings?",
+      "options": [
+        "The grammar, words, and reading duration",
+        "The phonology and intonation",
+        "The listener's school type",
+        "The speaker's stated employability"
+      ],
+      "answer": "The grammar, words, and reading duration",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q007",
+      "type": "mc",
+      "text": "'Might could' is grammatical in African American English and Southern American English. This illustrates variation by:",
+      "options": [
+        "Grammar",
+        "Sound",
+        "Lexicon",
+        "Orthography"
+      ],
+      "answer": "Grammar",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q008",
+      "type": "mc",
+      "text": "In Dennis Preston's perceptual dialectology research, which region did respondents most often identify as 'normal' or correct English?",
+      "options": [
+        "The Midland region of the Midwest",
+        "New York City",
+        "The US South",
+        "Coastal California"
+      ],
+      "answer": "The Midland region of the Midwest",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q009",
+      "type": "mc",
+      "text": "Sentence-medial 'like' is best described descriptively as a:",
+      "options": [
+        "Discourse marker",
+        "Filler word",
+        "Modal verb",
+        "Semantic shift"
+      ],
+      "answer": "Discourse marker",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q010",
+      "type": "mc",
+      "text": "Which trio are STATUS variables in matched-guise research?",
+      "options": [
+        "Educated, intelligent, attractive",
+        "Friendly, helpful, trustworthy",
+        "Calm, athletic, excitable",
+        "Loud, fast, clear"
+      ],
+      "answer": "Educated, intelligent, attractive",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q011",
+      "type": "tf",
+      "text": "True or False: According to the lecture, standardized American English is linguistically superior to other varieties of English.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q012",
+      "type": "tf",
+      "text": "True or False: In a matched guise experiment, judges are typically unaware they have heard the same speaker twice.",
+      "answer": "True",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q013",
+      "type": "tf",
+      "text": "True or False: Creaky voice is used almost exclusively by young women.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q014",
+      "type": "tf",
+      "text": "True or False: Baugh originally conceived of linguistic profiling as involving only an audio component, such as over the phone.",
+      "answer": "True",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q015",
+      "type": "tf",
+      "text": "True or False: The speaker recorded in the UCD matched guise study was a concert pianist and Sociology major.",
+      "answer": "True",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q016",
+      "type": "tf",
+      "text": "True or False: Language ideologies can only harm speakers; they are never used to uplift marginalized groups.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q017",
+      "type": "fitb",
+      "text": "The denial of goods or services based on a person's way of speaking is called ____ ____.",
+      "answer": "linguistic profiling",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q018",
+      "type": "fitb",
+      "text": "Hearing a feature in speech that is not actually present, stereotypically attributed, is called accent ____.",
+      "answer": "hallucination",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q019",
+      "type": "fitb",
+      "text": "Change in a word's meaning over time, often reflecting changing social attitudes, is called ____ ____.",
+      "answer": "semantic shift",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q020",
+      "type": "fitb",
+      "text": "The study of where non-linguists believe dialect boundaries lie is called ____ ____.",
+      "answer": "perceptual dialectology",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q021",
+      "type": "fitb",
+      "text": "Using two modal verbs in sequence, as in 'might could', is called a ____ ____.",
+      "answer": "double modal",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q022",
+      "type": "match",
+      "text": "Match each word to its earliest meaning given in the lecture.",
+      "pairs": [
+        {
+          "left": "gay (c.1300)",
+          "right": "happy"
+        },
+        {
+          "left": "girl (1290)",
+          "right": "a child of either gender"
+        },
+        {
+          "left": "harlot (1330)",
+          "right": "a low fellow or knave"
+        },
+        {
+          "left": "hussy (1530)",
+          "right": "housewife"
+        },
+        {
+          "left": "tongzhi",
+          "right": "comrade"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q023",
+      "type": "match",
+      "text": "Match each level of language variation to its lecture example.",
+      "pairs": [
+        {
+          "left": "Sound",
+          "right": "British English speakers drop /r/ after vowels"
+        },
+        {
+          "left": "Grammar",
+          "right": "'Might could' in Southern and African American English"
+        },
+        {
+          "left": "Lexicon",
+          "right": "'Sigogglin'' for something crooked"
+        },
+        {
+          "left": "Region (lexical map)",
+          "right": "soda vs. pop vs. Coke"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q024",
+      "type": "match",
+      "text": "Match each researcher or project to their contribution.",
+      "pairs": [
+        {
+          "left": "John Baugh",
+          "right": "Linguistic profiling and the housing call studies"
+        },
+        {
+          "left": "Zion Mengesha",
+          "right": "2015 UCD teacher matched-guise study"
+        },
+        {
+          "left": "Rubin (1992)",
+          "right": "Accent hallucination"
+        },
+        {
+          "left": "Dennis Preston",
+          "right": "Perceptual dialectology maps"
+        },
+        {
+          "left": "Walt Wolfram",
+          "right": "Language and Life Project documentaries"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-q025",
+      "type": "match",
+      "text": "Match each variety to how the lecture characterizes it.",
+      "pairs": [
+        {
+          "left": "Appalachian English",
+          "right": "Stigmatized as uneducated; judgment is classist"
+        },
+        {
+          "left": "Carolina Brogue",
+          "right": "Outer Banks dialect of coastal North Carolina"
+        },
+        {
+          "left": "Chicano English",
+          "right": "One of three varieties Baugh used in his calls"
+        },
+        {
+          "left": "Midland",
+          "right": "Widely treated as the 'normal' broadcast target"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-v-q001",
+      "type": "mc",
+      "text": "In the Havre, Montana incident, the Border Patrol agent justified asking for ID on what grounds?",
+      "options": [
+        "That the women were speaking Spanish",
+        "That the women lacked identification",
+        "That he had a warrant",
+        "That the store had called him"
+      ],
+      "answer": "That the women were speaking Spanish",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q002",
+      "type": "mc",
+      "text": "Why does the lecture say language often functions as a 'proxy' in discrimination?",
+      "options": [
+        "It is more socially acceptable to criticize speech than to name race or class",
+        "Language is easier to measure than income",
+        "Accents are legally protected categories",
+        "Employers are required to assess speech"
+      ],
+      "answer": "It is more socially acceptable to criticize speech than to name race or class",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q003",
+      "type": "mc",
+      "text": "What does the lecture identify as a harmful consequence for students speaking non-standard varieties?",
+      "options": [
+        "Their dialect is pathologized and referred to speech-language pathology",
+        "They are given extra credit",
+        "They are placed in advanced classes",
+        "Their accents are formally graded"
+      ],
+      "answer": "Their dialect is pathologized and referred to speech-language pathology",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q004",
+      "type": "tf",
+      "text": "True or False: Speakers have used singular 'they' in English for hundreds of years.",
+      "answer": "True",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q005",
+      "type": "tf",
+      "text": "True or False: The 'Don't Say Gay' bill is the legislation's official name.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q006",
+      "type": "tf",
+      "text": "True or False: Most Californians believe they speak with a noticeable accent.",
+      "answer": "False",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q007",
+      "type": "fitb",
+      "text": "Dennis Preston describes a long-standing American anxiety that one's own English is incorrect as linguistic ____.",
+      "answer": "insecurity",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q008",
+      "type": "fitb",
+      "text": "An ideology formed in opposition to social progress is called a ____ ideology.",
+      "answer": "reactionary",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-q009",
+      "type": "match",
+      "text": "Match each ideology type to an example from the video lecture.",
+      "pairs": [
+        {
+          "left": "Inclusive language ideology",
+          "right": "Sharing gendered pronouns; debate over Latinx"
+        },
+        {
+          "left": "Reactionary ideology",
+          "right": "'I don't have pronouns'"
+        },
+        {
+          "left": "Standard language ideology",
+          "right": "Only standardized English belongs in classrooms"
+        },
+        {
+          "left": "English-only ideology",
+          "right": "Harassment for speaking Spanish in public"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
     }
   ],
   "notes": [
+    {
+      "id": "ch2-asn-n001",
+      "title": "Discussion 2 — Assignment Requirements",
+      "body": "ANSWER ALL THREE PROMPTS:\n1. Connect what you read/watched in lecture with something in your life.\n2. Discuss something you found interesting.\n3. Pose a question — a clarifying question, or one that could spark discussion.\n\nCHECKLIST BEFORE SUBMITTING:\n• All three prompts addressed?\n• A real personal connection or observation (not just summary)?\n• A genuine question posed at the end?\n• Replies to classmates posted, if required for this discussion?",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[ANTH 4 Discussion 2 assignment prompt]"
+    },
+    {
+      "id": "ch2-v-n003",
+      "title": "★ KEY EXAM POINTS — Video Lecture Additions (Week 2)",
+      "body": "★ The HAVRE, MONTANA case: Spanish-speaking US citizens ID'd by Border Patrol who cited their Spanish, not race. Linguistic profiling fused with racial profiling; they sued and won a settlement.\n★ Baugh's original definition was AUDIO-ONLY; the Montana case extends profiling to face-to-face encounters.\n★ English-only ideology is powerful despite Spanish being the second most spoken US language.\n★ INCLUSIVE LANGUAGE IDEOLOGY: people choose their own labels and pronouns; includes coming-out narratives, umbrella vs. specific identity terms, and the Latinx debate.\n★ REACTIONARY IDEOLOGY: 'I don't have pronouns', objections to singular they, 'Don't Say Gay' laws.\n★ SINGULAR THEY is centuries old and uncontroversial in 'a student left their bag' — the objection is ideological.\n★ LANGUAGE AS PROXY for race/class discrimination: 'she didn't sound educated' is socially tolerated where naming race is not.\n★ PATHOLOGIZING DIALECT: non-standard speakers wrongly referred to speech-language pathology.\n★ LINGUISTIC INSECURITY (Preston): Americans doubt their own English because 'we didn't invent English'.\n★ MIDLAND is the dialect region Americans broadly call 'normal' / accent-free.\n★ Appalachian English is stigmatized via the classist 'white trash' persona — the judgment is social, not linguistic.\n★ CREAKY VOICE is near-universal; the Valley Girl association is stereotype. 'Like' is a DISCOURSE MARKER, not a defect.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-n002",
+      "title": "Video Lecture Additions — Ideologies, Inclusive Language, and Reactionary Response",
+      "body": "LANGUAGE IDEOLOGIES VS. ATTITUDES:\n• Thinking Italian sounds nice and German sounds harsh is an individual ATTITUDE.\n• Ideologies are broader and community-held: 'who/whom', 'only standardized English in the classroom', 'only English in public in the US'.\n• For the purposes of this class, language attitudes and language ideologies are treated as the same.\n\nSPANISH IN THE US: Spanish is the second most widely spoken language in the US; the instructor notes the US has among the largest Spanish-speaking populations of any country. Despite this, the English-only ideology drives viral harassment incidents.\n\nINCLUSIVE LANGUAGE (instructor's dissertation area):\n• Student activists in LGBTQ and feminist/women's rights communities monitor their own and others' speech.\n• Linguistic dimensions: coming-out narratives as a genre (with guides for how to come out to family), pronouns, and identity labels — umbrella terms (gay, queer) versus specific terms (pansexual, demisexual).\n• Ongoing debate over whether Latinx is inclusive.\n\nREACTIONARY IDEOLOGIES (reaction against progress):\n• 'I don't have pronouns' — nearly everyone prefers particular third-person pronouns; the claim signals disagreement with inclusive ideologies rather than a fact about the speaker. Such speakers are typically still offended if the 'wrong' pronouns are used.\n• 'Singular they is grammatically incorrect' — but speakers have used it for hundreds of years, e.g. 'a student left their bag in the classroom', which is uncontroversial. Objection arises because it is associated with LGBTQ rights.\n\nDESCRIPTIVISM REMINDER: linguists describe how people actually use language. The instructor notes finding terms like 'grammar police' / 'grammar Nazis' objectionable.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-v-n001",
+      "title": "Video Lecture Additions — Linguistic Profiling in Practice (Havre, Montana)",
+      "body": "CASE: Two US citizens in a convenience store in Havre, Montana, buying milk and eggs, were asked for identification by a Border Patrol agent.\n• On video, the agent states the reason is that he heard them speaking Spanish, which he claims is unusual there. He explicitly denies it is racial profiling.\n• Border Patrol has authority within roughly 100 miles of a border; Montana falls within 100 miles of the Canadian border.\n• The women sued the Border Patrol for discrimination and reportedly received a substantial settlement from the federal government.\n\nANALYSIS POINTS RAISED IN LECTURE:\n• The agent connects speaking Spanish in public with assumed legal status, which is in turn associated with ethnicity — basing suspicion of criminality on how someone speaks.\n• There are in fact plenty of Spanish speakers in Montana; the premise is also factually weak.\n• Baugh originally conceived linguistic profiling as AUDIO-ONLY (e.g. over the phone, where the listener cannot see the speaker). This case shows it also occurs face to face, combining with RACIAL profiling.\n\nDISCUSSION QUESTIONS POSED: What language ideology does the agent hold? Is this an example of linguistic profiling?",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch2-ppt-n009",
+      "title": "★ KEY EXAM POINTS — Week 2: Language and Power",
+      "body": "★ LANGUAGE IDEOLOGY = community-level beliefs about who should speak what, where — always tied to POWER. 'Language attitudes' is treated as equivalent in this course (attitudes skew individual).\n★ THE BIG TAKEAWAY: no variety is linguistically better than another. All are complex, logical, rule-governed. Standardized English's status comes from power, not superiority.\n★ Language varies by SOUND (British non-rhotic 'flower'), GRAMMAR (double modals 'might could'), and LEXICON ('sigogglin''; soda/pop/Coke).\n★ LINGUISTIC PROFILING = denial of goods/services based on how someone sounds. Associated with JOHN BAUGH.\n★ BAUGH'S DESIGN: tridialectal (standard/AAVE/Chicano English), same sentence, varied ONLY intonation and prosody — 1988, five Bay Area communities. Standard guise got far more 'available' responses.\n★ MATCHED GUISE: same speaker, same neutral passage, two varieties, randomized, Likert ratings; judges never realize it's one speaker. Developed by Giles & Lambert (Canadian French).\n★ STATUS variables = educated, intelligent, attractive → lower-status guise rated LOWER. SOLIDARITY variables = friendly, helpful, trustworthy → lower-status guise rated HIGHER. Know this reversal.\n★ MENGESHA (2015, UCD): bidialectal African American student, same weather report, grammar and duration identical, only phonology/intonation changed; teachers primed with a KDVS radio employability frame.\n★ ACCENT HALLUCINATION (Rubin 1992) = hearing a feature that isn't there, via top-down processing. Examples: 'too many slang words' and 'umms and ahhs' that didn't exist; BX hearing a nonexistent stutter and calling the speaker 'heavy set'.\n★ The UCD speaker was a concert pianist and Sociology major — reading was identical across guises, so the judgments measured attitudes toward AAVE, not literacy.\n★ CONSEQUENCE TO REMEMBER: non-standard dialects get PATHOLOGIZED — students referred to speech-language pathology for speaking a dialect.\n★ SEMANTIC SHIFT: gay (happy → immoral woman → homosexual → 'hopeless'); girl (child of either gender → unmarried girl → sweetheart → sex worker); harlot; hussy; tongzhi ('comrade' → gay community). Terms for women drift toward sexual derogation.\n★ RECLAMATION: queer went weird → slur → reclaimed in the 1980s-90s → now academic/activist usage, with a generational split.\n★ DESCRIPTIVISM (linguists describe) vs. PRESCRIPTIVISM (telling people how to speak). 'Like' = DISCOURSE MARKER descriptively, 'filler word' prescriptively.\n★ CREAKY VOICE is used by nearly everyone, roughly equally across genders — the Valley Girl stereotype is an ideology, not a fact.\n★ SINGULAR THEY has centuries of uncontroversial use ('a student left their bag'); objections are ideological reactions, not grammar.\n★ PERCEPTUAL DIALECTOLOGY (Dennis Preston): people circle the South and NYC as 'bad' English and the MIDLAND Midwest as 'normal' — even Southerners do.\n★ LANGUAGE AS PROXY: criticizing speech is a socially acceptable stand-in for race, class, and regional discrimination.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n008",
+      "title": "Perceptual Dialectology, Regional Clips, and Wrap-Up",
+      "body": "BAUGH TED TALK — group discussion questions:\n• What is the distinction between racial profiling and linguistic profiling?\n• Baugh's original study was 1989-90 and Rubin's was around the same time — has the situation changed? Better or worse? What's your evidence?\n• Which accents of English enjoy the greatest prestige? Which are considered low prestige in California?\n• Have you ever been subject to linguistic profiling? On what occasion?\n\nREGIONAL LISTENING EXCERPTS — rate each speaker: smart? educated? friendly? attractive? helpful?\n• Boston accent — a Medford city councilor discussing 'Carr Park'.\n• Carolina Brogue — Outer Banks of North Carolina; speakers discuss 'dingbatter' for an outsider.\n• Mountain Talk / Appalachian English — western North Carolina; 'poke' for a paper bag, 'over yonder'.\n• NOTE: the Outer Banks and Appalachian speakers are both from North Carolina, at opposite ends of one state — variation within a single state.\n\nPERCEPTUAL DIALECTOLOGY EXERCISE: draw a rough map of California, mark where you think people speak differently, and label the areas.\n\nDENNIS PRESTON ON ATTITUDES:\n• Describes a long-standing American LINGUISTIC INSECURITY — 'we didn't invent English' — in tension with American populism and a desire not to be stuffy or too correct.\n• Asked people to draw on blank US maps where people speak differently, and where the most and least 'correct' English is spoken.\n• Nine times out of ten respondents circled the US South or New York City as places where bad English is spoken.\n• There is broad agreement that the Ohio/Michigan/Northern Indiana/Wisconsin/Pennsylvania zone is 'normal' English — even Southerners reach up and draw that MIDLAND area. It is treated as the broadcast target.\n\nWHY LANGUAGE IS A PROXY:\n• It is still relatively socially acceptable to say 'I didn't hire her because she didn't sound educated' — standing in for race, class, or regional origin.\n• Appalachian English is widely perceived as uneducated and lower class, tied to the classist 'white trash' persona.\n\nWRAP-UP:\n• Language variation is natural — people use it to create identities.\n• NO language variety is better than others. All varieties are complex and logical in different ways.\n• There is nothing linguistically superior about standardized American English, Chicano English, Appalachian English, the Carolina Brogue, or African American English — the standard's status comes from POWER.\n• Language ideologies can harm speakers interpersonally and institutionally — teachers treating students differently, remedial placement, law enforcement stops.\n• They can also UPLIFT marginalized groups, as with inclusive language ideologies in LGBTQ communities.\n• If the goal is equity, we must examine language ideologies and how they are used to uplift or marginalize.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n007",
+      "title": "Accent Hallucination",
+      "body": "ACCENT HALLUCINATION (Rubin, 1992): hearing something that is not there in reality, usually stereotypically attributed; involves TOP-DOWN PROCESSING.\n• Rubin's original design: the same lecture recording was played to two groups — one shown a photo of a white woman, one shown a photo of an Asian woman. The group shown the Asian face reported the speaker had an accent, though the recording was identical.\n\nFROM THE UCD STUDY:\n• GK claimed the speaker 'used too many slang words' — there were no slang words in the weather report. Slang was stereotypically attributed to AAVE.\n• HT believed there were too many 'umms and ahhs' in the AA guise, where there were none.\n• MOST SERIOUS — BX, a Caucasian teacher at Canyon: 'He seems to stutter, and be a little slow […] he is not the smartest cookie […] he is not that smart, because he seems stuck on words or thoughts.' BX attributed a speech impediment that did not exist. BX also said the AA guise 'sounded bigger, and heavy set' — traceable to stereotypes of African American males as tough and aggressive. On hearing the standard guise, BX said he sounds 'more intelligent, skinnier', and read the same slow pace as methodical and tactful.\n\nWHY IT MATTERS:\n• Teachers' assessments of reading comprehension were undermined simply by identifying the speaker as African American.\n• The speaker's reading capability was identical in both guises, so judgments of him as less literate, slow, troubled enunciating, and a struggling reader reflect ATTITUDES TOWARD AAVE, not literacy.\n• The speaker was a concert pianist and a Sociology major at UC Davis.\n• REAL CONSEQUENCE: students speaking non-standard dialects are often perceived as having speech impediments and referred to speech-language pathologists — their variety is pathologized.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n006",
+      "title": "Matched Guise Experiments and the UCD Study",
+      "body": "MATCHED GUISE TECHNIQUE:\n• Developed by Howard Giles and Wallace Lambert in studies of attitudes toward Canadian French; Baugh's Bay Area tests were a variant.\n• Bilingual or bidialectal speakers record the same, relatively neutral material in two languages or dialects believed to have different community status.\n• Typically at least 8-10 speakers, randomly presented.\n• Participants rank speakers on characteristics using LIKERT SCALES (e.g. 1-5): educated, intelligent, attractive, friendly, helpful, trustworthy.\n\nCONSISTENT RESULTS:\n• Lower-status guises are rated LOWER on STATUS variables (educated, intelligent, attractive) — even by judges who speak that same variety.\n• Higher-status guises are rated HIGHER on status variables.\n• The REVERSE holds for SOLIDARITY variables (friendly, helpful, trustworthy): lower-status guises rate higher.\n• Judges are unaware they have been listening to the same speakers.\n\nUCD MATCHED GUISE TEST — Zion Mengesha, 2015 senior honors thesis:\n• Recruited a bidialectal African American student to record the same passage — a weather report — twice: once in African American phonology and intonation, once in 'standard' English.\n• Grammar did not change and both recordings took exactly the same time.\n• Teachers from three school types; half at each heard the AA guise, half the standard guise.\n\nSCHOOL BACKGROUNDS:\n• Canyon High School — suburban; average home $998,000; 35% white, 25% Asian, 20% Latino/a, 10% African American; California Distinguished school; 1.1% dropout rate.\n• Pinewood High School — urban; average home $500,000; 40% African American, 40% Asian, 21% Latino/a, 1% white; 37% dropout rate.\n• Bay Area City College — low-income and first-generation students; 26% white, 19% African American, 15% Asian, 15% Latino/a, 14% multiple, 2% Filipino.\n\nDATA ELICITATION:\n• Teachers were primed: told the speaker was interviewing for UC Davis' student-run KDVS radio station and asked to judge his employability.\n• Immediately after, they rated speech 1-6 on Likert-scale opposites: educated/not educated, athletic/not athletic, friendly/unfriendly, attractive/unattractive, likely/unlikely to attend college, excitable/calm, employable/unemployable.\n• RESULTS: in the AA guise the speaker was rated calmer across the board, low on education and friendliness, slightly higher on athleticism; community college instructors rated him especially low on hireability and likelihood of attending college. In the standard guise he was rated markedly more hireable, more attractive, and more educated.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n005",
+      "title": "Linguistic Profiling, Earwitness Testimony, and Baugh's Studies",
+      "body": "USE OF STIGMATIZED FORMS — guiding questions:\n• Who decides what the 'proper' or 'correct' version of a language is? Who decides what is standardized?\n• What are the consequences for speaking a non-standard variety or using a stigmatized form (e.g. 'ain't', or 'queer')?\n\nLINGUISTIC PROFILING: the denial of goods or services based on a person's way of speaking and the assumed characteristics of people who sound a particular way.\n• Per Baugh, it has a detrimental impact on the collective quest to advance equal access to fair housing and fair lending.\n• The courts are ill equipped to offer adequate legal redress to anyone who falls prey to it at the hands of housing providers, lending institutions, or insurance companies — proving it in court is very difficult.\n• US federal law prohibits landlords and sellers from discriminating against tenants based on identity, and prohibits discrimination in lending.\n\nBAUGH'S STUDY DESIGN:\n• John Baugh is TRIDIALECTAL: standard American English, AAVE, and Chicano English.\n• He answered newspaper ads for apartments, saying: 'Hello, I'm calling about the apartment/house you have advertised in the paper.'\n• CRUCIALLY he varied only INTONATION AND PROSODY, not the grammar or the words.\n• Early studies: 1988, five Bay Area communities — Palo Alto, East Palo Alto, San Francisco, Oakland, Woodside.\n• RESULT: a strong correlation between whether housing was reported available and the intonation of the phrase. The standard American English guise was far more often told units were available.\n\nEARWITNESS TESTIMONY: judging a speaker's identity by voice alone — the same assumption that makes profiling possible.\n\n2002 NEWS SEGMENT (shown in class): Rosa Rice, an African American woman in St. Louis, was treated with hostility when calling about a room; testers from the St. Louis Equal Housing Opportunity Council called the same number — white testers were invited to appointments, African American testers were told nothing was available.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n004",
+      "title": "Descriptivism vs. Prescriptivism and Semantic Shift",
+      "body": "DESCRIPTIVISM VS. PRESCRIPTIVISM:\n• Linguists are (with few exceptions) DESCRIPTIVE — we describe language, we don't tell people how they should use it.\n• Prescriptivists tell people how their language should sound (English teachers, self-described 'grammar nerds').\n• Most people hold beliefs about how language should or shouldn't be used — these are LANGUAGE ATTITUDES.\n\nSEMANTIC SHIFT: word meanings change over time, and the changes reflect attitudes toward social phenomena.\n\nGAY: 1300 happy → 1825 immoral woman → 1935 homosexual → 1980s 'that's so gay' = hopeless/ridiculous.\nGIRL: 1290 child of either gender → 1530 unmarried female child → 1650 sweetheart → 1711 female sex worker.\nHARLOT: 1330 low fellow/knave → 1390 male servant → 1450 unchaste woman.\nHUSSY: 1530 housewife → 1600s playfully rude term of address → 1700s woman of low behavior.\n→ PATTERN: terms for women repeatedly drift toward derogation tied to perceived sexual promiscuity.\n\nQUEER: originally 'weird' → became a slur for non-normative sexuality → reclaimed in the 1980s-90s by the community → now associated with academia (queer studies, queer theory) and activism, and the Q in LGBTQ. Generational difference: some gay people in their 50s-60s still hear it as offensive.\n\nTONGZHI (Chinese, Hong Kong): originally 'comrade' tied to the Communist revolution; taken up in the 1990s to refer to the gay community.\n\nDISCUSSION PROMPT: what other examples of semantic shift can you think of, and how do they relate to language attitudes?",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n003",
+      "title": "Language Ideologies",
+      "body": "DEFINITION: beliefs/attitudes beyond the individual level concerning what types of languages should be spoken, by whom, and in which contexts. All are related to POWER.\n• An individual preference ('Italian sounds nice, German sounds harsh') is an ATTITUDE. Ideologies are broader and community-held. For this class the two terms are treated as equivalent.\n\nCORE EXAMPLES:\n• PRESCRIPTIVISM, especially in school — being corrected by a teacher for not speaking 'proper English'; the ideology that standardized American English following prescriptive rules is what belongs in classrooms.\n• 'African American English is improper English' — it is not; it is a different variety. This links language ideology to RACE.\n• 'Only English should be spoken in public in the US' — visible in viral videos of people harassed for speaking Spanish.\n\nLANGUAGE IDEOLOGIES AND LGBTQ ISSUES:\n• Inclusive language ideologies — people should choose the gendered labels and pronouns used for them. Includes coming out as a language genre, pronoun sharing, identity labels (umbrella terms like gay or queer; specific terms like pansexual, demisexual), and debate over Latinx.\n• The instructor's dissertation work: how student activists in LGBTQ and feminist communities use language and monitor their own and others' speech.\n• REACTIONARY ideologies (reaction against progress): 'I don't have pronouns' (nearly everyone does prefer certain third-person pronouns); the claim that third-person singular they is ungrammatical; 'Don't Say Gay' bills.\n\n'DON'T SAY GAY' BILL:\n• Officially the Parental Rights in Education bill (Florida), signed by Gov. Ron DeSantis; the media name is not the official title.\n• Bars classroom instruction on sexual orientation or gender identity in K-3, or in a manner not age/developmentally appropriate per state standards — which the law does not define, and for which state standards are near-nonexistent at many grades.\n• Consequences noted in lecture: implementation extended by Florida's Dept. of Education; AP Psychology not currently offered in Florida because its curriculum covers these topics; a science teacher resigned under school-board pressure over a Disney film mentioning a gay character; teacher shortages.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n002",
+      "title": "Language Varies — Sound, Grammar, Lexicon, Region, Gender",
+      "body": "BY SOUND:\n• British English speakers don't pronounce /r/ after vowels — 'mother', 'flower'.\n\nBY GRAMMAR:\n• African American English and Southern American English allow DOUBLE MODALS ('might could', 'may can'): 'I might could go to the store.' Grammatical there, ungrammatical in California English.\n\nBY LEXICON:\n• 'sigogglin'' (Appalachian) = crooked.\n• British vs. American: the lift is broken / the elevator is broken; the baby needs their nappy changed / their diaper changed.\n\nBY REGION — the sweetened carbonated beverage map:\n• SODA: California and most of the Northeast.\n• POP: most of the Midwest; Oregon splits; a patch near the Missouri-Illinois border and around Milwaukee.\n• COKE as a generic: the South — a Texas server may ask what kind of Coke you want, and 'Sprite' is a valid answer.\n\nBY GENDER — the Valley Girl persona:\n• Associated with young, wealthy white women of the San Fernando Valley (cf. Cher in Clueless).\n• Features: frequent 'like', creaky voice, rising intonation.\n• 'Like' sentence-medially is prescriptively dismissed as a FILLER WORD; descriptively it is a DISCOURSE MARKER segmenting units of the utterance.\n• CREAKY VOICE: stereotyped as young women, but used roughly equally by men and women and by trans and non-binary speakers. It occurs naturally at sentence ends, where English pitch drops to distinguish statements from questions.\n• RISING INTONATION: normally marks questions; on declaratives it is stereotyped as Valley Girl speech.\n\nQUICK WRITE: think of someone you interact with (or yourself) — what's distinctive about how they speak, and how does it relate to their identity?",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch2-ppt-n001",
+      "title": "Agenda & Social Identity (Language and Power)",
+      "body": "AGENDA:\n• Language varieties and social identity\n• Language ideologies / attitudes\n• Why this is important in the real world\n\nSOCIAL IDENTITY AND LANGUAGE:\n• The way people use language differs based on their identity: gender, region, race/ethnicity, social class.\n• Variation shows up in the words used, the sounds, and the grammar.\n\nOPENING CLIP — Appalachian speakers explaining 'sigogglin'' (something crooked, e.g. a wall a carpenter built badly). These speakers are from North Carolina; the Appalachian range also crosses Tennessee and West Virginia.\n\nTHE CALIFORNIANS (SNL sketch):\n• Parodies Californians, especially the LA area — drawn-out vowels, slurred words, obsessive freeway directions.\n• Most Californians don't find it accurate to their own speech; some Bay Area speakers think it's accurate of LA.\n• KEY POINT: many Californians assume they have no accent and that their speech is simply normal. It is very noticeable to people outside California.",
+      "image": null,
+      "module": "wk02",
+      "chapter": 2,
+      "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
     {
       "id": "ch1-ppt-n009",
       "title": "★ KEY EXAM POINTS — Lecture 1 (What Is Language & Linguistics)",
