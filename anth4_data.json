@@ -259,6 +259,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch3-ppt-g004",
+      "term": "airstream mechanism",
+      "def": "One of the three features classifying consonants: how the moving air that carries the sound is initiated. The airstream may be initiated by the diaphragm and lungs (pulmonic) or by some other mechanism (non-pulmonic).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch1-ppt-g023",
       "term": "alarm call",
       "def": "A vervet monkey vocalization warning of a specific predator (snake, eagle, leopard), each triggering a different escape response; appears learned and can even be used deceptively, but lacks discreteness and duality of patterning.",
@@ -293,6 +302,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch3-ppt-g009",
+      "term": "alveolar",
+      "def": "A place of articulation produced when the tongue touches the alveolar ridge: [t], [d], [s], [z], [n], [l], [ɹ].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch14-g013",
@@ -421,6 +439,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
     },
     {
+      "id": "ch3-ppt-g001",
+      "term": "auditory phonetics",
+      "def": "The subfield of phonetics concerned with speech reception and perception. (Your textbook uses the label 'perceptual phonetics' for this same subfield — know both names.)",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch6-g029",
       "term": "auxiliary",
       "def": "A functional verb carrying tense/aspect/mood (have, be, will, can); analyzed as the head T (tense).",
@@ -473,6 +500,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch3-ppt-g006",
+      "term": "bilabial",
+      "def": "A place of articulation produced by bringing both lips together: [p], [b], [m].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch14-g004",
@@ -754,6 +790,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch3-ppt-g024",
+      "term": "contour tone",
+      "def": "A tone category involving pitch movement within the syllable: High-Low, Low-High, and so on.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch4-g008",
       "term": "contrastive distribution",
       "def": "When two phones can occur in the same environment (overlapping distributions); proven by a single minimal pair. Contrastive phones belong to different phonemes.",
@@ -950,6 +995,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch3-ppt-g025",
+      "term": "diacritic",
+      "def": "A mark added to an IPA symbol to indicate additional phonetic detail, such as aspiration, length, or an unreleased stop.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch10-g005",
@@ -1195,6 +1249,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch3-ppt-g019",
+      "term": "formant",
+      "def": "A frequency at which the energy of a vowel peaks. Vowels are made up of a wide range of frequencies, and where those frequencies peak we have formants — these determine vowel quality.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch5-g012",
       "term": "free morpheme",
       "def": "A morpheme that can stand alone as a word (e.g., cat). Only roots can be free.",
@@ -1240,6 +1303,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch3-ppt-g015",
+      "term": "glide",
+      "def": "A manner of articulation with a very minimal amount of obstruction, very vowel-like; involves movement from one position to another.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch5-g031",
       "term": "gloss",
       "def": "A morpheme-by-morpheme translation line pairing each piece with its meaning/function, using abbreviations (1=first person, PL=plural, etc.).",
@@ -1247,6 +1319,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch3-ppt-g013",
+      "term": "glottal",
+      "def": "A place of articulation produced by air flowing through an open glottis, or by stopping and releasing air there: [h], [ʔ].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch3-g015",
@@ -1519,6 +1600,15 @@
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
+      "id": "ch3-ppt-g008",
+      "term": "interdental",
+      "def": "A place of articulation produced by placing the tongue between the teeth: [θ], [ð].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch12-g003",
       "term": "interlanguage",
       "def": "A learner's own evolving language system, distinct from both the L1 and the target L2, with its own rule-governed patterns (Selinker 1972).",
@@ -1598,6 +1688,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch3-ppt-g007",
+      "term": "labiodental",
+      "def": "A place of articulation produced by touching the bottom lip to the teeth: [f], [v].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch9-g006",
@@ -1726,6 +1825,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch3-ppt-g017",
+      "term": "lateral",
+      "def": "A manner of articulation in which air flows along the sides of the mouth or tongue, as in [l].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-g020",
+      "term": "lax vowel",
+      "def": "A vowel produced with a less constricted, less peripheral tongue position: /ɪ/, /ɛ/, /æ/, /ə/, /ʌ/, /ʊ/. Contrasted with tense vowels.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch9-g013",
       "term": "legacy of colonialism",
       "def": "The historical suppression of Indigenous languages (including through residential schools), which made speaking them feel shameful and drove language endangerment — the backdrop reclamation responds to.",
@@ -1733,6 +1850,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch3-ppt-g023",
+      "term": "level tone",
+      "def": "A tone category with a steady pitch target: High, Mid, or Low.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch5-g026",
@@ -1859,6 +1985,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch3-ppt-g014",
+      "term": "liquid",
+      "def": "A manner of articulation involving obstruction of the airflow, but less than a fricative: [l] and [ɹ].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch3-g044",
@@ -2284,6 +2419,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch3-ppt-g003",
+      "term": "orthography",
+      "def": "A language's writing system. Lecture stresses that orthography does NOT represent sounds accurately: one sound can have many spellings (18 ways to spell the vowel in 'he'), one spelling can map to different sounds (car, cell, cello), some letters have no sound (debt, knot, receipt) and some sounds have no letter (colonel, soldier).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch11-g007",
       "term": "overextension",
       "def": "Using a word too broadly, applying it to things outside its adult meaning (e.g., calling anyone with a beard 'Dada', or a motorcycle by one's word for a car).",
@@ -2309,6 +2453,15 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch3-ppt-g010",
+      "term": "palatal",
+      "def": "A place of articulation produced by raising the front of the tongue to the palate: [ʃ], [j].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch3-g041",
@@ -2509,6 +2662,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch3-ppt-g021",
+      "term": "phrase tone",
+      "def": "A change in fundamental frequency at the END of a phrase. Statements typically take a falling phrase tone, questions a rising one; phrase tone also marks phrasal boundaries.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch3-g058",
       "term": "pitch",
       "def": "The auditory perception of vocal-fold vibration rate (the physical rate is the fundamental frequency, f0).",
@@ -2516,6 +2678,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch3-ppt-g022",
+      "term": "pitch accent",
+      "def": "A mid-utterance change in fundamental frequency that highlights a particular word. Shifting it across 'I never said she stole my money' yields seven different meanings.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch3-g012",
@@ -2716,6 +2887,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
+      "id": "ch3-ppt-g005",
+      "term": "pulmonic",
+      "def": "Describing sounds whose airstream is initiated by the lungs and diaphragm. All English consonants are pulmonic; some other languages use non-pulmonic mechanisms.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch14-g010",
       "term": "push chain",
       "def": "A chain shift in which one sound moves into another's space, 'pushing' it to move too.",
@@ -2822,6 +3002,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch3-ppt-g018",
+      "term": "rhotic",
+      "def": "A manner/class description for sounds that are 'r-like' in some way.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch2-ppt-g016",
@@ -3265,6 +3454,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch3-ppt-g002",
+      "term": "suprasegmental",
+      "def": "A sound property laid on top of and across segments rather than occurring as a discrete unit: stress, tone, intonation, and length. Contrasted with segments (vowels and consonants), which appear one after another.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch4-g017",
       "term": "surface representation (SR)",
       "def": "The (relatively concrete) phonetic form of a word, made of phones, written in [ ]. Also called the phonetic representation.",
@@ -3481,6 +3679,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
+      "id": "ch3-ppt-g016",
+      "term": "trill",
+      "def": "A manner of articulation involving rapid vibrations of the articulator.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch3-g036",
       "term": "triphthong",
       "def": "A vowel phone that moves through three qualities (e.g., Vietnamese rượu 'alcohol').",
@@ -3526,6 +3733,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch3-ppt-g012",
+      "term": "uvular",
+      "def": "A place of articulation produced by raising the back of the tongue to the uvula: [ʀ], [q], [ɢ]. Not used in English.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
       "id": "ch2-ppt-g017",
       "term": "Valley Girl persona",
       "def": "A stereotyped speech persona associated with young, wealthy white women of the San Fernando Valley, indexed by frequent 'like', creaky voice, and rising intonation on declaratives.",
@@ -3560,6 +3776,15 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch3-ppt-g011",
+      "term": "velar",
+      "def": "A place of articulation produced by raising the back of the tongue to the velum: [k], [g].",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
       "id": "ch10-g008",
@@ -5740,6 +5965,204 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch3-ppt-f001",
+      "front": "How many speech sounds exist across the world's languages, and what does each language use?",
+      "back": "Around 600 vowels and 200 consonants across world languages (Ladefoged, 2004, p. 179) — thousands of possible speech sounds. Each individual language uses only a small subset of them to build its words.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f002",
+      "front": "Name the three subfields of phonetics and what each studies.",
+      "back": "ARTICULATORY phonetics — speech production. ACOUSTIC phonetics — the physical transmission of speech sounds. AUDITORY phonetics — speech reception and perception (your textbook calls this perceptual phonetics).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f003",
+      "front": "Segments vs. suprasegmentals?",
+      "back": "SEGMENTS are discrete units of sound occurring one after another: vowels, consonants. SUPRASEGMENTALS are properties laid on top of and across segments: stress, tone, intonation, length.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f004",
+      "front": "Give four ways orthography fails to represent sounds accurately.",
+      "back": "(1) One sound, many spellings — the vowel of 'he' has 18 spellings (believe, Caesar, see, people, seize, sea, amoeba, machine...). (2) One spelling, different sounds — father, want, many, bad, fame; car, cell, cello. (3) Letters with no sound — psychology, debt, knot, Wednesday, receipt. (4) Sounds with no letter — colonel, soldier.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f005",
+      "front": "What is the 'ghoti' joke, and what does it demonstrate?",
+      "back": "'ghoti' can be read as 'fish': GH as in enou GH, O as in w O men, TI as in na TI on. It dramatizes how unreliable English orthography is as a guide to pronunciation — exactly the problem the IPA solves.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f006",
+      "front": "When and why was the IPA created?",
+      "back": "In 1888, linguists set out to create the International Phonetic Alphabet to represent the fundamental sounds of all languages. With it, a linguist can write down the words of any language and read a word in any language.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f007",
+      "front": "What three features classify a consonant?",
+      "back": "Airstream mechanism, place of articulation, and manner of articulation. (Voicing and nasality are the further cross-cutting distinctions.)",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f008",
+      "front": "List the places of articulation from the front of the mouth backward.",
+      "back": "Bilabial (two lips) → labiodental (lip + teeth) → interdental (between teeth) → alveolar → alveolar-palatal/post-alveolar → palatal → velar → glottal. (Uvular sits between velar and glottal but isn't used in English.)",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f009",
+      "front": "Define each manner of articulation from the lecture.",
+      "back": "STOP — full closure in the mouth, then release. FRICATIVE — small opening creating turbulence/frication. AFFRICATE — a stop released as a fricative. APPROXIMANT — includes rhotics (r-like) and laterals (air along the sides). GLIDE — movement from one position to another, minimal obstruction. NASAL — oral closure with air exiting the nasal cavity. TRILL — rapid vibration of the articulator. LIQUID — obstruction, but less than a fricative.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f010",
+      "front": "What is voicing, and what is nasality?",
+      "back": "VOICING: whether the vocal cords vibrate. [p], [t], [s], [k] are voiceless; [b], [d], [z], [g] are voiced. NASALITY: whether the velum is open so air passes through the nose. [m], [n] are nasal; [p], [t] are oral.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f011",
+      "front": "What do these 'weird symbols' stand for: /j/ /θ/ /ð/ /ʒ/ /ʃ/ /dʒ/ /tʃ/ /ŋ/?",
+      "back": "/j/ = yellow, /θ/ = thigh, /ð/ = thy, /ʒ/ = rouge, /ʃ/ = shy, /dʒ/ = judge, /tʃ/ = chair, /ŋ/ = long.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f012",
+      "front": "How are vowels produced and classified?",
+      "back": "Produced with little to no restriction of the airflow; quality depends on the shape of the vocal tract. Classified by TONGUE POSITION (front vs. back, open/low vs. close/high) and LIP SHAPE (rounded vs. unrounded).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f013",
+      "front": "Which English vowels are rounded, and which are lax?",
+      "back": "ROUNDED: /u/, /o/, /ʊ/, /ɔ/ — all the rest are unrounded. LAX: /ɪ/, /ɛ/, /æ/, /ə/, /ʌ/, /ʊ/.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f014",
+      "front": "Monophthong vs. diphthong, with examples.",
+      "back": "A MONOPHTHONG is a single vowel. A DIPHTHONG is a sequence of two vowels together: bate [beɪt], bite [baɪt], boat [boʊt], boy [bɔɪt]. Quick keys: /aʊ/ = ow, /aɪ/ = eye, /ɔɪ/ = oy.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f015",
+      "front": "What is length, and where is it contrastive?",
+      "back": "How long a sound is held, understood relative to speech rate in context. In some languages length changes meaning — Finnish: 'mud' /muta/ vs. 'some other' /muːta/; 'come!' /tule/ vs. 'comes' /tuleː/ vs. 'is windy' /tuːleː/.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f016",
+      "front": "Phrase tone vs. pitch accent?",
+      "back": "PHRASE TONE is a change in fundamental frequency at the END of a phrase — falling for statements, rising for questions — and also marks phrasal boundaries. PITCH ACCENT is a MID-utterance change in fundamental frequency that highlights a word.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f017",
+      "front": "What does 'I never said she stole my money' demonstrate?",
+      "back": "Pitch accent. Stressing each of the seven words in turn yields seven different meanings from identical words — the accent alone carries the contrast.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f018",
+      "front": "What is tone, and what are its two types?",
+      "back": "The pitch of a single word used to create a meaning distinction. LEVEL tone (High, Mid, Low) and CONTOUR tone (High-Low, Low-High, etc.). Tones are relative to the speaker's own pitch range and to linguistic context.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f019",
+      "front": "How does stress work in English, with examples?",
+      "back": "Stress is mostly a property of syllables; stressed syllables are longer, louder, and have fuller vowels. In English it can create semantic distinctions: object /ˈɒbʤɛkt/ (noun) vs. object /əbˈʤɛkt/ (verb); produce /ˈproʊdus/ vs. produce /prəˈdus/; present /ˈprɛzənt/ vs. present /priˈzɛnt/.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f020",
+      "front": "Name the five parameters of articulation for signed languages.",
+      "back": "Place/Location, Movement, Handshape, Hand Orientation, and Non-manual Markers (facial expressions or head movement).",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f021",
+      "front": "Give a minimal-pair example for each signed-language parameter.",
+      "back": "LOCATION: apple vs. onion; lucky vs. clever. MOVEMENT: tough vs. physics; can vs. shoes. HANDSHAPE: orange vs. color vs. wrong; like vs. white. ORIENTATION: meet vs. I-meet-you. NON-MANUAL MARKERS: late vs. not yet; hot vs. very hot.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-f022",
+      "front": "What three things do diacritics mark in this course?",
+      "back": "Aspiration, length, and unreleased stops.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     }
   ],
   "questions": [
@@ -10114,9 +10537,741 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
+    },
+    {
+      "id": "ch3-ppt-q001",
+      "type": "mc",
+      "text": "Approximately how many vowels and consonants exist across the world's languages (Ladefoged, 2004)?",
+      "options": [
+        "About 600 vowels and 200 consonants",
+        "About 200 vowels and 600 consonants",
+        "About 50 vowels and 50 consonants",
+        "About 1,000 of each"
+      ],
+      "answer": "About 600 vowels and 200 consonants",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q002",
+      "type": "mc",
+      "text": "Which subfield of phonetics studies the physical transmission of speech sounds?",
+      "options": [
+        "Acoustic phonetics",
+        "Articulatory phonetics",
+        "Auditory phonetics",
+        "Historical phonetics"
+      ],
+      "answer": "Acoustic phonetics",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q003",
+      "type": "mc",
+      "text": "Stress, tone, and intonation are best classified as:",
+      "options": [
+        "Suprasegmentals",
+        "Segments",
+        "Diacritics",
+        "Formants"
+      ],
+      "answer": "Suprasegmentals",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q004",
+      "type": "mc",
+      "text": "The word 'ghoti' can be read as 'fish' using spellings from which three words?",
+      "options": [
+        "enough, women, nation",
+        "ghost, often, tie",
+        "laugh, pretty, shine",
+        "rough, busy, motion"
+      ],
+      "answer": "enough, women, nation",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q005",
+      "type": "mc",
+      "text": "In what year did linguists set out to create the International Phonetic Alphabet?",
+      "options": [
+        "1888",
+        "1788",
+        "1928",
+        "1965"
+      ],
+      "answer": "1888",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q006",
+      "type": "mc",
+      "text": "Which three features are used to classify consonants?",
+      "options": [
+        "Airstream mechanism, place of articulation, manner of articulation",
+        "Height, backness, rounding",
+        "Pitch, length, stress",
+        "Tone, intonation, voicing"
+      ],
+      "answer": "Airstream mechanism, place of articulation, manner of articulation",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q007",
+      "type": "mc",
+      "text": "[θ] and [ð] are produced by placing the tongue between the teeth. Their place of articulation is:",
+      "options": [
+        "Interdental",
+        "Labiodental",
+        "Alveolar",
+        "Palatal"
+      ],
+      "answer": "Interdental",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q008",
+      "type": "mc",
+      "text": "Which sounds are produced by raising the back of the tongue to the velum?",
+      "options": [
+        "[k] and [g]",
+        "[p] and [b]",
+        "[f] and [v]",
+        "[h] and [ʔ]"
+      ],
+      "answer": "[k] and [g]",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q009",
+      "type": "mc",
+      "text": "An affricate is best described as:",
+      "options": [
+        "A stop released as a fricative",
+        "A fricative released as a stop",
+        "Two vowels in sequence",
+        "A nasal with oral closure"
+      ],
+      "answer": "A stop released as a fricative",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q010",
+      "type": "mc",
+      "text": "Which set of sounds is voiceless?",
+      "options": [
+        "[p], [t], [s], [k]",
+        "[b], [d], [z], [g]",
+        "[m], [n], [ŋ]",
+        "[l], [ɹ], [j]"
+      ],
+      "answer": "[p], [t], [s], [k]",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q011",
+      "type": "mc",
+      "text": "Where the frequencies of a vowel peak, we have:",
+      "options": [
+        "Formants",
+        "Diacritics",
+        "Phrase tones",
+        "Trills"
+      ],
+      "answer": "Formants",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q012",
+      "type": "mc",
+      "text": "Vowels are classified by tongue position and which other feature?",
+      "options": [
+        "Lip shape (rounded vs. unrounded)",
+        "Airstream mechanism",
+        "Voicing",
+        "Nasality"
+      ],
+      "answer": "Lip shape (rounded vs. unrounded)",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q013",
+      "type": "mc",
+      "text": "In Finnish, /muta/ means 'mud' and /muːta/ means 'some other'. This contrast is based on:",
+      "options": [
+        "Length",
+        "Tone",
+        "Stress",
+        "Voicing"
+      ],
+      "answer": "Length",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q014",
+      "type": "mc",
+      "text": "A change in fundamental frequency at the END of a phrase is called:",
+      "options": [
+        "Phrase tone",
+        "Pitch accent",
+        "Formant",
+        "Diacritic"
+      ],
+      "answer": "Phrase tone",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q015",
+      "type": "mc",
+      "text": "Shifting emphasis across 'I never said she stole my money' to produce seven meanings demonstrates:",
+      "options": [
+        "Pitch accent",
+        "Phrase tone",
+        "Tone",
+        "Length"
+      ],
+      "answer": "Pitch accent",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q016",
+      "type": "mc",
+      "text": "English 'object' (noun) vs. 'object' (verb) differ by:",
+      "options": [
+        "Which syllable carries stress",
+        "Vowel length",
+        "Tone",
+        "Voicing of the final consonant"
+      ],
+      "answer": "Which syllable carries stress",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q017",
+      "type": "mc",
+      "text": "Which is NOT one of the five parameters of articulation for signed languages?",
+      "options": [
+        "Airstream mechanism",
+        "Handshape",
+        "Hand orientation",
+        "Non-manual markers"
+      ],
+      "answer": "Airstream mechanism",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q018",
+      "type": "mc",
+      "text": "In ASL, 'late' vs. 'not yet' is distinguished by:",
+      "options": [
+        "Non-manual markers",
+        "Handshape",
+        "Location",
+        "Hand orientation"
+      ],
+      "answer": "Non-manual markers",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q019",
+      "type": "tf",
+      "text": "True or False: Every language uses the full inventory of the world's speech sounds.",
+      "answer": "False",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q020",
+      "type": "tf",
+      "text": "True or False: English orthography reliably represents the sounds of the language.",
+      "answer": "False",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q021",
+      "type": "tf",
+      "text": "True or False: The IPA was designed so a linguist can write down and read words in any language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q022",
+      "type": "tf",
+      "text": "True or False: Nasal sounds like [m] and [n] are produced with the velum open so air passes through the nose.",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q023",
+      "type": "tf",
+      "text": "True or False: Vowels are produced with substantial restriction of the airflow.",
+      "answer": "False",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q024",
+      "type": "tf",
+      "text": "True or False: Uvular consonants such as [q] are common in English.",
+      "answer": "False",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q025",
+      "type": "tf",
+      "text": "True or False: Tone is relative to the pitch of the individual speaker and the linguistic context.",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q026",
+      "type": "tf",
+      "text": "True or False: Stressed syllables tend to be longer, louder, and to have fuller vowels.",
+      "answer": "True",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q027",
+      "type": "fitb",
+      "text": "The writing system of a language is called its ____.",
+      "answer": "orthography",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q028",
+      "type": "fitb",
+      "text": "An airstream initiated by the lungs and diaphragm is called ____.",
+      "answer": "pulmonic",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q029",
+      "type": "fitb",
+      "text": "A sequence of two vowels together, as in 'boy' [bɔɪt], is called a ____.",
+      "answer": "diphthong",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q030",
+      "type": "fitb",
+      "text": "Marks added to IPA symbols to show detail such as aspiration or length are called ____.",
+      "answer": "diacritics",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q031",
+      "type": "fitb",
+      "text": "The place of articulation produced by touching the bottom lip to the teeth is ____.",
+      "answer": "labiodental",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q032",
+      "type": "fitb",
+      "text": "Tones with pitch movement such as High-Low or Low-High are called ____ tones.",
+      "answer": "contour",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q033",
+      "type": "match",
+      "text": "Match each IPA symbol to a word containing that sound.",
+      "pairs": [
+        {
+          "left": "/j/",
+          "right": "yellow"
+        },
+        {
+          "left": "/θ/",
+          "right": "thigh"
+        },
+        {
+          "left": "/ð/",
+          "right": "thy"
+        },
+        {
+          "left": "/ʒ/",
+          "right": "rouge"
+        },
+        {
+          "left": "/ʃ/",
+          "right": "shy"
+        },
+        {
+          "left": "/tʃ/",
+          "right": "chair"
+        },
+        {
+          "left": "/ŋ/",
+          "right": "long"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q034",
+      "type": "match",
+      "text": "Match each place of articulation to its example sounds.",
+      "pairs": [
+        {
+          "left": "Bilabial",
+          "right": "[p], [b], [m]"
+        },
+        {
+          "left": "Labiodental",
+          "right": "[f], [v]"
+        },
+        {
+          "left": "Alveolar",
+          "right": "[t], [d], [s], [z]"
+        },
+        {
+          "left": "Velar",
+          "right": "[k], [g]"
+        },
+        {
+          "left": "Glottal",
+          "right": "[h], [ʔ]"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q035",
+      "type": "match",
+      "text": "Match each manner of articulation to its description.",
+      "pairs": [
+        {
+          "left": "Stop",
+          "right": "Full closure in the mouth"
+        },
+        {
+          "left": "Fricative",
+          "right": "Small opening creating turbulence"
+        },
+        {
+          "left": "Affricate",
+          "right": "A stop released as a fricative"
+        },
+        {
+          "left": "Lateral",
+          "right": "Air flows along the sides of the tongue"
+        },
+        {
+          "left": "Nasal",
+          "right": "Oral closure with air exiting the nose"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q036",
+      "type": "match",
+      "text": "Match each IPA transcription to its English word (set 1 — single-syllable words).",
+      "pairs": [
+        {
+          "left": "[hit]",
+          "right": "heat"
+        },
+        {
+          "left": "[hɪt]",
+          "right": "hit"
+        },
+        {
+          "left": "[fɹut]",
+          "right": "fruit"
+        },
+        {
+          "left": "[θæŋks]",
+          "right": "thanks"
+        },
+        {
+          "left": "[skɹim]",
+          "right": "scream"
+        },
+        {
+          "left": "[bʊk]",
+          "right": "book"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q037",
+      "type": "match",
+      "text": "Match each IPA transcription to its English word (set 2 — multisyllabic words).",
+      "pairs": [
+        {
+          "left": "[ˌintəɹˈnæʃənəl]",
+          "right": "international"
+        },
+        {
+          "left": "[fəˈnɛtɪk]",
+          "right": "phonetic"
+        },
+        {
+          "left": "[ˈælfəˌbɛt]",
+          "right": "alphabet"
+        },
+        {
+          "left": "[ˈpɔɹkjəˌpaɪn]",
+          "right": "porcupine"
+        },
+        {
+          "left": "[ˈsɛɹəˌmoʊni]",
+          "right": "ceremony"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q038",
+      "type": "match",
+      "text": "Match each signed-language parameter to its minimal pair.",
+      "pairs": [
+        {
+          "left": "Location",
+          "right": "apple vs. onion"
+        },
+        {
+          "left": "Movement",
+          "right": "tough vs. physics"
+        },
+        {
+          "left": "Handshape",
+          "right": "orange vs. color"
+        },
+        {
+          "left": "Hand orientation",
+          "right": "meet vs. I-meet-you"
+        },
+        {
+          "left": "Non-manual markers",
+          "right": "hot vs. very hot"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-q039",
+      "type": "match",
+      "text": "Match each suprasegmental to what it does.",
+      "pairs": [
+        {
+          "left": "Length",
+          "right": "Contrasts Finnish /muta/ and /muːta/"
+        },
+        {
+          "left": "Phrase tone",
+          "right": "Falls on statements, rises on questions"
+        },
+        {
+          "left": "Pitch accent",
+          "right": "Highlights one word mid-utterance"
+        },
+        {
+          "left": "Stress",
+          "right": "Distinguishes noun 'object' from verb 'object'"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     }
   ],
   "notes": [
+    {
+      "id": "ch3-ppt-n008",
+      "title": "★ KEY EXAM POINTS — Phonetics Lecture",
+      "body": "★ PHONETICS = the scientific study of speech sounds/gestures; the minimal units of language. THREE SUBFIELDS: articulatory (production), acoustic (transmission), auditory/perceptual (reception).\n★ ~600 vowels + ~200 consonants exist worldwide (Ladefoged 2004); each language uses only a small subset.\n★ SEGMENTS (vowels, consonants) vs. SUPRASEGMENTALS (stress, tone, intonation, length).\n★ ORTHOGRAPHY IS UNRELIABLE — know an example of each failure: many spellings for one sound (18 for 'he'), one spelling many sounds (car/cell/cello), silent letters (debt, Wednesday), letterless sounds (colonel, soldier). GHOTI = fish (enouGH, wOmen, naTIon).\n★ IPA created in 1888 to represent the sounds of all languages — write and read any language.\n★ CONSONANTS = airstream mechanism + place + manner (plus voicing and nasality).\n★ MEMORIZE PLACES front→back: bilabial, labiodental, interdental, alveolar, (alveolar-)palatal, velar, uvular, glottal — with their example sounds.\n★ MEMORIZE MANNERS: stop, fricative, affricate (stop released as fricative), approximant (rhotic/lateral), liquid, glide, trill, nasal.\n★ VOICELESS [p t s k] vs. VOICED [b d z g]. NASAL [m n] = velum open.\n★ WEIRD SYMBOLS: /j/ yellow, /θ/ thigh, /ð/ thy, /ʒ/ rouge, /ʃ/ shy, /dʒ/ judge, /tʃ/ chair, /ŋ/ long.\n★ VOWELS: little/no airflow restriction; classified by TONGUE POSITION (front/back, high/low) and LIP ROUNDING. FORMANTS = frequency peaks.\n★ ROUNDED /u o ʊ ɔ/; LAX /ɪ ɛ æ ə ʌ ʊ/. DIPHTHONGS: /aʊ/ ow, /aɪ/ eye, /ɔɪ/ oy — bate, bite, boat, boy.\n★ LENGTH is contrastive in Finnish (/muta/ 'mud' vs. /muːta/ 'some other').\n★ PHRASE TONE = end of phrase (falling = statement, rising = question). PITCH ACCENT = mid-utterance; 'I never said she stole my money' × 7.\n★ TONE types: LEVEL (H, M, L) and CONTOUR (HL, LH); relative to speaker and context.\n★ STRESS is a syllable property and is contrastive in English: OBject (n) vs. obJECT (v), PROduce vs. proDUCE, PRESent vs. preSENT.\n★ FIVE SIGNED PARAMETERS: location, movement, handshape, orientation, non-manual markers — know one minimal pair for each (apple/onion; tough/physics; orange/color; meet/I-meet-you; hot/very hot).\n★ DIACRITICS mark aspiration, length, and unreleased stops.\n★ BE READY TO TRANSCRIBE BOTH WAYS — the practice list (heat, hit, fruit, thanks, scream, international, phonetic, alphabet, porcupine, ceremony, February, conscientious) is fair game.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n007",
+      "title": "Phonetics of Signed Languages — Five Parameters",
+      "body": "Signed languages have their own articulatory parameters. Minimal pairs differ in exactly one parameter.\n\n1. PLACE / LOCATION\n   • apple vs. onion\n   • lucky vs. clever\n2. MOVEMENT\n   • tough vs. physics\n   • can vs. shoes\n3. HANDSHAPE\n   • orange vs. color vs. wrong\n   • like vs. white\n4. HAND ORIENTATION\n   • meet vs. I-meet-you\n5. NON-MANUAL MARKERS — facial expressions or head movement\n   • late vs. not yet\n   • hot vs. very hot\n\nRESOURCES USED IN LECTURE: spreadthesign.com, signingsavvy.com, handspeak.com\n\nDIACRITICS (spoken-language detail marks covered alongside):\n• Aspiration\n• Length\n• Unreleased",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n006",
+      "title": "Suprasegmentals: Length, Intonation, Tone, and Stress",
+      "body": "LENGTH:\n• Speech sounds can differ in length; best understood RELATIVE to speech rate in a particular context.\n• In some languages a difference in length creates a difference in meaning. FINNISH:\n   'mud' /muta/ vs. 'some other' /muːta/\n   'come!' /tule/ vs. 'comes' /tuleː/ vs. 'is windy' /tuːleː/\n\nINTONATION:\n• The pattern of pitch movement across an utterance.\n• PHRASE TONE — a change in fundamental frequency at the END of a phrase.\n• PITCH ACCENT — a MID-utterance change in fundamental frequency.\n\nPHRASE TONE:\n• 'You want black coffee or black tea' — read with different intonations.\n• Statements typically get a FALLING phrase tone at the end.\n• Questions typically get a RISING phrase tone at the end.\n• Phrase tone also marks phrasal boundaries.\n\nPITCH ACCENT — seven readings, seven meanings:\n• I never said she stole my money.\n• I NEVER said she stole my money.\n• I never SAID she stole my money.\n• I never said SHE stole my money.\n• I never said she STOLE my money.\n• I never said she stole MY money.\n• I never said she stole my MONEY.\n\nTONE:\n• The pitch of a single word that creates a meaning distinction.\n• LEVEL TONE: High, Mid, Low.\n• CONTOUR TONE: High-Low, Low-High, etc.\n• Tones are relative to the pitch of the speaker and the linguistic context. (Cantonese six-tone example shown in class.)\n\nSTRESS:\n• Mostly a property of SYLLABLES.\n• Stressed syllables can be longer, louder, and have fuller vowels.\n• In many languages including English, stress creates SEMANTIC distinctions:\n   object /ˈɒbʤɛkt/ (noun) vs. object /əbˈʤɛkt/ (verb)\n   produce /ˈproʊdus/ vs. produce /prəˈdus/\n   present /ˈprɛzənt/ vs. present /priˈzɛnt/",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n005",
+      "title": "Transcription Practice (IPA ↔ English)",
+      "body": "From the lecture's practice slides — cover one column and work the other direction.\n\n[hit] heat | [hɪt] hit | [fɹut] fruit | [pitsə] pizza | [θæŋks] thanks | [skɹim] scream\n[ˌkɑnʃiˈɛnʃəs] conscientious | [ˌintəɹˈnæʃənəl] international | [fəˈnɛtɪk] phonetic\n[ˈælfəˌbɛt] alphabet | [noʊ] no | [naʊ] now | [nju] new | [bʊk] book\n[ʃoʊ] show | [kɔʃən] caution | [ˈpɔɹkjəˌpaɪn] porcupine | [ˈsɛɹəˌmoʊni] ceremony\n[loʊkəl] local | [ˈfɛbjəˌwɛɹi] February | [ʌv] of\n[ðə] the | [ɔɹ] or | [ɪz] is | [wɪð] with | [pɛniz] pennies | [ænd] and | [daɪmz] dimes\n\nNOTE: the practice set is deliberately full of words where spelling and sound diverge — February, conscientious, porcupine, colonel-style traps.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n004",
+      "title": "Vowels",
+      "body": "• Vowels are produced with little to no restriction of the airflow.\n• The QUALITY of a vowel depends on the shape of the vocal tract.\n• Vowels are made up of a wide range of frequencies. Where frequencies peak, we have FORMANTS.\n\nCLASSIFICATION — TWO FEATURES:\n• POSITION OF THE TONGUE: back vs. front; open vs. close (low vs. high)\n• LIP SHAPE: rounded vs. unrounded\n\nENGLISH VOWEL FACTS FROM THE DECK:\n• ROUNDED: /u/, /o/, /ʊ/, /ɔ/. Unrounded: all the rest.\n• LAX: /ɪ/, /ɛ/, /æ/, /ə/, /ʌ/, /ʊ/\n• Chart axes: front — central — back; high — mid — low\n\nDIPHTHONGS:\n• The vowels seen so far were MONOPHTHONGS (single vowels).\n• A DIPHTHONG is a sequence of two vowels together — 'two vowels for the price of one':\n   bate [beɪt] | bite [baɪt] | boat [boʊt] | boy [bɔɪt]\n• Quick keys: /aʊ/ = ow, /aɪ/ = eye, /ɔɪ/ = oy",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n003",
+      "title": "Articulatory Phonetics and Consonant Classification",
+      "body": "THE ART IN ARTICULATION:\n• The human vocal tract is like a musical instrument — growing up, we all learned how to play it.\n• Producing speech sounds requires complex manipulation of: airflow through the mouth/nose, the shape of the mouth, the lips, the tongue, and more.\n\nCONSONANTS ARE CLASSIFIED BY THREE FEATURES:\n1. AIRSTREAM MECHANISM — the airstream may be initiated by the diaphragm/lungs (PULMONIC) or not.\n2. PLACE OF ARTICULATION — WHERE the airstream is restricted in the mouth.\n3. MANNER OF ARTICULATION — HOW the airstream is manipulated.\n\nPLACES OF ARTICULATION (front → back):\n• BILABIAL — both lips together: [p], [b], [m]\n• LABIODENTAL — bottom lip to teeth: [f], [v]\n• INTERDENTAL — tongue between teeth: [θ], [ð]\n• ALVEOLAR — tongue touches the alveolar ridge: [t], [d], [s], [z], [n], [l], [ɹ]\n• ALVEOLAR-PALATAL / POST-ALVEOLAR\n• PALATAL — front of tongue to the palate: [ʃ], [j]\n• VELAR — back of tongue to the velum: [k], [g]\n• UVULAR — back of tongue to the uvula: [ʀ], [q], [ɢ] (not in English)\n• GLOTTAL — air through an open glottis, or stopped and released there: [h], [ʔ]\n\nVOICING AND NASALITY:\n• VOICING — whether the vocal cords vibrate. Voiceless: [p], [t], [s], [k]. Voiced: [b], [d], [z], [g].\n• NASAL/ORAL — whether the velum is open and air goes through the nose. Nasal: [m], [n]. Oral: [p], [t].\n\nMANNERS OF ARTICULATION:\n• STOP — full closure in the mouth; stopping and releasing the airflow: [p], [b]\n• FRICATIVE — small opening creating turbulence/frication: [f], [v]\n• AFFRICATE — a stop released as a fricative: [t͡ʃ], [d͡ʒ]\n• APPROXIMANT — includes RHOTIC (r-like) and LATERAL (air flows along the sides of the mouth/tongue)\n• LIQUID — obstruction, but not as much as a fricative: [l], [ɹ]\n• GLIDE — minimal obstruction, very vowel-like; movement from one position to another\n• TRILL — rapid vibrations of the articulator\n• NASAL — oral closure, air comes out the nasal cavity\n\nWEIRD SYMBOLS TO MEMORIZE:\n/j/ = yellow | /θ/ = thigh | /ð/ = thy | /ʒ/ = rouge | /ʃ/ = shy | /dʒ/ = judge | /tʃ/ = chair | /ŋ/ = long",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n002",
+      "title": "Orthography and Why We Need the IPA",
+      "body": "WRITING SYSTEMS DO NOT REPRESENT SOUNDS ACCURATELY.\n\nTHE SAME SOUND CAN HAVE SEVERAL SPELLINGS:\n• he, believe, Caesar, see, people, seize, sea, amoeba, machine — 18 ways\n• too, true, shoe, flew, through\n\nTHE SAME SPELLING MAY CORRESPOND TO DIFFERENT SOUNDS:\n• father, want, many, bad, fame\n• car, cell, cello, suspicion\n\nSOME LETTERS CORRESPOND TO NO SOUNDS:\n• psychology, debt, knot, Wednesday, receipt, thought, foreign, Worcester\n\nSOME SOUNDS CORRESPOND TO NO LETTERS:\n• colonel, soldier\n\nDIFFERENT WRITING SYSTEMS MASK SIMILARITIES:\n• cake / کیک / ケーキ — same word, three scripts\n\nGHOTI = 'fish':\n• GH as in enouGH, O as in wOmen, TI as in naTIon\n\nTHE INTERNATIONAL PHONETIC ALPHABET:\n• In 1888, linguists set out to create the IPA.\n• Developed to represent the (fundamental) sounds of ALL languages.\n• Using the IPA, a linguist can write down the words of any language, and can read a word in any language.",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch3-ppt-n001",
+      "title": "Speech Sounds, Phonetics, and Its Subfields",
+      "body": "SPEECH SOUNDS IN WORLD LANGUAGES:\n• There are thousands of possible speech sounds.\n• Around 600 VOWELS and 200 CONSONANTS across the world's languages (Ladefoged, 2004, p. 179).\n• Each language only uses a small SUBSET of these to create its words.\n\nPHONETICS:\n• The scientific study of speech sounds or gestures.\n• The study of the minimal units that make up language.\n\nTHREE MAIN SUBFIELDS:\n• ARTICULATORY PHONETICS — speech production\n• ACOUSTIC PHONETICS — physical transmission of speech sounds\n• AUDITORY PHONETICS — speech reception and perception (textbook label: perceptual phonetics)\n\nTWO BROAD TYPES OF SPEECH SOUNDS:\n• SEGMENTS — discrete units of sound appearing one after another (vowels, consonants)\n• SUPRASEGMENTALS — sound properties laid on top of and across segments (stress, tone, intonation)",
+      "image": null,
+      "module": "wk03",
+      "chapter": 3,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
     {
       "id": "ch2-asn-n001",
       "title": "Discussion 2 — Assignment Requirements",
