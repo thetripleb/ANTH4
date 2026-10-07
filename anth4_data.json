@@ -313,6 +313,15 @@
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
+      "id": "ch4-ex-g004",
+      "term": "alveolar nasal",
+      "def": "The nasal consonant [n], produced with the tongue at the alveolar ridge. In Standard Italian it is the underlying phoneme /n/, with [ŋ] as its conditioned allophone.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
       "id": "ch14-g013",
       "term": "analogy",
       "def": "When a word shifts to match a pattern found in other words — typically from a rare pattern toward a common one; often reduces the number of allomorphs in a paradigm.",
@@ -401,6 +410,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch4-ppt-g005",
+      "term": "aspirated stop",
+      "def": "A stop released with an audible puff of air, transcribed with a superscript h - e.g., 'pie' is [pʰaɪ]. In English, aspirated stops appear word-initially.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch4-g004",
@@ -536,6 +554,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch4-ppt-g009",
+      "term": "broad transcription",
+      "def": "Transcription written between slashes / /, representing phonemes - the abstract, psychological sound categories - rather than fine phonetic detail. Also called phonemic or phonological transcription.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch8-g016",
@@ -907,6 +934,15 @@
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
+      "id": "ch1-v-g003",
+      "term": "de jure vs. de facto (language status)",
+      "def": "De jure = official by law; de facto = official in practice/effect even without a law. The lecture noted that, at the federal level, the U.S. has historically had no de jure official language, while English functions de facto because government business is conducted in it.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
       "id": "ch2-g020",
       "term": "deadnaming",
       "def": "Using a trans person's former (pre-transition) name, whether accidentally or deliberately; a way names are used to enforce power.",
@@ -1069,6 +1105,24 @@
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
+      "id": "ch4-ppt-g011",
+      "term": "dissimilation",
+      "def": "A phonological process in which sounds that are close together become MORE different from each other. Lecture examples: 'surprise' and 'February' (where one /r/ is commonly changed or dropped).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-g004",
+      "term": "distinctive (phonetic characteristic)",
+      "def": "A phonetic property is distinctive when changing it can change the meaning of a word in that language. Aspiration is NOT distinctive in English, because making a stop aspirated or unaspirated never changes which word it is.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch4-g007",
       "term": "distribution",
       "def": "The overall set of environments in which a given phone can occur.",
@@ -1123,6 +1177,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
+      "id": "ch4-ppt-g014",
+      "term": "elision",
+      "def": "A phonological process involving the deletion of a sound. Lecture example: 'laboratory', commonly reduced by dropping a syllable/vowel.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch6-g031",
       "term": "embedding",
       "def": "Placing one clause inside another; the outer clause is the matrix/main clause and the inner one is the embedded (subordinate) clause.",
@@ -1175,6 +1238,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-ppt-g015",
+      "term": "epenthesis",
+      "def": "A phonological process involving the insertion of an extra sound. Lecture example: the instructor's own name being pronounced with an inserted sound ('Chlowe').",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch6-g036",
@@ -1265,6 +1337,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch4-ppt-g007",
+      "term": "free variation",
+      "def": "When more than one allophone is possible in the SAME environment and the choice does not change meaning, but is also not predictable. Example: the final /p/ in 'leap' may be released [lip] or unreleased [lip̚]. Conventionally marked with a tilde (~) between the two variants.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-g021",
@@ -1699,6 +1780,15 @@
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
+      "id": "ch1-v-g005",
+      "term": "language acquisition",
+      "def": "The process by which children implicitly and subconsciously gain their first language(s) simply from exposure, without explicit instruction - contrasted with writing, which must be deliberately taught.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
       "id": "ch9-g006",
       "term": "language and culture",
       "def": "The principle, stressed by the chapter's contributors, that a language carries cultural knowledge and cannot be taught apart from its culture (e.g., Mohawk nyaweh means far more than English 'thank you').",
@@ -1850,6 +1940,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch4-ppt-g012",
+      "term": "lenition",
+      "def": "A phonological process in which a sound becomes 'weaker' over time. Lecture example: English /t/ becoming a flap [ɾ], as in the casual pronunciation of words like 'butter'.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-ppt-g023",
@@ -2113,6 +2212,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch4-ppt-g013",
+      "term": "metathesis",
+      "def": "A phonological process that swaps the order of two phonemes. Lecture example: the historical development of 'Wednesday'.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch9-g009",
       "term": "Métis",
       "def": "A distinct Indigenous people whose historically multilingual communities are associated with Michif and a homeland spread across the Prairies and northern US.",
@@ -2230,6 +2338,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch4-ppt-g010",
+      "term": "narrow transcription",
+      "def": "Transcription written between square brackets [ ], representing allophones and the actual phonetic detail of how a sound is produced. Also called phonetic transcription.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch3-g032",
       "term": "nasality",
       "def": "Whether a vowel is oral (raised velum) or nasal/nasalized (lowered velum, e.g., the vowel in bent).",
@@ -2246,6 +2363,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch1-v-g004",
+      "term": "natural language processing (NLP)",
+      "def": "The area of computational linguistics concerned with programming computers to understand and produce human language (e.g., how a voice assistant like Siri interprets speech).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
     },
     {
       "id": "ch4-g009",
@@ -2599,6 +2725,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
     },
     {
+      "id": "ch4-ex-g001",
+      "term": "phonological analysis (6-step method)",
+      "def": "The lecture's step-by-step procedure for solving a phonology problem: (1) identify the sounds under investigation, (2) identify any minimal pairs, (3) list the environments for each sound and check for overlap, (4) generalize the environments using natural classes, (5) determine which sound is underlying (the one with the wider distribution), (6) write a rule.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
       "id": "ch4-g020",
       "term": "phonological derivation",
       "def": "The process turning a UR into an SR by applying phonological rules; shown in a derivation table (UR on top, rules down the side, SR on the bottom; — = rule didn't apply).",
@@ -2633,6 +2768,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch4-ppt-g016",
+      "term": "phonotactic constraint",
+      "def": "A language-specific restriction on which combinations of sounds are possible. English permits the onset clusters in 'bring', 'clean', and 'fly' but not *bming, *cgean, or *fvy; Persian requires a vowel between such consonants (berim 'let's go', kilid 'key', felan 'something/somebody').",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch4-g005",
@@ -2696,6 +2840,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch4-ex-g002",
+      "term": "place of articulation assimilation",
+      "def": "A process in which a sound takes on the place of articulation of a neighboring sound. In Standard Italian, the alveolar nasal /n/ is realized as the velar nasal [ŋ] before velar stops - the nasal assimilates to the following consonant's place.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
     },
     {
       "id": "ch3-g020",
@@ -2840,6 +2993,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch1-v-g001",
+      "term": "Proto-Indo-European (PIE)",
+      "def": "The reconstructed common ancestor language, spoken roughly 5,000-10,000 years ago, from which many modern languages descend (English, German, Spanish, Italian, Russian, and more). Used in lecture to illustrate what historical linguistics studies: how one language diverges into hundreds of related ones.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
     },
     {
       "id": "ch14-g020",
@@ -3409,6 +3571,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch1-v-g002",
+      "term": "style shifting",
+      "def": "Switching between registers (levels of formality) depending on audience and context - e.g., an instructor speaking formally in a lecture versus casually with friends. Everyone does it, constantly.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
       "id": "ch10-g010",
       "term": "style-shifting",
       "def": "Varying one's speech across situations; in Labov's attention-paid-to-speech model, more careful speech goes with more attention (other motivations exist too).",
@@ -3706,6 +3877,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch4-ppt-g006",
+      "term": "unaspirated stop",
+      "def": "A stop released without a puff of air, written with no superscript h - e.g., 'spy' is [spaɪ]. In English, unaspirated stops appear after [s].",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch11-g008",
       "term": "underextension",
       "def": "Using a word too narrowly, applying it to fewer things than the adult meaning covers.",
@@ -3722,6 +3902,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch4-ppt-g008",
+      "term": "unreleased stop",
+      "def": "A stop produced without releasing the closure (lips or tongue stay in place), transcribed with a corner diacritic - e.g., 'soap' as [sop̚]. In English this alternates freely with the released version.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch2-g005",
@@ -3785,6 +3974,24 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch4-ex-g003",
+      "term": "velar nasal",
+      "def": "The nasal consonant [ŋ], produced with the back of the tongue at the velum. In Standard Italian it is an allophone of /n/; in English (as in 'ringing') it is a phoneme in its own right.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ppt-g021",
+      "term": "velar stop",
+      "def": "A stop consonant produced with the back of the tongue against the velum (soft palate): [k] (voiceless) and [g] (voiced). This pair forms the natural class that conditions the Italian [ŋ] allophone.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch10-g008",
@@ -3929,6 +4136,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch4-ex-g005",
+      "term": "wider distribution (as evidence)",
+      "def": "In phonemic analysis, the allophone appearing in the greater number of environments - and in the less easily specified ones - is taken to be the underlying phoneme. In the Italian data [n] appears in more environments than [ŋ], so /n/ is the phoneme.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
     },
     {
       "id": "ch5-g001",
@@ -6163,6 +6379,258 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch1-v-f001",
+      "front": "How do linguists decide whether an utterance is \"grammatical\"?",
+      "back": "Descriptively: if speakers of that variety can produce and understand it, it's grammatical - regardless of prescriptive rules. \"Ain't\" is grammatical in varieties that use it; \"me drive the car\" is ungrammatical in English. Linguists avoid \"correct/incorrect\" because of the judgment those words carry.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-f002",
+      "front": "What's the difference between an icon and an arbitrary sign?",
+      "back": "An icon RESEMBLES its meaning (an emoji face, a road sign of a person falling off a bike). An arbitrary sign has only a conventional, agreed-upon link with no inherent connection - most words, plus things like traffic-light colors and wedding rings.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-f003",
+      "front": "If no one \"decides\" a language's rules, where do they come from?",
+      "back": "They emerge through interaction and consensus within a community over time. Dictionary writers, English teachers, and linguists REFLECT and describe existing rules - they don't invent them. Individuals can nudge usage but can't unilaterally change the shared code.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-f004",
+      "front": "Why is speech (or sign) considered primary and writing secondary?",
+      "back": "Humans have spoken/signed for roughly 50,000 years but only invented writing ~4,000-5,000 years ago. Many languages have no writing system yet are fully languages, and children acquire speech implicitly while writing must be explicitly taught.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-f005",
+      "front": "What does Proto-Indo-European illustrate about historical linguistics?",
+      "back": "That a single ancestor language (~5,000-10,000 years ago) can diverge into many related languages - English, German, Spanish, Italian, Russian, and others - showing how languages systematically change and split over time.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-f006",
+      "front": "What is style shifting, and how does it relate to registers?",
+      "back": "A register is a level of formality; style shifting is moving between registers as the situation changes (lecturing vs. chatting with friends vs. speaking to a judge). It's part of how language expresses social identity.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch4-ppt-f001",
+      "front": "Phonetics vs. phonology - one line each?",
+      "back": "Phonetics = the study of the PHYSICAL properties of speech sounds. Phonology = the study of the PSYCHOLOGICAL/mental properties - how sounds are represented, categorized, and structured in the mind of a speaker.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f002",
+      "front": "What is a minimal pair, and what does finding one prove?",
+      "back": "Two words differing in exactly one sound with different meanings (pat/bat). It proves those two sounds are CONTRASTIVE in that language, i.e., they belong to different phonemes.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f003",
+      "front": "Why are phonemes described as 'psychological' and 'learned'?",
+      "back": "Psychological: they are abstract categories in the mind, and physically different sounds can belong to one phoneme. Learned: your brain sorts the sounds it hears into a small, language-specific set based on experience with the ambient language.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f004",
+      "front": "What can babies do that adults can't, phonologically?",
+      "back": "Babies can produce and perceive the sounds of ALL human languages. They quickly learn which contrasts matter in the surrounding language and learn to ignore the ones that don't - which is why learning new sounds gets harder with age.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f005",
+      "front": "What causes a foreign accent, in phonological terms?",
+      "back": "Speaking a foreign language using the sound categories of your native language. Sounds outside your native set can be hard to even hear, so you perceive and produce the closest sound from your own inventory.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f006",
+      "front": "Transcribe 'pie' and 'spy' phonetically. What's the difference?",
+      "back": "'pie' = [pʰaɪ] - aspirated, with a puff of air on release. 'spy' = [spaɪ] - unaspirated, no puff. The bilabial stops are phonetically DIFFERENT but phonologically the SAME (both /p/).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f007",
+      "front": "Is aspiration distinctive in English? Why does it matter?",
+      "back": "No. Making a stop aspirated or unaspirated never changes a word's meaning in English, so aspiration is non-distinctive - [pʰ] and [p] are allophones of one phoneme /p/, not separate phonemes.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f008",
+      "front": "State the English aspiration pattern as a distribution.",
+      "back": "[pʰ] and [tʰ] occur WORD-INITIALLY (pat [pʰæt], pool, peak; thin [tʰɪn]). [p] and [t] occur AFTER [s] (spat [spæt], spool, speak; sting). Mutually exclusive environments = complementary distribution, and therefore predictable.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f009",
+      "front": "Complementary vs. contrastive distribution vs. free variation?",
+      "back": "Complementary = mutually exclusive environments, predictable, allophones of ONE phoneme. Contrastive = same environment / minimal pairs exist, unpredictable, DIFFERENT phonemes. Free variation = same environment, but either variant is possible with no meaning change (marked with ~).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f010",
+      "front": "Why are phonemes 'not predictable' while allophones are?",
+      "back": "Allophones are rule-governed: given the environment, you can predict which one appears ([pʰ] initially, [p] after [s]). Phonemes are not derivable from context - you have to memorize which phoneme goes in which word, i.e., the sound-meaning connection.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f011",
+      "front": "When do you conclude FREE VARIATION rather than complementary distribution?",
+      "back": "Only when you actually see two variants in the SAME environment meaning the same thing - conventionally shown with a tilde: leap [lip] ~ [lip̚], soap [sop] ~ [sop̚]. When in doubt, don't assume free variation without that evidence.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f012",
+      "front": "Name the six phonological processes from lecture, with an example each.",
+      "back": "Assimilation - sounds become more similar (English nasal place assimilation). Dissimilation - become more different (surprise, February). Lenition - weakening (/t/ → [ɾ]). Metathesis - swapping two phonemes (Wednesday). Elision - deleting a sound (laboratory). Epenthesis - adding a sound (Chlowe).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f013",
+      "front": "What are phonotactic constraints? Give an English and a Persian example.",
+      "back": "Language-specific restrictions on possible sound combinations. English allows 'bring/clean/fly' but not *bming/*cgean/*fvy. Persian requires a vowel between such consonants: berim 'let's go', kilid 'key', felan 'something/somebody'.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f014",
+      "front": "What are the three parts of a syllable, and what's in 'flutes' /fluts/?",
+      "back": "Onset, nucleus, coda. In /fluts/: onset = /fl/, nucleus = /u/, coda = /ts/ - a CCVCC syllable.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f015",
+      "front": "How many phonemes are in 'cough' and in 'ringing'? Why is this tricky?",
+      "back": "'cough' = 3 (/k/ /ɔ/ /f/) and 'ringing' = 5 (/ɹ/ /ɪ/ /ŋ/ /ɪ/ /ŋ/). Tricky because you must count SOUNDS, not letters - 'gh' is one sound, and 'ng' is the single sound /ŋ/.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-f016",
+      "front": "Which brackets do you use for phonemes vs. allophones?",
+      "back": "/ / = phonological/broad transcription, used for PHONEMES. [ ] = phonetic/narrow transcription, used for ALLOPHONES and actual phonetic detail.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ex-f001",
+      "front": "List the six steps for solving a phonology problem.",
+      "back": "1) Identify the sounds you are investigating. 2) Identify any minimal pairs (if none, move on). 3) List the environments for each sound - do any overlap? 4) Make generalizations using natural classes. 5) Determine which is the underlying sound (wider distribution). 6) Write a rule for the data.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-f002",
+      "front": "In the Standard Italian data, which minimal pairs appear and what do they prove?",
+      "back": "[tiŋgo] 'I dye' vs. [tɛŋgo] 'I keep' → /i/ and /ɛ/ are separate phonemes. [fuŋgo] 'mushroom' vs. [faŋgo] 'mud' → /u/ and /a/ are separate phonemes. Each pair is identical except the middle vowel, so those vowels are in contrastive distribution.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-f003",
+      "front": "Are [n] and [ŋ] in complementary or contrastive distribution in Standard Italian? How do you know?",
+      "back": "COMPLEMENTARY. There are no minimal pairs for [n] and [ŋ], and when you list their environments none overlap - [ŋ] appears only before [g] and [k], while [n] appears elsewhere.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-f004",
+      "front": "What natural class conditions [ŋ] in Standard Italian?",
+      "back": "VELAR STOPS. [ŋ] appears only before [g] (voiced velar stop) and [k] (voiceless velar stop). [n] appears before [t], [d], and the vowel [e].",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-f005",
+      "front": "Which sound is the underlying phoneme in the Italian data, and why?",
+      "back": "/n/. It has the WIDER DISTRIBUTION - [n] occurs in three environments (before [t], [d], and [e]) while [ŋ] occurs in only one (before velar stops). So Italian has one phoneme /n/ realized as either [n] or [ŋ] depending on environment.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-f006",
+      "front": "Write the rule for the Italian nasal data and name the process.",
+      "back": "/n/ → [ŋ] / ___ velar stops. This is PLACE OF ARTICULATION ASSIMILATION - the alveolar nasal becomes a velar nasal when it precedes a velar stop.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
     }
   ],
   "questions": [
@@ -11197,9 +11665,904 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch1-v-q001",
+      "type": "mc",
+      "text": "By what criterion do linguists (descriptively) decide whether an utterance is grammatical?",
+      "options": [
+        "Whether speakers of that variety can produce and understand it",
+        "Whether it appears in a published style guide",
+        "Whether an English teacher would mark it correct",
+        "Whether it avoids ending in a preposition"
+      ],
+      "answer": "Whether speakers of that variety can produce and understand it",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q002",
+      "type": "mc",
+      "text": "A road sign showing a person falling off a bike resembles what it means. This kind of sign is best called a(n):",
+      "options": [
+        "Icon",
+        "Arbitrary sign",
+        "Register",
+        "Morpheme"
+      ],
+      "answer": "Icon",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q003",
+      "type": "mc",
+      "text": "Which subfield is concerned with programming computers (e.g., a voice assistant like Siri) to handle human language?",
+      "options": [
+        "Computational linguistics",
+        "Sociolinguistics",
+        "Historical linguistics",
+        "Phonology"
+      ],
+      "answer": "Computational linguistics",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q004",
+      "type": "tf",
+      "text": "True or False: According to the lecture, dictionary writers and English teachers create the rules of a language.",
+      "answer": "False",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q005",
+      "type": "tf",
+      "text": "True or False: Spoken and signed language are far older in human history than written language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q006",
+      "type": "tf",
+      "text": "True or False: A language without a writing system is less of a real language than one with writing.",
+      "answer": "False",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q007",
+      "type": "fitb",
+      "text": "Switching between levels of formality depending on the situation is called ____.",
+      "answer": "style shifting",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q008",
+      "type": "fitb",
+      "text": "The reconstructed common ancestor of English, German, Spanish, and Russian is called ____ (abbreviated PIE).",
+      "answer": "Proto-Indo-European",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-q009",
+      "type": "match",
+      "text": "Match each concept from the video lecture to its description.",
+      "pairs": [
+        {
+          "left": "Proto-Indo-European",
+          "right": "Reconstructed ancestor of many modern languages"
+        },
+        {
+          "left": "Style shifting",
+          "right": "Changing level of formality by context"
+        },
+        {
+          "left": "Natural language processing",
+          "right": "Programming computers to handle language"
+        },
+        {
+          "left": "Language acquisition",
+          "right": "How children implicitly gain a first language"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch4-ppt-q001",
+      "type": "mc",
+      "text": "Which of the following sounds is alveolar?",
+      "options": [
+        "/z/",
+        "/f/",
+        "/g/",
+        "/u/"
+      ],
+      "answer": "/z/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q002",
+      "type": "mc",
+      "text": "Which of the following are bilabial?",
+      "options": [
+        "All of the above: /b/, /m/, and /p/",
+        "/b/ only",
+        "/m/ only",
+        "/p/ only"
+      ],
+      "answer": "All of the above: /b/, /m/, and /p/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q003",
+      "type": "mc",
+      "text": "How many phonemes are in the word “cough”?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "answer": "3",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q004",
+      "type": "mc",
+      "text": "How many phonemes are in the word “ringing”?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer": "5",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q005",
+      "type": "mc",
+      "text": "Which vowel is the high front unrounded vowel of American English?",
+      "options": [
+        "/i/",
+        "/u/",
+        "/ɑ/",
+        "/æ/"
+      ],
+      "answer": "/i/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q006",
+      "type": "mc",
+      "text": "Which vowel is the low back unrounded vowel of American English?",
+      "options": [
+        "/ɑ/",
+        "/i/",
+        "/u/",
+        "/ɛ/"
+      ],
+      "answer": "/ɑ/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q007",
+      "type": "mc",
+      "text": "Which vowel occurs in the word “bat”?",
+      "options": [
+        "/æ/",
+        "/ɑ/",
+        "/ɛ/",
+        "/eɪ/"
+      ],
+      "answer": "/æ/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q008",
+      "type": "mc",
+      "text": "Which vowel is the INITIAL vowel in the word “about”?",
+      "options": [
+        "/ə/ (schwa)",
+        "/æ/",
+        "/aʊ/",
+        "/ʌ/"
+      ],
+      "answer": "/ə/ (schwa)",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q009",
+      "type": "mc",
+      "text": "Are the [p] sounds in “pie” and “spy” physically the same sound?",
+      "options": [
+        "No - the one in “pie” is aspirated, the one in “spy” is not",
+        "Yes - they are identical in every way",
+        "Yes - English has only one [p] sound",
+        "No - they are different phonemes"
+      ],
+      "answer": "No - the one in “pie” is aspirated, the one in “spy” is not",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q010",
+      "type": "mc",
+      "text": "The stops in “pie” and “spy” are…",
+      "options": [
+        "Phonetically different, phonologically the same",
+        "Phonetically the same, phonologically different",
+        "Phonetically different, phonologically different",
+        "Phonetically the same, phonologically the same"
+      ],
+      "answer": "Phonetically different, phonologically the same",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q011",
+      "type": "mc",
+      "text": "The consonants in “sty” and “spy” are…",
+      "options": [
+        "Phonetically different, phonologically different",
+        "Phonetically different, phonologically the same",
+        "Phonetically the same, phonologically different",
+        "Phonetically the same, phonologically the same"
+      ],
+      "answer": "Phonetically different, phonologically different",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q012",
+      "type": "mc",
+      "text": "Phonology is best defined as the study of speech sounds as…",
+      "options": [
+        "Mental/psychological objects",
+        "Physical acoustic events",
+        "Written symbols",
+        "Historical spellings"
+      ],
+      "answer": "Mental/psychological objects",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q013",
+      "type": "mc",
+      "text": "Which phonological process describes /t/ becoming a flap [ɾ] over time?",
+      "options": [
+        "Lenition",
+        "Metathesis",
+        "Epenthesis",
+        "Elision"
+      ],
+      "answer": "Lenition",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q014",
+      "type": "mc",
+      "text": "“Wednesday” is the lecture's example of which phonological process?",
+      "options": [
+        "Metathesis",
+        "Assimilation",
+        "Dissimilation",
+        "Elision"
+      ],
+      "answer": "Metathesis",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q015",
+      "type": "mc",
+      "text": "In the syllable /flut/ (“flute”), what is the onset?",
+      "options": [
+        "/fl/",
+        "/u/",
+        "/t/",
+        "/ut/"
+      ],
+      "answer": "/fl/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q016",
+      "type": "tf",
+      "text": "True or False: Aspiration is a distinctive phonetic characteristic in English.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q017",
+      "type": "tf",
+      "text": "True or False: Babies are able to produce and perceive the sounds of all human languages before narrowing to their ambient language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q018",
+      "type": "tf",
+      "text": "True or False: Allophones in complementary distribution are predictable from their environment.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q019",
+      "type": "tf",
+      "text": "True or False: Phonemes are predictable from context, so speakers never have to memorize which sounds occur in which words.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q020",
+      "type": "tf",
+      "text": "True or False: You should assume free variation whenever two sounds look similar, even without seeing two variants of the same word.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q021",
+      "type": "tf",
+      "text": "True or False: Square brackets [ ] are used for narrow (phonetic) transcription and allophones.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q022",
+      "type": "fitb",
+      "text": "Two words that differ in exactly one sound and have different meanings, such as “pat” and “bat”, are called a ____.",
+      "answer": "minimal pair",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q023",
+      "type": "fitb",
+      "text": "The phonological process in which an extra sound is inserted into a word is called ____.",
+      "answer": "epenthesis",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q024",
+      "type": "fitb",
+      "text": "Language-specific restrictions on which sound combinations are permitted are called ____ constraints.",
+      "answer": "phonotactic",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q025",
+      "type": "fitb",
+      "text": "A syllable is composed of an onset, a ____, and a coda.",
+      "answer": "nucleus",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q026",
+      "type": "match",
+      "text": "Match each phonological process to its lecture example.",
+      "pairs": [
+        {
+          "left": "Dissimilation",
+          "right": "surprise, February"
+        },
+        {
+          "left": "Lenition",
+          "right": "/t/ becoming a flap"
+        },
+        {
+          "left": "Metathesis",
+          "right": "Wednesday"
+        },
+        {
+          "left": "Elision",
+          "right": "laboratory"
+        },
+        {
+          "left": "Epenthesis",
+          "right": "Chlowe"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q027",
+      "type": "match",
+      "text": "Match each distribution type to its defining property.",
+      "pairs": [
+        {
+          "left": "Complementary distribution",
+          "right": "Mutually exclusive environments; predictable allophones"
+        },
+        {
+          "left": "Contrastive distribution",
+          "right": "Minimal pairs exist; separate phonemes"
+        },
+        {
+          "left": "Free variation",
+          "right": "Same environment, either variant, no meaning change"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q028",
+      "type": "match",
+      "text": "Match each syllable pattern to its example word.",
+      "pairs": [
+        {
+          "left": "CVC",
+          "right": "bot /bɑt/"
+        },
+        {
+          "left": "CCVC",
+          "right": "flute /flut/"
+        },
+        {
+          "left": "VCCC",
+          "right": "asked /æskt/"
+        },
+        {
+          "left": "CCCVC",
+          "right": "scream /skɹim/"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-q029",
+      "type": "match",
+      "text": "Match each transcription to what it represents.",
+      "pairs": [
+        {
+          "left": "/paɪ/",
+          "right": "Broad transcription - the phoneme level"
+        },
+        {
+          "left": "[pʰaɪ]",
+          "right": "Narrow transcription - the aspirated allophone"
+        },
+        {
+          "left": "[spaɪ]",
+          "right": "Narrow transcription - the unaspirated allophone"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ex-q001",
+      "type": "mc",
+      "text": "In the Standard Italian exercise, [tiŋgo] 'I dye' and [tɛŋgo] 'I keep' form a minimal pair. What does this establish?",
+      "options": [
+        "/i/ and /ɛ/ are separate phonemes in Italian",
+        "[n] and [ŋ] are allophones",
+        "Italian has no phonemic vowel contrasts",
+        "Aspiration is distinctive in Italian"
+      ],
+      "answer": "/i/ and /ɛ/ are separate phonemes in Italian",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q002",
+      "type": "mc",
+      "text": "In the Italian data, [ŋ] occurs only before which natural class?",
+      "options": [
+        "Velar stops",
+        "Alveolar stops",
+        "Front vowels",
+        "Nasals"
+      ],
+      "answer": "Velar stops",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q003",
+      "type": "mc",
+      "text": "Which sound is identified as the underlying phoneme in the Italian nasal data, and on what grounds?",
+      "options": [
+        "/n/, because it has the wider distribution",
+        "/ŋ/, because it appears before stops",
+        "/n/, because it is easier to pronounce",
+        "/ŋ/, because it appears first in the data"
+      ],
+      "answer": "/n/, because it has the wider distribution",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q004",
+      "type": "mc",
+      "text": "Which rule correctly captures the Standard Italian nasal pattern?",
+      "options": [
+        "/n/ → [ŋ] / ___ velar stops",
+        "/ŋ/ → [n] / ___ velar stops",
+        "/n/ → [ŋ] / velar stops ___",
+        "/n/ → [ŋ] / ___ vowels"
+      ],
+      "answer": "/n/ → [ŋ] / ___ velar stops",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q005",
+      "type": "tf",
+      "text": "True or False: In the Standard Italian data, [n] and [ŋ] form several minimal pairs.",
+      "answer": "False",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q006",
+      "type": "tf",
+      "text": "True or False: Because none of the environments for [n] and [ŋ] overlap, the two sounds are in complementary distribution.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q007",
+      "type": "tf",
+      "text": "True or False: The Italian /n/ → [ŋ] rule is an instance of place of articulation assimilation.",
+      "answer": "True",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q008",
+      "type": "fitb",
+      "text": "In step 5 of the phonology problem-solving method, you determine the underlying phoneme by asking which allophone has the ____ distribution.",
+      "answer": "wider",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q009",
+      "type": "fitb",
+      "text": "Both [g] and [k] belong to the natural class of ____ stops.",
+      "answer": "velar",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-q010",
+      "type": "match",
+      "text": "Match each step of the phonology problem-solving method to its action.",
+      "pairs": [
+        {
+          "left": "Step 1",
+          "right": "Identify the sounds you are investigating"
+        },
+        {
+          "left": "Step 2",
+          "right": "Identify any minimal pairs"
+        },
+        {
+          "left": "Step 3",
+          "right": "List environments and check for overlap"
+        },
+        {
+          "left": "Step 4",
+          "right": "Generalize using natural classes"
+        },
+        {
+          "left": "Step 5",
+          "right": "Determine which sound is underlying"
+        },
+        {
+          "left": "Step 6",
+          "right": "Write a rule for the data"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
     }
   ],
   "notes": [
+    {
+      "id": "ch4-asn-n001",
+      "title": "Discussion 4 - Assignment Requirements",
+      "body": "FOCUS: Week 4's content, including the textbook chapter.\n\nWRITE 150-200 WORDS answering all three questions:\n1. Connect what you read/watched in lecture with something in your life, including things you have observed.\n2. Discuss something you found interesting.\n3. Pose a question - either a clarifying question or one you think could spark discussion.\n\nALSO REQUIRED:\n• Respond to 2 other classmates.\n• Responses must be more than “I agree.”\n\nCHECKLIST BEFORE SUBMITTING:\n• All three questions addressed?\n• Word count within 150-200?\n• Personal observation/connection included (not just summary)?\n• A real question posed at the end?\n• Two substantive classmate replies posted?",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[ANTH 4 Discussion 4 assignment prompt]"
+    },
+    {
+      "id": "ch4-ex-n004",
+      "title": "★ KEY EXAM POINTS - Phonological Analysis Practice",
+      "body": "★ MEMORIZE THE 6 STEPS: identify sounds → look for minimal pairs → list environments (overlap?) → generalize with natural classes → pick the wider-distribution sound as the phoneme → write the rule.\n★ No minimal pairs + no overlapping environments = COMPLEMENTARY DISTRIBUTION = allophones of ONE phoneme.\n★ Minimal pair found = CONTRASTIVE DISTRIBUTION = separate phonemes. In the Italian data the minimal pairs are vowel contrasts: /i/~/ɛ/ and /u/~/a/.\n★ The environment list is the whole game - write each sound's environment as _preceding__following_ and compare columns.\n★ Generalize with NATURAL CLASSES, not individual segments: [g] and [k] → 'velar stops'.\n★ The UNDERLYING phoneme is the one with the WIDER distribution; the restricted allophone is the one your rule derives.\n★ Rule format: /underlying/ → [allophone] / ____ environment. Here: /n/ → [ŋ] / ____ velar stops.\n★ Name the process when you can - this one is PLACE OF ARTICULATION ASSIMILATION (alveolar nasal → velar nasal before a velar stop).\n★ Watch the rule's direction: the environment goes on the side where the trigger actually sits (here, AFTER the nasal).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-n003",
+      "title": "Standard Italian Exercise - Part 2 Walkthrough ([n] vs. [ŋ])",
+      "body": "STEP 1 - IDENTIFY THE SOUNDS: [n] and [ŋ].\n\nSTEP 2 - MINIMAL PAIRS?\n• With [n] and [ŋ] there are NO minimal pairs. They are therefore not in contrastive distribution, so we can assume complementary distribution - confirmed in Step 3.\n\nSTEP 3 - LIST THE ENVIRONMENTS:\n   [n]              [ŋ]\n   i__t             i__g\n   ɛ__d             ɛ__g\n   a__t             u__g\n   #__e             a__k\n   ɛ__t             a__k\n   o__e             a__g\n• None of these environments overlap, so they are indeed in COMPLEMENTARY DISTRIBUTION (as predicted from Step 2).\n\nSTEP 4 - GENERALIZE WITH NATURAL CLASSES:\n• Nothing jumps out at first. Both can follow vowels (or a word boundary, for [n]); both can be followed by consonants (and [n] by vowels too).\n• But looking at WHICH consonants follow each: only [g] and [k] follow [ŋ]. [n] can be followed by [t], [d], or the vowel [e].\n• [g] and [k] are both VELAR STOPS ([g] voiced, [k] voiceless). So:\n     [n]: __t, __d, __e        [ŋ]: __ (velar stops)\n• Note: even if you collapse [t] and [d] into 'alveolar stops', you still have to stipulate the __e environment, so [n] still has more environments.\n\nSTEP 5 - DETERMINE THE UNDERLYING SOUND:\n• [n] appears in 3 environments (or 2 if you collapse [t]/[d]); [ŋ] appears in only 1.\n• [n] has the WIDER DISTRIBUTION and is therefore the underlying sound (phoneme).\n     /n/ = phoneme;  [n] and [ŋ] = allophones\n• Standard Italian has one phoneme /n/ realized phonetically as either [n] or [ŋ] depending on environment.\n\nSTEP 6 - WRITE THE RULE:\n     /n/ → [ŋ] / ____ velar stops\n• This makes sense: the alveolar nasal /n/ is realized as the velar nasal [ŋ] when it precedes a velar stop ([g] and [k]). This is an instance of PLACE OF ARTICULATION ASSIMILATION.\n\nANSWERS TO THE STATED QUESTIONS:\ni. [ŋ] appears before [g] and [k], both velar stops - a natural class. [n] appears everywhere else.\nii. These sounds are in COMPLEMENTARY distribution; none of the environments overlap.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-n002",
+      "title": "Standard Italian Exercise - Data and Part 1 (Minimal Pairs)",
+      "body": "SOURCE: Language Files, Ch. 3, Exercise 25. Standard Italian, an Indo-European language of the Romance family.\n\nDATA:\na. [tinta] 'dye'          e. [ʤɛnte] 'people'     i. [fuŋgo] 'mushroom'\nb. [tɛnda] 'tent'         f. [sapone] 'soap'       j. [bjaŋka] 'white'\nc. [dantsa] 'dance'       g. [tiŋgo] 'I dye'       k. [aŋke] 'also'\nd. [neɾo] 'black'         h. [tɛŋgo] 'I keep'      l. [faŋgo] 'mud'\n\nPART 1 - ARE THERE ANY MINIMAL PAIRS?\n• Yes. Looking at the data without focusing on any particular sound, (g) and (h) form a minimal pair, and (i) and (l) do also.\n• Both pairs are exactly identical EXCEPT for the middle vowel sound.\n• This tells us those vowels are in CONTRASTIVE distribution and are allophones of DIFFERENT phonemes.\n• From (g) and (h): /i/ and /ɛ/\n• From (i) and (l): /u/ and /a/",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ex-n001",
+      "title": "Steps for Solving Phonology Problems",
+      "body": "Step 1: Identify the sounds you are investigating.\nStep 2: Identify any minimal pairs. (If there are some, what are they? If there are none, move to Step 3.)\nStep 3: List the environments for each sound. Do any environments overlap? If not, they are in complementary distribution.\nStep 4: Make generalizations (using natural classes) about the environments in which each sound appears.\nStep 5: Determine which is the underlying sound (the phoneme) - that is, which has the wider distribution?\nStep 6: Write a rule for the data.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Language Files, Ch. 3, Exercise 25: Standard Italian - instructor walkthrough & answer key]"
+    },
+    {
+      "id": "ch4-ppt-n011",
+      "title": "★ KEY EXAM POINTS - Phonology Lecture",
+      "body": "★ PHONETICS = physical properties of speech sounds. PHONOLOGY = psychological/mental properties - how sounds are stored, categorized, and structured in the mind.\n★ MINIMAL PAIR = one sound different, meaning changes (pat/bat) → proves the sounds are CONTRASTIVE → they are separate PHONEMES.\n★ PHONEME = abstract, psychological, LEARNED category. ALLOPHONE = the actual physical realization of that phoneme.\n★ Babies perceive ALL human speech sounds, then narrow to the ambient language; this narrowing is why foreign accents happen and why new sounds get harder with age.\n★ pie [pʰaɪ] vs. spy [spaɪ]: phonetically DIFFERENT, phonologically the SAME. sty vs. spy: different on BOTH counts.\n★ ASPIRATION IS NOT DISTINCTIVE IN ENGLISH - it never changes meaning. A feature is 'distinctive' only if changing it can change meaning.\n★ English aspiration rule: [pʰ]/[tʰ] word-initially; [p]/[t] after [s]. Mutually exclusive → COMPLEMENTARY DISTRIBUTION → PREDICTABLE.\n★ CONTRASTIVE = minimal pairs / identical environments → different phonemes → NOT predictable, must be memorized.\n★ FREE VARIATION = same environment, either variant, no meaning change (leap [lip] ~ [lip̚]). Only conclude this when you SEE the ~ and two same-meaning variants.\n★ BRACKETS: / / = broad/phonemic (phonemes); [ ] = narrow/phonetic (allophones). Expect a question on this.\n★ SIX PROCESSES: assimilation (more similar), dissimilation (more different: surprise, February), lenition (weaker: /t/→[ɾ]), metathesis (swap: Wednesday), elision (delete: laboratory), epenthesis (add: Chlowe).\n★ PHONOTACTIC CONSTRAINTS = language-specific limits on sound combinations (English *bming; Persian inserts a vowel: berim, kilid, felan).\n★ SYLLABLE = ONSET + NUCLEUS + CODA; know how to parse patterns from V up to CCCVCCC.\n★ Count SOUNDS, not letters: cough = 3 phonemes, ringing = 5.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n010",
+      "title": "Phonotactics and Syllable Structure",
+      "body": "WHAT ARE PHONOTACTIC CONSTRAINTS?\n• Phonotactic constraints are restrictions on possible combinations of sounds.\n• In English you can't use just any two consonants at word onset:\n   bring vs. *bming | clean vs. *cgean | fly vs. *fvy\n• In Persian, on the other hand, you need a vowel between those consonants:\n   berim 'let's go' | kilid 'key' | felan 'something/somebody'\n\nCOMMON SYLLABLE PATTERNS IN ENGLISH:\n• V - a /ə/\n• VC - add /æd/\n• VCC - ask /æsk/\n• VCCC - asked /æskt/\n• CV - go /goʊ/\n• CVC - bot /bɑt/\n• CVCC - camp /kæmp/\n• CVCCC - camps /kæmps/\n• CCV - flew /flu/\n• CCVC - flute /flut/\n• CCVCC - flutes /fluts/\n• CCVCCC - crafts /kɹæfts/\n• CCCV - spree /spɹi/\n• CCCVC - scream /skɹim/\n• CCCVCC - screams /skɹimz/\n• CCCVCCC - strengths /stɹɛŋθs/\n\nSYLLABLE STRUCTURE:\n• Words are composed of one or more syllables.\n• A syllable is a phonological unit composed of an ONSET, a NUCLEUS, and a CODA.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n009",
+      "title": "Phonological Processes",
+      "body": "• ASSIMILATION: sounds next to each other become more similar.\n   - ex: English nasal place assimilation\n   - ex: voicing assimilation\n• DISSIMILATION: sounds close together become more different.\n   - ex: surprise, February\n• LENITION: a sound becomes “weaker” over time.\n   - ex: /t/ → /ɾ/\n• METATHESIS: swapping two phonemes.\n   - ex: Wednesday\n• ELISION: deletion of a sound.\n   - ex: laboratory\n• EPENTHESIS: adding a sound.\n   - ex: Chlowe",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n008",
+      "title": "Phonological Data Analysis",
+      "body": "Looking at the distribution of physically different sounds in a data set, we can reach an analysis about the phonemic status of those sounds in that language.\n\nENGLISH SAMPLE DATA:\n• [pʰaɪ] “pie”\n• [spaɪ] “spy”\n• [tʰaɪ] “tie”\n\nCONTRASTIVE DISTRIBUTION:\n• You can find minimal pairs of those sounds, OR the two sounds occur in identical environments (word position, adjacent sounds).\n• This means the sounds are DIFFERENT PHONEMES.\n\nCOMPLEMENTARY DISTRIBUTION:\n• Two sounds occur in mutually exclusive (non-overlapping) environments.\n• This means the sounds are ALLOPHONES (variants) of one sound.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n007",
+      "title": "Complementary vs. Contrastive Distribution, and Free Variation",
+      "body": "ALLOPHONES ARE NOT DISTINCTIVE - THEY OCCUR IN COMPLEMENTARY DISTRIBUTION:\n• [pʰɪn] 'pin' / [spɪn] 'spin'; [tʰɪn] 'thin' / [stɪŋ] 'sting'.\n• [pʰ] and [tʰ] occur word-initially, while [p] and [t] only occur after [s].\n• This is COMPLEMENTARY DISTRIBUTION - each sound occurs in its own environment.\n\nCOMPLEMENTARY DISTRIBUTION = mutually exclusive positions in words:\n• [pʰ]: pat [pʰæt], pool [pʰul], peak [pʰik] → WORD-INITIAL\n• [p]: spat [spæt], spool [spul], speak [spik] → AFTER [s]\n\nPREDICTABILITY:\n• Allophones in complementary distribution are PREDICTABLE.\n• We can predict [pʰ] (and never [p]) at the beginning of words in English.\n• We can predict [p] (and never [pʰ]) after [s].\n\nCONTRASTIVE DISTRIBUTION:\n• Phonemes occur in contrastive distribution - a change in phoneme creates a word-meaning contrast (/pil/ 'peel' vs. /dil/ 'deal').\n• Phonemes are NOT predictable - you have to memorize which phonemes occur in which words (the sound-meaning connection).\n\nFREE VARIATION:\n• In some environments, more than one allophone is possible.\n• The final /p/ in “lip” can be unreleased (lips stay closed) or released.\n• These different sounds do not change the meaning, but they are also NOT predictable.\n• i.e. [p] and [p̚]: leap [lip] ~ [lip̚]; soap [sop] ~ [sop̚].\n• They are in free variation and NOT separate phonemes, because word meaning does not change.\n• ⚠ Free variation is usually indicated with a ~ meaning both variants occur. WHEN IN DOUBT, do not assume this is the solution unless you see that symbol and two variants meaning the same thing.\n\nNOTE ON BRACKETS:\n• / / are used for phonological/broad transcription and for PHONEMES.\n• [ ] are used for phonetic/narrow transcription and ALLOPHONES.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n006",
+      "title": "Phonemes vs. Allophones, Aspiration, and Distinctiveness",
+      "body": "PHONEMES VS. ALLOPHONES:\n• Phonemes are abstract, psychological sound CATEGORIES.\n• Allophones are the different REALIZATIONS of phonemes.\n• In phonology we analyze a set of words in a language to discover how physically different sounds are organized into phonemes for that language.\n\nTHE PIE / SPY EXAMPLE:\n• pie /paɪ/ - there is a puff of air when the bilabial stop is released. This is ASPIRATION (an aspirated stop), written with a superscript h: [pʰaɪ].\n• spy /spaɪ/ - there is NO puff of air on release. This is an UNASPIRATED stop, written with no superscript h: [spaɪ].\n• So the stops in “pie” and “spy” are phonetically DIFFERENT but phonologically the SAME.\n• Contrast: the consonants in “sty” and “spy” are phonetically different AND phonologically different (different phonemes).\n\nDISTINCTIVENESS:\n• A phonetic characteristic is DISTINCTIVE when it can cause a change in meaning in the language.\n• Aspiration is NOT distinctive in English, because making a stop aspirated or unaspirated does not change the meaning of the word.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n005",
+      "title": "Why Phonemes Are 'Psychological' and 'Learned'",
+      "body": "BABIES:\n• Babies are able to produce and perceive all of the sounds of all human languages.\n• But they quickly learn which sounds are important in the language around them.\n• They also learn to IGNORE the differences that don't matter in the ambient speech.\n• The older we get, the harder it becomes to learn the sounds of a different language - we have learned the phonological patterns of our native language.\n\nFOREIGN ACCENTS:\n• Languages each have a unique set of speech sounds.\n• A foreign accent occurs when we try to speak a foreign language using the sounds from our NATIVE language.\n• When we encounter a speech sound outside our native set, it may be hard to even 'hear' the sound.\n• We often hear/produce it by finding the sound in our native set that comes closest.\n\nBIG PICTURE:\n• We have trouble with sounds that don't exist in the language(s) we learned as a child.\n• Phonology explores how sounds are organized in our brain - which makes speaking our native language efficient and easy, but makes a foreign language much harder.\n\nPHONOLOGICAL KNOWLEDGE:\n• Languages differ in the way they group speech sounds into categories.\n• That means they differ in which physical details they pay attention to and which they ignore.\n• This is language-specific information all speakers of that language share.\n• NOTE: foreign accents and second-language perception difficulties are caused in large part by phonological differences between the languages involved.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n004",
+      "title": "Minimal Pairs and the Phoneme",
+      "body": "SIMPLE ENGLISH EXAMPLE - “pat” vs. “bat”:\n• Do these mean different things in English? Yes.\n• They are MINIMAL PAIRS - a difference in one sound and the meaning changes.\n• Minimal pairs tell us these sounds are CONTRASTIVE - they create meaningful contrast in the language.\n• So for speakers of English, /p/ and /b/ are different PHONEMES.\n\nMINIMAL PAIRS AS A DISCOVERY TOOL:\n• We can identify the phonemes in a language by locating minimal pairs.\n• Minimal pairs are words in which a change in only one sound creates a difference in meaning.\n• /pil/ 'peel', /dil/ 'deal', /fil/ 'feel'… thus /p/, /d/, and /f/ are all different phonemes in English.\n\nWHAT IS A PHONEME?\n• A phoneme is an ABSTRACT unit of sound that creates meaning in a language.\n• Phonemes are PSYCHOLOGICAL - physically different sounds can belong to the same phoneme.\n• Phonemes are LEARNED - your brain categorizes all the different sounds into a small set of language-specific phonemes, acquired through experience.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n003",
+      "title": "Phonetics vs. Phonology",
+      "body": "PHONETICS\n• The study of the PHYSICAL properties of speech sounds.\n\nPHONOLOGY\n• The study of the PSYCHOLOGICAL properties of speech sounds.\n• The study of the representations and systematic structuring of sounds in a language.\n• How sounds are represented in the mind.\n• Which sounds are significant enough to signal a difference in meaning in a language…\n• …versus which sounds might be physically different but do NOT make different words in that language.\n• Phonology is the study of speech sounds as mental/psychological objects: how they are categorized, how they are represented, and how they interact when combined.\n• Phonological knowledge is a component of GRAMMATICAL knowledge and is shared by all speakers of a language.\n\nNOTE FROM SLIDE: knowing a language means, in part, knowing its phonology.",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n002",
+      "title": "Concepts to Know - Phonology (roadmap)",
+      "body": "The lecture listed these as the concepts to master for this unit:\n• Phonology vs. Phonetics\n• Minimal pairs\n• Phonemes vs. allophones\n• Complementary vs. contrastive distribution\n• …versus free variation\n• Phonological analysis",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch4-ppt-n001",
+      "title": "Phonetics Review (lead-in to Phonology)",
+      "body": "TRANSCRIPTION:\n• The IPA for all American English sounds.\n\nARTICULATORY DESCRIPTIONS:\n• CONSONANTS described by three things: place of articulation, manner of articulation, voicing.\n• VOWELS described by three things: tongue height, tongue backness, lip rounding.\n\nWARM-UP CHECKS FROM LECTURE:\n• Alveolar example: /z/ (compare /f/ labiodental, /g/ velar, /u/ a vowel).\n• Bilabial: /b/, /m/, and /p/ are all bilabial.\n• Count PHONEMES not letters: “cough” = 3 (/k/ /ɔ/ /f/); “ringing” = 5 (/ɹ/ /ɪ/ /ŋ/ /ɪ/ /ŋ/).\n• Vowel chart practice: high front unrounded = /i/; low back unrounded = /ɑ/; the vowel in “bat” = /æ/; the initial vowel in “about” = /ə/ (schwa).",
+      "image": null,
+      "module": "wk04",
+      "chapter": 4,
+      "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch1-v-n003",
+      "title": "★ KEY EXAM POINTS - Video Lecture 1 (additions beyond the slides)",
+      "body": "★ Grammaticality is judged DESCRIPTIVELY - can speakers understand/produce it? - NOT by prescriptive rules; \"ain't\" is grammatical in its variety.\n★ No one \"decides\" language: rules emerge by community consensus; dictionaries/teachers/linguists DESCRIBE, they don't create.\n★ ICON = resembles its meaning (emoji, pictographic road sign); ARBITRARY SIGN = conventional, no inherent link (most words, traffic-light colors, wedding ring).\n★ Speech/sign is PRIMARY & ancient (~50k yrs); writing is SECONDARY & recent (~4-5k yrs) and must be taught. No writing system does NOT mean \"not a language.\"\n★ Children ACQUIRE a first language implicitly; there's nothing ethnic/inherited about it (being of Danish ancestry doesn't make Danish easier).\n★ Register = formality level; STYLE SHIFTING = moving between registers by context.\n★ Historical linguistics: PROTO-INDO-EUROPEAN (~5-10k yrs) is the shared ancestor of English, German, Spanish, Italian, Russian, and more.\n★ De jure (by law) vs. de facto (in practice) - the lecture's U.S. official-language example.\n★ Subfields spotlighted: sociolinguistics (language in social context), computational linguistics/NLP (e.g., Siri), applied linguistics (language teaching), psycholinguistics (acquisition/processing).",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-n002",
+      "title": "Video Lecture Notes - Language, Identity & Modality (Part 2)",
+      "body": "Language is an expression of SOCIAL IDENTITY:\n• Regional variation: diaper (US) vs. nappy (UK), elevator vs. lift, \"y'all\" (US South), the Boston/New England \"pahk the cah\" pronunciation.\n• Registers = levels of formality; moving between them = STYLE SHIFTING (lecture voice vs. friends).\n• Regional dialects (California vs. New York vs. Australia) vs. SOCIAL dialects (African American English, Chicano English) - social dialects track social group more than geography.\n\nModality - spoken/signed is PRIMARY:\n• Sign languages are just as valid as spoken languages.\n• Speech/sign ~50,000 years old; WRITING only ~4,000-5,000 years old. Many languages have no writing system and are still full languages.\n• Children ACQUIRE speech/sign implicitly (no explicit teaching); writing must be explicitly taught (holding a pencil, sound-symbol mapping).\n\nOther points:\n• Icons vs. arbitrary signs: an icon resembles its meaning (emoji, road signs); most words + traffic-light colors + wedding rings are arbitrary conventions.\n• De jure vs. de facto: the lecture noted the U.S. has historically had no federal de jure official language, with English used de facto.\n• Historical linguistics example: Proto-Indo-European (~5-10k yrs ago) diverged into English, German, Spanish, Italian, Russian, etc.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
+    {
+      "id": "ch1-v-n001",
+      "title": "Video Lecture Notes - Empiricism, Objectivity & Grammaticality (Part 1)",
+      "body": "• Linguistics is a SOCIAL SCIENCE built on empiricism: conclusions derive from OBSERVATION of real-world language, treated as data to be analyzed.\n• \"Objectivity\" is the goal (setting aside personal bias), but the instructor stressed it's a touchy ideal that can itself be a FALLACY - revisited later in the course.\n• Grammar (linguistic sense) = language STRUCTURE + language USE, not a set of do's and don'ts.\n• How linguists judge grammaticality: DESCRIPTIVELY. If speakers of a variety understand/produce a form, it's grammatical. \"Ain't\" is grammatical in varieties that use it; \"me drive the car\" is ungrammatical. Linguists avoid \"incorrect\" because it carries judgment.\n• Who decides the rules? NO ONE. Rules emerge through interaction and consensus in a community over time. Dictionary writers and teachers REFLECT rules; they don't invent them. Individuals can encourage change (e.g., using \"themselves\" as a generic) but can't unilaterally change the shared code.\n• Prescriptive rules aren't needed for communication and are easily forgotten; descriptive rules ARE how we communicate and (in a first language) aren't forgotten.",
+      "image": null,
+      "module": "wk01",
+      "chapter": 1,
+      "source": "[Brotherton, LIN 1 Video Lecture 1 (parts 1-2): What Is Language & Linguistics?]"
+    },
     {
       "id": "ch3-ppt-n008",
       "title": "★ KEY EXAM POINTS — Phonetics Lecture",
