@@ -151,6 +151,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
+      "id": "ch6-ppt-g003",
+      "term": "acceptability",
+      "def": "A broad cover term for any linguistic ill- or well-formedness, encompassing grammaticality, interpretability, and felicity.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch1-g021",
       "term": "acceptability judgment",
       "def": "A speaker's/signer's judgment about whether a form is possible in their language; an empirical observation used as data. Also called a grammaticality judgment.",
@@ -158,6 +167,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch6-ppt-g023",
+      "term": "accusative (ACC)",
+      "def": "The case marking a grammatical object. Latin 'Canem fêlis vîdit' — canem is dog-ACC, so the dog is the one seen, and the meaning flips without any change in word order.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-g005",
@@ -277,6 +295,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch6-ppt-g018",
+      "term": "agreement",
+      "def": "When the form of the verb depends on properties of the subject or object — number (singular, plural, dual), person (1st, 2nd, 3rd), or gender. English 'be': I am / we-you-they are / she-he-it is. Arabic agrees for number, person, and gender.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch3-ppt-g004",
       "term": "airstream mechanism",
       "def": "One of the three features classifying consonants: how the moving air that carries the sound is initiated. The airstream may be initiated by the diaphragm and lungs (pulmonic) or by some other mechanism (non-pulmonic).",
@@ -374,6 +401,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
+    },
+    {
+      "id": "ch6-ppt-g007",
+      "term": "answer fragment",
+      "def": "A constituency test: a constituent can serve as the complete answer to a wh-question. 'That is my brother' → Who is that? 'My brother.' 'The keys are on the table' → Where are the keys? 'On the table.'",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch2-ppt-g011",
@@ -608,6 +644,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-ppt-g015",
+      "term": "bracket notation",
+      "def": "A way of showing syntactic grouping with nested brackets instead of a tree: [S [NP [N Alice]] [VP [V eats] [NP [N cake]]]].",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch4-ppt-g009",
@@ -1240,6 +1285,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
+      "id": "ch6-ppt-g017",
+      "term": "double object construction",
+      "def": "The English pattern in which an indirect object shifts to sit directly after the verb: 'I taught French to three students' → 'I taught three students French'. Obliques cannot shift this way: 'She drove her car to Portland' → *'She drove Portland her car'. This shift is the key evidence distinguishing indirect objects from obliques.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch1-ppt-g003",
       "term": "duality of patterning",
       "def": "\"Complexly patterned at multiple levels\": meaningless elemental units (sounds) at a lower level combine into meaningful units at a higher level; the same sounds t–a–p yield tap, apt, and pat.",
@@ -1393,6 +1447,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
     },
     {
+      "id": "ch6-ppt-g002",
+      "term": "felicity",
+      "def": "Whether a sentence is appropriate for the context in which it was used — distinct from whether it is grammatical or interpretable.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch4-fa-g004",
       "term": "final devoicing",
       "def": "A phonological process in which a voiced sound loses its voicing at the end of a word. The Farsi rule /r/ → [r̥] / ___ # is an instance: the voiced trill devoices word-finally.",
@@ -1436,6 +1499,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch6-ppt-g020",
+      "term": "formal language",
+      "def": "A language L defined as a SET of sentences. Eng = {They are happy, Bob is in the room, The cat ran, ...} versus Not-Eng = {*is happy he, *cat the ran, ...}.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-ppt-g019",
@@ -1490,6 +1562,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch6-ppt-g019",
+      "term": "generative grammar",
+      "def": "A system of rules that generates all and only the sentences of a language L. A language can be defined as a set of sentences; the grammar must produce every sentence in that set and no sentence outside it.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch4-g019",
@@ -1555,6 +1636,15 @@
       "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch6-ppt-g005",
+      "term": "grammatical gender",
+      "def": "A classification system for nouns. Related to but NOT the same as sociocultural gender: German has three genders and 'Mädchen' (girl) is NEUTER, not feminine, because the suffix -chen patterns as neuter. Assignment is also affected by phonetics/phonology, morphosyntax, semantic features (human, animate, object type), and processing.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch1-g020",
       "term": "grammaticality",
       "def": "Whether a form could be generated by the mental grammar of a language. 'Ungrammatical' (marked with *) means the grammar cannot produce it — about what is possible, not merely what exists.",
@@ -1616,6 +1706,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch6-ppt-g013",
+      "term": "hierarchical structure",
+      "def": "The organization of words into nested constituents rather than a flat string. A change in meaning corresponds to a change in constituency — 'more intelligent leaders' can mean 'more leaders who are intelligent' or 'leaders who are more intelligent' depending on how the words group.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch1-ppt-g026",
@@ -1850,6 +1949,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch6-ppt-g001",
+      "term": "interpretability",
+      "def": "Whether a sentence can receive a coherent interpretation. Independent of grammaticality: 'Colorless green ideas sleep furiously' is grammatical but not interpretable, while “Chomsky's idea are exciting” is ungrammatical but perfectly interpretable.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch6-g012",
@@ -2644,6 +2752,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch6-ppt-g022",
+      "term": "nominative (NOM)",
+      "def": "The case marking a grammatical subject. Latin 'Canis fêlem vîdit' — canis is dog-NOM, so the dog is the one who saw.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch8-g002",
       "term": "non-at-issue meaning",
       "def": "Meaning that is not part of the literal surface content (e.g., implicatures and presuppositions); not targeted by 'it is not the case that…'.",
@@ -2671,6 +2788,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch6-ppt-g010",
+      "term": "noun phrase (NP)",
+      "def": "A phrase headed by a noun, functioning as a unit: Bobbi, them, the dog, our wonderful pet, that scary spider on my leg. English rule: NP → (Det) (Adj) N (PP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch3-g050",
       "term": "nucleus",
       "def": "The loudest, most prominent core of a syllable, usually a vowel (or a syllabic consonant, e.g., the second syllable of bottle).",
@@ -2687,6 +2813,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-g016",
+      "term": "oblique",
+      "def": "Any argument that is not a subject, direct object, or indirect object. Most obliques are NPs inside prepositional phrases (from the bank, under the table). Obliques have no grammatical relation with the verb and no shared behavior defining them as a class.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch10-g009",
@@ -3013,6 +3148,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-ppt-g009",
+      "term": "phrasal category",
+      "def": "A syntactic category at the phrase level rather than the word level: noun phrase, verb phrase, adjective phrase, prepositional phrase, adverbial phrase.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch6-g018",
       "term": "phrase",
       "def": "A set of words that act together as a single unit and can occupy the same structural position.",
@@ -3130,6 +3274,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch6-ppt-g012",
+      "term": "prepositional phrase (PP)",
+      "def": "A phrase headed by a preposition: around, under the bridge, from Ohio, by the rowdy stadium parking lot. English rule: PP → PREP (NP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch1-g017",
       "term": "prescriptive approach",
       "def": "Prescribing how people should or should not use language (e.g., style-guide 'rules'). Not the goal of linguistics.",
@@ -3218,6 +3371,15 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch6-ppt-g006",
+      "term": "pronominal substitution",
+      "def": "A constituency test: a constituent can be replaced by a pronoun such as s/he, they, it, that, them, then, there, do that. 'A man with dark glasses (He) is following us'; 'Annette went to Brazil (there)'.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch7-g008",
@@ -3913,6 +4075,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch6-ppt-g021",
+      "term": "syntactic ambiguity",
+      "def": "When the grammar can assign at least two structures to the same sentence, and those structures sometimes correspond to different interpretations. 'I saw the man in my car' and 'black coffee drinkers' are lecture examples. (Your textbook calls this structural ambiguity.)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-g008",
+      "term": "syntactic category",
+      "def": "The class a word or constituent belongs to, defined by DISTRIBUTIONAL properties. Members of the same syntactic category can substitute for one another without loss of grammaticality, and show similar distribution in sentences.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch14-g014",
       "term": "syntactic change",
       "def": "Change in a language's sentence structure/word order over time.",
@@ -4093,6 +4273,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch6-ppt-g014",
+      "term": "tree diagram",
+      "def": "A branching representation of constituency in which the elements under a node form a constituent. Equivalent alternatives are bracket notation and box diagrams.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch2-ppt-g018",
       "term": "tridialectal",
       "def": "Command of three dialects. John Baugh was a tridialectal speaker of standard American English, AAVE, and Chicano English, which allowed him to vary only intonation and prosody across his test calls.",
@@ -4246,6 +4435,15 @@
       "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch6-ppt-g011",
+      "term": "verb phrase (VP)",
+      "def": "A phrase headed by a verb: ran, played the piano, watched the big game on Saturday. English rule: VP → V (NP) (PP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch10-g008",
       "term": "vernacular",
       "def": "The natural, everyday way a person uses language when not monitoring their speech (e.g., when not being recorded by a linguist).",
@@ -4397,6 +4595,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
+    },
+    {
+      "id": "ch6-ppt-g004",
+      "term": "well-formedness",
+      "def": "Whether a string conforms to the structural requirements of the language. The lecture's cline runs from fully well-formed ('The dog is sleeping under the blanket') through agreement errors ('The dog are sleeping...') to word-salad ('Is the the under sleeping Dog blanket').",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
       "id": "ch6-g047",
@@ -7369,6 +7576,330 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch6-ppt-f001",
+      "front": "What is syntax, and what two things does word order affect?",
+      "back": "The study of the rules, principles, and processes that combine words to construct sentences. Word order affects our INTERPRETATION ('The dog chased the cat' vs. 'The cat chased the dog') and the AVAILABLE interpretations ('Old women and men were invited' — are the men old too?).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f002",
+      "front": "Define grammaticality, interpretability, felicity, and acceptability.",
+      "back": "GRAMMATICALITY — whether a sentence is built according to the grammatical rules of the language; judgments reflect a speaker's mental, implicitly learned knowledge. INTERPRETABILITY — whether it can receive a coherent interpretation. FELICITY — whether it is appropriate to its context. ACCEPTABILITY — a broad term covering any ill- or well-formedness.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f003",
+      "front": "Show that grammaticality and interpretability are independent.",
+      "back": "GRAMMATICAL BUT NOT INTERPRETABLE: 'Colorless green ideas sleep furiously' (while *'Furiously sleep ideas green colorless' is neither). UNGRAMMATICAL BUT INTERPRETABLE: “Chomsky's idea are exciting” — you know exactly what it means despite the agreement error.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f004",
+      "front": "What is basic word order, and what are the six logical possibilities?",
+      "back": "A language's ordering of verb, subject, and object. SVO (The squirrel ate the almond), OVS, SOV, OSV, VSO, VOS — illustrated in lecture with squirrel/almond permutations.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f005",
+      "front": "How does grammatical gender differ from sociocultural gender?",
+      "back": "Grammatical gender is a noun classification system. It can correlate with sociocultural gender for people, but not always: German has three genders and Mädchen ('girl') is NEUTER — das/ein Mädchen — because German syntax requires the suffix -chen to pattern as neuter.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f006",
+      "front": "Besides meaning, what factors affect gender assignment?",
+      "back": "Phonetics and phonology, the morphosyntactic properties of the language, semantic features like human/animate/object type, and processing and psycholinguistic factors.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f007",
+      "front": "Name the four constituency tests.",
+      "back": "Pronominal substitution, answer fragments, movement, and coordination.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f008",
+      "front": "Give an example of each constituency test.",
+      "back": "SUBSTITUTION: 'A man with dark glasses (He) is following us.' ANSWER FRAGMENT: 'The keys are on the table' → Where are the keys? 'On the table.' MOVEMENT: 'We had a lot of fun over the weekend' → 'Over the weekend, we had a lot of fun.' COORDINATION: 'Her friends (and Mary) were playing tennis.'",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f009",
+      "front": "What is the crucial caution about using constituency tests?",
+      "back": "Failing a single test does NOT mean the string isn't a constituent, and passing a single test does NOT prove that it is. Apply as many tests as possible before concluding either way.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f010",
+      "front": "How are syntactic categories defined?",
+      "back": "By DISTRIBUTION. Words and constituents in the same category can substitute for one another without loss of grammaticality, and show similar distributional patterns in sentences.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f011",
+      "front": "Give the English phrase structure rules for S, NP, VP, and PP.",
+      "back": "S → NP VP. NP → (Det) (Adj) N (PP). VP → V (NP) (PP). PP → PREP (NP). The arrow means 'is made up of'; parentheses mark optional elements.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f012",
+      "front": "How does the NP rule account for Bobbi, the dog, and that scary spider on my leg?",
+      "back": "NP → (Det) (Adj) N (PP). Bobbi = N alone. the dog = Det + N. our wonderful pet = Det + Adj + N. that scary spider on my leg = Det + Adj + N + PP. All fit the one rule because the bracketed elements are optional.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f013",
+      "front": "Why are 'the apple' and '*apple the' different in English?",
+      "back": "Phrase structure rules are language-specific. English has NP → Det N, so 'the apple' and 'a beautiful house' are well-formed while *'apple the' and *'house beautiful a' are not.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f014",
+      "front": "What does 'more intelligent leaders' show about structure and meaning?",
+      "back": "That a change in meaning is a change in CONSTITUENCY. Grouping [more [intelligent leaders]] gives 'more leaders who are intelligent'; grouping [[more intelligent] leaders] gives 'leaders who are more intelligent'. Same words, different hierarchical structure.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f015",
+      "front": "What does the Navajo data show about cross-linguistic variation?",
+      "back": "All languages have constituency and hierarchical phrase structure, but the phrase structure RULES vary. Navajo 'ashkii ateed yiyiiltsá' ('boy girl saw') places the verb last, so its VP rule is VP → NP V rather than English's VP → V NP.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f016",
+      "front": "Name the three grammatical roles an NP can play, plus the fourth category.",
+      "back": "Subject (Subj), Direct Object (DO), and Indirect Object (IO) — plus OBLIQUE for any argument that is none of these.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f017",
+      "front": "How do you tell an indirect object from an oblique in English?",
+      "back": "By the double object construction. Indirect objects can SHIFT to sit right after the verb: 'I taught French to three students' → 'I taught three students French.' Obliques cannot: 'She drove her car to Portland' → *'She drove Portland her car.' Both follow 'to', so the shift test is what separates them.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f018",
+      "front": "Name the four ways languages code grammatical relations.",
+      "back": "(1) Linear order. (2) Inflectional marking on the NP — case. (3) Inflectional marking on the verb — agreement. (4) Adpositions — prepositions or postpositions.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f019",
+      "front": "How does Latin code grammatical roles?",
+      "back": "Through case endings on nouns rather than word order. 'Canis fêlem vîdit' (dog-NOM cat-ACC saw) = 'the dog saw the cat'; 'Canem fêlis vîdit' (dog-ACC cat-NOM saw) = 'the cat saw the dog'. The word order is identical — only the endings change.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f020",
+      "front": "How do Standard Arabic and Spanish code grammatical roles?",
+      "back": "ARABIC — inflection on the VERB: fataħnaahu = fataħ 'opened' + -naa '1PL.NOM' + -hu '3SG.ACC' = 'We opened it'. When arguments are purely pronominal, Arabic codes relations on the verb. SPANISH — verb inflection (como 'I eat', comes 'you eat') AND word order together: 'el perro mordió el gato'.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f021",
+      "front": "How does Korean code grammatical roles?",
+      "back": "Through case markers on nouns: -i marks nominative, -ul marks accusative. 'ku swunkyeng-i totwuk-ul capasseyo' and 'totwuk-ul ku swunkyeng-i capasseyo' both mean 'That policeman caught a thief' — scrambling the order doesn't change roles because case carries them.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f022",
+      "front": "Define transitivity and the three verb types with lecture examples.",
+      "back": "Transitivity is how many arguments a verb requires. INTRANSITIVE — subject only ('John slept'). TRANSITIVE — subject and object ('She ate the bread'). DITRANSITIVE — subject, object, and indirect object ('I threw the ball to Sophie').",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f023",
+      "front": "What is a grammar in the formal sense, and what types exist?",
+      "back": "A formal, theoretical model determining what is structurally allowed in a language and what is not. Types include generative grammars, constraint-based grammars, functional grammars, and dependency grammars.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f024",
+      "front": "What makes a grammar 'generative'?",
+      "back": "A language L can be defined as a SET of sentences. A generative grammar for L is a system of rules that generates the sentences of L — and ONLY L. It must produce everything in the set and nothing outside it.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f025",
+      "front": "Give three equivalent ways to represent syntactic grouping.",
+      "back": "Trees, brackets, and boxes. [S [NP [N Alice]] [VP [V eats] [NP [N cake]]]] encodes exactly the same structure as the corresponding tree.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f026",
+      "front": "Write the rule set that generates the tree for 'Alice eats cake'.",
+      "back": "S → NP VP; NP → N; VP → V NP; N → Alice, cake; V → eats.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f027",
+      "front": "What is syntactic ambiguity? Give two lecture examples.",
+      "back": "When the grammar can assign at least two structures to one sentence, sometimes corresponding to different interpretations. 'black coffee drinkers' — [black coffee] drinkers vs. black [coffee drinkers]. 'I saw the man in my car' — the PP can attach to the VP (I was in my car) or to the NP (the man was in my car).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-f028",
+      "front": "In the tree for 'the dog bit the cat on the nose', what does a node tell you?",
+      "back": "The elements under a node form a CONSTITUENT. That's the whole interpretive content of the diagram — everything dominated by a single node hangs together as a unit.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-cw-f001",
+      "front": "In 'The smart girl gave her friend a generous present for his birthday', what role does each NP play?",
+      "back": "'The smart girl' = SUBJECT. 'her friend' = INDIRECT OBJECT (it sits right after the verb in the double object construction). 'a generous present' = DIRECT OBJECT. 'for his birthday' = OBLIQUE — a PP that is none of the three core roles.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f002",
+      "front": "Is 'cut' ditransitive in 'They cut the paper in many shapes'?",
+      "back": "No. 'in many shapes' is an OBLIQUE prepositional phrase, not an indirect object. Ditransitive requires a recipient-type indirect object — 'I threw the ball to Sophie' or 'I gave John a book'. So 'cut' is intransitive and transitive only.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f003",
+      "front": "What is the transitivity of 'arrive'?",
+      "back": "INTRANSITIVE. 'I will arrive' takes a subject and no object, and you cannot *'arrive something'. Any following PP ('arrive at the station') is an oblique, not an object.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f004",
+      "front": "What is the transitivity of 'send'?",
+      "back": "TRANSITIVE and DITRANSITIVE. 'I send a package' takes a direct object; 'I send her a package' / 'I sent a package to her' adds an indirect object, which is the ditransitive pattern.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f005",
+      "front": "How do you tell whether a post-verbal PP makes a verb ditransitive?",
+      "back": "Apply the double-object shift. If the phrase can move to sit directly after the verb as a bare NP ('I sent a package to her' → 'I sent her a package'), it is an indirect object and the verb is ditransitive. If it cannot ('They cut the paper in many shapes' → *'They cut many shapes the paper'), it is an oblique.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f006",
+      "front": "Explain the two readings of 'I once saw a stranger with my binoculars.'",
+      "back": "READING 1 — 'with my binoculars' attaches to the VP, modifying how I saw: I used my binoculars to see the stranger. READING 2 — it attaches to the NP 'a stranger', modifying the stranger: the stranger had my binoculars. Same words, two attachment sites, two meanings.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f007",
+      "front": "In the constructed language (Cal-ea gal-ap van), how are grammatical roles marked?",
+      "back": "By CASE, through inflectional endings on the nouns: -ea marks the subject and -ap marks the object. Word order does not carry the roles — 'Cal-ea gal-ap van' and 'Cal-ap gal-ea van' keep the same order but swap who chases whom.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-f008",
+      "front": "In the constructed language, how would you say 'the bird saw the dog'? (hab = bird, cal = dog, tam = saw)",
+      "back": "Hab-ea cal-ap tam. hab 'bird' + -ea (subject marker), cal 'dog' + -ap (object marker), then the verb tam 'saw' — the data is verb-final.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
     }
   ],
   "questions": [
@@ -14431,9 +14962,957 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch6-ppt-q001",
+      "type": "mc",
+      "text": "Syntax is best defined as the study of:",
+      "options": [
+        "Rules, principles, and processes that combine words into sentences",
+        "How sounds pattern within a language",
+        "How morphemes combine into words",
+        "Meaning in context"
+      ],
+      "answer": "Rules, principles, and processes that combine words into sentences",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q002",
+      "type": "mc",
+      "text": "'Colorless green ideas sleep furiously' is the classic illustration of a sentence that is:",
+      "options": [
+        "Grammatical but not interpretable",
+        "Interpretable but not grammatical",
+        "Neither grammatical nor interpretable",
+        "Infelicitous but interpretable"
+      ],
+      "answer": "Grammatical but not interpretable",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q003",
+      "type": "mc",
+      "text": "“Chomsky's idea are exciting” illustrates a sentence that is:",
+      "options": [
+        "Ungrammatical but interpretable",
+        "Grammatical but uninterpretable",
+        "Grammatical and interpretable",
+        "Neither"
+      ],
+      "answer": "Ungrammatical but interpretable",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q004",
+      "type": "mc",
+      "text": "Whether a sentence is appropriate to the context in which it is used is called:",
+      "options": [
+        "Felicity",
+        "Grammaticality",
+        "Interpretability",
+        "Constituency"
+      ],
+      "answer": "Felicity",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q005",
+      "type": "mc",
+      "text": "'The squirrel ate the almond' illustrates which basic word order?",
+      "options": [
+        "SVO",
+        "SOV",
+        "VSO",
+        "OVS"
+      ],
+      "answer": "SVO",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q006",
+      "type": "mc",
+      "text": "German 'Mädchen' (girl) is grammatically neuter. This shows that:",
+      "options": [
+        "Grammatical gender is not the same as sociocultural gender",
+        "German has only two genders",
+        "Gender is assigned purely by meaning",
+        "Mädchen is not a noun"
+      ],
+      "answer": "Grammatical gender is not the same as sociocultural gender",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q007",
+      "type": "mc",
+      "text": "Replacing 'A man with dark glasses' with 'He' is which constituency test?",
+      "options": [
+        "Pronominal substitution",
+        "Answer fragment",
+        "Movement",
+        "Coordination"
+      ],
+      "answer": "Pronominal substitution",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q008",
+      "type": "mc",
+      "text": "'Over the weekend, we had a lot of fun' demonstrates which constituency test?",
+      "options": [
+        "Movement",
+        "Coordination",
+        "Substitution",
+        "Answer fragment"
+      ],
+      "answer": "Movement",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q009",
+      "type": "mc",
+      "text": "What is the correct way to use constituency tests?",
+      "options": [
+        "Apply as many as possible; one result alone is not decisive",
+        "Apply one test; if it passes, it's a constituent",
+        "Apply one test; if it fails, it's not a constituent",
+        "Use only the coordination test"
+      ],
+      "answer": "Apply as many as possible; one result alone is not decisive",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q010",
+      "type": "mc",
+      "text": "Syntactic categories are defined in terms of:",
+      "options": [
+        "Distributional properties",
+        "Semantic content",
+        "Phonological shape",
+        "Historical origin"
+      ],
+      "answer": "Distributional properties",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q011",
+      "type": "mc",
+      "text": "Which phrase structure rule correctly describes the English noun phrase from the lecture?",
+      "options": [
+        "NP → (Det) (Adj) N (PP)",
+        "NP → Det Adj N PP",
+        "NP → N (Det) (Adj)",
+        "NP → V (NP) (PP)"
+      ],
+      "answer": "NP → (Det) (Adj) N (PP)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q012",
+      "type": "mc",
+      "text": "Which rule describes the English verb phrase?",
+      "options": [
+        "VP → V (NP) (PP)",
+        "VP → NP V",
+        "VP → (Det) N (PP)",
+        "VP → PREP (NP)"
+      ],
+      "answer": "VP → V (NP) (PP)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q013",
+      "type": "mc",
+      "text": "In the Navajo sentence 'ashkii ateed yiyiiltsá' ('boy girl saw'), the verb phrase rule is:",
+      "options": [
+        "VP → NP V",
+        "VP → V NP",
+        "VP → V (PP)",
+        "VP → NP PP"
+      ],
+      "answer": "VP → NP V",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q014",
+      "type": "mc",
+      "text": "'More intelligent leaders' has two readings. This shows that:",
+      "options": [
+        "A change in meaning is a change in constituency",
+        "Word order is irrelevant",
+        "The sentence is ungrammatical",
+        "'More' is a determiner"
+      ],
+      "answer": "A change in meaning is a change in constituency",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q015",
+      "type": "mc",
+      "text": "In 'She went to Portland', the phrase 'to Portland' is:",
+      "options": [
+        "An oblique",
+        "An indirect object",
+        "A direct object",
+        "A subject"
+      ],
+      "answer": "An oblique",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q016",
+      "type": "mc",
+      "text": "Which test distinguishes an indirect object from an oblique in English?",
+      "options": [
+        "Whether it can shift into the double object construction",
+        "Whether it follows the preposition 'to'",
+        "Whether it is a noun phrase",
+        "Whether it appears last in the sentence"
+      ],
+      "answer": "Whether it can shift into the double object construction",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q017",
+      "type": "mc",
+      "text": "Latin 'Canem fêlis vîdit' means 'the cat saw the dog'. Latin codes grammatical roles through:",
+      "options": [
+        "Inflectional case marking on nouns",
+        "Linear word order",
+        "Verb agreement only",
+        "Prepositions"
+      ],
+      "answer": "Inflectional case marking on nouns",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q018",
+      "type": "mc",
+      "text": "Standard Arabic 'fataħnaahu' ('We opened it') codes grammatical relations through:",
+      "options": [
+        "Inflectional marking on the verb",
+        "Case marking on nouns",
+        "Strict word order",
+        "Postpositions"
+      ],
+      "answer": "Inflectional marking on the verb",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q019",
+      "type": "mc",
+      "text": "Korean marks the subject with -i and the object with -ul. This means word order:",
+      "options": [
+        "Can vary without changing the grammatical roles",
+        "Must stay strictly SVO",
+        "Determines the roles instead of case",
+        "Is irrelevant to meaning in all languages"
+      ],
+      "answer": "Can vary without changing the grammatical roles",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q020",
+      "type": "mc",
+      "text": "A verb requiring a subject, an object, and an indirect object is:",
+      "options": [
+        "Ditransitive",
+        "Transitive",
+        "Intransitive",
+        "Oblique"
+      ],
+      "answer": "Ditransitive",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q021",
+      "type": "mc",
+      "text": "A generative grammar for a language L is a system of rules that generates:",
+      "options": [
+        "The sentences of L, and only L",
+        "Some sentences of L",
+        "All possible strings of words",
+        "Only grammatical fragments"
+      ],
+      "answer": "The sentences of L, and only L",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q022",
+      "type": "mc",
+      "text": "'I saw the man in my car' is ambiguous because:",
+      "options": [
+        "The PP can attach to either the VP or the NP",
+        "The verb is intransitive",
+        "'man' can be a verb",
+        "The sentence is ungrammatical"
+      ],
+      "answer": "The PP can attach to either the VP or the NP",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q023",
+      "type": "mc",
+      "text": "In a tree diagram, the elements under a single node:",
+      "options": [
+        "Form a constituent",
+        "Are always a single word",
+        "Must be the same category",
+        "Cannot be moved"
+      ],
+      "answer": "Form a constituent",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q024",
+      "type": "tf",
+      "text": "True or False: Grammaticality judgments reflect a speaker's implicitly learned mental knowledge of their language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q025",
+      "type": "tf",
+      "text": "True or False: A sentence that is ungrammatical can never be interpretable.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q026",
+      "type": "tf",
+      "text": "True or False: Failing one constituency test proves a string is not a constituent.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q027",
+      "type": "tf",
+      "text": "True or False: All languages have constituency and hierarchical phrase structure.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q028",
+      "type": "tf",
+      "text": "True or False: Obliques can shift into the double object construction just like indirect objects.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q029",
+      "type": "tf",
+      "text": "True or False: Latin changes grammatical roles by changing word order.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q030",
+      "type": "tf",
+      "text": "True or False: Trees, brackets, and boxes are three equivalent ways of showing the same syntactic grouping.",
+      "answer": "True",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q031",
+      "type": "fitb",
+      "text": "A group of words that hang together as a unit within a sentence is called a ____.",
+      "answer": "constituent",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q032",
+      "type": "fitb",
+      "text": "Whether a sentence is appropriate to its context is called ____.",
+      "answer": "felicity",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q033",
+      "type": "fitb",
+      "text": "Any argument that is not a subject, direct object, or indirect object is an ____.",
+      "answer": "oblique",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q034",
+      "type": "fitb",
+      "text": "The pattern 'I taught three students French' is called the ____ ____ construction.",
+      "answer": "double object",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q035",
+      "type": "fitb",
+      "text": "When the form of the verb depends on the number, person, or gender of the subject, this is called ____.",
+      "answer": "agreement",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q036",
+      "type": "fitb",
+      "text": "In the phrase structure rule S → NP VP, the arrow means 'is ____ ____'.",
+      "answer": "made up of",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q037",
+      "type": "match",
+      "text": "Match each basic concept to its definition.",
+      "pairs": [
+        {
+          "left": "Grammaticality",
+          "right": "Built according to the rules of the language"
+        },
+        {
+          "left": "Interpretability",
+          "right": "Can receive a coherent interpretation"
+        },
+        {
+          "left": "Felicity",
+          "right": "Appropriate to the context of use"
+        },
+        {
+          "left": "Acceptability",
+          "right": "Broad cover term for any ill/well-formedness"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q038",
+      "type": "match",
+      "text": "Match each constituency test to its example.",
+      "pairs": [
+        {
+          "left": "Substitution",
+          "right": "A man with dark glasses → He"
+        },
+        {
+          "left": "Answer fragment",
+          "right": "Where are the keys? → On the table"
+        },
+        {
+          "left": "Movement",
+          "right": "Over the weekend, we had a lot of fun"
+        },
+        {
+          "left": "Coordination",
+          "right": "Her friends and Mary were playing tennis"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q039",
+      "type": "match",
+      "text": "Match each phrase type to its structure rule.",
+      "pairs": [
+        {
+          "left": "S",
+          "right": "→ NP VP"
+        },
+        {
+          "left": "NP",
+          "right": "→ (Det) (Adj) N (PP)"
+        },
+        {
+          "left": "VP",
+          "right": "→ V (NP) (PP)"
+        },
+        {
+          "left": "PP",
+          "right": "→ PREP (NP)"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q040",
+      "type": "match",
+      "text": "Match each language to how it codes grammatical roles.",
+      "pairs": [
+        {
+          "left": "Latin",
+          "right": "Case endings on nouns, word order unchanged"
+        },
+        {
+          "left": "Standard Arabic",
+          "right": "Inflectional marking on the verb"
+        },
+        {
+          "left": "Korean",
+          "right": "Case particles -i and -ul, flexible order"
+        },
+        {
+          "left": "English",
+          "right": "Mainly linear order plus prepositions"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-q041",
+      "type": "match",
+      "text": "Match each verb to its transitivity, using the lecture examples.",
+      "pairs": [
+        {
+          "left": "John slept",
+          "right": "Intransitive"
+        },
+        {
+          "left": "She ate the bread",
+          "right": "Transitive"
+        },
+        {
+          "left": "I threw the ball to Sophie",
+          "right": "Ditransitive"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-cw-q001",
+      "type": "mc",
+      "text": "In 'The smart girl gave her friend a generous present', 'her friend' is the:",
+      "options": [
+        "Indirect object",
+        "Direct object",
+        "Subject",
+        "Oblique"
+      ],
+      "answer": "Indirect object",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q002",
+      "type": "mc",
+      "text": "In 'The cat swatted the cabinets in the kitchens', 'in the kitchens' is a(n):",
+      "options": [
+        "Oblique",
+        "Indirect object",
+        "Direct object",
+        "Subject"
+      ],
+      "answer": "Oblique",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q003",
+      "type": "mc",
+      "text": "Which sentence shows 'cut' used ditransitively?",
+      "options": [
+        "None of these — 'cut' is only intransitive and transitive here",
+        "They cut.",
+        "They cut the paper.",
+        "They cut the paper in many shapes."
+      ],
+      "answer": "None of these — 'cut' is only intransitive and transitive here",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q004",
+      "type": "mc",
+      "text": "What is the transitivity of 'arrive' in 'I will arrive'?",
+      "options": [
+        "Intransitive",
+        "Transitive",
+        "Ditransitive",
+        "Oblique"
+      ],
+      "answer": "Intransitive",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q005",
+      "type": "mc",
+      "text": "Which verb can be used ditransitively?",
+      "options": [
+        "Send — 'I sent her a package'",
+        "Arrive",
+        "Panic",
+        "Exit"
+      ],
+      "answer": "Send — 'I sent her a package'",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q006",
+      "type": "mc",
+      "text": "'I once saw a stranger with my binoculars' is ambiguous because the PP can attach to:",
+      "options": [
+        "Either the VP or the NP 'a stranger'",
+        "Only the subject",
+        "Only the verb",
+        "Neither constituent"
+      ],
+      "answer": "Either the VP or the NP 'a stranger'",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q007",
+      "type": "mc",
+      "text": "In 'Cal-ea gal-ap van' / 'Cal-ap gal-ea van', grammatical roles are marked by:",
+      "options": [
+        "Case endings on the nouns",
+        "Linear word order",
+        "Agreement on the verb",
+        "Prepositions"
+      ],
+      "answer": "Case endings on the nouns",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q008",
+      "type": "mc",
+      "text": "Given hab 'bird', cal 'dog', tam 'saw', how do you say 'the bird saw the dog'?",
+      "options": [
+        "Hab-ea cal-ap tam",
+        "Hab-ap cal-ea tam",
+        "Tam hab-ea cal-ap",
+        "Cal-ea hab-ap tam"
+      ],
+      "answer": "Hab-ea cal-ap tam",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q009",
+      "type": "tf",
+      "text": "True or False: A prepositional phrase following the direct object automatically makes a verb ditransitive.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q010",
+      "type": "tf",
+      "text": "True or False: In the constructed language, changing the order of the nouns changes which one is the subject.",
+      "answer": "False",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q011",
+      "type": "fitb",
+      "text": "In the constructed language, the suffix ____ marks the subject of the sentence.",
+      "answer": "-ea",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q012",
+      "type": "fitb",
+      "text": "In the constructed language, the suffix ____ marks the object of the sentence.",
+      "answer": "-ap",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q013",
+      "type": "match",
+      "text": "Match each NP in 'The smart girl gave her friend a generous present for his birthday' to its role.",
+      "pairs": [
+        {
+          "left": "The smart girl",
+          "right": "Subject"
+        },
+        {
+          "left": "her friend",
+          "right": "Indirect object"
+        },
+        {
+          "left": "a generous present",
+          "right": "Direct object"
+        },
+        {
+          "left": "for his birthday",
+          "right": "Oblique"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-q014",
+      "type": "match",
+      "text": "Match each verb to its transitivity as established in the classwork.",
+      "pairs": [
+        {
+          "left": "Arrive",
+          "right": "Intransitive only"
+        },
+        {
+          "left": "Claim",
+          "right": "Transitive"
+        },
+        {
+          "left": "Send",
+          "right": "Transitive and ditransitive"
+        },
+        {
+          "left": "Work",
+          "right": "Intransitive and transitive"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
     }
   ],
   "notes": [
+    {
+      "id": "ch6-cw-n002",
+      "title": "★ KEY EXAM POINTS — Syntax Classwork & Common Mistakes",
+      "body": "★ DITRANSITIVE REQUIRES AN INDIRECT OBJECT, NOT JUST A PP. 'They cut the paper in many shapes' is transitive + oblique, not ditransitive. Test it with the double-object shift.\n★ THE SHIFT TEST IS THE WHOLE GAME: if it can move to sit right after the verb as a bare NP, it's an indirect object. 'I sent a package to her' → 'I sent her a package' ✓. 'She drove her car to Portland' → *'She drove Portland her car' ✗.\n★ ARRIVE IS INTRANSITIVE. A verb with no object is intransitive no matter what PP follows it. Check the example you write actually demonstrates the label you gave.\n★ MATCH YOUR EXAMPLE TO YOUR LABEL. If you call a verb transitive, the example sentence must contain a real direct object — not an oblique PP.\n★ MANY VERBS TAKE MORE THAN ONE FRAME: send is transitive AND ditransitive; understand is transitive AND usable intransitively. Don't stop at the first frame you think of.\n★ PP-ATTACHMENT AMBIGUITY: when a PP can attach to the VP or to the preceding NP, you get two structures and two meanings ('with my binoculars', 'in my car').\n★ IF THE WORD ORDER STAYS THE SAME AND THE MEANING FLIPS, THE LANGUAGE IS USING CASE — not linear order. This is the Latin diagnostic, and it's how the constructed-language problem works.\n★ -ea = subject/nominative, -ap = object/accusative; the constructed language is verb-final: Hab-ea cal-ap tam.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-cw-n001",
+      "title": "Syntax Classwork — Constituency, Transitivity, Ambiguity, Role Coding",
+      "body": "PART 1 — Break down the sentences and identify the NP arguments (subject, direct object, indirect object, or oblique):\n• 'I drink tea that is not caffeinated in the morning.'\n   I = SUBJECT | tea that is not caffeinated = DIRECT OBJECT | in the morning = OBLIQUE\n• 'The smart girl gave her friend a generous present for his birthday.'\n   The smart girl = SUBJECT | her friend = INDIRECT OBJECT | a generous present = DIRECT OBJECT | for his birthday = OBLIQUE\n• 'The cat swatted the cabinets in the kitchens.'\n   The cat = SUBJECT | the cabinets = DIRECT OBJECT | in the kitchens = OBLIQUE\n\nPART 2 — TRANSITIVITY. Remember the definitions: INTRANSITIVE = subject only; TRANSITIVE = subject + direct object; DITRANSITIVE = subject + direct object + INDIRECT object.\n⚠ THE KEY TEST: a following PP does NOT make a verb ditransitive. Only a true indirect object does — the kind that can shift into the double object construction ('I sent a package to her' → 'I sent her a package').\n• cut — intransitive ('They cut') and transitive ('They cut the paper'). NOT ditransitive: in 'They cut the paper in many shapes', 'in many shapes' is an OBLIQUE.\n• arrive — INTRANSITIVE. 'I will arrive' has no object; 'arrive at the station' adds an oblique, not an object.\n• claim — transitive. 'I claim victory!'\n• panic — intransitive ('I panicked'); note 'We panicked at the sound of sirens' is still intransitive, since the PP is oblique. Panic CAN be transitive with a genuine object: 'The news panicked investors.'\n• work — intransitive ('She works hard every day') and transitive ('The artist works the clay').\n• understand — transitive ('I understand the problem') and can be used intransitively ('I understand').\n• send — transitive ('I send a package') AND ditransitive ('I send her a package' / 'I sent a package to her').\n• exit — intransitive ('Exit, please') and transitive ('I exited the building').\n\nPART 3 — AMBIGUITY: 'I once saw a stranger with my binoculars.'\n• Interpretation 1 — PP attaches to the VP: I used my binoculars to see the stranger.\n• Interpretation 2 — PP attaches to the NP 'a stranger': the stranger had my binoculars.\n• This is PP-attachment ambiguity, the same structure as the lecture's 'I saw the man in my car'.\n\nPART 4 — CONSTRUCTED LANGUAGE:\n   Cal-ea gal-ap van.  (dog-SUBJ cat-OBJ chase) 'The dog chases the cat.'\n   Cal-ap gal-ea van.  (dog-OBJ cat-SUBJ chase) 'The cat chases the dog.'\n• ANSWER: roles are marked by CASE — inflectional endings on the nouns. -ea makes a root the SUBJECT; -ap makes it the OBJECT.\n• The word order is identical in both sentences, so order is NOT doing the work — exactly the Latin pattern.\n• The data is verb-final (SOV).\n• 'The bird saw the dog' (hab = bird, cal = dog, tam = saw) = HAB-EA CAL-AP TAM.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch6-ppt-n008",
+      "title": "★ KEY EXAM POINTS — Syntax Lecture",
+      "body": "★ SYNTAX = rules/principles/processes combining words into sentences. Word order affects BOTH the interpretation and the set of AVAILABLE interpretations.\n★ FOUR JUDGMENT TYPES: GRAMMATICALITY (follows the rules), INTERPRETABILITY (makes coherent sense), FELICITY (fits the context), ACCEPTABILITY (umbrella term).\n★ THE TWO CLASSIC EXAMPLES: 'Colorless green ideas sleep furiously' = grammatical, NOT interpretable. “Chomsky's idea are exciting” = ungrammatical, IS interpretable. They're independent properties.\n★ SIX BASIC WORD ORDERS: SVO, SOV, VSO, VOS, OVS, OSV. English is SVO.\n★ GRAMMATICAL GENDER ≠ sociocultural gender. German Mädchen 'girl' is NEUTER because -chen patterns as neuter. Assignment is also driven by phonology, morphosyntax, semantics, and processing.\n★ FOUR CONSTITUENCY TESTS: substitution, answer fragments, movement, coordination. ⚠ ONE TEST IS NEVER DECISIVE — neither passing nor failing. Apply as many as possible.\n★ SYNTACTIC CATEGORIES are defined DISTRIBUTIONALLY — same category = can substitute without losing grammaticality.\n★ MEMORIZE THE RULES: S → NP VP | NP → (Det) (Adj) N (PP) | VP → V (NP) (PP) | PP → PREP (NP). Parentheses = optional. → means 'is made up of'.\n★ A CHANGE IN MEANING IS A CHANGE IN CONSTITUENCY — 'more intelligent leaders' has two groupings and two meanings.\n★ NAVAJO VP → NP V (verb last), not English's VP → V NP. All languages have hierarchy; the RULES vary.\n★ THE OBLIQUE TEST: indirect objects shift into the double object construction ('I taught three students French'); obliques cannot (*'She drove Portland her car'). Both follow 'to', so the shift is what separates them.\n★ FOUR WAYS TO CODE GRAMMATICAL RELATIONS: linear order, case (on nouns), agreement (on verbs), adpositions.\n★ KNOW THE LANGUAGE EXAMPLES: Latin = case, order unchanged. Arabic = verb inflection. Korean = case particles -i/-ul with flexible order. Spanish = verb inflection AND order. English = order plus prepositions.\n★ TRANSITIVITY: intransitive (John slept), transitive (She ate the bread), ditransitive (I threw the ball to Sophie).\n★ GENERATIVE GRAMMAR generates the sentences of L — AND ONLY L. That 'only' is the whole point.\n★ TREES, BRACKETS, BOXES are EQUIVALENT notations. In a tree, everything under a node is a CONSTITUENT.\n★ SYNTACTIC AMBIGUITY = one sentence, two structures. 'black coffee drinkers'; 'I saw the man in my car' (PP attaches to VP or NP).",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n007",
+      "title": "Grammars, Trees, and Syntactic Ambiguity",
+      "body": "DEFINITION OF A GRAMMAR: formal and theoretical models determining what is structurally allowed/included in a language and what is not.\nTYPES: Generative Grammars, Constraint-based Grammars, Functional Grammars, Dependency Grammars.\n\nFORMAL LANGUAGES & GENERATIVE GRAMMAR:\n• A language L can be defined as a SET of sentences.\n   Eng = {They are happy, Bob is in the room, The cat ran, ...}\n   Not-Eng = {*is happy he, *cat the ran, *in is Bob the room, ...}\n• A GENERATIVE GRAMMAR for L is a system of rules that generates (the sentences of) L — AND ONLY L.\n\nPHRASE STRUCTURE GRAMMARS: group words into phrases and assign structure in a tree-like format.\n\nTREES, BRACKETS, OR BOXES — three equivalent notations:\n• [S [NP [N Alice]] [VP [V eats] [NP [N cake]]]]\n\nTREES AND DERIVATIONS — trees can be described by a rule set that generates them:\n   S → NP VP\n   NP → N\n   VP → V NP\n   N → Alice, cake\n   V → eats\n\nSYNTACTIC AMBIGUITY:\n• Sometimes the same sentence can receive different syntactic analyses — the grammar assigns at least two structures to it.\n• Sometimes those two structures correspond to different interpretations.\n• 'black coffee drinkers': [black coffee] drinkers vs. black [coffee drinkers]\n• 'I saw the man in my car': the PP 'in my car' can attach to the VP (I was in the car) or to the NP (the man was in the car)\n\nEXERCISE FROM THE DECK:\n• Diagram 'Abe bought the book about the man with the money' into its constituents, and draw TWO trees capturing the structural ambiguity.\n• Grammar given: S → NP VP; NP → (D) N (PP); VP → V (NP) (PP); PP → P NP\n   N → Abe, man, money, book | D → the | V → saw, chased | P → about, with",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n006",
+      "title": "Grammatical Roles, Obliques, and How Languages Code Them",
+      "body": "GRAMMATICAL ROLES indicate the syntactic role an NP plays in an utterance:\n• Subject (Subj), Direct Object (DO), Indirect Object (IO)\n\nINDIRECT OBJECTS IN ENGLISH:\n• Marked by the preposition 'to'; direct objects take no case marking.\n     Subj      V        DO    IO\n     NP                 NP    NP\n     Lorraine brought sushi to me.\n\nINDIRECT OBJECTS VS. OBLIQUES — both can follow 'to', so you need a test:\n• 'She went to Portland' — 'to Portland' is OBLIQUE.\n• EVIDENCE: indirect objects can SHIFT directly after the verb in the DOUBLE OBJECT CONSTRUCTION:\n   I taught French to three students. → I taught three students French. ✓\n• Oblique arguments CANNOT shift:\n   She drove her car to Portland. → *She drove Portland her car. ✗\n\nENGLISH OBLIQUES:\n• Any argument that is not a subject, object, or indirect object.\n• Most obliques are NPs inside prepositional phrases: from the bank, under the table.\n• Obliques have NO grammatical relation with the verb — no behavior unites them or defines them as a special grammatical class.\n\nFOUR WAYS LANGUAGES CODE GRAMMATICAL RELATIONS:\n1. Coding through LINEAR ORDER\n2. Coding through inflectional markings on the NP (CASE)\n3. Coding through inflectional marking on the VERB (AGREEMENT)\n4. Coding through ADPOSITIONS (prepositions or postpositions)\n\nLATIN — case on nouns, word order unchanged:\n• Canis fêlem vîdit (dog-NOM cat-ACC saw) = 'the dog saw the cat'\n• Canem fêlis vîdit (dog-ACC cat-NOM saw) = 'the cat saw the dog'\n• Latin changes the roles WITHOUT changing the word order, by modifying the case endings.\n\nENGLISH — linear order and prepositions:\n• I gave John a book. / I gave a book to John.\n• I baked John a cake. / I baked a cake to John.\n\nSTANDARD ARABIC — inflection on the verb:\n• fataħnaahu = fataħ 'opened' + -naa '1PL.NOM' + -hu '3SG.ACC' = 'We opened it'\n• When there are only pronominal arguments, Arabic codes relations on the verb.\n\nSPANISH — both verb inflection and word order:\n• como 'I eat' / comes 'you eat'\n• el perro mordió el gato ('the dog bite-3sg.PT the cat') = 'the dog bit the cat'\n\nKOREAN — case markers on nouns:\n• ku swunkyeng-i totwuk-ul capasseyo (policeman-NOM thief-ACC caught)\n• totwuk-ul ku swunkyeng-i capasseyo (thief-ACC policeman-NOM caught)\n• Both = 'That policeman caught a thief.' Order varies; case carries the roles.\n\nAGREEMENT: the form of the verb may depend on properties of the subject or object — number (singular, plural, dual), person (1st, 2nd, 3rd), gender.\n• English 'be' (person and number): I am happy / we, you, they are happy / she, he, it is happy.\n• Arabic agrees for number, person, AND gender.\n\nTRANSITIVITY — verbs require different numbers of arguments:\n• INTRANSITIVE: subject only — John slept.\n• TRANSITIVE: subject and object — She ate the bread.\n• DITRANSITIVE: subject, object, and indirect object — I threw the ball to Sophie.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n005",
+      "title": "Cross-Linguistic Variation: Navajo",
+      "body": "ALL languages have constituency and hierarchical phrase structure.\nBUT there is variation in phrase structure RULES cross-linguistically.\n\nNAVAJO DATA:\n• ashkii ateed yiyiiltsá  ('boy girl saw') = 'The boy saw the girl'\n• ateed ashkii yichi yalti ('girl boy to talks') = 'The girl talks to the boy'\n\nIn the second sentence the structure is: S → NP VP, where the VP contains PP then V — the verb comes LAST and the postpositional element precedes it.\n\n★ EXAM QUESTION FROM THE DECK: What is the phrase structure rule for the Navajo verb phrase in 'ashkii ateed yiyiiltsá'?\n   Answer: VP → NP V  (not VP → V NP, which is the English pattern)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n004",
+      "title": "Syntactic Categories and Phrase Structure Rules",
+      "body": "SYNTACTIC CATEGORY — each word/constituent belongs to one.\n• Words/constituents in the same category can SUBSTITUTE for one another without loss of grammaticality.\n• Categories are defined in terms of their DISTRIBUTIONAL properties in a sentence; same category = similar distribution.\n\nLEXICAL CATEGORIES: Noun (book, Jill, giraffe, liberty), Verb (run, eat, swim), Adjective (red, happy, afraid, big, fake), Preposition (for, at, in, on, about), Adverb (again, always, often, slowly).\n\nPHRASAL CATEGORIES:\n• Noun Phrase: the book, Jill, a giraffe with a very long neck\n• Verb Phrase: run, eat a carrot, swim fast, give money to charity\n• Adjective Phrase: red, happy and excited, afraid of snakes\n• Preposition Phrase: for the sake of argument, about the issue, on the table\n• Adverbial Phrase: slowly, more slowly, more slowly than me\n\nHIERARCHICAL STRUCTURE: words are organized into constituents (phrases). A PHRASE is a word or words functioning as a unit according to phrase structure rules.\n\nSENTENCES HAVE TWO PRINCIPAL CONSTITUENTS — NP and VP:\n   S = NP + VP     (the dog) (bites)\n   S → NP VP       → means 'is made up of'\n   'A sentence is made up of a noun phrase followed by a verb phrase.'\n\nA CHANGE IN MEANING IS A CHANGE IN CONSTITUENCY:\n• [more [intelligent leaders]] = 'more leaders who are intelligent'\n• [[more intelligent] leaders] = 'leaders who are more intelligent'\n\nNOUN PHRASE — all behave the same in 'I love to look at ______ everyday':\n   Bobbi | them | the dog | our wonderful pet | that scary spider on my leg\n        (Det)   (Adj)      N        (PP)\n         —       —        Bob       —\n         —       —        them      —\n        the      —        dog       —\n        our   wonderful   pet       —\n        that   scary     spider   on my leg\n   NP → (Det) (Adj) N (PP)\n\nPREPOSITIONAL PHRASE — all behave the same in 'Noah drove ______':\n   around | under the bridge | from Ohio | by the rowdy stadium parking lot\n   PP → PREP (NP)\n\nVERB PHRASE — all behave the same in 'Rosa ______':\n   ran | played the piano | watched the big game on Saturday\n   VP → V (NP) (PP)\n\nPHRASE STRUCTURE RULES ARE LANGUAGE-SPECIFIC:\n• English: the apple (NP → Det N) but *apple the; a beautiful house (NP → Det Adj N) but *house beautiful a.\n\nTREE DIAGRAMS: THE ELEMENTS UNDER A NODE FORM A CONSTITUENT. Worked example in lecture: 'the dog bit the cat on the nose'.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n003",
+      "title": "Constituency and the Four Constituency Tests",
+      "body": "CONSTITUENCY: in a sentence, some words hang together more closely than others and form a unit called a CONSTITUENT. We detect constituents by running constituency tests.\n\nTHE FOUR TESTS:\n\n1. PRONOMINAL SUBSTITUTION — constituents can be replaced by pronouns like s/he, they, it, that, them, then, there, do that, that way.\n   • A man with dark glasses (He) is following us.\n   • I bought a few good looking mangos (them).\n   • We watched a movie about cheese-making (did that) last week.\n   • Annette went to Brazil (there).\n\n2. ANSWER FRAGMENTS — questions formed with wh-words (who, what, where, when) can be answered by constituents.\n   • That is my brother. → Who is that? My brother.\n   • He is making a mess. → What's he doing? Making a mess.\n   • The keys are on the table. → Where are the keys? On the table.\n\n3. MOVEMENT — constituents can be moved as a group.\n   • We had a lot of fun over the weekend. → Over the weekend, we had a lot of fun.\n   • I've always enjoyed playing soccer. → Playing soccer, I've always enjoyed.\n\n4. COORDINATION — constituents can be joined with and, or, but.\n   • Her friends (and Mary) were playing tennis.\n   • We peeled the onion (and poured them in the pot).\n   • The car could go over the bridge (or through the tunnel).\n\n⚠ HOW TO USE THE TESTS:\n• Failing to pass a single test does NOT mean the test string is not a constituent.\n• Passing a single test does NOT necessarily mean the test string IS a constituent.\n• Apply as MANY tests as possible to show or rule out constituent status.\n\nPRACTICE SENTENCES FROM LECTURE:\n• Martha found a lovely pillow for the couch.\n• The light in this room is terrible.\n• I wonder whether Bonnie has finished packing her books.\n• Melissa slept in her class.\n• Pete and Max are fighting over the bone.\n• I gave a bone to Pete and to Max yesterday.",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n002",
+      "title": "Word Order and Grammatical Gender",
+      "body": "WORD ORDER:\n• Linguistic units are typically produced and processed LINEARLY, so the order of units can matter.\n• Word order refers to how a language requires the ordering of its words or phrases, especially the verb and its nominal arguments.\n   The squirrel bit the man. / The man bit the squirrel.\n\nBASIC WORD ORDER — the ordering of verb, subject, and object. All six logical options, with the squirrel/almond example:\n• SVO: The squirrel ate the almond.\n• OVS: The almond ate the squirrel.\n• SOV: The squirrel the almond ate.\n• OSV: The almond the squirrel ate.\n• VSO: Ate the squirrel the almond.\n• VOS: Ate the almond the squirrel.\n\nGRAMMATICAL GENDER:\n• Related to but NOT the same as sociocultural gender.\n• It is a CLASSIFICATION SYSTEM FOR NOUNS which, when it comes to people, CAN correlate with sociocultural gender — but not always.\n• German has three genders (feminine, masculine, neuter). The noun Mädchen ('girl') is NEUTER, not feminine:\n   der/ein Mann | die/eine Frau | das/ein Mädchen\n• The syntactic rules of German require the suffix '-chen' to pattern as neuter.\n\nOTHER FACTORS AFFECTING GENDER CLASSIFICATION:\n• Phonetics and phonology\n• Morphosyntactic properties of the language\n• Semantic features such as human, animate, type of object\n• Processing and psycholinguistics\n(Reference charts cited in lecture: WALS features 30A number of genders, 31A sex-based vs. non-sex-based systems, 32A systems of gender assignment.)",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch6-ppt-n001",
+      "title": "What Is Syntax? Well-formedness and Linguistic Judgments",
+      "body": "SYNTAX: the study of rules, principles, and processes that combine words to construct sentences.\n• The way words are put together affects our INTERPRETATIONS:\n   The dog chased the cat. / The cat chased the dog.\n• It can also affect the AVAILABLE interpretations of a sentence:\n   'Old women and men were invited.' — are the men old too, or only the women?\n\nWELL-FORMEDNESS — a cline, not a switch:\n• The dog is sleeping under the blanket. ✓\n• The dogs are sleeping under the blanket. ✓\n• The dog is sleeping below the blanket. ✓\n• The dog are sleeping under the blanket. ✗ (agreement)\n• Are sleeping the dog under the blanket. ✗ (order)\n• Dog blanket is the the sleeping under. ✗✗\n• Is the the under sleeping Dog blanket. ✗✗✗\n\nBASIC CONCEPTS:\n• GRAMMATICALITY — whether a sentence is constructed according to the grammatical rules of a language. Grammaticality judgments reflect a speaker's MENTAL and IMPLICITLY LEARNED knowledge of the language.\n• INTERPRETABILITY — whether a sentence can receive a coherent interpretation.\n• FELICITY — whether a sentence is appropriate for the context it was used in.\n• ACCEPTABILITY — a broad term covering any linguistic ill/well-formedness.\n\nGRAMMATICALITY VS. INTERPRETABILITY ARE INDEPENDENT:\n• Grammatical but NOT interpretable: 'Colorless green ideas sleep furiously.' (Compare *'Furiously sleep ideas green colorless' — neither grammatical nor interpretable.)\n• Ungrammatical but interpretable: “Chomsky's idea are exciting.”",
+      "image": null,
+      "module": "wk06",
+      "chapter": 6,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
+    },
     {
       "id": "ch5-cw-n002",
       "title": "★ KEY EXAM POINTS - Morphology Classwork & Common Mistakes",
