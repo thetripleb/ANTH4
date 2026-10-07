@@ -169,6 +169,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-ppt-g009",
+      "term": "acronym",
+      "def": "A word derived from the initials of several words and pronounced as a word: scuba, FOMO, NASA.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch3-g010",
       "term": "active articulator",
       "def": "The moving (lower) articulator in a consonant — e.g., the lower lip or a part of the tongue (tip/blade/front/back/root) or the epiglottis.",
@@ -185,6 +194,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch5-ppt-g022",
+      "term": "adposition",
+      "def": "The cover term for prepositions and postpositions. English has prepositions (to school, on the table); Turkish has postpositions (evim de, 'house-my at' = 'at my house'). Some languages have both.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch12-g002",
@@ -502,6 +520,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
+      "id": "ch5-ppt-g011",
+      "term": "back-formation",
+      "def": "A new word created by removing what is mistakenly taken to be an affix: cran-apple, whelmed (from 'underwhelmed'), tamale (from tamales, Spanish tamal).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch3-g029",
       "term": "backness",
       "def": "Horizontal tongue position: front (beat), central (but), or back (boot). Do not confuse central (backness) with mid (height).",
@@ -545,6 +572,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch5-ppt-g014",
+      "term": "blending",
+      "def": "Combining parts of two words into one: smog, blog, podcast, brexit, mocktail, affluenza, cronut, dramedy, chillax, jeggings.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch14-g004",
@@ -610,6 +646,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
+      "id": "ch5-ppt-g017",
+      "term": "case",
+      "def": "Inflectional morphology marking the grammatical relationship between nouns and verbs. Common cases: nominative (grammatical subjects), accusative (grammatical objects), dative (indirect objects), locative, and instrumental.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch10-g022",
       "term": "categorical alternation",
       "def": "A change fully determined by the linguistic environment (not free social choice), which therefore does NOT count as a sociolinguistic variable.",
@@ -671,6 +716,24 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch5-ppt-g012",
+      "term": "clipping",
+      "def": "Shortening a longer word while keeping its meaning and word class: phone (telephone), gym, fax, ad, exam, app, totes, obvs.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-g008",
+      "term": "closed class",
+      "def": "The set of grammatical categories that rarely gain or change members — prepositions, determiners, conjunctions, pronouns, auxiliary verbs.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-g052",
@@ -1150,6 +1213,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch5-ppt-g021",
+      "term": "ditransitive verb",
+      "def": "A verb taking a subject, a direct object, and an indirect object: 'I gave her the gift'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch3-g046",
       "term": "dominant hand",
       "def": "The hand used more for daily tasks and one-handed signs; the other is the nondominant hand (often the location in two-handed signs).",
@@ -1274,6 +1346,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-g013",
+      "term": "eponym",
+      "def": "A word created from a proper noun or name: achilles, freudian, scrooge, xerox, kleenex.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch6-g036",
@@ -1463,6 +1544,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch5-ppt-g006",
+      "term": "grammatical (functional) morpheme",
+      "def": "A morpheme that serves a function in the utterance rather than carrying core meaning: prepositions, determiners, conjunctions, pronouns, auxiliary verbs. In 'John is going to the store for the third time', these are is, to, the, for.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch1-g020",
@@ -1708,6 +1798,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch5-ppt-g010",
+      "term": "initialism (abbreviation)",
+      "def": "A shortening pronounced letter by letter rather than as a word: lol, fyi, diy, IRS, CIA, FBI, DC.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch1-ppt-g007",
       "term": "interchangeability",
       "def": "The property that any competent user of the code can both send and receive messages, switching freely between producing and understanding.",
@@ -1778,6 +1877,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-ppt-g020",
+      "term": "intransitive verb",
+      "def": "A verb taking only a subject: 'John walked'; 'Sarah listened to the radio'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch5-g017",
@@ -2005,6 +2113,15 @@
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
+      "id": "ch5-ppt-g005",
+      "term": "lexical (content) morpheme",
+      "def": "A morpheme with a core meaning of its own: nouns, verbs, adjectives, adverbs. In 'Bill watches all his favorite shows on Mondays', the lexical morphemes are Bill, watch, favorite, shows, Mondays.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch5-g026",
       "term": "lexical category",
       "def": "A word's grammatical class (part of speech: noun, verb, adjective, adverb), defined by distribution (grammatical context), not meaning.",
@@ -2048,6 +2165,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch5-ppt-g001",
+      "term": "lexicon",
+      "def": "The 'mental dictionary' — the large store of words and word parts available to the users of a language to choose from.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch1-ppt-g024",
@@ -2138,6 +2264,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch5-ppt-g016",
+      "term": "loanword",
+      "def": "A word borrowed from another language: pizza, blitz, czar, bagel, taco.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-g044",
@@ -2338,6 +2473,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
     },
     {
+      "id": "ch5-ppt-g003",
+      "term": "morphological analysis",
+      "def": "The method for identifying morphemes in unfamiliar data: compare similar words, look for pairs where one has a particular sequence of sounds and one does not, then hypothesize that the additional sounds carry the additional meaning. A form in isolation ([grapho] 'I write') cannot be analyzed — only comparison reveals structure.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ex-g001",
+      "term": "morphological analysis in chunks",
+      "def": "The strategy taught in the Chickasaw walkthrough: rather than attacking all the data at once, take groups of similar forms with similar meanings, extract what is shared across every form and every meaning in that chunk, link the leftovers, then use the remaining data to CONFIRM conclusions already reached.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
       "id": "ch14-g012",
       "term": "morphological change",
       "def": "Change in a language's word-building system, often via analogy.",
@@ -2455,6 +2608,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
+      "id": "ch5-ppt-g015",
+      "term": "neologism",
+      "def": "A completely novel coinage: zany and grovel (Shakespeare), scrumptdittilyumptious (Roald Dahl), boo, fleek, poggers.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch13-g002",
       "term": "neurolinguistics",
       "def": "The study of how the brain supports language, using brain measures (e.g., electrical activity/EEG) to test where and when linguistic processing happens.",
@@ -2518,6 +2680,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch5-ppt-g004",
+      "term": "null morpheme",
+      "def": "A morpheme realized by no overt material, written ∅. In Chickasaw, 'he/she' is signaled by the absence of any subject prefix, so it is a null morpheme. (Your textbook calls this a zero affix.)",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch10-g009",
       "term": "observer's paradox",
       "def": "The methodological problem that to study natural vernacular speech, linguists must observe it — but observation makes speech less natural.",
@@ -2570,6 +2741,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-ppt-g007",
+      "term": "open class",
+      "def": "The set of lexical categories that readily accept new members — nouns, verbs, adjectives, adverbs. 'I googled the totally hip ipod on my computer' shows new open-class items entering the language.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch1-g029",
@@ -2903,6 +3083,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-ppt-g018",
+      "term": "polysynthetic language",
+      "def": "A language in which several stems and affixes combine into a single word, often expressing a whole sentence. Sora (India): nenadʒdʒadarsiem 'I will not receive cooked rice from your hands'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch12-g005",
@@ -3562,6 +3751,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
     },
     {
+      "id": "ch5-ppt-g002",
+      "term": "stem",
+      "def": "Anything a morpheme can attach to. All roots can be stems, but stems are not always roots: in 'un-tru-th-ful-ly', 'tru' is the root while 'truth' and 'truthful' act as stems for further affixation.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch2-g024",
       "term": "stigma",
       "def": "Negative attitudes and expectations attached to a non-standard accent or variety (the variety itself is neither good nor bad); can cause real harm in jobs, housing, courts, and education.",
@@ -3877,6 +4075,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
+      "id": "ch5-ppt-g019",
+      "term": "transitive verb",
+      "def": "A verb taking both a subject and an object: 'John ate five hamburgers'; 'Sarah plays the piano'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
       "id": "ch6-g010",
       "term": "transitivity",
       "def": "The number of arguments a predicate takes (also called valency): intransitive (1: subject), transitive (2: subject + object), ditransitive (3: subject + two objects).",
@@ -4118,6 +4325,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch5-ppt-g023",
+      "term": "vowel harmony",
+      "def": "An assimilation process in which the vowels within a word become more similar on some feature. In Finnish, suffix vowels agree in backness with the stem: töllö (front vowels) takes -ltä, while sisko (back vowels) takes -lta.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
       "id": "ch3-g028",
@@ -6766,6 +6982,393 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch5-ppt-f001",
+      "front": "What is morphology, and what is the lexicon?",
+      "back": "Morphology is the study of how morphemes combine to form new words. The lexicon is the 'mental dictionary' — the store of words and word parts a language's users can draw on.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f002",
+      "front": "How do we know where word boundaries are?",
+      "back": "Speaker intuitions give the best indication. Words can be pronounced alone while individual morphemes often cannot; pauses fall between words, not morphemes; and speakers don't normally produce words morpheme-by-morpheme.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f003",
+      "front": "Show that words are not the smallest units of meaning.",
+      "back": "antidisestablishmentarianism = anti-dis-establish-ment-ari-an-ism. Words are made up of morphemes; a morpheme is the smallest unit of meaning and cannot be broken down further and still mean something.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f004",
+      "front": "What does the Mohawk example show about cross-linguistic variation?",
+      "back": "Teninonhsihsákha = te-ni-nonhs-ihsak-ha ('you.&.I-two-house-seek-go.and') means 'Let's go look for the house.' A single morphologically complex word in Mohawk corresponds to a whole phrase in English — languages differ enormously in how they build words.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f005",
+      "front": "How many morphemes are in 'walking' and 'retypes'?",
+      "back": "walking = 2 (walk + -ing). retypes = 3 (re- + type + -s).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f006",
+      "front": "What is the method of morphological analysis?",
+      "back": "Compare similar words. Find pairs where one has a particular sequence of sounds and the other does not, then hypothesize that the extra sounds carry the extra meaning. Analyze in chunks — group similar forms with similar meanings, pull out what's shared, then link the leftovers.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f007",
+      "front": "Isthmus Zapotec: zigi 'chin' / kazigi 'chins'. What's the plural morpheme?",
+      "back": "/ka-/ is the plural marker, a prefix. Confirmed across diaga/kadiaga 'ear(s)' and zike/kazike 'shoulder(s)'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f008",
+      "front": "Dolakha Newar: chẽ 'house' / chẽku 'at the house'. What's the morpheme?",
+      "back": "/-ku/ is a locative suffix marking location. Note it covers 'at', 'in', and 'on' — one morpheme in this language corresponds to several in English.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f009",
+      "front": "How many free and bound morphemes are in 'retypes' and 'workers'?",
+      "back": "retypes = 1 free (type) and 2 bound (re-, -s). workers = 1 free (work) and 2 bound (-er, -s).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f010",
+      "front": "Root vs. stem?",
+      "back": "ROOT is the central morpheme at the core of a complex word — every word has one. STEM is anything a morpheme can attach to. All roots can be stems, but stems are not always roots: in un-tru-th-ful-ly the root is 'tru', while 'truth' and 'truthful' serve as stems.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f011",
+      "front": "Name the four affix types with an English example of each.",
+      "back": "PREFIX before the stem (un-wise). SUFFIX after the stem (truth-ful). INFIX inside the stem (abso-bloody-lutely). CIRCUMFIX around the stem (a-fish-in' in some American English varieties).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f012",
+      "front": "Give the Ilocano example of each affix type.",
+      "back": "PREFIX taga-: amianan 'north' → taga-amianan 'Northerner'. SUFFIX -an: giling 'grind' → giling-an 'grinder'. INFIX -in-: kuton 'ant' → k-in-uton 'ant-infested'. CIRCUMFIX pag-...-en: ragsak 'happy' → pag-ragsak-en 'make happy'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f013",
+      "front": "What two mistakes do people make identifying infixes and circumfixes?",
+      "back": "(1) If two prefixes precede a root, the inner one is NOT an infix — same for suffixes (art-ful-ness). (2) A prefix and suffix surrounding a root do NOT make a circumfix (in-put-s, un-forget-able). When in doubt assume a combination of prefixes and suffixes — circumfixes are rare.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f014",
+      "front": "Tagalog: bili 'buy' → binili 'bought'. What affix type?",
+      "back": "An INFIX. The past-tense marker /-in-/ is inserted inside the stem: b-in-ili, s-in-ulat.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f015",
+      "front": "German: lieb 'love' → geliebt 'loved'. What affix type, and inflectional or derivational?",
+      "back": "A CIRCUMFIX /ge-...-t/ marking past tense. It is INFLECTIONAL because it does not change the meaning or word class of the stem — it only conveys tense.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f016",
+      "front": "Inflectional vs. derivational morphology — the four contrasts.",
+      "back": "INFLECTIONAL: does not create a new lexeme, never changes word class, highly productive, predictable meaning; codes relationships between constituents. DERIVATIONAL: creates new lexical items, can change word class, meanings not necessarily predictable, often productively limited.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f017",
+      "front": "List the English inflectional affixes from the lecture.",
+      "back": "-s plural (Plums are delicious); -s 3rd singular present (Sharon changes her car's oil); -ed past tense (Voters rejected the measure); -ing progressive (Sarah is riding her bike).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f018",
+      "front": "Cree: /tʃi:ma:n/ 'canoe' vs. /nitʃi:ma:n/ 'my canoe'. What's the morpheme?",
+      "back": "/ni-/ is an inflectional prefix signaling first person possessive. Confirmed by /so:niya/ 'money' → /niso:niya/ 'my money' and /wiya:ʃ/ 'meat' → /niwiya:ʃ/ 'my meat'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f019",
+      "front": "Bontoc: /fikas/ 'strong' → /fumikas/ 'he is becoming strong'. What's the morpheme?",
+      "back": "/-um-/, a derivational infix meaning 'to become'. Also kilad/kumilad 'red', bato/bumato 'rock', fusul/fumusul 'enemy'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f020",
+      "front": "Farsi: dana 'wise' → danai 'wisdom'. What affix type and class?",
+      "back": "A SUFFIX /-i/, and it is DERIVATIONAL — it creates nouns from adjectives, changing the category of the stem. Also xub/xubi, darošt/darošti, bozorg/bozorgi, širin/širini.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f021",
+      "front": "Why is derivation 'productively limited'? Give examples.",
+      "back": "Derivational affixes are selective about which stems they attach to: un-happy but *un-blue; re-paint but *re-eat, *re-die; neighbor-hood but *friend-hood. The asterisk marks a form speakers of the language can't say.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f022",
+      "front": "Lexical vs. grammatical morphemes, and how do they map to open/closed class?",
+      "back": "LEXICAL (content) morphemes carry core meaning — nouns, verbs, adjectives, adverbs — and form the OPEN class, which readily gains new members. GRAMMATICAL (functional) morphemes serve a function — prepositions, determiners, conjunctions, pronouns, auxiliaries — and form the CLOSED class, which rarely changes.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f023",
+      "front": "How are lexical categories identified?",
+      "back": "By their PATTERNS — which affixes they take (cats, books, pens but *olds) — and by which words and categories can occur together in phrases (a monkey, the pen but *a tall, *a she).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f024",
+      "front": "What does Jabberwocky demonstrate about lexical categories?",
+      "back": "In \"'Twas brillig, and the slithy toves\", you can identify categories without knowing meanings: the derivational suffix -y suggests 'slithy' is an adjective, the inflectional -s suggests 'toves' is a plural noun, and the determiner 'the' signals a noun phrase in which the first word modifies the second.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f025",
+      "front": "Are lexical categories universal?",
+      "back": "No. Korean and Japanese lack definite and indefinite articles. Some categories are common cross-linguistically (nouns) and others much less so (definite articles).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f026",
+      "front": "Name the six major ways to form new words, plus two others.",
+      "back": "COMPOUNDING, ACRONYM, BACK-FORMATION, ABBREVIATION, EPONYM, BLENDING. Also NEOLOGISM (novel coinage) and LOANWORDS from other languages.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f027",
+      "front": "Distinguish acronym, initialism, clipping, and back-formation.",
+      "back": "ACRONYM — initials pronounced as a word (scuba, NASA, fomo). INITIALISM/ABBREVIATION — initials said letter by letter (fyi, FBI, DC). CLIPPING — a longer word shortened (phone, gym, app). BACK-FORMATION — removing what is wrongly taken to be an affix (whelmed, tamale).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f028",
+      "front": "Name the four types of morphological systems.",
+      "back": "ISOLATING (analytic) — mainly free morphemes, one morpheme per word (Mandarin). AGGLUTINATING — bound morphemes attach with clear boundaries (Hungarian). FUSIONAL — one morpheme carries several meanings at once and boundaries blur (Russian). POLYSYNTHETIC — many stems and affixes form one word, often a whole sentence (Sora).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f029",
+      "front": "Why is Russian /tʃita-yet/ fusional rather than agglutinating?",
+      "back": "Because /-yet/ simultaneously carries BOTH 3rd person AND present tense, and /-l/ carries both 3rd person and past. One morpheme fuses multiple meanings, so you can't segment them apart — unlike agglutinating languages where boundaries are clean.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f030",
+      "front": "Are languages pure types?",
+      "back": "No. Languages are rarely pure examples of one type. A language may be mostly one type while containing elements of another — the classifications form a continuous spectrum.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f031",
+      "front": "What is allomorphy? Give an affix and a root example.",
+      "back": "A morpheme taking different forms depending on phonological context. AFFIX: the prefix in- is usually [ɪn], but [ɪŋ] in 'incomplete' and [ɪm] in 'imperfect'. ROOT: leaf [lif] vs. leaves [livz].",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-f032",
+      "front": "Why can't [grapho] 'I write' be analyzed on its own?",
+      "back": "In isolation there's no way to tell which part means 'I' and which means 'write'. Only by comparing it to another form — [graphe] 'he writes' — can you isolate /graph-/ 'write', /-o/ 'I', and /-e/ 'he'.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ex-f001",
+      "front": "Chickasaw: what are the root morphemes for 'to be tall' and 'to be hungry'?",
+      "back": "chaaha = 'to be tall' (it appears in Sachaaha, Chaaha, Chichaaha, Hoochaaha). hopoba = 'to be hungry' (Hopobatok, Hoohopobatok, Sahopoba).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-f002",
+      "front": "Chickasaw: give the morphemes for past tense, 'I', 'you', and 'he/she'.",
+      "back": "Past tense = -tok (suffix). 'I' = sa- (prefix). 'You' = chi- (prefix). 'He/she' = ∅, the NULL morpheme — there is no prefix at all.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-f003",
+      "front": "How do we know 'he/she' is a null morpheme in Chickasaw?",
+      "back": "Because 'Chaaha' with NO prefix means 'He/she is tall', while sa-, chi-, and hoo- mark 'I', 'you', and 'they'. The default, unmarked form carries the he/she meaning, so that meaning is realized with no overt morpheme.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-f004",
+      "front": "If the Chickasaw root for 'to be old' is sipokni, how do you say 'You are old', 'He was old', and 'They are old'?",
+      "back": "'You are old' = Chisipokni (add chi- 'you'). 'He was old' = Sipoknitok (no subject prefix because he/she is null, plus -tok for past). 'They are old' = hoosipokni (add hoo- 'they', no -tok because it's present).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-f005",
+      "front": "What extra morphemes can be recovered from the Chickasaw data beyond what the question asks?",
+      "back": "tikahbi = 'to be tired' (Satikahbi, Chitikahbitok) and chchokwa = 'to be cold' (Chichchokwa). The question doesn't ask for them, but the data supports them.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-cw-f001",
+      "front": "Finnish classwork: is the morphology in töllö/töllöni/töllöltä/töllöltäni inflectional or derivational?",
+      "back": "INFLECTIONAL. Nothing changes word class — all forms stay nouns — and the added meanings ('my', 'from') are predictable and productive.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-f002",
+      "front": "List all the morphemes in the Finnish data, with meanings and bound/free status.",
+      "back": "töllö 'TV' — FREE root. sisko 'sister' — FREE root. -ni 'my' (1st person possessive) — BOUND. -ltä / -lta 'from' (ablative case) — BOUND. ⚠ Note: 'tani' is NOT a single morpheme — siskoltani segments as sisko-lta-ni, two separate suffixes.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-f003",
+      "front": "What causes the -ltä / -lta alternation in Finnish?",
+      "back": "VOWEL HARMONY, an assimilation process in which vowels in a word become more similar. Finnish suffix vowels agree in BACKNESS with the stem: töllö has front vowels ([ø]) so it takes the front form -ltä ([æ]); sisko has back vowels so it takes the back form -lta ([ɑ]).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-f004",
+      "front": "Finnish for 'dog' is koira. How do you say 'from my dog'?",
+      "back": "koiraltani. koira contains BACK vowels, so vowel harmony selects the back form -lta (not -ltä), then the possessive -ni attaches: koira + lta + ni.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-f005",
+      "front": "Identify the word-formation process: fridge, playdate, NASA, cardigan, spork.",
+      "back": "fridge = CLIPPING (shortened from refrigerator). playdate = COMPOUNDING. NASA = ACRONYM. cardigan = EPONYM (after the 7th Earl of Cardigan). spork = BLENDING.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-f006",
+      "front": "Why is 'fridge' a clipping rather than an abbreviation?",
+      "back": "A clipping shortens a longer word while keeping its meaning and word class — fridge from refrigerator, like gym, app, exam. An abbreviation/initialism is formed from INITIAL LETTERS said one by one (fyi, FBI, DC). Fridge keeps a chunk of the original word, not its initials.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
     }
   ],
   "questions": [
@@ -12778,9 +13381,1176 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[ANTH 4 Phonology classwork: Farsi [r]/[ɾ]/[r̥] problem]"
+    },
+    {
+      "id": "ch5-ppt-q001",
+      "type": "mc",
+      "text": "How many morphemes are in “walking”?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "5"
+      ],
+      "answer": "2",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q002",
+      "type": "mc",
+      "text": "How many morphemes are in “retypes”?",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "answer": "3",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q003",
+      "type": "mc",
+      "text": "How many free morphemes are in the word “retypes”?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "1",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q004",
+      "type": "mc",
+      "text": "How many bound morphemes are in the word “workers”?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q005",
+      "type": "mc",
+      "text": "Tagalog: bili 'buy' → binili 'bought'. What type of affix is this?",
+      "options": [
+        "Infix",
+        "Prefix",
+        "Suffix",
+        "Circumfix"
+      ],
+      "answer": "Infix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q006",
+      "type": "mc",
+      "text": "German: lieb 'love' → geliebt 'loved'. What type of affix is this?",
+      "options": [
+        "Circumfix",
+        "Prefix",
+        "Suffix",
+        "Infix"
+      ],
+      "answer": "Circumfix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q007",
+      "type": "mc",
+      "text": "Farsi: dana 'wise' → danai 'wisdom'. What type of affix is this?",
+      "options": [
+        "Suffix, derivational",
+        "Suffix, inflectional",
+        "Prefix, derivational",
+        "Prefix, inflectional"
+      ],
+      "answer": "Suffix, derivational",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q008",
+      "type": "mc",
+      "text": "What type of morpheme is the /-z/ in “dogs are cute”?",
+      "options": [
+        "Inflectional",
+        "Derivational",
+        "Not a morpheme",
+        "A free morpheme"
+      ],
+      "answer": "Inflectional",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q009",
+      "type": "mc",
+      "text": "What type of morpheme is the “-ing” in “They are walking”?",
+      "options": [
+        "Inflectional",
+        "Derivational",
+        "Not a morpheme",
+        "A circumfix"
+      ],
+      "answer": "Inflectional",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q010",
+      "type": "mc",
+      "text": "What type of morpheme is the “-ing” in “This is a building”?",
+      "options": [
+        "Derivational",
+        "Inflectional",
+        "Not a morpheme",
+        "An infix"
+      ],
+      "answer": "Derivational",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q011",
+      "type": "mc",
+      "text": "What type of morpheme is the “-er” in “She is a runner”?",
+      "options": [
+        "Derivational",
+        "Inflectional",
+        "Not a morpheme",
+        "A free morpheme"
+      ],
+      "answer": "Derivational",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q012",
+      "type": "mc",
+      "text": "What type of morpheme is the “-er” in “I wrote a letter”?",
+      "options": [
+        "Not a morpheme",
+        "Inflectional",
+        "Derivational",
+        "A bound root"
+      ],
+      "answer": "Not a morpheme",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q013",
+      "type": "mc",
+      "text": "Isthmus Zapotec: zigi 'chin' / kazigi 'chins'. The plural morpheme is:",
+      "options": [
+        "/ka-/, a prefix",
+        "/-gi/, a suffix",
+        "/-zi-/, an infix",
+        "A null morpheme"
+      ],
+      "answer": "/ka-/, a prefix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q014",
+      "type": "mc",
+      "text": "Dolakha Newar /-ku/ in chẽku 'at the house' is best described as:",
+      "options": [
+        "A locative suffix",
+        "A plural prefix",
+        "A past-tense infix",
+        "A derivational circumfix"
+      ],
+      "answer": "A locative suffix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q015",
+      "type": "mc",
+      "text": "Cree /ni-/ in /nitʃi:ma:n/ 'my canoe' is:",
+      "options": [
+        "An inflectional prefix marking first person possessive",
+        "A derivational suffix",
+        "An infix marking plural",
+        "A null morpheme"
+      ],
+      "answer": "An inflectional prefix marking first person possessive",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q016",
+      "type": "mc",
+      "text": "Bontoc /-um-/ in /fumikas/ 'he is becoming strong' is:",
+      "options": [
+        "A derivational infix",
+        "An inflectional prefix",
+        "A circumfix",
+        "A clipping"
+      ],
+      "answer": "A derivational infix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q017",
+      "type": "mc",
+      "text": "Which language type uses mainly free morphemes, with each word consisting of a single morpheme?",
+      "options": [
+        "Isolating (analytic)",
+        "Agglutinating",
+        "Fusional",
+        "Polysynthetic"
+      ],
+      "answer": "Isolating (analytic)",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q018",
+      "type": "mc",
+      "text": "Russian /-yet/ marks both 3rd person and present tense at once. This makes Russian:",
+      "options": [
+        "Fusional",
+        "Agglutinating",
+        "Isolating",
+        "Polysynthetic"
+      ],
+      "answer": "Fusional",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q019",
+      "type": "mc",
+      "text": "Sora 'nenadʒdʒadarsiem' expresses a whole sentence in one word. This language type is:",
+      "options": [
+        "Polysynthetic",
+        "Isolating",
+        "Fusional",
+        "Agglutinating"
+      ],
+      "answer": "Polysynthetic",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q020",
+      "type": "mc",
+      "text": "'Spork' is formed by which word-formation process?",
+      "options": [
+        "Blending",
+        "Compounding",
+        "Acronym",
+        "Back-formation"
+      ],
+      "answer": "Blending",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q021",
+      "type": "mc",
+      "text": "'Whelmed' (from 'underwhelmed') is an example of:",
+      "options": [
+        "Back-formation",
+        "Clipping",
+        "Blending",
+        "Eponym"
+      ],
+      "answer": "Back-formation",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q022",
+      "type": "mc",
+      "text": "'Xerox' and 'scrooge' are examples of:",
+      "options": [
+        "Eponyms",
+        "Acronyms",
+        "Blends",
+        "Loanwords"
+      ],
+      "answer": "Eponyms",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q023",
+      "type": "mc",
+      "text": "Which is an inherent modifier of nouns, taking -er and -est and able to follow 'very'?",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Determiner",
+        "Conjunction"
+      ],
+      "answer": "Adjective",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q024",
+      "type": "mc",
+      "text": "Turkish 'evim de' ('house-my at') shows that Turkish uses:",
+      "options": [
+        "Postpositions",
+        "Prepositions",
+        "Circumfixes",
+        "Determiners"
+      ],
+      "answer": "Postpositions",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q025",
+      "type": "tf",
+      "text": "True or False: Words are the smallest units of meaning in a language.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q026",
+      "type": "tf",
+      "text": "True or False: All roots can be stems, but stems are not always roots.",
+      "answer": "True",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q027",
+      "type": "tf",
+      "text": "True or False: If a prefix and a suffix surround a root, together they form a circumfix.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q028",
+      "type": "tf",
+      "text": "True or False: Inflectional affixes never change the word class of the word they attach to.",
+      "answer": "True",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q029",
+      "type": "tf",
+      "text": "True or False: Derivational affixes always attach productively to any stem of the right category.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q030",
+      "type": "tf",
+      "text": "True or False: Languages are usually pure examples of a single morphological type.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q031",
+      "type": "tf",
+      "text": "True or False: In Chickasaw, 'he/she' is marked by a null morpheme.",
+      "answer": "True",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q032",
+      "type": "tf",
+      "text": "True or False: Korean and Japanese have definite and indefinite articles like English.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q033",
+      "type": "fitb",
+      "text": "The 'mental dictionary' of words and word parts available to speakers is called the ____.",
+      "answer": "lexicon",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q034",
+      "type": "fitb",
+      "text": "A morpheme that must attach to another morpheme is called a ____ morpheme.",
+      "answer": "bound",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q035",
+      "type": "fitb",
+      "text": "An affix inserted inside another morpheme, as in Tagalog b-in-ili, is called an ____.",
+      "answer": "infix",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q036",
+      "type": "fitb",
+      "text": "A morpheme realized by no overt material, as with Chickasaw 'he/she', is called a ____ morpheme.",
+      "answer": "null",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q037",
+      "type": "fitb",
+      "text": "Words such as scuba and NASA, formed from initials and pronounced as words, are ____.",
+      "answer": "acronyms",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q038",
+      "type": "fitb",
+      "text": "Shortening 'telephone' to 'phone' is an example of ____.",
+      "answer": "clipping",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q039",
+      "type": "fitb",
+      "text": "A morpheme taking different forms depending on phonological context exhibits ____.",
+      "answer": "allomorphy",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q040",
+      "type": "match",
+      "text": "Match each affix type to its Ilocano example.",
+      "pairs": [
+        {
+          "left": "Prefix",
+          "right": "taga-amianan 'Northerner'"
+        },
+        {
+          "left": "Suffix",
+          "right": "giling-an 'grinder'"
+        },
+        {
+          "left": "Infix",
+          "right": "k-in-uton 'ant-infested'"
+        },
+        {
+          "left": "Circumfix",
+          "right": "pag-ragsak-en 'make happy'"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q041",
+      "type": "match",
+      "text": "Match each morphological system type to its example language.",
+      "pairs": [
+        {
+          "left": "Isolating",
+          "right": "Mandarin Chinese"
+        },
+        {
+          "left": "Agglutinating",
+          "right": "Hungarian"
+        },
+        {
+          "left": "Fusional",
+          "right": "Russian"
+        },
+        {
+          "left": "Polysynthetic",
+          "right": "Sora"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q042",
+      "type": "match",
+      "text": "Match each word-formation process to its example.",
+      "pairs": [
+        {
+          "left": "Compounding",
+          "right": "binge-watch"
+        },
+        {
+          "left": "Acronym",
+          "right": "scuba"
+        },
+        {
+          "left": "Back-formation",
+          "right": "whelmed"
+        },
+        {
+          "left": "Eponym",
+          "right": "kleenex"
+        },
+        {
+          "left": "Blending",
+          "right": "jeggings"
+        },
+        {
+          "left": "Clipping",
+          "right": "gym"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q043",
+      "type": "match",
+      "text": "Match each language's data to the morpheme it reveals.",
+      "pairs": [
+        {
+          "left": "Isthmus Zapotec ka-zigi",
+          "right": "Plural prefix"
+        },
+        {
+          "left": "Dolakha Newar chẽ-ku",
+          "right": "Locative suffix"
+        },
+        {
+          "left": "Cree ni-tʃi:ma:n",
+          "right": "First person possessive prefix"
+        },
+        {
+          "left": "Bontoc f-um-ikas",
+          "right": "Derivational 'become' infix"
+        },
+        {
+          "left": "Farsi dana-i",
+          "right": "Adjective-to-noun suffix"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q044",
+      "type": "match",
+      "text": "Match each lexical category to a defining structural property.",
+      "pairs": [
+        {
+          "left": "Verb",
+          "right": "Takes -ed and -ing; can follow 'can' or 'will'"
+        },
+        {
+          "left": "Noun",
+          "right": "Shows number and can follow a determiner"
+        },
+        {
+          "left": "Adjective",
+          "right": "Takes -er and -est; can follow 'very'"
+        },
+        {
+          "left": "Adverb",
+          "right": "Modifies verbs, adjectives, or other adverbs"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-q045",
+      "type": "match",
+      "text": "Match each pronoun subcategory to its English examples.",
+      "pairs": [
+        {
+          "left": "Personal",
+          "right": "I, we, you, she, they"
+        },
+        {
+          "left": "Demonstrative",
+          "right": "this, that, these, those"
+        },
+        {
+          "left": "Interrogative",
+          "right": "who, what, which"
+        },
+        {
+          "left": "Relative",
+          "right": "who, that (marking relative clauses)"
+        },
+        {
+          "left": "Indefinite",
+          "right": "someone, anyone, everyone"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ex-q001",
+      "type": "mc",
+      "text": "In the Chickasaw data, what is the root morpheme meaning 'to be tall'?",
+      "options": [
+        "chaaha",
+        "sachaaha",
+        "hoochaaha",
+        "chi-"
+      ],
+      "answer": "chaaha",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q002",
+      "type": "mc",
+      "text": "In Chickasaw, which morpheme marks past tense?",
+      "options": [
+        "-tok",
+        "sa-",
+        "chi-",
+        "hoo-"
+      ],
+      "answer": "-tok",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q003",
+      "type": "mc",
+      "text": "In Chickasaw, 'he/she' is realized by:",
+      "options": [
+        "A null morpheme (no overt prefix)",
+        "The prefix hoo-",
+        "The prefix chi-",
+        "The suffix -tok"
+      ],
+      "answer": "A null morpheme (no overt prefix)",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q004",
+      "type": "mc",
+      "text": "Given the Chickasaw root sipokni 'to be old', how would you say 'He was old'?",
+      "options": [
+        "Sipoknitok",
+        "Chisipokni",
+        "Hoosipokni",
+        "Sasipokni"
+      ],
+      "answer": "Sipoknitok",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q005",
+      "type": "mc",
+      "text": "Given the Chickasaw root sipokni, how would you say 'They are old'?",
+      "options": [
+        "Hoosipokni",
+        "Hoosipoknitok",
+        "Chisipokni",
+        "Sipoknitok"
+      ],
+      "answer": "Hoosipokni",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q006",
+      "type": "fitb",
+      "text": "In Chickasaw, the prefix meaning 'I' is ____.",
+      "answer": "sa-",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q007",
+      "type": "fitb",
+      "text": "In Chickasaw, the prefix meaning 'you' is ____.",
+      "answer": "chi-",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-q008",
+      "type": "match",
+      "text": "Match each Chickasaw morpheme to its meaning.",
+      "pairs": [
+        {
+          "left": "chaaha",
+          "right": "'to be tall'"
+        },
+        {
+          "left": "hopoba",
+          "right": "'to be hungry'"
+        },
+        {
+          "left": "sa-",
+          "right": "'I'"
+        },
+        {
+          "left": "chi-",
+          "right": "'you'"
+        },
+        {
+          "left": "hoo-",
+          "right": "'they'"
+        },
+        {
+          "left": "-tok",
+          "right": "past tense"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-cw-q001",
+      "type": "mc",
+      "text": "In the Finnish data (töllöni, siskoltani), the morphology is:",
+      "options": [
+        "Inflectional, because word class never changes and meanings are predictable",
+        "Derivational, because new lexemes are created",
+        "Both inflectional and derivational",
+        "Neither — these are compounds"
+      ],
+      "answer": "Inflectional, because word class never changes and meanings are predictable",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q002",
+      "type": "mc",
+      "text": "What causes the alternation between Finnish -ltä and -lta?",
+      "options": [
+        "Vowel harmony — suffix vowels agree in backness with the stem",
+        "Grammatical gender of the noun",
+        "Whether the noun is animate or inanimate",
+        "Stress placement in the word"
+      ],
+      "answer": "Vowel harmony — suffix vowels agree in backness with the stem",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q003",
+      "type": "mc",
+      "text": "Finnish 'koira' means 'dog'. How do you say 'from my dog'?",
+      "options": [
+        "koiraltani",
+        "koiraltäni",
+        "koiratäni",
+        "koiranilta"
+      ],
+      "answer": "koiraltani",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q004",
+      "type": "mc",
+      "text": "In siskoltani 'from my sister', how does the word segment?",
+      "options": [
+        "sisko-lta-ni",
+        "sisko-ltani",
+        "siskol-tani",
+        "sisko-lt-ani"
+      ],
+      "answer": "sisko-lta-ni",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q005",
+      "type": "mc",
+      "text": "'Fridge' (from refrigerator) is an example of which word-formation process?",
+      "options": [
+        "Clipping",
+        "Abbreviation",
+        "Acronym",
+        "Back-formation"
+      ],
+      "answer": "Clipping",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q006",
+      "type": "mc",
+      "text": "'Cardigan', from the 7th Earl of Cardigan, is an example of:",
+      "options": [
+        "An eponym",
+        "A blend",
+        "A compound",
+        "A clipping"
+      ],
+      "answer": "An eponym",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q007",
+      "type": "tf",
+      "text": "True or False: In Finnish töllöltäni, 'ltäni' is a single indivisible morpheme.",
+      "answer": "False",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q008",
+      "type": "tf",
+      "text": "True or False: Finnish vowel harmony is a kind of assimilation process.",
+      "answer": "True",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q009",
+      "type": "fitb",
+      "text": "The Finnish process in which suffix vowels agree in backness with the stem vowels is called vowel ____.",
+      "answer": "harmony",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q010",
+      "type": "fitb",
+      "text": "In the Finnish data, the bound morpheme meaning 'my' is ____.",
+      "answer": "-ni",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q011",
+      "type": "match",
+      "text": "Match each word to its formation process.",
+      "pairs": [
+        {
+          "left": "Fridge",
+          "right": "Clipping"
+        },
+        {
+          "left": "Playdate",
+          "right": "Compounding"
+        },
+        {
+          "left": "NASA",
+          "right": "Acronym"
+        },
+        {
+          "left": "Cardigan",
+          "right": "Eponym"
+        },
+        {
+          "left": "Spork",
+          "right": "Blending"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-q012",
+      "type": "match",
+      "text": "Match each Finnish form to its analysis.",
+      "pairs": [
+        {
+          "left": "töllö",
+          "right": "Free root, 'TV'"
+        },
+        {
+          "left": "-ni",
+          "right": "Bound suffix, 'my'"
+        },
+        {
+          "left": "-ltä",
+          "right": "Bound ablative suffix, front-vowel form"
+        },
+        {
+          "left": "-lta",
+          "right": "Bound ablative suffix, back-vowel form"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
     }
   ],
   "notes": [
+    {
+      "id": "ch5-cw-n002",
+      "title": "★ KEY EXAM POINTS - Morphology Classwork & Common Mistakes",
+      "body": "★ CLIPPING vs. ABBREVIATION: clipping shortens a word and keeps a chunk of it (fridge, gym, app, exam). An abbreviation/initialism uses INITIAL LETTERS said one at a time (fyi, FBI, DC). An ACRONYM uses initials but is said as a word (NASA, scuba).\n★ WHEN LISTING MORPHEMES, INCLUDE THE ROOTS. They are morphemes, and they are the FREE ones in the set.\n★ DON'T INVENT MORPHEMES THAT SPAN A BOUNDARY. 'tani' in siskoltani is just -lta + -ni. Segment from the known pieces outward.\n★ VOWEL HARMONY is an ASSIMILATION process: vowels within a word become more similar. In Finnish, suffix vowels agree in BACKNESS with the stem vowels.\n★ Finnish front vowels include ö [ø] and ä [æ]; a [ɑ] is BACK. Front stem → -ltä; back stem → -lta.\n★ The conditioning is PHONOLOGICAL, not semantic — nothing to do with gender, animacy, or object vs. person. Finnish has no grammatical gender at all.\n★ 'From my dog' = KOIRALTANI (koira is a back-vowel stem, so -lta, then -ni).\n★ THE ORDER MATTERS: case suffix first, then possessive — stem + lta/ltä + ni.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-cw-n001",
+      "title": "Morphology Classwork - Word Formation & Finnish Vowel Harmony",
+      "body": "PROBLEM 1 — identify the method of word creation:\n• Fridge → CLIPPING (shortened from 'refrigerator'). ⚠ Not an abbreviation — abbreviations/initialisms are built from initial letters said one by one (fyi, FBI).\n• Playdate → COMPOUNDING (two free morphemes).\n• NASA → ACRONYM (initials pronounced as a word).\n• Cardigan → EPONYM (from James Thomas Brudenell, 7th Earl of Cardigan).\n• Spork → BLENDING (spoon + fork).\n\nPROBLEM 2 — Finnish data:\n   töllö 'TV'            sisko 'sister'\n   töllöni 'my TV'       siskoni 'my sister'\n   töllöltä 'from TV'    siskolta 'from sister'\n   töllöltäni 'from my TV'  siskoltani 'from my sister'\n\n(1) INFLECTIONAL OR DERIVATIONAL?\n• Inflectional — word class never changes and the meanings contributed are predictable and productive.\n\n(2) THE MORPHEMES:\n• töllö 'TV' — FREE root\n• sisko 'sister' — FREE root\n• -ni 'my' (1st person possessive) — BOUND\n• -ltä / -lta 'from' (ablative case) — BOUND\n⚠ 'tani' is NOT a morpheme. siskoltani segments as sisko-lta-ni — two separate suffixes in sequence. Don't let a string that spans a boundary look like a unit.\n⚠ Don't forget the ROOTS. The question asks for the morphemes present, and töllö and sisko are morphemes too — and they're the free ones.\n\n(3) THE CAUSE OF THE ALLOMORPHIC VARIATION:\n• VOWEL HARMONY. Finnish suffix vowels assimilate in BACKNESS to the vowels of the stem.\n• ö = [ø] rounded mid FRONT vowel; ä = [æ] unrounded open FRONT vowel; a = [ɑ] unrounded open BACK vowel.\n• töllö contains FRONT vowels → takes the FRONT suffix -ltä.\n• sisko contains BACK vowels → takes the BACK suffix -lta.\n• The conditioning is purely PHONOLOGICAL — it has nothing to do with animacy, gender, or whether the noun is an object or a person.\n\n(4) 'FROM MY DOG' (koira):\n• koira contains BACK vowels → harmony selects -lta, not -ltä.\n• koira + lta + ni = KOIRALTANI.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology classwork: word-formation and Finnish vowel-harmony problems]"
+    },
+    {
+      "id": "ch5-ex-n002",
+      "title": "Chickasaw Walkthrough - Worked Analysis",
+      "body": "THE STRATEGY: analyze the data in CHUNKS. Take groups of similar forms with similar meanings; find what is shared across all the forms and all the meanings in that chunk; link the leftovers.\n\nCHUNK 1 — the 'tall' group:\nSachaaha 'I am tall' | Chaaha 'He/she is tall' | Chichaaha 'You are tall' | Hoochaaha 'They are tall'\n• chaaha occurs in ALL the forms, and 'be tall' occurs in ALL the meanings → chaaha = 'to be tall'. (answer a1)\n• What REMAINS of the forms (sa-, chi-, hoo-) links to what REMAINS of the meanings → sa- = 'I', chi- = 'you', hoo- = 'they'.\n• ★ Notice: if there is NO prefix on chaaha, the default meaning is 'he/she'. So 'he/she' is realized with NO morpheme — a NULL morpheme, ∅. (answer b4)\n\nCHUNK 2 — the 'hungry' group:\nHopobatok 'He was hungry' | Hoohopobatok 'They were hungry' | Sahopoba 'I am hungry'\n• hopoba appears in all the forms and 'be hungry' in all the meanings → hopoba = 'to be hungry'. (answer a2)\n• We already know hoo- = 'they' and sa- = 'I' from chunk 1.\n• The first two forms carry an extra -tok suffix. What differs in their meanings? The first two are PAST tense, the last is present → -tok = past tense. (answer b1)\n\nCHUNK 3 — confirmation:\nSatikahbi 'I am tired' | Chitikahbitok 'You were tired' | Chichchokwa 'You are cold'\n• sa- appears again with 'I', chi- again with 'you', and -tok again with past tense. Everything checks out.\n• Bonus: this data also gives tikahbi = 'to be tired' and chchokwa = 'to be cold' — the question just doesn't ask.\n\nANSWERS:\na1 chaaha | a2 hopoba\nb1 -tok | b2 sa- | b3 chi- | b4 ∅ (the null morpheme)\nc1 'You are old' = Chisipokni (add chi- 'you')\nc2 'He was old' = Sipoknitok (NO subject prefix, since he/she is null; add -tok for past)\nc3 'They are old' = hoosipokni (add hoo- 'they'; no -tok because it's present)",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ex-n001",
+      "title": "Chickasaw Walkthrough - Data and Questions",
+      "body": "SOURCE: adapted from Fromkin et al., An Introduction to Language, 8th edition. Chickasaw is a Muskogean language spoken in southcentral Oklahoma.\n\nDATA:\nSachaaha 'I am tall.'            Chaaha 'He/she is tall.'\nChichaaha 'You are tall.'        Hoochaaha 'They are tall.'\nSatikahbi 'I am tired.'          Chitikahbitok 'You were tired.'\nChichchokwa 'You are cold.'      Hopobatok 'He was hungry.'\nHoohopobatok 'They were hungry.' Sahopoba 'I am hungry.'\n\nQUESTIONS:\na. What is the root morpheme for (1) 'to be tall' and (2) 'to be hungry'?\nb. What is the morpheme meaning (1) past tense, (2) 'I', (3) 'You', (4) 'He/she'?\nc. If the Chickasaw root for 'to be old' is sipokni, how would you say (1) 'You are old', (2) 'He was old', (3) 'They are old'?",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[ANTH 4 Morphology walkthrough: Chickasaw problem (adapted from Fromkin et al., An Introduction to Language, 8e) - instructor answer key]"
+    },
+    {
+      "id": "ch5-ppt-n009",
+      "title": "★ KEY EXAM POINTS - Morphology Lecture",
+      "body": "★ MORPHOLOGY = how morphemes combine to form words. LEXICON = the mental dictionary.\n★ MORPHEME = smallest unit of meaning; can't be broken down further and still mean something. antidisestablishmentarianism = 7 morphemes.\n★ MORPHEMES HAVE CONSISTENT SOUND AND MEANING (un- = 'not' everywhere; -ity = 'state of being').\n★ COUNT MORPHEMES, NOT SYLLABLES: walking = 2, retypes = 3. In retypes: 1 free + 2 bound. In workers: 1 free + 2 bound.\n★ METHOD OF ANALYSIS: compare similar forms with minimally different meanings; what's shared in form maps to what's shared in meaning; link the leftovers. A single form in isolation cannot be analyzed.\n★ FREE morpheme stands alone; BOUND must attach. ROOT = core of the word; STEM = anything an affix attaches to. All roots can be stems, not all stems are roots.\n★ FOUR AFFIX TYPES with Ilocano examples: PREFIX taga-, SUFFIX -an, INFIX -in-, CIRCUMFIX pag-...-en.\n★ TRAPS: two prefixes ≠ an infix (art-ful-ness); prefix + suffix ≠ a circumfix (un-forget-able). CIRCUMFIXES ARE RARE — when in doubt, say prefix + suffix.\n★ INFLECTION: no new lexeme, never changes word class, productive, predictable. English set: -s plural, -s 3sg, -ed past, -ing progressive.\n★ DERIVATION: creates new lexemes, CAN change word class, meaning not always predictable, productively LIMITED (*un-blue, *re-die, *friend-hood).\n★ THE -ING / -ER TRAP: 'They are walking' = inflectional; 'This is a building' = derivational; 'She is a runner' = derivational; 'I wrote a letter' = NOT a morpheme at all.\n★ GERMAN ge-...-t = CIRCUMFIX and INFLECTIONAL (tense only). TAGALOG -in- = INFIX. FARSI -i = SUFFIX and DERIVATIONAL (adjective → noun). BONTOC -um- = derivational infix. CREE ni- = inflectional prefix.\n★ LEXICAL/CONTENT = open class (N, V, Adj, Adv). GRAMMATICAL/FUNCTIONAL = closed class (Prep, Det, Conj, Pron, Aux).\n★ JABBERWOCKY: you identify categories by PATTERNS (-y → adjective, -s → plural noun) and by CO-OCCURRENCE ('the' signals a noun phrase).\n★ CASE marks noun-verb relationships: nominative, accusative, dative, locative, instrumental.\n★ SIX WORD-FORMATION METHODS: compounding, acronym, back-formation, abbreviation, eponym, blending — plus clipping, neologism, loanwords. KNOW THE DIFFERENCE between acronym (NASA, said as a word), initialism (FBI, spelled out), and clipping (gym).\n★ FOUR SYSTEM TYPES: isolating (Mandarin), agglutinating (Hungarian), fusional (Russian), polysynthetic (Sora). Languages sit on a SPECTRUM, not in boxes.\n★ ALLOMORPHY: one morpheme, different forms by phonological context. in- → [ɪn]/[ɪŋ]/[ɪm]; leaf/leaves.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n008",
+      "title": "Types of Morphological Systems and Allomorphy",
+      "body": "Languages can be classified according to how they put morphemes together. FOUR TYPES:\n\n1. ISOLATING (ANALYTIC) — mainly FREE morphemes; each word consists of a single morpheme.\n   Mandarin Chinese: wo men tan tɕin le ('I plural play piano past') = 'We played the piano'\n2. AGGLUTINATING — bound morphemes attach to other morphemes; boundaries between morphemes are EASY to determine.\n   Hungarian: o haaz-unk feheer ('the house-our white') = 'Our house is white'\n3. FUSIONAL — bound morphemes attach to the stem, but it is DIFFICULT to tell where one morpheme ends and another begins. One morpheme combines multiple aspects of meaning.\n   Russian: tʃita-yet 'he is reading' / tʃita-l 'he was reading'. /-yet/ means BOTH 3rd person AND present tense; /-l/ means BOTH 3rd person AND past tense, simultaneously.\n4. POLYSYNTHETIC — several stem forms and affixes combine into one word, often a whole sentence.\n   Sora (India): nen-adʒ-dʒa-dar-si-em ('I not receive cooked.rice hand you(sg)') = 'I will not receive cooked rice from your hands'\n\n⚠ LANGUAGES ARE RARELY 'PURE' TYPES. A language may be more like one type while also containing elements of another. These classifications are a CONTINUOUS SPECTRUM, not boxes.\n\nALLOMORPHY: a morpheme can take different FORMS depending on phonological context.\n• AFFIX example — the English prefix in- is usually pronounced [ɪn], but [ɪŋ] in <incomplete> and [ɪm] in <imperfect>.\n• ROOT example — roots can have allomorphs too: leaf [lif] vs. leaves [livz].\n\nHUNGARIAN PRACTICE — identify all the morphemes:\n• [hɔz] 'house' | [ɛjhɔz] 'a house' | [hɔzɔ] 'his/her house'\n• [boɾ] 'wine' | [ɛjboɾ] 'a wine' | [boɾɔ] 'his/her wine'\n→ /hɔz/ 'house'; /boɾ/ 'wine'; /ɛj-/ 'a' (indefinite article); /-ɔ/ 'his/her' (3rd person possessive)",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n007",
+      "title": "Word Formation: Six Major Ways (plus two more)",
+      "body": "Words can be added to the lexicon all the time. SIX MAJOR WAYS to form new words from old:\n\n1. COMPOUNDING — a combination of FREE morphemes:\n   hotdog, speed-date, binge-watch, buzzword, hotspot, cyberbully, meet-cute\n2. ACRONYMS — derived from the initials of words, pronounced as a word:\n   scuba, fomo, NASA\n3. ABBREVIATIONS or INITIALISMS — said letter by letter:\n   lol, fyi, diy, IRS, CIA, FBI, DC\n4. BACK-FORMATION — created by removing what is MISTAKENLY considered to be an affix:\n   cran-apple, whelmed (< 'underwhelmed'), tamale (< tamales, Sp. tamal)\n5. EPONYMS — created from proper nouns (names):\n   achilles, freudian, scrooge, xerox, kleenex\n6. BLENDING — combining PARTS of words into one:\n   smog, blog, podcast, brexit, mocktail, affluenza, bashtag, cronut, dramedy, chillax, jeggings\n\nALSO COVERED:\n• CLIPPINGS — shortening longer words: phone (< telephone), gym, fax, ad, exam, totes, mos def, app, obvs\n• NEOLOGISM — creating a completely novel word: zany and grovel (Shakespeare), scrumptdittilyumptious (Roald Dahl), boo, fleek, poggers\n• LOANWORDS from other languages: pizza, blitz, czar, bagel, taco\n\n⚠ EASY CONFUSION: an ACRONYM is pronounced as a word (NASA, scuba); an INITIALISM is spelled out (FBI, fyi); a CLIPPING keeps part of one word (gym, app); a BACK-FORMATION strips off a wrongly-perceived affix (whelmed).",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n006",
+      "title": "Grammatical vs. Lexical Morphemes, Open/Closed Class, and Lexical Categories",
+      "body": "LEXICAL (CONTENT) morphemes have a core meaning:\n• 'Bill watches all his favorite shows on Mondays' — Bill, watch, favorite, shows, Mondays\n\nGRAMMATICAL (FUNCTIONAL) morphemes serve a function in the utterance:\n• 'John is going to the store for the third time' — is, to, the, for\n\nOPEN CLASS (lexical morphemes): words can be added all the time.\n• 'I googled the totally hip ipod on my computer' — googled, totally, hip, ipod, computer\n\nCLOSED CLASS (grammatical morphemes): rarely gain or change members.\n• 'I googled the totally hip ipod on my computer' — I, the, on, my\n\nLEXICAL CATEGORIES:\n   LEXICAL (content) / OPEN         GRAMMATICAL (functional) / CLOSED\n   Noun                             Preposition\n   Verb                             Determiner\n   Adjective                        Conjunction\n   Adverb                           Pronoun\n                                    Auxiliary Verb\n\nHOW ARE LEXICAL CATEGORIES IDENTIFIED?\n• By their PATTERNS: cats, books, cups, pens, monkeys — but *olds ('*these books are olds').\n• By which words and categories CO-OCCUR in phrases: a monkey, the pen — but *a tall, *a she.\n\nJABBERWOCKY (Lewis Carroll):\n• \"'Twas brillig, and the slithy toves / Did gyre and gimble in the wabe; / All mimsy were the borogoves, / And the mome raths outgrabe.\"\n• The derivational suffix -y tells us 'slithy' could be an adjective.\n• The inflectional suffix -s tells us 'toves' could be a plural noun.\n• The determiner 'the' tells us there is a noun phrase; with two phrases inside a noun phrase, the first modifies the second.\n\nLEXICAL CATEGORIES ARE NOT UNIVERSAL:\n• Korean and Japanese do not have definite and indefinite articles.\n• Some categories are common (nouns), others less so (definite articles).\n\nSTRUCTURAL CHARACTERISTICS:\n• VERB — 3rd person singular -s; past tense -ed; progressive -ing; can be preceded by can or will. Subcategories: TRANSITIVE (subject + object: John ate five hamburgers), INTRANSITIVE (subject only: John walked), DITRANSITIVE (subject + direct + indirect object: I gave her the gift).\n• NOUN — number distinction (cat/cats, child/children); can be preceded by a determiner.\n• ADJECTIVE — inherent modifiers of nouns; -er and -est endings; can follow very or too.\n• ADVERB — modifies verbs (talk loudly), adjectives (truly splendid), or other adverbs (unbelievably quickly).\n• DETERMINER — occurs before nouns: articles (a book, the book), demonstratives (these books), possessives (my book).\n• ADPOSITIONS — English has PREPOSITIONS (to school, on the table); Turkish has POSTPOSITIONS (evim de = 'house-my at' = 'at my house'). Some languages have both.\n• CONJUNCTIONS — connect words or clauses: you and me; English or French.\n\nPRONOUN SUBCATEGORIES:\n• PERSONAL — 1st (I/we/us), 2nd (you/yours), 3rd (she/he/they/it)\n• DEMONSTRATIVE — point to an entity: this, that, these, those\n• INTERROGATIVE — ask questions: who, what, which\n• RELATIVE — mark relative clauses: 'the boy WHO ate my cake'; 'a joke THAT we had heard'\n• INDEFINITE — non-specific referents: someone, anyone, everyone, somebody",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n005",
+      "title": "Inflection vs. Derivation",
+      "body": "INFLECTION: morphology that does NOT create a new lexeme.\n• Inflectional affixes NEVER change the word class of the word they attach to.\n• They tend to be highly PRODUCTIVE.\n• They tend to contribute PREDICTABLE meanings.\n• They code the relationship between constituents in a phrase and do not change the meaning of the stem:\n   - The dog bites the cat (subject-verb agreement)\n   - Faisal walked to the store (tense, aspect markers)\n   - Mia's hat (possessive relationship)\n\nENGLISH INFLECTIONAL AFFIXES:\n• -s plural — Plums are delicious\n• -s 3rd singular subject present — Sharon changes her car's oil herself\n• -ed past tense — Voters rejected the measure on the ballot\n• -ing progressive — Sarah is riding her bike today\n\nCREE (Algonquian, ~96,000 speakers): /ni-/ is an inflectional prefix signaling first person possessive.\n• /tʃi:ma:n/ 'canoe' → /ni-tʃi:ma:n/ 'my canoe'; /so:niya/ 'money' → /ni-so:niya/; /wiya:ʃ/ 'meat' → /ni-wiya:ʃ/\n\nCASE: inflectional morphology marking grammatical relationships between nouns and verbs.\n• NOMINATIVE (grammatical subjects), ACCUSATIVE (grammatical objects), DATIVE (indirect objects), LOCATIVE, INSTRUMENTAL.\n• Latvian example: Laukā dzīvo tārps 'A worm lives in the field'; Vīrs ēd putnu 'A man is eating the bird'; Putns ēd tārpu 'A bird is eating the worm'; Putnā tagad dzīvo tārps 'The worm now lives in the bird'. Note how putns/putnu/putnā change by case role.\n\nDERIVATION: morphology that CREATES new lexical items.\n• Derivational affixes do NOT necessarily add predictable meaning.\n• They CAN change the word class of a lexical item.\n\nCHANGING CATEGORY:\n• /-er/ verb→noun (write→writer); /-tion/ verb→noun (inform→information); /-ly/ adjective→adverb (quick→quickly)\n• Also: -en adjective→verb (blacken), -able verb→adjective (understandable), -ment verb→noun (management), -less noun→adjective (hopeless), en- noun/adj→verb (enable), -ing verb→noun (smoking)\n\nCHANGING CENTRAL MEANING (same category):\n• happy → un-happy ('not happy'); paint → re-paint ('paint again'); neighbor → neighbor-hood\n• Also: re- 'do again' (reunite), pre- 'before' (prenatal), in-/un- 'not' (intolerable, unassuming), -ish 'sort of' (reddish)\n\nPRODUCTIVELY LIMITED — derivation is selective about stems:\n• un-happy but *un-blue | re-paint but *re-eat, *re-die | neighbor-hood but *friend-hood\n• The * means 'not grammatical' / 'speakers of this language can't say this'.\n\nBONTOC (Austronesian, Philippines, ~41,000 speakers): /-um-/ is a derivational morpheme meaning 'to become'.\n• /fikas/ 'strong' → /f-um-ikas/ 'he is becoming strong'; kilad→kumilad; bato→bumato; fusul→fumusul\n\nFARSI: suffix /-i/ creates nouns from adjectives — DERIVATIONAL because it changes the category of the stem.\n• dana 'wise' → dana-i 'wisdom'; xub→xubi; darošt→darošti; bozorg→bozorgi; širin→širini",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n004",
+      "title": "Classifying Morphemes: Free/Bound, Root/Stem/Affix, Affix Types",
+      "body": "Each morpheme can be classified in multiple ways depending on structure and use: bound/free, root vs. stem vs. affix, affix type, derivational/inflectional, grammatical/lexical, open/closed class.\n\nFREE VS. BOUND:\n• FREE morpheme — may occur as an independent word: Fred, book, two, like, not, of, go, run.\n• BOUND morpheme — must be attached to some other morpheme: un-, -able, -s. (scared, houses, badly, unsure)\n\nROOT:\n• The central morpheme to which other morphemes are added; the central part of a complex word. EVERY word has a root at its core.\n\nSTEM:\n• Anything that a morpheme can attach to. ALL ROOTS CAN BE STEMS, BUT STEMS ARE NOT ALWAYS ROOTS.\n• Shared paradigm: true | tru-th | tru-est | tru-ly | tru-th-ful | tru-th-ful-ly | un-true | un-tru-th-ful-ly | un-tru-th-ful-ness\n\nAFFIX:\n• Morphemes that attach to roots and stems and modify their meaning. Bound morphemes are also known as affixes.\n\nFOUR AFFIX TYPES (defined by position relative to the stem):\n• PREFIX — attaches before: un-wise, un-like. Ilocano taga-: amianan 'north' → taga-amianan 'Northerner'; taga-ili 'from town'; taga-amerika 'American'.\n• SUFFIX — attaches after: truth-ful, danc-ing. Ilocano -an: giling 'grind' → giling-an 'grinder'; sagat-an 'strainer'; balkot-an 'wrapper'.\n• INFIX — inserted inside another morpheme: abso-bloody-lutely, alli-freaking-gator. Ilocano -in-: kuton 'ant' → k-in-uton 'ant-infested'; ng-in-ilaw 'fly-infested'; k-in-uto 'lice-infested'.\n• CIRCUMFIX — part of the morpheme on each side: a-fish-in' (some American English varieties). Ilocano pag-...-en: ragsak 'happy' → pag-ragsak-en 'make happy'; pag-leddaang-en 'make sad'; pag-uray-en 'make wait'; pag-awid-en 'make go home'.\n\n⚠ TWO IMPORTANT CAUTIONS:\n• If TWO PREFIXES precede a root, the inner one is NOT an infix — same with suffixes (art-ful-ness).\n• If a prefix AND suffix surround a root, that does NOT make them a circumfix (in-put-s, un-forget-able).\n• Mohawk niahatitakhenóntie' = n-i-a-ha-ti-takhe-n-ontie' contains NO infixes or circumfixes.\n• WHEN IN DOUBT, assume a complex word breaks into a combination of prefixes and suffixes. CIRCUMFIXES ARE RARE.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n003",
+      "title": "Morphological Analysis - Method and Worked Data",
+      "body": "THE METHOD:\n• Compare similar words — one with a particular sequence of sounds and one without it.\n• Hypothesize that the additional sounds add the additional meaning.\n• Look for matches of similar sounds with similar meanings.\n• Analyze in CHUNKS: take groups of similar forms with similar meanings, find what is shared across all forms and all meanings, then link the leftovers.\n\nWHY ISOLATION FAILS:\n• [grapho] 'I write' — alone, there is no way to tell which part means 'I' and which means 'write'.\n• Add [graphe] 'he writes' and the analysis falls out: /graph-/ 'write', /-o/ 'I', /-e/ 'he'.\n\nKARO (Omotic, Ethiopia, ~1,500 speakers):\n• oya'wan 'I left' | omãmnoy 'I saw myself' | owakán 'I am angry' | okət 'I walked'\n\nISTHMUS ZAPOTEC (Oaxaca, Mexico, ~80,000 speakers):\n• zigi 'chin' / ka-zigi 'chins'; diaga 'ear' / ka-diaga 'ears'; zike 'shoulder' / ka-zike 'shoulders'\n• → /ka-/ is the PLURAL morpheme (marker).\n\nDOLAKHA NEWAR (Sino-Tibetan, Nepal, ~5,600 speakers):\n• chẽ 'house' / chẽ-ku 'at the house'; lokhu 'water' / lokhu-ku 'at/in the water'; sara 'horse' / sara-ku 'on the horse'; sĩ 'wood' / sĩ-ku 'on the wood'\n• → /-ku/ is a LOCATIVE morpheme (marks location).\n• NOTE: one morpheme here covers English 'at', 'in', and 'on' — morphemes in one language may correspond to many in another.\n\nILOKANO — full segmentation practice:\n• buneng 'machete'\n• agtagi-buneng-ka 'you carry a machete' | man-agtagi-buneng-ka 'you always carry a machete'\n• agtagi-buneng-ka-nto 'you will carry a machete' | agtagi-buneng-da 'they carry a machete'\n• n-agtagi-buneng-da 'they carried a machete' | n-agtagi-buneng-ak 'I carried a machete'\n• agtagi-buneng-ak-to 'I will carry a machete'\n• → -ka 'you', -da 'they', -ak 'I', n- past, -to future, man- 'always'",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n002",
+      "title": "Morphemes, Words, and Cross-Linguistic Variation",
+      "body": "MORPHOLOGY: the study of how morphemes are combined to form new words.\n• Every language has a large number of words and word parts available — this 'mental dictionary' is the LEXICON.\n\nWHAT IS A WORD?\n• Speaker intuitions provide the best indication of word boundaries.\n• Words can be pronounced alone, but individual morphemes sometimes cannot.\n• Pauses can fall between words, not morphemes.\n• Words are not usually produced morpheme-by-morpheme as speakers talk.\n\nWORDS ARE NOT THE SMALLEST UNITS OF MEANING:\n• antidisestablishmentarianism = anti-dis-establish-ment-ari-an-ism\n\nMORPHEME: a meaningful part of a word; the SMALLEST unit of meaning. It cannot be broken down further and still have meaning.\n• unbelievable: believe + -able ('able to be believed'); un- + believable ('not able to be believed'). Each of believe, -able, un- is a morpheme.\n• the | small-est | dog | sing-s\n\nMORPHEMES HAVE CONSISTENT SOUND AND MEANING:\n• un-happy, un-ethical, un-certain, un-lockable, un-appetizing — all 'not X'\n• san-ity, musical-ity, pervers-ity, legal-ity, divin-ity — all 'state of being X'\n\nCROSS-LINGUISTIC VARIATION — MOHAWK:\n• Teninonhsihsákha = te-ni-nonhs-ihsak-ha ('you.&.I - two - house - seek - go.and') = 'Let's go look for the house.'\n• An Iroquoian language spoken by about 3,500 people in Ontario, Quebec and upstate New York.\n• A single morphologically complex word equates to what English needs a multi-word phrase to say.",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch5-ppt-n001",
+      "title": "Concepts to Know - Morphology (roadmap)",
+      "body": "The lecture listed these as the concepts to master:\n• Lexicon & Morpheme\n• Morphological Analysis\n• Classifying Morphemes\n• Bound/Free morphemes\n• Root vs. stem vs. affix\n• Affix types\n• Derivational/inflectional morphemes\n• Grammatical/Lexical morphemes\n• Open/Closed class\n• Ways of making new words\n• Allomorphs\n\nCOURSE OUTLINE FOR THE UNIT:\nWhat are Morphemes? → Ways to Categorize Morphemes → Lexical Categories → Types of Morphological Systems → Allomorphy → How to Solve Morphology Exercises",
+      "image": null,
+      "module": "wk05",
+      "chapter": 5,
+      "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
     {
       "id": "ch4-fa-n003",
       "title": "★ KEY EXAM POINTS — Farsi Problem & Common Mistakes",
