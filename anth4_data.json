@@ -10,77 +10,143 @@
       "week": 1,
       "title": "Introduction: What Is Language & Linguistics",
       "chapter": 1,
-      "order": 1
+      "order": 1,
+      "name": "Week 1 — Introduction: What Is Language & Linguistics",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 1",
+      "chapters": [
+        1
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk02",
       "week": 2,
       "title": "Language, Power, and Privilege",
       "chapter": 2,
-      "order": 2
+      "order": 2,
+      "name": "Week 2 — Language, Power, and Privilege",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 2",
+      "chapters": [
+        2
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk03",
       "week": 3,
       "title": "Phonetics",
       "chapter": 3,
-      "order": 3
+      "order": 3,
+      "name": "Week 3 — Phonetics",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 3",
+      "chapters": [
+        3
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk04",
       "week": 4,
       "title": "Phonology",
       "chapter": 4,
-      "order": 4
+      "order": 4,
+      "name": "Week 4 — Phonology",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 4",
+      "chapters": [
+        4
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk05",
       "week": 5,
       "title": "Morphology",
       "chapter": 5,
-      "order": 5
+      "order": 5,
+      "name": "Week 5 — Morphology",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 5",
+      "chapters": [
+        5
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk06",
       "week": 6,
       "title": "Syntax",
       "chapter": 6,
-      "order": 6
+      "order": 6,
+      "name": "Week 6 — Syntax",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 6",
+      "chapters": [
+        6
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk07",
       "week": 7,
       "title": "Semantics",
       "chapter": 7,
-      "order": 7
+      "order": 7,
+      "name": "Week 7 — Semantics",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 7",
+      "chapters": [
+        7
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk08",
       "week": 8,
       "title": "Pragmatics",
       "chapter": 8,
-      "order": 8
+      "order": 8,
+      "name": "Week 8 — Pragmatics",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 8",
+      "chapters": [
+        8
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk09",
       "week": 9,
       "title": "Reclaiming Indigenous Languages",
       "chapter": 9,
-      "order": 9
+      "order": 9,
+      "name": "Week 9 — Reclaiming Indigenous Languages",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 9",
+      "chapters": [
+        9
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk10",
       "week": 10,
       "title": "Language Variation and Change",
       "chapter": 10,
-      "order": 10
+      "order": 10,
+      "name": "Week 10 — Language Variation and Change",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 10",
+      "chapters": [
+        10
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk11",
       "week": 11,
       "title": "Historical Linguistics",
       "chapter": 14,
-      "order": 11
+      "order": 11,
+      "name": "Week 11 — Historical Linguistics",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 14",
+      "chapters": [
+        14
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk12",
@@ -89,21 +155,37 @@
       "chapter": null,
       "order": 12,
       "status": "TBD",
-      "note": "Source not in this textbook; Benjamin will upload data later."
+      "note": "Source not in this textbook; Benjamin will upload data later.",
+      "name": "Week 12 — History of English",
+      "desc": "Source TBD — not covered by the Anderson textbook",
+      "chapters": [],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk13",
       "week": 13,
       "title": "Child Language Acquisition",
       "chapter": 11,
-      "order": 13
+      "order": 13,
+      "name": "Week 13 — Child Language Acquisition",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 11",
+      "chapters": [
+        11
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk14",
       "week": 14,
       "title": "Second Language Acquisition",
       "chapter": 12,
-      "order": 14
+      "order": 14,
+      "name": "Week 14 — Second Language Acquisition",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 12",
+      "chapters": [
+        12
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk15",
@@ -112,14 +194,24 @@
       "chapter": null,
       "order": 15,
       "status": "TBD",
-      "note": "Source not designated in this textbook; Benjamin will upload data later."
+      "note": "Source not designated in this textbook; Benjamin will upload data later.",
+      "name": "Week 15 — Bilingualism",
+      "desc": "Source TBD — not covered by the Anderson textbook",
+      "chapters": [],
+      "created": "2026-08-06T23:58:36.648Z"
     },
     {
       "id": "wk16",
       "week": 16,
       "title": "Psycholinguistics",
       "chapter": 13,
-      "order": 16
+      "order": 16,
+      "name": "Week 16 — Psycholinguistics",
+      "desc": "Anderson et al., Essentials of Linguistics, Ch. 13",
+      "chapters": [
+        13
+      ],
+      "created": "2026-08-06T23:58:36.648Z"
     }
   ],
   "glossary": [
@@ -659,7 +751,7 @@
       "term": "bottom-up revitalization",
       "def": "Revitalization from the GRASSROOTS at the community level: starting a daycare in an endangered language, study groups, family language policies.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -1370,7 +1462,7 @@
       "term": "dormant language",
       "def": "A language that no longer has living first-language speakers but can be revived from documentation and community effort — as with Hebrew, Cornish, and Manx.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -1532,7 +1624,7 @@
       "term": "face",
       "def": "A person's public self-image, the concept underlying politeness theory. It has two aspects: NEGATIVE face (not being burdened or inconvenienced) and POSITIVE face (being praised and complimented).",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -1541,7 +1633,7 @@
       "term": "face-threatening act (FTA)",
       "def": "An act that challenges someone's face. A NEGATIVE FTA imposes on another person; a POSITIVE FTA insults them. Politeness strategies exist to mitigate FTAs.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -1730,7 +1822,7 @@
       "term": "Global English",
       "def": "The spread of English across the world, which the lecture stresses is NOT of neutral value or coincidental — it is the direct result of colonization, and it continues to put many Indigenous and minoritized languages at risk.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -2063,7 +2155,7 @@
       "term": "Indian boarding schools",
       "def": "Institutions to which thousands of Indigenous children across North America were sent, roughly 1870–1970, where English was imposed and Indigenous languages suppressed. Andy Windyboy describes his experience in 'Our Spirits Don't Speak English'. The lecture frames this under English as a 'killer language'.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -2117,7 +2209,7 @@
       "term": "Inner Circle English",
       "def": "The countries where English is the primary, native language of most of the population — the US, UK, Canada, Australia, and New Zealand. The lecture ties their English dominance directly to settler colonialism, which brought large numbers of English speakers.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -2225,7 +2317,7 @@
       "term": "Ishi",
       "def": "A man of the Yahi nation of California. No one has spoken the Yahi language since Ishi died in 1916 — the lecture's example of a language lost entirely.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -2252,7 +2344,7 @@
       "term": "J.P. Harrington",
       "def": "Linguist (1884–1961) whose life's work was audio-recording Indigenous languages of North America. In the last year of Ascención Solórzano's life she shared Mutsun with him, and those recordings now enable Indigenous people to reclaim ancestral languages.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -2333,7 +2425,7 @@
       "term": "language documentation",
       "def": "The specialized work of linguists and linguistic anthropologists who go to (often remote) communities to record a language that has not been documented, aiming to preserve it and to add to linguistic knowledge.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -2405,7 +2497,7 @@
       "term": "language revival",
       "def": "Attempts to halt or reverse the decline of a language or to revive a DORMANT one — used interchangeably with language revitalization in the lecture. Participants may be community members, linguists, government parties, and others.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -2711,7 +2803,7 @@
       "term": "Master-Apprentice Language Learning Program",
       "def": "A revitalization model begun through collaboration between several California Native tribes and UC Berkeley linguists. It pairs young learners with older fluent speakers, works outside a classroom, and is adaptable to each community; it has since been used by Indigenous communities worldwide. One version pairs a fluent speaker with a committed learner for over 300 hours across three years, using only the heritage language.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -2846,7 +2938,7 @@
       "term": "Mission era",
       "def": "The period of Spanish missions in California, 1769–1834. Native Americans were brought to the missions, baptized, then forcibly kept there; language loss resulted from population loss and repression of language and culture.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -2945,7 +3037,7 @@
       "term": "Mutsun",
       "def": "An Ohlone/Costanoan language of people missionized at San Juan Bautista. Its last first-language speaker, Ascención Solórzano, died in 1929; most Mutsun people today speak only English, some Spanish and English. It is now being reclaimed from archival documentation.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -3017,7 +3109,7 @@
       "term": "negative face",
       "def": "The desire not to be burdened, imposed on, or inconvenienced.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -3035,7 +3127,7 @@
       "term": "negative politeness",
       "def": "A strategy mitigating a negative FTA by minimizing the imposition — hedging, apologizing for intruding, offering an easy way out. 'Would you mind shutting the window?' rather than 'Shut the window'; 'If it's not too much trouble, could you get me a glass of water, please?'",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -3332,7 +3424,7 @@
       "term": "Patwin",
       "def": "The language of the Yocha Dehe nation. The Patwin people lived along Putah Creek (where UC Davis now stands) until the 1830s, when Mexican soldiers captured them and took them to the Solano mission. Many descendants now live along Cache Creek.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -3611,7 +3703,7 @@
       "term": "politeness",
       "def": "Behavior governed by pragmatic competence and strongly culture-specific: when you can accept a gift, who pays for dinner. What counts as polite in one cultural context can be rude in another.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -3620,7 +3712,7 @@
       "term": "politeness theory",
       "def": "Brown and Levinson's 1970s framework dividing politeness into NEGATIVE and POSITIVE types, both built on the concept of FACE. Politeness seeks to mitigate face-threatening acts.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -3647,7 +3739,7 @@
       "term": "positive face",
       "def": "The desire to be praised, complimented, and approved of.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -3656,7 +3748,7 @@
       "term": "positive politeness",
       "def": "A strategy mitigating a positive FTA by affirming the other person's worth — compliments, praise, expressions of solidarity. 'You're doing so well in this class, you're a brilliant student.'",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -3674,7 +3766,7 @@
       "term": "pragmatic competence",
       "def": "The language- and culture-dependent knowledge of how to use language appropriately: how to greet someone, thank them, say goodbye, give a compliment, flirt. 'How are you?' is an Anglophone greeting that English speakers know does not literally request information — which can cause issues for non-native speakers.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -4115,7 +4207,7 @@
       "term": "semanticization",
       "def": "The process by which a pragmatic inference becomes part of a word's semantic meaning over time. 'Since' used to refer only to time, was used pragmatically to indicate causality, and can now be used like 'because'.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -4160,7 +4252,7 @@
       "term": "Sequoyah",
       "def": "A Cherokee man who, in the early 19th century, created a writing system for Cherokee. It let people read and write the language, leading to extensive documentation and making Cherokee the most published Indigenous language in the US.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -4169,7 +4261,7 @@
       "term": "settler colonialism",
       "def": "The arrival of politically and militarily powerful new inhabitants in an area where they intend to STAY, and where displacing the original inhabitants is essential to their goals — usually farming. Practiced by the British in the eastern United States, Canada, Australia, and New Zealand, and by the United States in California.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -4772,7 +4864,7 @@
       "term": "top-down revitalization",
       "def": "Revitalization that is INSTITUTIONAL, flowing from a government or other institution down to people: language policies, standardization, compulsory education, bilingual education. Often happens simultaneously with bottom-up efforts.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -5186,7 +5278,7 @@
       "term": "white savior narrative",
       "def": "A framing in which outsiders cast themselves as rescuing a community. The lecture lists it among the ethical risks of language documentation, alongside exploitation and power differentials.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -8923,7 +9015,7 @@
       "front": "What is pragmatics, and how does it differ from semantics?",
       "back": "Pragmatics is MEANING IN CONTEXT. Semantics is meaning at the level of structural form; pragmatics relies on sociocultural and interactional contexts.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8932,7 +9024,7 @@
       "front": "Why does pragmatics rely on inference?",
       "back": "Because you must determine the possible meanings and interpret based on context. 'It's 100 degrees outside.' — 'Really?' Is that doubt or surprise? There's no structural cue, so miscommunications can occur.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8941,7 +9033,7 @@
       "front": "Name and define the four Gricean conversational maxims.",
       "back": "QUANTITY — be informative, not too much or too little. QUALITY — be truthful and well-supported. RELEVANCE — be relevant to the situation. MANNER — be concise, clear, and orderly. To understand one another, interlocutors must cooperate and follow these.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8950,7 +9042,7 @@
       "front": "Implicature vs. entailment — what's the difference?",
       "back": "IMPLICATURE: a possible inference the speaker INTENDS the listener to understand — they imply it. ENTAILMENT: a logically NECESSARY inference. 'I just really love waking up so early' ENTAILS that I wake up early, but IMPLIES that I'm being facetious. Pragmatics dictates implicature, not entailment.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8959,7 +9051,7 @@
       "front": "Why would a speaker break a maxim on purpose?",
       "back": "To create an IMPLICATURE. We interpret meaning on the assumption that others are following the maxims, so a deliberate violation signals that something beyond the literal content is intended — sarcasm, humour, evasion.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8968,7 +9060,7 @@
       "front": "Give an example of how semantics can arise from pragmatics.",
       "back": "SEMANTICIZATION. 'Since' originally referred only to time; it was then used pragmatically to indicate causality; now it can be used like 'because'. The pragmatic inference became part of the word's semantic meaning.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8977,7 +9069,7 @@
       "front": "What is pragmatic competence, and why does it matter for non-native speakers?",
       "back": "Language- and culture-dependent knowledge of appropriate use — how to greet, thank, say goodbye, compliment, flirt. 'How are you?' is an Anglophone greeting where the asker doesn't literally want to know, which can trip up non-native speakers.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8986,7 +9078,7 @@
       "front": "Explain Brown and Levinson's politeness theory.",
       "back": "From the 1970s. Two types of politeness, negative and positive, both based on FACE. NEGATIVE FACE = not being burdened or inconvenienced. POSITIVE FACE = being praised or complimented. A FACE-THREATENING ACT challenges face: a NEGATIVE FTA imposes, a POSITIVE FTA insults. Politeness seeks to MITIGATE FTAs.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -8995,7 +9087,7 @@
       "front": "Classify: 'Would you mind shutting the window?' vs. 'Shut the window.'",
       "back": "The first is NEGATIVE POLITENESS — it minimizes the imposition on the hearer's negative face. The second is a bald imperative with no mitigation.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -9004,7 +9096,7 @@
       "front": "Classify: 'You're doing so well in this class, you're a brilliant student.'",
       "back": "POSITIVE POLITENESS — it attends to the hearer's positive face by praising and complimenting.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -9013,7 +9105,7 @@
       "front": "What does the Stacy dinner scenario illustrate?",
       "back": "Politeness norms around paying. Stacy offers to cover the meal, friends protest and offer their share, she insists, they ask if she's sure, she confirms, they put wallets away and thank her. The ritual protest-and-insist sequence is itself the politeness norm — accepting instantly, or continuing to protest past the confirmation, would violate it.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -9022,7 +9114,7 @@
       "front": "Give two cross-cultural examples of differing politeness norms.",
       "back": "ISRAELIS are stereotyped as rude because Israeli politeness rules emphasize DIRECTNESS. In NORTHERN EUROPE, smiling at strangers and talking to strangers on public transit are considered impolite — and to Americans, Northern Europeans can seem rude for not engaging with a friendly stranger.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -9031,7 +9123,7 @@
       "front": "Write a turn that violates the maxim of QUALITY.",
       "back": "Quality requires truthfulness. Example: 'How did you do on that Linguistics assignment?' — 'I did so well that the professor is going to ask me to lecture next week.' The claim is an exaggeration that isn't well-supported.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9040,7 +9132,7 @@
       "front": "Write a turn that violates the maxim of QUANTITY.",
       "back": "Quantity requires the right amount of information. Example: 'What did you do this weekend?' — 'Lots of stuff.' Far too little information for the question asked.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9049,7 +9141,7 @@
       "front": "Write a turn that violates the maxim of RELEVANCE.",
       "back": "Relevance requires staying on topic. Example: 'Did you take the trash out before the truck came this morning?' — a long answer about waste-management providers struggling to meet demand in expanding urban areas. It never addresses the question.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9058,7 +9150,7 @@
       "front": "Write a turn that violates the maxim of MANNER.",
       "back": "Manner requires being concise, clear, and orderly. Example: 'Where are you going out tonight?' — 'To a community gathering where commercial vendors dispense libations to the harmony of synchronized acoustic vibrations.' Obscure and needlessly long for 'a bar with live music'.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9067,7 +9159,7 @@
       "front": "Give a negative FTA and a negative politeness strategy to mitigate it.",
       "back": "NEGATIVE FTA (an imposition): 'Can you read my 20-page linguistics final right now?' MITIGATION: 'I'm sorry to bother you, I know you're swamped with finals of your own. But if you have a few spare minutes over the weekend, do you think you could briefly scan my linguistics final? No worries if you can't — I know this is last minute.' It apologizes, minimizes the imposition, and offers an easy out.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9076,7 +9168,7 @@
       "front": "Give a positive FTA and a positive politeness strategy to mitigate it.",
       "back": "POSITIVE FTA (an insult): 'Your part of the group project was entirely wrong, now the rest of us have to fix your incorrect work.' MITIGATION: 'You did a great job with the formatting and design of your slides. I think we just need a few minor tweaks and it'll align perfectly with the rest of the project. What do you think?' It affirms the person's worth and invites collaboration.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9085,7 +9177,7 @@
       "front": "What three moves make a negative politeness mitigation work?",
       "back": "(1) Acknowledge and apologize for the imposition. (2) Minimize the size of the request — 'a few spare minutes', 'briefly scan'. (3) Offer an easy way out — 'no worries if you can't'. All three reduce the threat to the hearer's negative face.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -9094,7 +9186,7 @@
       "front": "Define settler colonialism.",
       "back": "The arrival of politically and militarily powerful new inhabitants in an area where they intend to STAY, and where displacing the original inhabitants is essential to their goals — usually farming.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9103,7 +9195,7 @@
       "front": "How does the lecture connect English's global spread to settler colonialism?",
       "back": "British settler colonialism in the eastern US, Canada, Australia, and New Zealand — and US settler colonialism in California — brought large numbers of English speakers. Indigenous people lost their land and often their languages, and since contact they have been killed or forced to assimilate. The loss has been particularly severe in California.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9112,7 +9204,7 @@
       "front": "What happened to the Patwin people, and how is the language being reclaimed?",
       "back": "The Patwin lived along Putah Creek until the 1830s, when Mexican soldiers took them to the Solano mission (now Sonoma). Today the Yocha Dehe nation funds reclamation with Cache Creek casino profits: community language classes, a school with a bilingual website, a keyboard-friendly spelling system developed with UC Davis linguists, and road signs with original place names along Highway 16.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9121,7 +9213,7 @@
       "front": "Who was the last speaker of Mutsun, and how was the language preserved?",
       "back": "Ascención Solórzano (1855–1929), the last first-language speaker, bilingual in Spanish. She worked as a traditional healer in Santa Barbara, and in the last year of her life shared her language with linguist J.P. Harrington, whose audio recordings made later reclamation possible.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9130,7 +9222,7 @@
       "front": "How did the Mutsun language (almost) get lost?",
       "back": "The Mutsun were missionized at San Juan Bautista. Cultural and linguistic repression began in the missions and continued with genocide by Anglo-American settlers in the 1800s.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9139,7 +9231,7 @@
       "front": "Summarize the effect of the Spanish missions on Indigenous languages.",
       "back": "Mission era 1769–1834. Language loss in the missions came from POPULATION LOSS and REPRESSION of language and culture. But outside the missions, Indigenous people fought back and contained Spanish to the mission areas by 1845 — a containment that could have become the status quo but for the influx of Anglo-American settlers.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9148,7 +9240,7 @@
       "front": "Why did Gold Rush settlement cause far greater loss than the missions?",
       "back": "Missionaries and Spanish soldiers occupied only lands around the missions. Gold Rush settlers (1848–1855, about 300,000 arriving) occupied much larger areas already inhabited by Indigenous people and saw them as an obstacle to be eliminated. Many were killed, others relocated to reservations, others enslaved on ranches.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9157,7 +9249,7 @@
       "front": "What state policy does the lecture identify as genocidal?",
       "back": "In January 1851, Governor Peter H. Burnett told the state legislature that a war of extermination would continue until the Indian race became extinct. The state then issued a treasury bond to pay bounty hunters and state militias to seek out and kill Indigenous people.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9166,7 +9258,7 @@
       "front": "What population figures does the lecture give for Indigenous Californians?",
       "back": "Approximately 1 million in the late 1700s; about 30,000 by around 1860; fewer than 20,000 by 1900. All known Native Americans were under U.S. government protection by 1870. (Pre-contact estimates vary widely between scholars; use the lecture's figures on the exam.)",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9175,7 +9267,7 @@
       "front": "How are Valentin Lopez and Lajos Szoboszlai connected to Mutsun reclamation?",
       "back": "Valentin Lopez, Mutsun tribal chair, and Lajos Szoboszlai, a former UC Davis linguistics graduate student, collaborated to learn Mutsun together using the 1930 documentation by Ascención Solórzano and J.P. Harrington. Szoboszlai's 2017 dissertation chronicles the collaboration.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9184,7 +9276,7 @@
       "front": "Give the Mutsun phrases from Val Lopez's greeting.",
       "back": "miSmin Tuuhis = good afternoon; eene = and; Tumsanak kannis = thank you; saanaypu = coming / today's gathering; kanraakat = my name is. For 'chairperson' he used a word for leader.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9193,7 +9285,7 @@
       "front": "What does 'English as a killer language' refer to in the lecture?",
       "back": "The boarding school experience: thousands of Indigenous children across North America, from about 1870 to 1970, were sent to schools where English was imposed and their languages suppressed. Andy Windyboy describes his 1960s–70s experience in 'Our Spirits Don't Speak English'.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -9202,7 +9294,7 @@
       "front": "Why does the lecture say the spread of English is not neutral?",
       "back": "Because it is the DIRECT RESULT of colonization, and it continues to put many Indigenous and minoritized languages at risk. Global English is not coincidental.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9211,7 +9303,7 @@
       "front": "Name the reasons languages become extinct.",
       "back": "GRADUAL LOSS — newer generations prefer a language of higher prestige. FORCED cultural/linguistic ASSIMILATION. LINGUICIDE — when all or nearly all speakers die from natural disasters, wars, etc. Many Indigenous languages are now endangered because of colonization.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9220,7 +9312,7 @@
       "front": "Bottom-up vs. top-down revitalization, with examples.",
       "back": "BOTTOM-UP is grassroots, at the community level: daycares in the endangered language, study groups, family language policies. TOP-DOWN is institutional, from government or institutions: language policies, standardization, compulsory education, bilingual education. Both often happen at once.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9229,7 +9321,7 @@
       "front": "Summarize the revival of Hebrew.",
       "back": "Hebrew, a northwest Semitic language (Afroasiatic family, related to Aramaic and Arabic), ceased to be spoken around 200 CE and was used only for liturgical and poetic purposes. Eliezer Ben-Yehuda (1858–1922), a lexicographer, worked to revive it and raised his son Itamar Ben-Avi as the first native Hebrew speaker in modern times. Hebrew is now spoken by many as a first language.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9238,7 +9330,7 @@
       "front": "What resistance did Hebrew revival face?",
       "back": "Strong resistance within the Jewish community, since many saw Hebrew as a language reserved for RELIGIOUS spaces rather than everyday life.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9247,7 +9339,7 @@
       "front": "Give the Celtic language speaker figures from the lecture.",
       "back": "Scottish Gaelic: less than 2% of Scots. Irish: about 40% in Ireland. Welsh: about 30%. Breton: less than 20%. Cornish: about 500 speakers. Manx: about 1,800 speakers.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9256,7 +9348,7 @@
       "front": "Which Celtic languages went extinct and were revived, and which never stopped being spoken?",
       "back": "CORNISH and MANX went extinct and have since been REVIVED. Irish, Scottish Gaelic, Welsh, and Breton have been CONTINUOUSLY spoken. All lost status and speakers due to English imperialism over millennia.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9265,7 +9357,7 @@
       "front": "Why is Cherokee the most published Indigenous language in the US?",
       "back": "Because Sequoyah created a writing system for Cherokee in the early 19th century, letting people read and write it and leading to extensive documentation.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9274,7 +9366,7 @@
       "front": "What happened with Cherokee in 2019?",
       "back": "Tribal governments declared a STATE OF EMERGENCY for the Cherokee language and pledged to redouble revitalization efforts — showing that even a heavily documented language can be endangered.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9283,7 +9375,7 @@
       "front": "How does the Master-Apprentice program work?",
       "back": "It links young people with older fluent speakers, outside a classroom, and is adaptable to each community. It began through a collaboration between California tribes and UC Berkeley linguists, and has spread to Indigenous communities worldwide. One version runs 300+ hours over three years, using only the heritage language.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9292,7 +9384,7 @@
       "front": "What ethical concerns surround language documentation?",
       "back": "Linguists are often OUTSIDERS to the community. They can be EXPLOITATIVE and fail to give back. Research carries inherent POWER DIFFERENTIALS. WHITE SAVIOR narratives arise. The lecture cites Bronisław Malinowski as an example. One counter: people studying their OWN communities.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -9301,7 +9393,7 @@
       "front": "What discussion questions accompany the Manx video?",
       "back": "How could the Manx further spread the use of their heritage language? And do you agree with the last speaker that a heritage language should NOT be compulsory in schools — why or why not?",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     }
@@ -18467,7 +18559,7 @@
       ],
       "answer": "Meaning in context",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18483,7 +18575,7 @@
       ],
       "answer": "Quantity",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18499,7 +18591,7 @@
       ],
       "answer": "Quality",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18515,7 +18607,7 @@
       ],
       "answer": "Manner",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18531,7 +18623,7 @@
       ],
       "answer": "Entailment",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18547,7 +18639,7 @@
       ],
       "answer": "Implicature",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18563,7 +18655,7 @@
       ],
       "answer": "To create an implicature",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18579,7 +18671,7 @@
       ],
       "answer": "Semanticization of a pragmatic inference",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18595,7 +18687,7 @@
       ],
       "answer": "Brown and Levinson",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18611,7 +18703,7 @@
       ],
       "answer": "Not to be burdened or inconvenienced",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18627,7 +18719,7 @@
       ],
       "answer": "To be praised and complimented",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18643,7 +18735,7 @@
       ],
       "answer": "A positive FTA",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18659,7 +18751,7 @@
       ],
       "answer": "A negative FTA",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18675,7 +18767,7 @@
       ],
       "answer": "Negative politeness",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18691,7 +18783,7 @@
       ],
       "answer": "Positive politeness",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18707,7 +18799,7 @@
       ],
       "answer": "Directness",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18717,7 +18809,7 @@
       "text": "True or False: Pragmatics dictates implicature, not entailment.",
       "answer": "True",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18727,7 +18819,7 @@
       "text": "True or False: 'How are you?' in English is typically a genuine request for information about the hearer's wellbeing.",
       "answer": "False",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18737,7 +18829,7 @@
       "text": "True or False: What counts as polite is the same across all cultures.",
       "answer": "False",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18747,7 +18839,7 @@
       "text": "True or False: In Northern Europe, smiling at strangers is generally considered polite and expected.",
       "answer": "False",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18757,7 +18849,7 @@
       "text": "True or False: Politeness strategies function to mitigate face-threatening acts.",
       "answer": "True",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18767,7 +18859,7 @@
       "text": "Inferences a speaker intends the listener to draw, without stating them, are called ____.",
       "answer": "implicatures",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18777,7 +18869,7 @@
       "text": "In politeness theory, the public self-image a person wants to maintain is called ____.",
       "answer": "face",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18787,7 +18879,7 @@
       "text": "An act that challenges someone's public self-image is called a ____ act.",
       "answer": "face-threatening",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18797,7 +18889,7 @@
       "text": "The process by which a pragmatic inference becomes part of a word's semantic meaning is called ____.",
       "answer": "semanticization",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18825,7 +18917,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18853,7 +18945,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -18869,7 +18961,7 @@
       ],
       "answer": "Quantity",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18885,7 +18977,7 @@
       ],
       "answer": "Relevance",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18901,7 +18993,7 @@
       ],
       "answer": "Manner",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18917,7 +19009,7 @@
       ],
       "answer": "Quality",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18933,7 +19025,7 @@
       ],
       "answer": "A negative FTA",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18949,7 +19041,7 @@
       ],
       "answer": "A positive FTA",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18965,7 +19057,7 @@
       ],
       "answer": "Negative politeness",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18981,7 +19073,7 @@
       ],
       "answer": "Positive politeness",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -18991,7 +19083,7 @@
       "text": "True or False: Adding 'no worries if you can't' to a request strengthens the imposition.",
       "answer": "False",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -19001,7 +19093,7 @@
       "text": "Mitigating an imposition by hedging and apologizing is called ____ politeness.",
       "answer": "negative",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -19029,7 +19121,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -19045,7 +19137,7 @@
       ],
       "answer": "Newcomers intending to stay and displace the original inhabitants",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19061,7 +19153,7 @@
       ],
       "answer": "Ishi",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19077,7 +19169,7 @@
       ],
       "answer": "Profits from the Cache Creek casino",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19093,7 +19185,7 @@
       ],
       "answer": "Ascención Solórzano",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19109,7 +19201,7 @@
       ],
       "answer": "J.P. Harrington",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19125,7 +19217,7 @@
       ],
       "answer": "1769–1834",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19141,7 +19233,7 @@
       ],
       "answer": "Settlers occupied far larger areas and sought to eliminate Indigenous people",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19157,7 +19249,7 @@
       ],
       "answer": "About 300,000",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19173,7 +19265,7 @@
       ],
       "answer": "Fewer than 20,000",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19183,7 +19275,7 @@
       "text": "True or False: Outside the missions, Indigenous Californians had contained Spanish to the mission areas by 1845.",
       "answer": "True",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19193,7 +19285,7 @@
       "text": "True or False: The state of California issued a treasury bond used to pay bounty hunters and militias to kill Indigenous people.",
       "answer": "True",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19203,7 +19295,7 @@
       "text": "True or False: Indian boarding schools operated for only a few years in the 1960s.",
       "answer": "False",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19213,7 +19305,7 @@
       "text": "The Mutsun were missionized at the mission of San Juan ____.",
       "answer": "Bautista",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19223,7 +19315,7 @@
       "text": "The arrival of powerful newcomers who intend to stay and displace the original inhabitants is called ____ colonialism.",
       "answer": "settler",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19255,7 +19347,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19283,7 +19375,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19299,7 +19391,7 @@
       ],
       "answer": "The direct result of colonization",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19315,7 +19407,7 @@
       ],
       "answer": "Linguicide",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19331,7 +19423,7 @@
       ],
       "answer": "Bottom-up revitalization",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19347,7 +19439,7 @@
       ],
       "answer": "Top-down revitalization",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19363,7 +19455,7 @@
       ],
       "answer": "200 CE",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19379,7 +19471,7 @@
       ],
       "answer": "Eliezer Ben-Yehuda",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19395,7 +19487,7 @@
       ],
       "answer": "Cornish and Manx",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19411,7 +19503,7 @@
       ],
       "answer": "About 40%",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19427,7 +19519,7 @@
       ],
       "answer": "Sequoyah created a writing system for it",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19443,7 +19535,7 @@
       ],
       "answer": "UC Berkeley",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19459,7 +19551,7 @@
       ],
       "answer": "Documentation always benefits the community equally",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19469,7 +19561,7 @@
       "text": "True or False: Bottom-up and top-down revitalization often happen simultaneously.",
       "answer": "True",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19479,7 +19571,7 @@
       "text": "True or False: Hebrew's revival met no resistance within the Jewish community.",
       "answer": "False",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19489,7 +19581,7 @@
       "text": "True or False: In 2019, Cherokee tribal governments declared a state of emergency for the language.",
       "answer": "True",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19499,7 +19591,7 @@
       "text": "True or False: One proposed counter to exploitative documentation is for people to study their own communities.",
       "answer": "True",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19509,7 +19601,7 @@
       "text": "A language with no living first-language speakers that can still be revived is called ____.",
       "answer": "dormant",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19519,7 +19611,7 @@
       "text": "The Cherokee man who created a writing system for Cherokee in the early 19th century was ____.",
       "answer": "Sequoyah",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19555,7 +19647,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19579,7 +19671,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19607,7 +19699,7 @@
       ],
       "answer": null,
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     }
@@ -19618,7 +19710,7 @@
       "title": "★ KEY EXAM POINTS — Language Loss, Reclamation & Revitalization",
       "body": "★ SETTLER COLONIALISM = powerful newcomers who intend to STAY and must DISPLACE the original inhabitants (usually for farming). This is what spread Inner Circle English.\n★ GLOBAL ENGLISH IS NOT NEUTRAL — it is the direct result of colonization and still endangers Indigenous and minoritized languages.\n★ THREE CAUSES OF LANGUAGE DEATH: GRADUAL LOSS (prestige), FORCED ASSIMILATION, LINGUICIDE (speakers die).\n★ CALIFORNIA TIMELINE: Mission era 1769–1834 → Spanish contained to missions by 1845 → gold found 1848 → Gold Rush 1848–1855 (~300,000 settlers) → Burnett's extermination address January 1851 → fewer than 20,000 Native Americans by 1900.\n★ MISSIONS vs. GOLD RUSH: missions occupied only mission lands; settlers took far larger areas and sought to ELIMINATE Indigenous people. That difference drove the scale of loss.\n★ KNOW THE PEOPLE: ISHI (last Yahi speaker, d. 1916); ASCENCIÓN SOLÓRZANO (last Mutsun first-language speaker, d. 1929); J.P. HARRINGTON (recorded her); VALENTIN LOPEZ + LAJOS SZOBOSZLAI (reclaiming Mutsun); SEQUOYAH (Cherokee writing system); ELIEZER BEN-YEHUDA (Hebrew revival).\n★ PATWIN / YOCHA DEHE: casino-funded classes, a bilingual school website, a keyboard-friendly spelling system, Highway 16 place-name signs.\n★ BOARDING SCHOOLS (~1870–1970) = 'English as a killer language'.\n★ BOTTOM-UP (grassroots: daycares, family policy) vs. TOP-DOWN (institutional: policy, standardization, compulsory education). Often both at once.\n★ HEBREW: stopped being spoken ~200 CE, liturgical only, revived by Ben-Yehuda, whose son Itamar Ben-Avi was the first modern native speaker. Faced religious resistance.\n★ CELTIC: Cornish and Manx went EXTINCT and were REVIVED; Irish, Scottish Gaelic, Welsh, and Breton were CONTINUOUSLY spoken. Know the percentages.\n★ CHEROKEE: most published Indigenous language in the US thanks to Sequoyah — yet still declared a language emergency in 2019. Documentation alone doesn't guarantee survival.\n★ MASTER-APPRENTICE: CA tribes + UC Berkeley; young learners paired with older speakers; outside the classroom; adopted worldwide.\n★ DOCUMENTATION ETHICS: outsider status, exploitation, power differentials, white savior narratives (Malinowski). Counter: communities studying themselves.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19627,7 +19719,7 @@
       "title": "Master-Apprentice, Fieldwork, and the Ethics of Documentation",
       "body": "MASTER-APPRENTICE LANGUAGE LEARNING PROGRAM:\n• Started with a collaboration between several Native tribes in California and linguists from UC BERKELEY.\n• Meant to be ADAPTABLE for communities, OUTSIDE of a classroom.\n• LINKS YOUNG PEOPLE WITH OLDER SPEAKERS of a language.\n• Has been used by other Indigenous communities across the world.\n• Video example: the First Peoples' Heritage, Language and Culture Council pairs a fluent First Nations speaker with a committed learner for over 300 hours across three years, speaking only the First Nations language.\n\nFIELDWORK:\n• Some linguists and linguistic anthropologists specialize in LANGUAGE DOCUMENTATION.\n• They go to an often remote community to document a language that has not been documented.\n• Intentions: to PRESERVE the language and to ADD TO LINGUISTIC KNOWLEDGE.\n• J.P. Harrington, discussed in the language loss lecture, documented California Indigenous languages.\n\nETHICAL CONSIDERATIONS OF LANGUAGE DOCUMENTATION:\n• Linguists are often OUTSIDERS to a community.\n• They can be EXPLOITATIVE of the community and not give back.\n• Inherent POWER DIFFERENTIALS in research.\n• WHITE SAVIOR narratives.\n• Example cited: Bronisław Malinowski.\n• ONE COUNTER: people studying their OWN communities.\n\nRESOURCE: CoLang (Institute on Collaborative Language Research).",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19636,7 +19728,7 @@
       "title": "Case Studies: Hebrew, Celtic Languages, and Cherokee",
       "body": "THE CASE OF HEBREW:\n• A northwest Semitic language of the Afroasiatic family (a relative of Aramaic and Arabic).\n• Originally spoken by ancient Israelites and their descendants, but CEASED to be a spoken language around 200 CE.\n• Used only for LITURGICAL and POETIC purposes.\n• ELIEZER BEN-YEHUDA (1858–1922), a lexicographer, worked on reviving Hebrew.\n• He raised his son, ITAMAR BEN-AVI, as the FIRST NATIVE HEBREW SPEAKER in modern times.\n• Met with STRONG RESISTANCE in the Jewish community, as many saw Hebrew as a language reserved for religious spaces.\n\nMODERN HEBREW:\n• Now a revived language spoken by many as a FIRST language, mostly in Israel/Palestine but also in Jewish communities worldwide.\n• The lecture's sign photo is written in Hebrew, Palestinian Arabic, and — notably — English.\n\nONGOING EFFORTS:\n• Hebrew is just one case. Many endangered languages, mostly Indigenous, continue to be revived — many competing with English and other colonial languages.\n\nCELTIC LANGUAGES:\n• Lost status and speakers due to ENGLISH IMPERIALISM over millennia.\n• CONTINUOUSLY SPOKEN: Irish, Scottish Gaelic, Welsh, Breton.\n• WENT EXTINCT, SINCE REVIVED: Cornish and Manx.\n• FIGURES: Scottish Gaelic <2% of Scots | Irish ~40% in Ireland | Welsh ~30% | Breton <20% | Cornish ~500 speakers | Manx ~1,800 speakers.\n• Manx video questions: how could the Manx further spread their heritage language? Should a heritage language be compulsory in schools?\n\nCHEROKEE:\n• Indigenous language of the Cherokee people, from what is now the southeastern US.\n• The MOST PUBLISHED Indigenous language in the US.\n• Because SEQUOYAH, a Cherokee man in the early 19th century, created a writing system for Cherokee — letting people read and write it, which led to extensive documentation.\n• In 2019, tribal governments announced a STATE OF EMERGENCY for the Cherokee language and pledged to redouble revitalization efforts.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19645,7 +19737,7 @@
       "title": "Global English, Language Death, and Methods of Revitalization",
       "body": "GLOBAL ENGLISH:\n• The spread of English across the world is NOT of neutral value or coincidental.\n• It is the DIRECT RESULT OF COLONIZATION.\n• It directly continues to affect and put many Indigenous and minoritized languages at risk.\n\nLANGUAGE LIFE & DEATH — languages become extinct for many reasons:\n• GRADUAL LOSS — newer generations prefer a language of higher prestige.\n• FORCED cultural/linguistic ASSIMILATION.\n• LINGUICIDE — when all or nearly all speakers die because of natural disasters, wars, etc.\n• Many Indigenous languages are now endangered because of colonization.\n\nLANGUAGE REVITALIZATION (or LANGUAGE REVIVAL):\n• Attempts to halt or reverse the decline of a language, or to revive a DORMANT one.\n• Those involved may be community members, linguists, government parties, etc.\n• Some languages have been SUCCESSFULLY revived.\n\nMETHODS OF REVITALIZATION:\n• BOTTOM-UP — from the grassroots at the community level. Ex: starting a daycare in an endangered language, study groups, family language policies.\n• TOP-DOWN — more institutional, from a government or other institution down to people. Language policies, standardization, compulsory education, bilingual education.\n• There are OFTEN BOTH methods happening SIMULTANEOUSLY.",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
@@ -19654,7 +19746,7 @@
       "title": "Reclaiming Mutsun, and the Boarding School Experience",
       "body": "THE MUTSUN LANGUAGE AND PEOPLE:\n• An Ohlone/Costanoan people.\n• The last speaker of Mutsun, ASCENCIÓN SOLÓRZANO, died in 1929. She was also a Spanish speaker.\n• Most Mutsun today speak only English; some speak Spanish and English.\n\nHOW MUTSUN (ALMOST) GOT LOST:\n• The Mutsun were missionized at SAN JUAN BAUTISTA.\n• Cultural and linguistic repression started in the missions and continued with genocide by Anglo-American settlers in the 1800s.\n\nRECLAIMING MUTSUN:\n• ASCENCIÓN SOLÓRZANO (1855–1929) — last first-language speaker, bilingual in Spanish. Spent most of her life in Santa Barbara working as a traditional healer. In the last year of her life she shared her language with linguist J.P. Harrington.\n• J.P. HARRINGTON (1884–1961) — his life's work was audio-recording Indigenous languages of North America. These recordings enable Indigenous people today to RECLAIM their ancestral languages.\n• COLLABORATION: Valentin Lopez, Mutsun tribal chair, and Lajos Szoboszlai, a former UCD Linguistics graduate student, collaborated to learn Mutsun together, using documentation compiled by Solórzano and Harrington in 1930.\n• Szoboszlai's 2017 dissertation chronicles the process.\n• Val's greeting: miSmin Tuuhis 'good afternoon' | eene 'and' | Tumsanak kannis 'thank you' | saanaypu 'coming / today's gathering' | kanraakat 'my name is'. For 'chairperson' he used a word for leader.\n• Video: Val Lopez leads his nieces Adelina and Aleya Lopez in singing a women's gathering song in the language of the Amah Mutsun Tribal Band, for Native American Heritage Month at Cleveland Elementary in Oakland.\n\nENGLISH AS A KILLER LANGUAGE — THE BOARDING SCHOOL EXPERIENCE:\n• Andy Windyboy, in 'Our Spirits Don't Speak English', describes his experience of language loss in a boarding school in the 1960s and 1970s.\n• This happened to THOUSANDS of children across North America from about 1870 to 1970.\n\nLANGUAGE LOSS IN THE BRITISH ISLES:\n• British colonization started by subjugating Celtic populations — Irish, Scottish, and others. (The source deck ends partway through this slide; see the Revitalization lecture for the Celtic language figures.)",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19663,7 +19755,7 @@
       "title": "Missions, the Gold Rush, and Genocidal Policy",
       "body": "SPANISH IN THE CALIFORNIA MISSIONS:\n• MISSION ERA: 1769–1834.\n• Stated goal: to save the 'lost souls' of the people of California; teach the Catholic faith, farming, etc.\n• Native Americans were brought to the missions, baptized, then FORCIBLY KEPT there.\n\nSUMMARY OF SPANISH INCURSION:\n• Language loss in the missions came from POPULATION LOSS and REPRESSION of language and culture.\n• Outside the missions, Indigenous people FOUGHT against the Spanish and CONTAINED Spanish to the mission areas by 1845.\n• That containment could have become the status quo — but for the influx of new settlers, mostly Anglo-Americans from the East.\n\nTHE GOLD RUSH & ENGLISH:\n• Gold discovered in California in 1848. By then Mexican and Anglo ranchers and agriculturalists had already increased in number.\n• Hundreds of settlers became THOUSANDS during the Gold Rush, 1848–1855 — explorers, miners, and farmers. About 300,000 new settlers.\n\nMISSION vs. GOLD RUSH SETTLER EFFECTS:\n• Missionaries and Spanish soldiers occupied ONLY lands around the missions.\n• Settlers occupied MUCH LARGER areas already inhabited by Indigenous people, and saw them as an obstacle to be ELIMINATED.\n• Many were killed, others relocated to reservations, others enslaved to work on ranches.\n\nGENOCIDAL POLICIES:\n• January 1851: California Governor Peter H. Burnett, addressing the state legislature, said a war of extermination would continue between the two races until the Indian race became extinct.\n• The state then issued a TREASURY BOND to pay for the extermination — used to pay bounty hunters and state militias to seek out and kill Indigenous people.\n\nPOPULATION, PER THE LECTURE:\n• ~1 million in the late 1700s → ~30,000 by around 1860 → fewer than 20,000 by 1900.\n• All known Native Americans were under U.S. government protection by 1870.\n(Note: pre-contact population estimates vary widely among scholars. Use the lecture's figures for the exam.)",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19672,7 +19764,7 @@
       "title": "Settler Colonialism and Language Loss in California",
       "body": "⚠ CONTENT NOTE: this lecture covers genocide and forced assimilation of Indigenous Californians.\n\nINNER CIRCLE ENGLISH AND SETTLER COLONIALISM:\n• SETTLER COLONIALISM = the arrival of politically and militarily powerful new inhabitants in an area where they intend to STAY, and where displacing the original inhabitants is essential to their goals (usually farming).\n• Practiced by the British in the eastern US, Canada, Australia, and New Zealand; and by the United States in California. It meant the arrival of LARGE NUMBERS OF ENGLISH SPEAKERS.\n\nINDIGENOUS PEOPLE LOSE THEIR LAND, AND OFTEN THEIR LANGUAGES:\n• Since contact, Indigenous people have been killed or forced to assimilate. They are STILL resisting language and culture loss.\n• This loss has been particularly SEVERE in California.\n• ISHI, a man of the Yahi nation — no one has spoken Yahi since Ishi died in 1916.\n\nWHERE UC DAVIS NOW STANDS:\n• Patwin people lived along Putah Creek until the 1830s.\n• Mexican soldiers captured them and took them to the Solano mission (in what is now Sonoma).\n• The Contemplative Garden in the UCD Arboretum memorializes their names.\n• Today many of their descendants live along Cache Creek.\n\nPATWIN LANGUAGE & PEOPLE TODAY:\n• Patwin is the language of the YOCHA DEHE nation, which funds reclamation with profits from the Cache Creek casino. Efforts include:\n   – Language classes for community members\n   – A school for the children with a bilingual website; UCD linguists helped develop a spelling system easy to type on a regular keyboard\n   – Road signs with original place names along what is now Highway 16",
       "image": null,
-      "module": "wk09",
+      "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
@@ -19681,7 +19773,7 @@
       "title": "Pragmatics Classwork — Maxim Violations and Face-Threatening Acts",
       "body": "PART 3, QUESTION 1 — FOUR TURNS VIOLATING OR FLOUTING EACH GRICEAN MAXIM:\n\nQUALITY (be truthful and well-supported):\n   P1: 'How did you do on that Linguistics assignment?'\n   P2: 'I did so well that the professor is going to ask me to lecture next week.'\n   → An unsupported exaggeration.\n\nQUANTITY (right amount of information):\n   P1: 'What did you do this weekend?'\n   P2: 'Lots of stuff.'\n   → Far too little information.\n\nRELEVANCE (stay on topic):\n   P1: 'Did you take the trash out before the truck came this morning?'\n   P2: 'Local waste management providers are having difficulty meeting the demands of urban areas with high expansion rates, multiplying the amount of trash and stops to collect it.'\n   → Never answers the question.\n\nMANNER (concise, clear, orderly):\n   P1: 'Where are you going out tonight?'\n   P2: 'To a community gathering where commercial vendors dispense libations to the harmony of synchronized acoustic vibrations.'\n   → Obscure and needlessly elaborate for 'a bar with live music'.\n\nPART 3, QUESTION 2 — FACE-THREATENING ACTS AND MITIGATION:\n\nNEGATIVE FTA (an imposition on the hearer's freedom from burden):\n   'Can you read my 20-page linguistics final right now?'\nNEGATIVE POLITENESS MITIGATION:\n   'I'm sorry to bother you, I know you are swamped with finals of your own. But if you have a few spare minutes over the weekend, do you think you could briefly scan my Linguistics final? No worries if you can't, I know this is last minute.'\n   → THREE MOVES: apologize for the imposition; minimize the request ('a few spare minutes', 'briefly scan'); offer an easy out ('no worries if you can't').\n\nPOSITIVE FTA (an insult to the hearer's desire for approval):\n   'Your part of the semantics and pragmatics group project was entirely wrong, now the rest of us have to put in extra time to fix your incorrect work.'\nPOSITIVE POLITENESS MITIGATION:\n   'You did a great job with the formatting and design of your slides. I think we just need to make a few minor tweaks, and it will align perfectly with the rest of the project. What do you think?'\n   → THREE MOVES: affirm genuine worth; reframe the problem as minor and shared; invite collaboration rather than assigning blame.\n\n★ PATTERN TO REMEMBER: match the mitigation to the face being threatened. An IMPOSITION needs NEGATIVE politeness (hedging, apology, easy out). An INSULT needs POSITIVE politeness (praise, solidarity, shared ownership).",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     },
@@ -19690,7 +19782,7 @@
       "title": "★ KEY EXAM POINTS — Pragmatics Lecture",
       "body": "★ PRAGMATICS = MEANING IN CONTEXT. Semantics = meaning on structural form. Pragmatics adds sociocultural and interactional context.\n★ PRAGMATICS RELIES ON INFERENCE — 'Really?' can be doubt or surprise; nothing structural disambiguates it.\n★ THE FOUR GRICEAN MAXIMS — memorize with one-line definitions: QUANTITY (right amount of info), QUALITY (truthful), RELEVANCE (on topic), MANNER (clear and orderly).\n★ COOPERATION is the premise: we interpret on the ASSUMPTION others are following the maxims.\n★ IMPLICATURE vs. ENTAILMENT IS THE BIG DISTINCTION. Entailment = logically NECESSARY. Implicature = intended but not necessary. 'I love waking up early' ENTAILS I wake up early; it IMPLIES sarcasm.\n★ PRAGMATICS DICTATES IMPLICATURE, NOT ENTAILMENT.\n★ DELIBERATELY BREAKING A MAXIM CREATES IMPLICATURE — that's how sarcasm and much humour work.\n★ SEMANTICIZATION: a pragmatic inference can become semantic over time — 'since' (time → cause → 'because').\n★ PRAGMATIC COMPETENCE is language- and culture-dependent. 'How are you?' is a greeting, not a question — a classic non-native-speaker trap.\n★ POLITENESS THEORY = BROWN AND LEVINSON, 1970s. Know the names and the decade.\n★ FACE: NEGATIVE face = not being burdened. POSITIVE face = being praised. ⚠ 'Negative' doesn't mean bad — it means freedom FROM imposition.\n★ FTAs: NEGATIVE FTA = imposing. POSITIVE FTA = insulting. Politeness MITIGATES them.\n★ MATCH THE STRATEGY TO THE FACE: hedging and apologizing for imposing = NEGATIVE politeness. Complimenting and affirming = POSITIVE politeness.\n★ POLITENESS IS CULTURE-SPECIFIC: Israeli norms emphasize directness; Northern European norms discourage smiling at or talking to strangers. Neither is 'rude' — the norms simply differ.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -19699,7 +19791,7 @@
       "title": "Pragmatic Competence and Politeness",
       "body": "PRAGMATIC COMPETENCE:\n• Pragmatic knowledge is LANGUAGE- and CULTURE-DEPENDENT.\n• How do you greet someone? Thank them? Say goodbye? Give a compliment? Flirt?\n• 'How are you?' is an Anglophone greeting. Pragmatically, English speakers generally know the asker doesn't actually want to know how they're doing.\n• This could cause issues for non-native speakers.\n\nPOLITENESS:\n• What is considered polite relies on PRAGMATIC COMPETENCE.\n• When can you accept a gift? Who pays for dinner?\n• THE STACY SCENARIO: Stacy and her friends go out to dinner. When the check comes they all pull out their wallets. Stacy says she will cover the meal. Several friends protest, offering to cover their share. She insists, and they ask if she's sure. She says yes, and they put their wallets away and thank her.\n   → Discussion question: how might the friends have reacted COUNTER to pragmatic/politeness norms?\n\nPOLITENESS THEORY — Brown and Levinson, 1970s:\n• TWO TYPES of politeness: NEGATIVE and POSITIVE.\n• Both related to the concept of FACE.\n• NEGATIVE FACE: not being burdened, inconvenienced.\n• POSITIVE FACE: being praised, complimented.\n• FACE-THREATENING ACT (FTA): challenging the face.\n   – NEGATIVE FTA: imposing on another person.\n   – POSITIVE FTA: insulting another person.\n• POLITENESS SEEKS TO MITIGATE FTAs.\n\nIDENTIFY THE POLITENESS TYPE (from the deck):\n• 'Would you mind shutting the window?' vs. 'Shut the window.' → NEGATIVE politeness (minimizes imposition)\n• 'You're doing so well in this class, you're a brilliant student.' → POSITIVE politeness (praise)\n• 'If it's not too much trouble, could you get me a glass of water, please?' → NEGATIVE politeness\n• Saying 'please' and 'thank you' → politeness mitigating imposition\n\nPOLITENESS CROSS-CULTURALLY:\n• What is deemed polite in one cultural context could be RUDE in another.\n• Israelis are stereotyped as rude because Israeli politeness rules emphasize DIRECTNESS.\n• In Northern Europe, smiling at strangers is considered impolite, as is talking to strangers on public transit.\n• To Americans, Northern Europeans could seem rude for not engaging with a friendly stranger.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
@@ -19708,7 +19800,7 @@
       "title": "What Is Pragmatics? Inference and the Gricean Maxims",
       "body": "PRAGMATICS = MEANING IN CONTEXT.\n• SEMANTICS is meaning on a structural form.\n• PRAGMATICS relies on sociocultural and interactional contexts.\n• Opening question from the deck: how can you tell the difference between sarcasm and being genuine?\n\nPRAGMATICS RELIES ON INFERENCES:\n• Determine possible meanings, then interpret based on context.\n• 'It's 100 degrees outside.' Reply: 'Really?'\n• How should 'really' be interpreted — as an expression of doubt, or of surprise?\n• MISCOMMUNICATIONS CAN OCCUR.\n\nGRICEAN CONVERSATIONAL MAXIMS:\nIn order to understand one another, interlocutors must COOPERATE and follow these maxims (rules):\n• QUANTITY — should be informative, not too much or too little information\n• QUALITY — must be truthful and well-supported\n• RELEVANCE — should be relevant to the situation\n• MANNER — should be concise, clear, orderly\n(Exercise: think of turns that would violate each of these.)\n\nIMPLICATURE AND ENTAILMENT:\n• We make interpretations of meaning based on the ASSUMPTION that other speakers are following the maxims.\n• IMPLICATURES are possible inferences that the speaker INTENDS the listener to understand — they imply it.\n• ENTAILMENT: logically NECESSARY inferences.\n• 'I just really love waking up so early in the morning' ENTAILS that I wake up early.\n• 'I just really love waking up so early in the morning' IMPLIES that I'm being facetious.\n• ★ PRAGMATICS DICTATES IMPLICATURE, NOT ENTAILMENTS.\n• People may PURPOSEFULLY BREAK a maxim to create implicature — which can be humorous: 'I don't suffer from insanity. I enjoy every minute of it.'\n\nSEMANTICS VS. PRAGMATICS:\n• Some semantic meaning has come from the SEMANTICIZATION of pragmatic inferences over time.\n• Example: 'since' used to only refer to time, was used pragmatically to indicate causality, and can now be used like 'because'.",
       "image": null,
-      "module": "wk08",
+      "module": "wk07",
       "chapter": 8,
       "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
