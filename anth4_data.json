@@ -1510,6 +1510,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch8-ppt-g004",
+      "term": "face",
+      "def": "A person's public self-image, the concept underlying politeness theory. It has two aspects: NEGATIVE face (not being burdened or inconvenienced) and POSITIVE face (being praised and complimented).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-g007",
+      "term": "face-threatening act (FTA)",
+      "def": "An act that challenges someone's face. A NEGATIVE FTA imposes on another person; a POSITIVE FTA insults them. Politeness strategies exist to mitigate FTAs.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
       "id": "ch4-g015",
       "term": "faithfulness",
       "def": "The default principle that a phoneme is pronounced as its matching default allophone in any environment not covered by a rule ('faithful' to the phoneme).",
@@ -2887,6 +2905,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch8-ppt-g005",
+      "term": "negative face",
+      "def": "The desire not to be burdened, imposed on, or inconvenienced.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
       "id": "ch7-g018",
       "term": "negative polarity item",
       "def": "An expression (e.g., 'any', 'ever', 'lift a finger') that is only licensed in negative or similar downward-entailing environments.",
@@ -2894,6 +2921,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
+    },
+    {
+      "id": "ch8-ppt-g008",
+      "term": "negative politeness",
+      "def": "A strategy mitigating a negative FTA by minimizing the imposition — hedging, apologizing for intruding, offering an easy way out. 'Would you mind shutting the window?' rather than 'Shut the window'; 'If it's not too much trouble, could you get me a glass of water, please?'",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
     {
       "id": "ch12-g006",
@@ -3454,6 +3490,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch8-ppt-g002",
+      "term": "politeness",
+      "def": "Behavior governed by pragmatic competence and strongly culture-specific: when you can accept a gift, who pays for dinner. What counts as polite in one cultural context can be rude in another.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-g003",
+      "term": "politeness theory",
+      "def": "Brown and Levinson's 1970s framework dividing politeness into NEGATIVE and POSITIVE types, both built on the concept of FACE. Politeness seeks to mitigate face-threatening acts.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
       "id": "ch7-ppt-g017",
       "term": "polysemy",
       "def": "A single word having multiple meanings that are distinct but RELATED — typical for most lexemes. rent (payment) ~ to rent (as tenant) ~ to rent (as landlord); eye (body part) ~ eye (verb); wood (from a tree) ~ wood (place of many trees). Often a shift from one semantic frame to another: surf (ocean → Internet), attack (war → problems), foot (body → landscape), head (body → organization).",
@@ -3472,6 +3526,24 @@
       "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch8-ppt-g006",
+      "term": "positive face",
+      "def": "The desire to be praised, complimented, and approved of.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-g009",
+      "term": "positive politeness",
+      "def": "A strategy mitigating a positive FTA by affirming the other person's worth — compliments, praise, expressions of solidarity. 'You're doing so well in this class, you're a brilliant student.'",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
       "id": "ch12-g005",
       "term": "positive transfer",
       "def": "When an existing-language feature matches the target and helps learning (e.g., the new language has a phoneme contrast the learner already has).",
@@ -3479,6 +3551,15 @@
       "module": "wk14",
       "chapter": 12,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
+    },
+    {
+      "id": "ch8-ppt-g001",
+      "term": "pragmatic competence",
+      "def": "The language- and culture-dependent knowledge of how to use language appropriately: how to greet someone, thank them, say goodbye, give a compliment, flirt. 'How are you?' is an Anglophone greeting that English speakers know does not literally request information — which can cause issues for non-native speakers.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
     {
       "id": "ch1-g013",
@@ -3911,6 +3992,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Brotherton, ANTH/HUM 4 Lecture: Language and Power (deck)]"
+    },
+    {
+      "id": "ch8-ppt-g010",
+      "term": "semanticization",
+      "def": "The process by which a pragmatic inference becomes part of a word's semantic meaning over time. 'Since' used to refer only to time, was used pragmatically to indicate causality, and can now be used like 'because'.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
     },
     {
       "id": "ch1-g012",
@@ -8674,6 +8764,177 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch8-ppt-f001",
+      "front": "What is pragmatics, and how does it differ from semantics?",
+      "back": "Pragmatics is MEANING IN CONTEXT. Semantics is meaning at the level of structural form; pragmatics relies on sociocultural and interactional contexts.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f002",
+      "front": "Why does pragmatics rely on inference?",
+      "back": "Because you must determine the possible meanings and interpret based on context. 'It's 100 degrees outside.' — 'Really?' Is that doubt or surprise? There's no structural cue, so miscommunications can occur.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f003",
+      "front": "Name and define the four Gricean conversational maxims.",
+      "back": "QUANTITY — be informative, not too much or too little. QUALITY — be truthful and well-supported. RELEVANCE — be relevant to the situation. MANNER — be concise, clear, and orderly. To understand one another, interlocutors must cooperate and follow these.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f004",
+      "front": "Implicature vs. entailment — what's the difference?",
+      "back": "IMPLICATURE: a possible inference the speaker INTENDS the listener to understand — they imply it. ENTAILMENT: a logically NECESSARY inference. 'I just really love waking up so early' ENTAILS that I wake up early, but IMPLIES that I'm being facetious. Pragmatics dictates implicature, not entailment.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f005",
+      "front": "Why would a speaker break a maxim on purpose?",
+      "back": "To create an IMPLICATURE. We interpret meaning on the assumption that others are following the maxims, so a deliberate violation signals that something beyond the literal content is intended — sarcasm, humour, evasion.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f006",
+      "front": "Give an example of how semantics can arise from pragmatics.",
+      "back": "SEMANTICIZATION. 'Since' originally referred only to time; it was then used pragmatically to indicate causality; now it can be used like 'because'. The pragmatic inference became part of the word's semantic meaning.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f007",
+      "front": "What is pragmatic competence, and why does it matter for non-native speakers?",
+      "back": "Language- and culture-dependent knowledge of appropriate use — how to greet, thank, say goodbye, compliment, flirt. 'How are you?' is an Anglophone greeting where the asker doesn't literally want to know, which can trip up non-native speakers.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f008",
+      "front": "Explain Brown and Levinson's politeness theory.",
+      "back": "From the 1970s. Two types of politeness, negative and positive, both based on FACE. NEGATIVE FACE = not being burdened or inconvenienced. POSITIVE FACE = being praised or complimented. A FACE-THREATENING ACT challenges face: a NEGATIVE FTA imposes, a POSITIVE FTA insults. Politeness seeks to MITIGATE FTAs.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f009",
+      "front": "Classify: 'Would you mind shutting the window?' vs. 'Shut the window.'",
+      "back": "The first is NEGATIVE POLITENESS — it minimizes the imposition on the hearer's negative face. The second is a bald imperative with no mitigation.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f010",
+      "front": "Classify: 'You're doing so well in this class, you're a brilliant student.'",
+      "back": "POSITIVE POLITENESS — it attends to the hearer's positive face by praising and complimenting.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f011",
+      "front": "What does the Stacy dinner scenario illustrate?",
+      "back": "Politeness norms around paying. Stacy offers to cover the meal, friends protest and offer their share, she insists, they ask if she's sure, she confirms, they put wallets away and thank her. The ritual protest-and-insist sequence is itself the politeness norm — accepting instantly, or continuing to protest past the confirmation, would violate it.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-f012",
+      "front": "Give two cross-cultural examples of differing politeness norms.",
+      "back": "ISRAELIS are stereotyped as rude because Israeli politeness rules emphasize DIRECTNESS. In NORTHERN EUROPE, smiling at strangers and talking to strangers on public transit are considered impolite — and to Americans, Northern Europeans can seem rude for not engaging with a friendly stranger.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-cw-f001",
+      "front": "Write a turn that violates the maxim of QUALITY.",
+      "back": "Quality requires truthfulness. Example: 'How did you do on that Linguistics assignment?' — 'I did so well that the professor is going to ask me to lecture next week.' The claim is an exaggeration that isn't well-supported.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-f002",
+      "front": "Write a turn that violates the maxim of QUANTITY.",
+      "back": "Quantity requires the right amount of information. Example: 'What did you do this weekend?' — 'Lots of stuff.' Far too little information for the question asked.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-f003",
+      "front": "Write a turn that violates the maxim of RELEVANCE.",
+      "back": "Relevance requires staying on topic. Example: 'Did you take the trash out before the truck came this morning?' — a long answer about waste-management providers struggling to meet demand in expanding urban areas. It never addresses the question.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-f004",
+      "front": "Write a turn that violates the maxim of MANNER.",
+      "back": "Manner requires being concise, clear, and orderly. Example: 'Where are you going out tonight?' — 'To a community gathering where commercial vendors dispense libations to the harmony of synchronized acoustic vibrations.' Obscure and needlessly long for 'a bar with live music'.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-f005",
+      "front": "Give a negative FTA and a negative politeness strategy to mitigate it.",
+      "back": "NEGATIVE FTA (an imposition): 'Can you read my 20-page linguistics final right now?' MITIGATION: 'I'm sorry to bother you, I know you're swamped with finals of your own. But if you have a few spare minutes over the weekend, do you think you could briefly scan my linguistics final? No worries if you can't — I know this is last minute.' It apologizes, minimizes the imposition, and offers an easy out.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-f006",
+      "front": "Give a positive FTA and a positive politeness strategy to mitigate it.",
+      "back": "POSITIVE FTA (an insult): 'Your part of the group project was entirely wrong, now the rest of us have to fix your incorrect work.' MITIGATION: 'You did a great job with the formatting and design of your slides. I think we just need a few minor tweaks and it'll align perfectly with the rest of the project. What do you think?' It affirms the person's worth and invites collaboration.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-f007",
+      "front": "What three moves make a negative politeness mitigation work?",
+      "back": "(1) Acknowledge and apologize for the imposition. (2) Minimize the size of the request — 'a few spare minutes', 'briefly scan'. (3) Offer an easy way out — 'no worries if you can't'. All three reduce the threat to the hearer's negative face.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     }
   ],
   "questions": [
@@ -17824,9 +18085,623 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch8-ppt-q001",
+      "type": "mc",
+      "text": "Pragmatics is best defined as:",
+      "options": [
+        "Meaning in context",
+        "Meaning at the level of structural form",
+        "The study of sound patterns",
+        "The study of word formation"
+      ],
+      "answer": "Meaning in context",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q002",
+      "type": "mc",
+      "text": "Which Gricean maxim is violated by giving far too little information?",
+      "options": [
+        "Quantity",
+        "Quality",
+        "Relevance",
+        "Manner"
+      ],
+      "answer": "Quantity",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q003",
+      "type": "mc",
+      "text": "Which Gricean maxim requires that contributions be truthful and well-supported?",
+      "options": [
+        "Quality",
+        "Quantity",
+        "Relevance",
+        "Manner"
+      ],
+      "answer": "Quality",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q004",
+      "type": "mc",
+      "text": "Which Gricean maxim requires being concise, clear, and orderly?",
+      "options": [
+        "Manner",
+        "Quantity",
+        "Quality",
+        "Relevance"
+      ],
+      "answer": "Manner",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q005",
+      "type": "mc",
+      "text": "A logically NECESSARY inference is called a(n):",
+      "options": [
+        "Entailment",
+        "Implicature",
+        "Presupposition",
+        "Maxim"
+      ],
+      "answer": "Entailment",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q006",
+      "type": "mc",
+      "text": "'I just really love waking up so early in the morning' said sarcastically. The sarcasm is a(n):",
+      "options": [
+        "Implicature",
+        "Entailment",
+        "Maxim of quality",
+        "Face-threatening act"
+      ],
+      "answer": "Implicature",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q007",
+      "type": "mc",
+      "text": "Why do speakers deliberately break a conversational maxim?",
+      "options": [
+        "To create an implicature",
+        "To create an entailment",
+        "To avoid politeness",
+        "To change the semantics of a word"
+      ],
+      "answer": "To create an implicature",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q008",
+      "type": "mc",
+      "text": "'Since' shifting from a purely temporal meaning to a causal one like 'because' is an example of:",
+      "options": [
+        "Semanticization of a pragmatic inference",
+        "Entailment",
+        "A face-threatening act",
+        "Maxim flouting"
+      ],
+      "answer": "Semanticization of a pragmatic inference",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q009",
+      "type": "mc",
+      "text": "Who developed politeness theory in the 1970s?",
+      "options": [
+        "Brown and Levinson",
+        "Grice",
+        "Chomsky",
+        "Brown and Gilman"
+      ],
+      "answer": "Brown and Levinson",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q010",
+      "type": "mc",
+      "text": "Negative face refers to the desire:",
+      "options": [
+        "Not to be burdened or inconvenienced",
+        "To be praised and complimented",
+        "To be left out of conversation",
+        "To avoid speaking"
+      ],
+      "answer": "Not to be burdened or inconvenienced",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q011",
+      "type": "mc",
+      "text": "Positive face refers to the desire:",
+      "options": [
+        "To be praised and complimented",
+        "Not to be imposed upon",
+        "To speak indirectly",
+        "To follow the maxim of manner"
+      ],
+      "answer": "To be praised and complimented",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q012",
+      "type": "mc",
+      "text": "Insulting someone is which kind of face-threatening act?",
+      "options": [
+        "A positive FTA",
+        "A negative FTA",
+        "An implicature",
+        "An entailment"
+      ],
+      "answer": "A positive FTA",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q013",
+      "type": "mc",
+      "text": "Asking someone to do a large favour is which kind of face-threatening act?",
+      "options": [
+        "A negative FTA",
+        "A positive FTA",
+        "An entailment",
+        "A maxim of quality violation"
+      ],
+      "answer": "A negative FTA",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q014",
+      "type": "mc",
+      "text": "'If it's not too much trouble, could you get me a glass of water, please?' is an example of:",
+      "options": [
+        "Negative politeness",
+        "Positive politeness",
+        "A positive FTA",
+        "Maxim flouting"
+      ],
+      "answer": "Negative politeness",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q015",
+      "type": "mc",
+      "text": "'You're doing so well in this class, you're a brilliant student' is an example of:",
+      "options": [
+        "Positive politeness",
+        "Negative politeness",
+        "A negative FTA",
+        "An entailment"
+      ],
+      "answer": "Positive politeness",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q016",
+      "type": "mc",
+      "text": "Israeli politeness norms are often misread as rudeness because they emphasize:",
+      "options": [
+        "Directness",
+        "Silence",
+        "Indirectness",
+        "Formality"
+      ],
+      "answer": "Directness",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q017",
+      "type": "tf",
+      "text": "True or False: Pragmatics dictates implicature, not entailment.",
+      "answer": "True",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q018",
+      "type": "tf",
+      "text": "True or False: 'How are you?' in English is typically a genuine request for information about the hearer's wellbeing.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q019",
+      "type": "tf",
+      "text": "True or False: What counts as polite is the same across all cultures.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q020",
+      "type": "tf",
+      "text": "True or False: In Northern Europe, smiling at strangers is generally considered polite and expected.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q021",
+      "type": "tf",
+      "text": "True or False: Politeness strategies function to mitigate face-threatening acts.",
+      "answer": "True",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q022",
+      "type": "fitb",
+      "text": "Inferences a speaker intends the listener to draw, without stating them, are called ____.",
+      "answer": "implicatures",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q023",
+      "type": "fitb",
+      "text": "In politeness theory, the public self-image a person wants to maintain is called ____.",
+      "answer": "face",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q024",
+      "type": "fitb",
+      "text": "An act that challenges someone's public self-image is called a ____ act.",
+      "answer": "face-threatening",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q025",
+      "type": "fitb",
+      "text": "The process by which a pragmatic inference becomes part of a word's semantic meaning is called ____.",
+      "answer": "semanticization",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q026",
+      "type": "match",
+      "text": "Match each Gricean maxim to its requirement.",
+      "pairs": [
+        {
+          "left": "Quantity",
+          "right": "Be informative — not too much or too little"
+        },
+        {
+          "left": "Quality",
+          "right": "Be truthful and well-supported"
+        },
+        {
+          "left": "Relevance",
+          "right": "Be relevant to the situation"
+        },
+        {
+          "left": "Manner",
+          "right": "Be concise, clear, and orderly"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-q027",
+      "type": "match",
+      "text": "Match each politeness concept to its definition.",
+      "pairs": [
+        {
+          "left": "Negative face",
+          "right": "Not being burdened or inconvenienced"
+        },
+        {
+          "left": "Positive face",
+          "right": "Being praised and complimented"
+        },
+        {
+          "left": "Negative FTA",
+          "right": "Imposing on another person"
+        },
+        {
+          "left": "Positive FTA",
+          "right": "Insulting another person"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-cw-q001",
+      "type": "mc",
+      "text": "'What did you do this weekend?' — 'Lots of stuff.' Which maxim is violated?",
+      "options": [
+        "Quantity",
+        "Quality",
+        "Relevance",
+        "Manner"
+      ],
+      "answer": "Quantity",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q002",
+      "type": "mc",
+      "text": "Answering a question about the trash with a lecture on urban waste management violates:",
+      "options": [
+        "Relevance",
+        "Quality",
+        "Quantity",
+        "Manner"
+      ],
+      "answer": "Relevance",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q003",
+      "type": "mc",
+      "text": "Describing a bar as 'a community gathering where commercial vendors dispense libations' violates:",
+      "options": [
+        "Manner",
+        "Quality",
+        "Quantity",
+        "Relevance"
+      ],
+      "answer": "Manner",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q004",
+      "type": "mc",
+      "text": "Claiming an implausible success you can't support violates:",
+      "options": [
+        "Quality",
+        "Quantity",
+        "Relevance",
+        "Manner"
+      ],
+      "answer": "Quality",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q005",
+      "type": "mc",
+      "text": "'Can you read my 20-page final right now?' is which kind of FTA?",
+      "options": [
+        "A negative FTA",
+        "A positive FTA",
+        "Not an FTA",
+        "An entailment"
+      ],
+      "answer": "A negative FTA",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q006",
+      "type": "mc",
+      "text": "Telling a teammate their work was entirely wrong is which kind of FTA?",
+      "options": [
+        "A positive FTA",
+        "A negative FTA",
+        "Not an FTA",
+        "An implicature"
+      ],
+      "answer": "A positive FTA",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q007",
+      "type": "mc",
+      "text": "Opening a request with 'I'm sorry to bother you, I know you're swamped' is:",
+      "options": [
+        "Negative politeness",
+        "Positive politeness",
+        "A positive FTA",
+        "Flouting quantity"
+      ],
+      "answer": "Negative politeness",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q008",
+      "type": "mc",
+      "text": "Leading criticism with 'You did a great job with the formatting' is:",
+      "options": [
+        "Positive politeness",
+        "Negative politeness",
+        "A negative FTA",
+        "Flouting manner"
+      ],
+      "answer": "Positive politeness",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q009",
+      "type": "tf",
+      "text": "True or False: Adding 'no worries if you can't' to a request strengthens the imposition.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q010",
+      "type": "fitb",
+      "text": "Mitigating an imposition by hedging and apologizing is called ____ politeness.",
+      "answer": "negative",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-cw-q011",
+      "type": "match",
+      "text": "Match each conversational turn to the maxim it violates.",
+      "pairs": [
+        {
+          "left": "'Lots of stuff.'",
+          "right": "Quantity"
+        },
+        {
+          "left": "An unsupported boast about lecturing",
+          "right": "Quality"
+        },
+        {
+          "left": "A tangent on urban waste management",
+          "right": "Relevance"
+        },
+        {
+          "left": "'Vendors dispense libations to synchronized acoustic vibrations'",
+          "right": "Manner"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
     }
   ],
   "notes": [
+    {
+      "id": "ch8-cw-n001",
+      "title": "Pragmatics Classwork — Maxim Violations and Face-Threatening Acts",
+      "body": "PART 3, QUESTION 1 — FOUR TURNS VIOLATING OR FLOUTING EACH GRICEAN MAXIM:\n\nQUALITY (be truthful and well-supported):\n   P1: 'How did you do on that Linguistics assignment?'\n   P2: 'I did so well that the professor is going to ask me to lecture next week.'\n   → An unsupported exaggeration.\n\nQUANTITY (right amount of information):\n   P1: 'What did you do this weekend?'\n   P2: 'Lots of stuff.'\n   → Far too little information.\n\nRELEVANCE (stay on topic):\n   P1: 'Did you take the trash out before the truck came this morning?'\n   P2: 'Local waste management providers are having difficulty meeting the demands of urban areas with high expansion rates, multiplying the amount of trash and stops to collect it.'\n   → Never answers the question.\n\nMANNER (concise, clear, orderly):\n   P1: 'Where are you going out tonight?'\n   P2: 'To a community gathering where commercial vendors dispense libations to the harmony of synchronized acoustic vibrations.'\n   → Obscure and needlessly elaborate for 'a bar with live music'.\n\nPART 3, QUESTION 2 — FACE-THREATENING ACTS AND MITIGATION:\n\nNEGATIVE FTA (an imposition on the hearer's freedom from burden):\n   'Can you read my 20-page linguistics final right now?'\nNEGATIVE POLITENESS MITIGATION:\n   'I'm sorry to bother you, I know you are swamped with finals of your own. But if you have a few spare minutes over the weekend, do you think you could briefly scan my Linguistics final? No worries if you can't, I know this is last minute.'\n   → THREE MOVES: apologize for the imposition; minimize the request ('a few spare minutes', 'briefly scan'); offer an easy out ('no worries if you can't').\n\nPOSITIVE FTA (an insult to the hearer's desire for approval):\n   'Your part of the semantics and pragmatics group project was entirely wrong, now the rest of us have to put in extra time to fix your incorrect work.'\nPOSITIVE POLITENESS MITIGATION:\n   'You did a great job with the formatting and design of your slides. I think we just need to make a few minor tweaks, and it will align perfectly with the rest of the project. What do you think?'\n   → THREE MOVES: affirm genuine worth; reframe the problem as minor and shared; invite collaboration rather than assigning blame.\n\n★ PATTERN TO REMEMBER: match the mitigation to the face being threatened. An IMPOSITION needs NEGATIVE politeness (hedging, apology, easy out). An INSULT needs POSITIVE politeness (praise, solidarity, shared ownership).",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch8-ppt-n003",
+      "title": "★ KEY EXAM POINTS — Pragmatics Lecture",
+      "body": "★ PRAGMATICS = MEANING IN CONTEXT. Semantics = meaning on structural form. Pragmatics adds sociocultural and interactional context.\n★ PRAGMATICS RELIES ON INFERENCE — 'Really?' can be doubt or surprise; nothing structural disambiguates it.\n★ THE FOUR GRICEAN MAXIMS — memorize with one-line definitions: QUANTITY (right amount of info), QUALITY (truthful), RELEVANCE (on topic), MANNER (clear and orderly).\n★ COOPERATION is the premise: we interpret on the ASSUMPTION others are following the maxims.\n★ IMPLICATURE vs. ENTAILMENT IS THE BIG DISTINCTION. Entailment = logically NECESSARY. Implicature = intended but not necessary. 'I love waking up early' ENTAILS I wake up early; it IMPLIES sarcasm.\n★ PRAGMATICS DICTATES IMPLICATURE, NOT ENTAILMENT.\n★ DELIBERATELY BREAKING A MAXIM CREATES IMPLICATURE — that's how sarcasm and much humour work.\n★ SEMANTICIZATION: a pragmatic inference can become semantic over time — 'since' (time → cause → 'because').\n★ PRAGMATIC COMPETENCE is language- and culture-dependent. 'How are you?' is a greeting, not a question — a classic non-native-speaker trap.\n★ POLITENESS THEORY = BROWN AND LEVINSON, 1970s. Know the names and the decade.\n★ FACE: NEGATIVE face = not being burdened. POSITIVE face = being praised. ⚠ 'Negative' doesn't mean bad — it means freedom FROM imposition.\n★ FTAs: NEGATIVE FTA = imposing. POSITIVE FTA = insulting. Politeness MITIGATES them.\n★ MATCH THE STRATEGY TO THE FACE: hedging and apologizing for imposing = NEGATIVE politeness. Complimenting and affirming = POSITIVE politeness.\n★ POLITENESS IS CULTURE-SPECIFIC: Israeli norms emphasize directness; Northern European norms discourage smiling at or talking to strangers. Neither is 'rude' — the norms simply differ.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-n002",
+      "title": "Pragmatic Competence and Politeness",
+      "body": "PRAGMATIC COMPETENCE:\n• Pragmatic knowledge is LANGUAGE- and CULTURE-DEPENDENT.\n• How do you greet someone? Thank them? Say goodbye? Give a compliment? Flirt?\n• 'How are you?' is an Anglophone greeting. Pragmatically, English speakers generally know the asker doesn't actually want to know how they're doing.\n• This could cause issues for non-native speakers.\n\nPOLITENESS:\n• What is considered polite relies on PRAGMATIC COMPETENCE.\n• When can you accept a gift? Who pays for dinner?\n• THE STACY SCENARIO: Stacy and her friends go out to dinner. When the check comes they all pull out their wallets. Stacy says she will cover the meal. Several friends protest, offering to cover their share. She insists, and they ask if she's sure. She says yes, and they put their wallets away and thank her.\n   → Discussion question: how might the friends have reacted COUNTER to pragmatic/politeness norms?\n\nPOLITENESS THEORY — Brown and Levinson, 1970s:\n• TWO TYPES of politeness: NEGATIVE and POSITIVE.\n• Both related to the concept of FACE.\n• NEGATIVE FACE: not being burdened, inconvenienced.\n• POSITIVE FACE: being praised, complimented.\n• FACE-THREATENING ACT (FTA): challenging the face.\n   – NEGATIVE FTA: imposing on another person.\n   – POSITIVE FTA: insulting another person.\n• POLITENESS SEEKS TO MITIGATE FTAs.\n\nIDENTIFY THE POLITENESS TYPE (from the deck):\n• 'Would you mind shutting the window?' vs. 'Shut the window.' → NEGATIVE politeness (minimizes imposition)\n• 'You're doing so well in this class, you're a brilliant student.' → POSITIVE politeness (praise)\n• 'If it's not too much trouble, could you get me a glass of water, please?' → NEGATIVE politeness\n• Saying 'please' and 'thank you' → politeness mitigating imposition\n\nPOLITENESS CROSS-CULTURALLY:\n• What is deemed polite in one cultural context could be RUDE in another.\n• Israelis are stereotyped as rude because Israeli politeness rules emphasize DIRECTNESS.\n• In Northern Europe, smiling at strangers is considered impolite, as is talking to strangers on public transit.\n• To Americans, Northern Europeans could seem rude for not engaging with a friendly stranger.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
+    {
+      "id": "ch8-ppt-n001",
+      "title": "What Is Pragmatics? Inference and the Gricean Maxims",
+      "body": "PRAGMATICS = MEANING IN CONTEXT.\n• SEMANTICS is meaning on a structural form.\n• PRAGMATICS relies on sociocultural and interactional contexts.\n• Opening question from the deck: how can you tell the difference between sarcasm and being genuine?\n\nPRAGMATICS RELIES ON INFERENCES:\n• Determine possible meanings, then interpret based on context.\n• 'It's 100 degrees outside.' Reply: 'Really?'\n• How should 'really' be interpreted — as an expression of doubt, or of surprise?\n• MISCOMMUNICATIONS CAN OCCUR.\n\nGRICEAN CONVERSATIONAL MAXIMS:\nIn order to understand one another, interlocutors must COOPERATE and follow these maxims (rules):\n• QUANTITY — should be informative, not too much or too little information\n• QUALITY — must be truthful and well-supported\n• RELEVANCE — should be relevant to the situation\n• MANNER — should be concise, clear, orderly\n(Exercise: think of turns that would violate each of these.)\n\nIMPLICATURE AND ENTAILMENT:\n• We make interpretations of meaning based on the ASSUMPTION that other speakers are following the maxims.\n• IMPLICATURES are possible inferences that the speaker INTENDS the listener to understand — they imply it.\n• ENTAILMENT: logically NECESSARY inferences.\n• 'I just really love waking up so early in the morning' ENTAILS that I wake up early.\n• 'I just really love waking up so early in the morning' IMPLIES that I'm being facetious.\n• ★ PRAGMATICS DICTATES IMPLICATURE, NOT ENTAILMENTS.\n• People may PURPOSEFULLY BREAK a maxim to create implicature — which can be humorous: 'I don't suffer from insanity. I enjoy every minute of it.'\n\nSEMANTICS VS. PRAGMATICS:\n• Some semantic meaning has come from the SEMANTICIZATION of pragmatic inferences over time.\n• Example: 'since' used to only refer to time, was used pragmatically to indicate causality, and can now be used like 'because'.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 8,
+      "source": "[Brotherton, LIN 1 / ANTH 4 Lecture: Pragmatics]"
+    },
     {
       "id": "ch7-cw-n002",
       "title": "★ KEY EXAM POINTS — Semantics Classwork & Common Mistakes",
