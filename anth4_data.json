@@ -655,6 +655,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
+      "id": "ch9-rv-g004",
+      "term": "bottom-up revitalization",
+      "def": "Revitalization from the GRASSROOTS at the community level: starting a daycare in an endangered language, study groups, family language policies.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
       "id": "ch5-g013",
       "term": "bound morpheme",
       "def": "A morpheme that must occur with other morphemes (all affixes, plus bound roots like -whelmed); shown with a hyphen on its attaching side.",
@@ -1357,6 +1366,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch9-rv-g003",
+      "term": "dormant language",
+      "def": "A language that no longer has living first-language speakers but can be revived from documentation and community effort — as with Hebrew, Cornish, and Manx.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
       "id": "ch2-ppt-g014",
       "term": "double modal",
       "def": "The use of two modal verbs in sequence, e.g. 'might could'. Grammatical in African American English and Southern American English, ungrammatical in California English — a grammatical, not merely lexical, dimension of variation.",
@@ -1708,6 +1726,15 @@
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
     },
     {
+      "id": "ch9-rv-g001",
+      "term": "Global English",
+      "def": "The spread of English across the world, which the lecture stresses is NOT of neutral value or coincidental — it is the direct result of colonization, and it continues to put many Indigenous and minoritized languages at risk.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
       "id": "ch5-g031",
       "term": "gloss",
       "def": "A morpheme-by-morpheme translation line pairing each piece with its meaning/function, using abbreviations (1=first person, PL=plural, etc.).",
@@ -2032,6 +2059,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
+      "id": "ch9-ll-g008",
+      "term": "Indian boarding schools",
+      "def": "Institutions to which thousands of Indigenous children across North America were sent, roughly 1870–1970, where English was imposed and Indigenous languages suppressed. Andy Windyboy describes his experience in 'Our Spirits Don't Speak English'. The lecture frames this under English as a 'killer language'.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
       "id": "ch6-g009",
       "term": "indirect object",
       "def": "In a ditransitive, the (often recipient) argument, frequently marked by 'to'; accusative in English (dative in languages with dative case).",
@@ -2075,6 +2111,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch9-ll-g002",
+      "term": "Inner Circle English",
+      "def": "The countries where English is the primary, native language of most of the population — the US, UK, Canada, Australia, and New Zealand. The lecture ties their English dominance directly to settler colonialism, which brought large numbers of English speakers.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
     {
       "id": "ch7-ppt-g027",
@@ -2176,6 +2221,15 @@
       "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch9-ll-g003",
+      "term": "Ishi",
+      "def": "A man of the Yahi nation of California. No one has spoken the Yahi language since Ishi died in 1916 — the lecture's example of a language lost entirely.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
       "id": "ch5-g017",
       "term": "isolating (analytic) language",
       "def": "A language where words tend to be morphologically simple, expressing grammar via separate function words (e.g., Mandarin, Cantonese; English is fairly analytic).",
@@ -2192,6 +2246,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch9-ll-g007",
+      "term": "J.P. Harrington",
+      "def": "Linguist (1884–1961) whose life's work was audio-recording Indigenous languages of North America. In the last year of Ascención Solórzano's life she shared Mutsun with him, and those recordings now enable Indigenous people to reclaim ancestral languages.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
     {
       "id": "ch9-g007",
@@ -2266,6 +2329,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
+      "id": "ch9-rv-g007",
+      "term": "language documentation",
+      "def": "The specialized work of linguists and linguistic anthropologists who go to (often remote) communities to record a language that has not been documented, aiming to preserve it and to add to linguistic knowledge.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
       "id": "ch14-g022",
       "term": "language family",
       "def": "A group of languages descended from a common proto-language (daughter languages of one ancestor).",
@@ -2327,6 +2399,15 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch9-rv-g002",
+      "term": "language revival",
+      "def": "Attempts to halt or reverse the decline of a language or to revive a DORMANT one — used interchangeably with language revitalization in the lecture. Participants may be community members, linguists, government parties, and others.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
     {
       "id": "ch13-g006",
@@ -2626,6 +2707,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 7]"
     },
     {
+      "id": "ch9-rv-g006",
+      "term": "Master-Apprentice Language Learning Program",
+      "def": "A revitalization model begun through collaboration between several California Native tribes and UC Berkeley linguists. It pairs young learners with older fluent speakers, works outside a classroom, and is adaptable to each community; it has since been used by Indigenous communities worldwide. One version pairs a fluent speaker with a committed learner for over 300 hours across three years, using only the heritage language.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
       "id": "ch2-g016",
       "term": "matched-guise study",
       "def": "A technique for revealing hidden attitudes: hold a STIMULUS constant and vary its GUISE; any difference in participant ratings is attributed to the guise, not the stimulus.",
@@ -2752,6 +2842,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch9-ll-g006",
+      "term": "Mission era",
+      "def": "The period of Spanish missions in California, 1769–1834. Native Americans were brought to the missions, baptized, then forcibly kept there; language loss resulted from population loss and repression of language and culture.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
       "id": "ch9-g010",
       "term": "mixed language",
       "def": "A language whose grammar and lexicon draw substantially from two source languages (Michif is a well-known example).",
@@ -2840,6 +2939,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch9-ll-g005",
+      "term": "Mutsun",
+      "def": "An Ohlone/Costanoan language of people missionized at San Juan Bautista. Its last first-language speaker, Ascención Solórzano, died in 1929; most Mutsun people today speak only English, some Spanish and English. It is now being reclaimed from archival documentation.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
     {
       "id": "ch1-g024",
@@ -3218,6 +3326,15 @@
       "module": "wk07",
       "chapter": 7,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch9-ll-g004",
+      "term": "Patwin",
+      "def": "The language of the Yocha Dehe nation. The Patwin people lived along Putah Creek (where UC Davis now stands) until the 1830s, when Mexican soldiers captured them and took them to the Solano mission. Many descendants now live along Cache Creek.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
     },
     {
       "id": "ch2-g023",
@@ -4039,6 +4156,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch9-rv-g008",
+      "term": "Sequoyah",
+      "def": "A Cherokee man who, in the early 19th century, created a writing system for Cherokee. It let people read and write the language, leading to extensive documentation and making Cherokee the most published Indigenous language in the US.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-ll-g001",
+      "term": "settler colonialism",
+      "def": "The arrival of politically and militarily powerful new inhabitants in an area where they intend to STAY, and where displacing the original inhabitants is essential to their goals — usually farming. Practiced by the British in the eastern United States, Canada, Australia, and New Zealand, and by the United States in California.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
       "id": "ch3-g039",
       "term": "sign",
       "def": "The basic independent meaningful unit of a signed language (equivalent to a spoken word); analyzed by parameters rather than phones.",
@@ -4633,6 +4768,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 13]"
     },
     {
+      "id": "ch9-rv-g005",
+      "term": "top-down revitalization",
+      "def": "Revitalization that is INSTITUTIONAL, flowing from a government or other institution down to people: language policies, standardization, compulsory education, bilingual education. Often happens simultaneously with bottom-up efforts.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
       "id": "ch2-g014",
       "term": "toxicity",
       "def": "The especially offensive emotional power of slurs, arising from the power differential and the invocation of historical violence against the targeted group; so strong that even mentioning some slurs can cause harm.",
@@ -5036,6 +5180,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch9-rv-g009",
+      "term": "white savior narrative",
+      "def": "A framing in which outsiders cast themselves as rescuing a community. The lecture lists it among the ethical risks of language documentation, alongside exploitation and power differentials.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     },
     {
       "id": "ch4-ex-g005",
@@ -8935,6 +9088,222 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch9-ll-f001",
+      "front": "Define settler colonialism.",
+      "back": "The arrival of politically and militarily powerful new inhabitants in an area where they intend to STAY, and where displacing the original inhabitants is essential to their goals — usually farming.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f002",
+      "front": "How does the lecture connect English's global spread to settler colonialism?",
+      "back": "British settler colonialism in the eastern US, Canada, Australia, and New Zealand — and US settler colonialism in California — brought large numbers of English speakers. Indigenous people lost their land and often their languages, and since contact they have been killed or forced to assimilate. The loss has been particularly severe in California.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f003",
+      "front": "What happened to the Patwin people, and how is the language being reclaimed?",
+      "back": "The Patwin lived along Putah Creek until the 1830s, when Mexican soldiers took them to the Solano mission (now Sonoma). Today the Yocha Dehe nation funds reclamation with Cache Creek casino profits: community language classes, a school with a bilingual website, a keyboard-friendly spelling system developed with UC Davis linguists, and road signs with original place names along Highway 16.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f004",
+      "front": "Who was the last speaker of Mutsun, and how was the language preserved?",
+      "back": "Ascención Solórzano (1855–1929), the last first-language speaker, bilingual in Spanish. She worked as a traditional healer in Santa Barbara, and in the last year of her life shared her language with linguist J.P. Harrington, whose audio recordings made later reclamation possible.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f005",
+      "front": "How did the Mutsun language (almost) get lost?",
+      "back": "The Mutsun were missionized at San Juan Bautista. Cultural and linguistic repression began in the missions and continued with genocide by Anglo-American settlers in the 1800s.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f006",
+      "front": "Summarize the effect of the Spanish missions on Indigenous languages.",
+      "back": "Mission era 1769–1834. Language loss in the missions came from POPULATION LOSS and REPRESSION of language and culture. But outside the missions, Indigenous people fought back and contained Spanish to the mission areas by 1845 — a containment that could have become the status quo but for the influx of Anglo-American settlers.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f007",
+      "front": "Why did Gold Rush settlement cause far greater loss than the missions?",
+      "back": "Missionaries and Spanish soldiers occupied only lands around the missions. Gold Rush settlers (1848–1855, about 300,000 arriving) occupied much larger areas already inhabited by Indigenous people and saw them as an obstacle to be eliminated. Many were killed, others relocated to reservations, others enslaved on ranches.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f008",
+      "front": "What state policy does the lecture identify as genocidal?",
+      "back": "In January 1851, Governor Peter H. Burnett told the state legislature that a war of extermination would continue until the Indian race became extinct. The state then issued a treasury bond to pay bounty hunters and state militias to seek out and kill Indigenous people.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f009",
+      "front": "What population figures does the lecture give for Indigenous Californians?",
+      "back": "Approximately 1 million in the late 1700s; about 30,000 by around 1860; fewer than 20,000 by 1900. All known Native Americans were under U.S. government protection by 1870. (Pre-contact estimates vary widely between scholars; use the lecture's figures on the exam.)",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f010",
+      "front": "How are Valentin Lopez and Lajos Szoboszlai connected to Mutsun reclamation?",
+      "back": "Valentin Lopez, Mutsun tribal chair, and Lajos Szoboszlai, a former UC Davis linguistics graduate student, collaborated to learn Mutsun together using the 1930 documentation by Ascención Solórzano and J.P. Harrington. Szoboszlai's 2017 dissertation chronicles the collaboration.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f011",
+      "front": "Give the Mutsun phrases from Val Lopez's greeting.",
+      "back": "miSmin Tuuhis = good afternoon; eene = and; Tumsanak kannis = thank you; saanaypu = coming / today's gathering; kanraakat = my name is. For 'chairperson' he used a word for leader.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-f012",
+      "front": "What does 'English as a killer language' refer to in the lecture?",
+      "back": "The boarding school experience: thousands of Indigenous children across North America, from about 1870 to 1970, were sent to schools where English was imposed and their languages suppressed. Andy Windyboy describes his 1960s–70s experience in 'Our Spirits Don't Speak English'.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-rv-f001",
+      "front": "Why does the lecture say the spread of English is not neutral?",
+      "back": "Because it is the DIRECT RESULT of colonization, and it continues to put many Indigenous and minoritized languages at risk. Global English is not coincidental.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f002",
+      "front": "Name the reasons languages become extinct.",
+      "back": "GRADUAL LOSS — newer generations prefer a language of higher prestige. FORCED cultural/linguistic ASSIMILATION. LINGUICIDE — when all or nearly all speakers die from natural disasters, wars, etc. Many Indigenous languages are now endangered because of colonization.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f003",
+      "front": "Bottom-up vs. top-down revitalization, with examples.",
+      "back": "BOTTOM-UP is grassroots, at the community level: daycares in the endangered language, study groups, family language policies. TOP-DOWN is institutional, from government or institutions: language policies, standardization, compulsory education, bilingual education. Both often happen at once.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f004",
+      "front": "Summarize the revival of Hebrew.",
+      "back": "Hebrew, a northwest Semitic language (Afroasiatic family, related to Aramaic and Arabic), ceased to be spoken around 200 CE and was used only for liturgical and poetic purposes. Eliezer Ben-Yehuda (1858–1922), a lexicographer, worked to revive it and raised his son Itamar Ben-Avi as the first native Hebrew speaker in modern times. Hebrew is now spoken by many as a first language.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f005",
+      "front": "What resistance did Hebrew revival face?",
+      "back": "Strong resistance within the Jewish community, since many saw Hebrew as a language reserved for RELIGIOUS spaces rather than everyday life.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f006",
+      "front": "Give the Celtic language speaker figures from the lecture.",
+      "back": "Scottish Gaelic: less than 2% of Scots. Irish: about 40% in Ireland. Welsh: about 30%. Breton: less than 20%. Cornish: about 500 speakers. Manx: about 1,800 speakers.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f007",
+      "front": "Which Celtic languages went extinct and were revived, and which never stopped being spoken?",
+      "back": "CORNISH and MANX went extinct and have since been REVIVED. Irish, Scottish Gaelic, Welsh, and Breton have been CONTINUOUSLY spoken. All lost status and speakers due to English imperialism over millennia.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f008",
+      "front": "Why is Cherokee the most published Indigenous language in the US?",
+      "back": "Because Sequoyah created a writing system for Cherokee in the early 19th century, letting people read and write it and leading to extensive documentation.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f009",
+      "front": "What happened with Cherokee in 2019?",
+      "back": "Tribal governments declared a STATE OF EMERGENCY for the Cherokee language and pledged to redouble revitalization efforts — showing that even a heavily documented language can be endangered.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f010",
+      "front": "How does the Master-Apprentice program work?",
+      "back": "It links young people with older fluent speakers, outside a classroom, and is adaptable to each community. It began through a collaboration between California tribes and UC Berkeley linguists, and has spread to Indigenous communities worldwide. One version runs 300+ hours over three years, using only the heritage language.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f011",
+      "front": "What ethical concerns surround language documentation?",
+      "back": "Linguists are often OUTSIDERS to the community. They can be EXPLOITATIVE and fail to give back. Research carries inherent POWER DIFFERENTIALS. WHITE SAVIOR narratives arise. The lecture cites Bronisław Malinowski as an example. One counter: people studying their OWN communities.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-f012",
+      "front": "What discussion questions accompany the Manx video?",
+      "back": "How could the Manx further spread the use of their heritage language? And do you agree with the last speaker that a heritage language should NOT be compulsory in schools — why or why not?",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     }
   ],
   "questions": [
@@ -18663,9 +19032,650 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[ANTH 4 Semantics & Pragmatics classwork - Part 3: Gricean maxims and politeness]"
+    },
+    {
+      "id": "ch9-ll-q001",
+      "type": "mc",
+      "text": "Settler colonialism is distinguished by:",
+      "options": [
+        "Newcomers intending to stay and displace the original inhabitants",
+        "Temporary trade relationships",
+        "Missionaries converting residents without settling",
+        "Peaceful language exchange"
+      ],
+      "answer": "Newcomers intending to stay and displace the original inhabitants",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q002",
+      "type": "mc",
+      "text": "No one has spoken the Yahi language since whose death in 1916?",
+      "options": [
+        "Ishi",
+        "Ascención Solórzano",
+        "Sequoyah",
+        "J.P. Harrington"
+      ],
+      "answer": "Ishi",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q003",
+      "type": "mc",
+      "text": "Patwin reclamation efforts are funded by the Yocha Dehe nation through:",
+      "options": [
+        "Profits from the Cache Creek casino",
+        "A federal grant from the Department of Education",
+        "UC Davis tuition",
+        "The Catholic Church"
+      ],
+      "answer": "Profits from the Cache Creek casino",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q004",
+      "type": "mc",
+      "text": "Who was the last first-language speaker of Mutsun?",
+      "options": [
+        "Ascención Solórzano",
+        "Ishi",
+        "Valentin Lopez",
+        "Andy Windyboy"
+      ],
+      "answer": "Ascención Solórzano",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q005",
+      "type": "mc",
+      "text": "Whose audio recordings made Mutsun reclamation possible?",
+      "options": [
+        "J.P. Harrington",
+        "Bronisław Malinowski",
+        "Eliezer Ben-Yehuda",
+        "Lajos Szoboszlai"
+      ],
+      "answer": "J.P. Harrington",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q006",
+      "type": "mc",
+      "text": "The California mission era ran from:",
+      "options": [
+        "1769–1834",
+        "1848–1855",
+        "1870–1970",
+        "1830–1860"
+      ],
+      "answer": "1769–1834",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q007",
+      "type": "mc",
+      "text": "Why did Gold Rush settlement cause greater loss than the Spanish missions?",
+      "options": [
+        "Settlers occupied far larger areas and sought to eliminate Indigenous people",
+        "Settlers spoke more languages",
+        "The missions were larger than settler towns",
+        "Settlers taught Indigenous languages in schools"
+      ],
+      "answer": "Settlers occupied far larger areas and sought to eliminate Indigenous people",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q008",
+      "type": "mc",
+      "text": "Roughly how many settlers arrived during the 1848–1855 Gold Rush, per the lecture?",
+      "options": [
+        "About 300,000",
+        "About 30,000",
+        "About 1 million",
+        "About 3,000"
+      ],
+      "answer": "About 300,000",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q009",
+      "type": "mc",
+      "text": "According to the lecture, roughly how many Native Americans remained in California by 1900?",
+      "options": [
+        "Fewer than 20,000",
+        "About 300,000",
+        "About 1 million",
+        "About 150,000"
+      ],
+      "answer": "Fewer than 20,000",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q010",
+      "type": "tf",
+      "text": "True or False: Outside the missions, Indigenous Californians had contained Spanish to the mission areas by 1845.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q011",
+      "type": "tf",
+      "text": "True or False: The state of California issued a treasury bond used to pay bounty hunters and militias to kill Indigenous people.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q012",
+      "type": "tf",
+      "text": "True or False: Indian boarding schools operated for only a few years in the 1960s.",
+      "answer": "False",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q013",
+      "type": "fitb",
+      "text": "The Mutsun were missionized at the mission of San Juan ____.",
+      "answer": "Bautista",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q014",
+      "type": "fitb",
+      "text": "The arrival of powerful newcomers who intend to stay and displace the original inhabitants is called ____ colonialism.",
+      "answer": "settler",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q015",
+      "type": "match",
+      "text": "Match each person to their role in California language history.",
+      "pairs": [
+        {
+          "left": "Ishi",
+          "right": "Last speaker of Yahi, died 1916"
+        },
+        {
+          "left": "Ascención Solórzano",
+          "right": "Last first-language speaker of Mutsun"
+        },
+        {
+          "left": "J.P. Harrington",
+          "right": "Linguist who audio-recorded Indigenous languages"
+        },
+        {
+          "left": "Valentin Lopez",
+          "right": "Mutsun tribal chair learning the language"
+        },
+        {
+          "left": "Peter H. Burnett",
+          "right": "Governor who called for a war of extermination in 1851"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-q016",
+      "type": "match",
+      "text": "Match each period or event to its date.",
+      "pairs": [
+        {
+          "left": "Mission era",
+          "right": "1769–1834"
+        },
+        {
+          "left": "Gold discovered in California",
+          "right": "1848"
+        },
+        {
+          "left": "Burnett's extermination address",
+          "right": "January 1851"
+        },
+        {
+          "left": "Indian boarding school era",
+          "right": "About 1870–1970"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-rv-q001",
+      "type": "mc",
+      "text": "According to the lecture, the global spread of English is:",
+      "options": [
+        "The direct result of colonization",
+        "A neutral, coincidental development",
+        "Caused mainly by the internet",
+        "Unrelated to language endangerment"
+      ],
+      "answer": "The direct result of colonization",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q002",
+      "type": "mc",
+      "text": "When all or nearly all speakers of a language die from disasters or war, this is called:",
+      "options": [
+        "Linguicide",
+        "Gradual loss",
+        "Forced assimilation",
+        "Language revival"
+      ],
+      "answer": "Linguicide",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q003",
+      "type": "mc",
+      "text": "Starting a daycare in an endangered language is an example of:",
+      "options": [
+        "Bottom-up revitalization",
+        "Top-down revitalization",
+        "Language documentation",
+        "Linguicide"
+      ],
+      "answer": "Bottom-up revitalization",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q004",
+      "type": "mc",
+      "text": "Compulsory education and standardization are examples of:",
+      "options": [
+        "Top-down revitalization",
+        "Bottom-up revitalization",
+        "Gradual loss",
+        "Fieldwork"
+      ],
+      "answer": "Top-down revitalization",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q005",
+      "type": "mc",
+      "text": "Hebrew ceased to be a spoken language around:",
+      "options": [
+        "200 CE",
+        "1200 CE",
+        "1858 CE",
+        "500 BCE"
+      ],
+      "answer": "200 CE",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q006",
+      "type": "mc",
+      "text": "Who raised his son as the first native Hebrew speaker in modern times?",
+      "options": [
+        "Eliezer Ben-Yehuda",
+        "J.P. Harrington",
+        "Sequoyah",
+        "Bronisław Malinowski"
+      ],
+      "answer": "Eliezer Ben-Yehuda",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q007",
+      "type": "mc",
+      "text": "Which two Celtic languages went extinct and have since been revived?",
+      "options": [
+        "Cornish and Manx",
+        "Irish and Welsh",
+        "Breton and Scottish Gaelic",
+        "Welsh and Breton"
+      ],
+      "answer": "Cornish and Manx",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q008",
+      "type": "mc",
+      "text": "Roughly what share of people in Ireland have facility with Irish, per the lecture?",
+      "options": [
+        "About 40%",
+        "Less than 2%",
+        "About 90%",
+        "About 5%"
+      ],
+      "answer": "About 40%",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q009",
+      "type": "mc",
+      "text": "Why is Cherokee the most published Indigenous language in the US?",
+      "options": [
+        "Sequoyah created a writing system for it",
+        "It has the most speakers",
+        "The federal government mandated it",
+        "It was never endangered"
+      ],
+      "answer": "Sequoyah created a writing system for it",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q010",
+      "type": "mc",
+      "text": "The Master-Apprentice program began through collaboration between California tribes and linguists from:",
+      "options": [
+        "UC Berkeley",
+        "UC Davis",
+        "Stanford",
+        "UCLA"
+      ],
+      "answer": "UC Berkeley",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q011",
+      "type": "mc",
+      "text": "Which is NOT an ethical concern the lecture raises about language documentation?",
+      "options": [
+        "Documentation always benefits the community equally",
+        "Linguists are often outsiders",
+        "Research involves power differentials",
+        "White savior narratives"
+      ],
+      "answer": "Documentation always benefits the community equally",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q012",
+      "type": "tf",
+      "text": "True or False: Bottom-up and top-down revitalization often happen simultaneously.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q013",
+      "type": "tf",
+      "text": "True or False: Hebrew's revival met no resistance within the Jewish community.",
+      "answer": "False",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q014",
+      "type": "tf",
+      "text": "True or False: In 2019, Cherokee tribal governments declared a state of emergency for the language.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q015",
+      "type": "tf",
+      "text": "True or False: One proposed counter to exploitative documentation is for people to study their own communities.",
+      "answer": "True",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q016",
+      "type": "fitb",
+      "text": "A language with no living first-language speakers that can still be revived is called ____.",
+      "answer": "dormant",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q017",
+      "type": "fitb",
+      "text": "The Cherokee man who created a writing system for Cherokee in the early 19th century was ____.",
+      "answer": "Sequoyah",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q018",
+      "type": "match",
+      "text": "Match each Celtic language to its speaker figure from the lecture.",
+      "pairs": [
+        {
+          "left": "Scottish Gaelic",
+          "right": "Less than 2% of Scots"
+        },
+        {
+          "left": "Irish",
+          "right": "About 40% in Ireland"
+        },
+        {
+          "left": "Welsh",
+          "right": "About 30%"
+        },
+        {
+          "left": "Breton",
+          "right": "Less than 20%"
+        },
+        {
+          "left": "Cornish",
+          "right": "About 500 speakers"
+        },
+        {
+          "left": "Manx",
+          "right": "About 1,800 speakers"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q019",
+      "type": "match",
+      "text": "Match each cause of language extinction to its description.",
+      "pairs": [
+        {
+          "left": "Gradual loss",
+          "right": "Newer generations prefer a higher-prestige language"
+        },
+        {
+          "left": "Forced assimilation",
+          "right": "Speakers are compelled to abandon their language and culture"
+        },
+        {
+          "left": "Linguicide",
+          "right": "All or nearly all speakers die from disaster or war"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-q020",
+      "type": "match",
+      "text": "Match each revitalization case to its key fact.",
+      "pairs": [
+        {
+          "left": "Hebrew",
+          "right": "Revived after ceasing to be spoken around 200 CE"
+        },
+        {
+          "left": "Cherokee",
+          "right": "Most published Indigenous language in the US"
+        },
+        {
+          "left": "Manx",
+          "right": "Went extinct and has since been revived"
+        },
+        {
+          "left": "Master-Apprentice",
+          "right": "Pairs young learners with older fluent speakers"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
     }
   ],
   "notes": [
+    {
+      "id": "ch9-rv-n004",
+      "title": "★ KEY EXAM POINTS — Language Loss, Reclamation & Revitalization",
+      "body": "★ SETTLER COLONIALISM = powerful newcomers who intend to STAY and must DISPLACE the original inhabitants (usually for farming). This is what spread Inner Circle English.\n★ GLOBAL ENGLISH IS NOT NEUTRAL — it is the direct result of colonization and still endangers Indigenous and minoritized languages.\n★ THREE CAUSES OF LANGUAGE DEATH: GRADUAL LOSS (prestige), FORCED ASSIMILATION, LINGUICIDE (speakers die).\n★ CALIFORNIA TIMELINE: Mission era 1769–1834 → Spanish contained to missions by 1845 → gold found 1848 → Gold Rush 1848–1855 (~300,000 settlers) → Burnett's extermination address January 1851 → fewer than 20,000 Native Americans by 1900.\n★ MISSIONS vs. GOLD RUSH: missions occupied only mission lands; settlers took far larger areas and sought to ELIMINATE Indigenous people. That difference drove the scale of loss.\n★ KNOW THE PEOPLE: ISHI (last Yahi speaker, d. 1916); ASCENCIÓN SOLÓRZANO (last Mutsun first-language speaker, d. 1929); J.P. HARRINGTON (recorded her); VALENTIN LOPEZ + LAJOS SZOBOSZLAI (reclaiming Mutsun); SEQUOYAH (Cherokee writing system); ELIEZER BEN-YEHUDA (Hebrew revival).\n★ PATWIN / YOCHA DEHE: casino-funded classes, a bilingual school website, a keyboard-friendly spelling system, Highway 16 place-name signs.\n★ BOARDING SCHOOLS (~1870–1970) = 'English as a killer language'.\n★ BOTTOM-UP (grassroots: daycares, family policy) vs. TOP-DOWN (institutional: policy, standardization, compulsory education). Often both at once.\n★ HEBREW: stopped being spoken ~200 CE, liturgical only, revived by Ben-Yehuda, whose son Itamar Ben-Avi was the first modern native speaker. Faced religious resistance.\n★ CELTIC: Cornish and Manx went EXTINCT and were REVIVED; Irish, Scottish Gaelic, Welsh, and Breton were CONTINUOUSLY spoken. Know the percentages.\n★ CHEROKEE: most published Indigenous language in the US thanks to Sequoyah — yet still declared a language emergency in 2019. Documentation alone doesn't guarantee survival.\n★ MASTER-APPRENTICE: CA tribes + UC Berkeley; young learners paired with older speakers; outside the classroom; adopted worldwide.\n★ DOCUMENTATION ETHICS: outsider status, exploitation, power differentials, white savior narratives (Malinowski). Counter: communities studying themselves.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-n003",
+      "title": "Master-Apprentice, Fieldwork, and the Ethics of Documentation",
+      "body": "MASTER-APPRENTICE LANGUAGE LEARNING PROGRAM:\n• Started with a collaboration between several Native tribes in California and linguists from UC BERKELEY.\n• Meant to be ADAPTABLE for communities, OUTSIDE of a classroom.\n• LINKS YOUNG PEOPLE WITH OLDER SPEAKERS of a language.\n• Has been used by other Indigenous communities across the world.\n• Video example: the First Peoples' Heritage, Language and Culture Council pairs a fluent First Nations speaker with a committed learner for over 300 hours across three years, speaking only the First Nations language.\n\nFIELDWORK:\n• Some linguists and linguistic anthropologists specialize in LANGUAGE DOCUMENTATION.\n• They go to an often remote community to document a language that has not been documented.\n• Intentions: to PRESERVE the language and to ADD TO LINGUISTIC KNOWLEDGE.\n• J.P. Harrington, discussed in the language loss lecture, documented California Indigenous languages.\n\nETHICAL CONSIDERATIONS OF LANGUAGE DOCUMENTATION:\n• Linguists are often OUTSIDERS to a community.\n• They can be EXPLOITATIVE of the community and not give back.\n• Inherent POWER DIFFERENTIALS in research.\n• WHITE SAVIOR narratives.\n• Example cited: Bronisław Malinowski.\n• ONE COUNTER: people studying their OWN communities.\n\nRESOURCE: CoLang (Institute on Collaborative Language Research).",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-n002",
+      "title": "Case Studies: Hebrew, Celtic Languages, and Cherokee",
+      "body": "THE CASE OF HEBREW:\n• A northwest Semitic language of the Afroasiatic family (a relative of Aramaic and Arabic).\n• Originally spoken by ancient Israelites and their descendants, but CEASED to be a spoken language around 200 CE.\n• Used only for LITURGICAL and POETIC purposes.\n• ELIEZER BEN-YEHUDA (1858–1922), a lexicographer, worked on reviving Hebrew.\n• He raised his son, ITAMAR BEN-AVI, as the FIRST NATIVE HEBREW SPEAKER in modern times.\n• Met with STRONG RESISTANCE in the Jewish community, as many saw Hebrew as a language reserved for religious spaces.\n\nMODERN HEBREW:\n• Now a revived language spoken by many as a FIRST language, mostly in Israel/Palestine but also in Jewish communities worldwide.\n• The lecture's sign photo is written in Hebrew, Palestinian Arabic, and — notably — English.\n\nONGOING EFFORTS:\n• Hebrew is just one case. Many endangered languages, mostly Indigenous, continue to be revived — many competing with English and other colonial languages.\n\nCELTIC LANGUAGES:\n• Lost status and speakers due to ENGLISH IMPERIALISM over millennia.\n• CONTINUOUSLY SPOKEN: Irish, Scottish Gaelic, Welsh, Breton.\n• WENT EXTINCT, SINCE REVIVED: Cornish and Manx.\n• FIGURES: Scottish Gaelic <2% of Scots | Irish ~40% in Ireland | Welsh ~30% | Breton <20% | Cornish ~500 speakers | Manx ~1,800 speakers.\n• Manx video questions: how could the Manx further spread their heritage language? Should a heritage language be compulsory in schools?\n\nCHEROKEE:\n• Indigenous language of the Cherokee people, from what is now the southeastern US.\n• The MOST PUBLISHED Indigenous language in the US.\n• Because SEQUOYAH, a Cherokee man in the early 19th century, created a writing system for Cherokee — letting people read and write it, which led to extensive documentation.\n• In 2019, tribal governments announced a STATE OF EMERGENCY for the Cherokee language and pledged to redouble revitalization efforts.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-rv-n001",
+      "title": "Global English, Language Death, and Methods of Revitalization",
+      "body": "GLOBAL ENGLISH:\n• The spread of English across the world is NOT of neutral value or coincidental.\n• It is the DIRECT RESULT OF COLONIZATION.\n• It directly continues to affect and put many Indigenous and minoritized languages at risk.\n\nLANGUAGE LIFE & DEATH — languages become extinct for many reasons:\n• GRADUAL LOSS — newer generations prefer a language of higher prestige.\n• FORCED cultural/linguistic ASSIMILATION.\n• LINGUICIDE — when all or nearly all speakers die because of natural disasters, wars, etc.\n• Many Indigenous languages are now endangered because of colonization.\n\nLANGUAGE REVITALIZATION (or LANGUAGE REVIVAL):\n• Attempts to halt or reverse the decline of a language, or to revive a DORMANT one.\n• Those involved may be community members, linguists, government parties, etc.\n• Some languages have been SUCCESSFULLY revived.\n\nMETHODS OF REVITALIZATION:\n• BOTTOM-UP — from the grassroots at the community level. Ex: starting a daycare in an endangered language, study groups, family language policies.\n• TOP-DOWN — more institutional, from a government or other institution down to people. Language policies, standardization, compulsory education, bilingual education.\n• There are OFTEN BOTH methods happening SIMULTANEOUSLY.",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch9-ll-n003",
+      "title": "Reclaiming Mutsun, and the Boarding School Experience",
+      "body": "THE MUTSUN LANGUAGE AND PEOPLE:\n• An Ohlone/Costanoan people.\n• The last speaker of Mutsun, ASCENCIÓN SOLÓRZANO, died in 1929. She was also a Spanish speaker.\n• Most Mutsun today speak only English; some speak Spanish and English.\n\nHOW MUTSUN (ALMOST) GOT LOST:\n• The Mutsun were missionized at SAN JUAN BAUTISTA.\n• Cultural and linguistic repression started in the missions and continued with genocide by Anglo-American settlers in the 1800s.\n\nRECLAIMING MUTSUN:\n• ASCENCIÓN SOLÓRZANO (1855–1929) — last first-language speaker, bilingual in Spanish. Spent most of her life in Santa Barbara working as a traditional healer. In the last year of her life she shared her language with linguist J.P. Harrington.\n• J.P. HARRINGTON (1884–1961) — his life's work was audio-recording Indigenous languages of North America. These recordings enable Indigenous people today to RECLAIM their ancestral languages.\n• COLLABORATION: Valentin Lopez, Mutsun tribal chair, and Lajos Szoboszlai, a former UCD Linguistics graduate student, collaborated to learn Mutsun together, using documentation compiled by Solórzano and Harrington in 1930.\n• Szoboszlai's 2017 dissertation chronicles the process.\n• Val's greeting: miSmin Tuuhis 'good afternoon' | eene 'and' | Tumsanak kannis 'thank you' | saanaypu 'coming / today's gathering' | kanraakat 'my name is'. For 'chairperson' he used a word for leader.\n• Video: Val Lopez leads his nieces Adelina and Aleya Lopez in singing a women's gathering song in the language of the Amah Mutsun Tribal Band, for Native American Heritage Month at Cleveland Elementary in Oakland.\n\nENGLISH AS A KILLER LANGUAGE — THE BOARDING SCHOOL EXPERIENCE:\n• Andy Windyboy, in 'Our Spirits Don't Speak English', describes his experience of language loss in a boarding school in the 1960s and 1970s.\n• This happened to THOUSANDS of children across North America from about 1870 to 1970.\n\nLANGUAGE LOSS IN THE BRITISH ISLES:\n• British colonization started by subjugating Celtic populations — Irish, Scottish, and others. (The source deck ends partway through this slide; see the Revitalization lecture for the Celtic language figures.)",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-n002",
+      "title": "Missions, the Gold Rush, and Genocidal Policy",
+      "body": "SPANISH IN THE CALIFORNIA MISSIONS:\n• MISSION ERA: 1769–1834.\n• Stated goal: to save the 'lost souls' of the people of California; teach the Catholic faith, farming, etc.\n• Native Americans were brought to the missions, baptized, then FORCIBLY KEPT there.\n\nSUMMARY OF SPANISH INCURSION:\n• Language loss in the missions came from POPULATION LOSS and REPRESSION of language and culture.\n• Outside the missions, Indigenous people FOUGHT against the Spanish and CONTAINED Spanish to the mission areas by 1845.\n• That containment could have become the status quo — but for the influx of new settlers, mostly Anglo-Americans from the East.\n\nTHE GOLD RUSH & ENGLISH:\n• Gold discovered in California in 1848. By then Mexican and Anglo ranchers and agriculturalists had already increased in number.\n• Hundreds of settlers became THOUSANDS during the Gold Rush, 1848–1855 — explorers, miners, and farmers. About 300,000 new settlers.\n\nMISSION vs. GOLD RUSH SETTLER EFFECTS:\n• Missionaries and Spanish soldiers occupied ONLY lands around the missions.\n• Settlers occupied MUCH LARGER areas already inhabited by Indigenous people, and saw them as an obstacle to be ELIMINATED.\n• Many were killed, others relocated to reservations, others enslaved to work on ranches.\n\nGENOCIDAL POLICIES:\n• January 1851: California Governor Peter H. Burnett, addressing the state legislature, said a war of extermination would continue between the two races until the Indian race became extinct.\n• The state then issued a TREASURY BOND to pay for the extermination — used to pay bounty hunters and state militias to seek out and kill Indigenous people.\n\nPOPULATION, PER THE LECTURE:\n• ~1 million in the late 1700s → ~30,000 by around 1860 → fewer than 20,000 by 1900.\n• All known Native Americans were under U.S. government protection by 1870.\n(Note: pre-contact population estimates vary widely among scholars. Use the lecture's figures for the exam.)",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
+    {
+      "id": "ch9-ll-n001",
+      "title": "Settler Colonialism and Language Loss in California",
+      "body": "⚠ CONTENT NOTE: this lecture covers genocide and forced assimilation of Indigenous Californians.\n\nINNER CIRCLE ENGLISH AND SETTLER COLONIALISM:\n• SETTLER COLONIALISM = the arrival of politically and militarily powerful new inhabitants in an area where they intend to STAY, and where displacing the original inhabitants is essential to their goals (usually farming).\n• Practiced by the British in the eastern US, Canada, Australia, and New Zealand; and by the United States in California. It meant the arrival of LARGE NUMBERS OF ENGLISH SPEAKERS.\n\nINDIGENOUS PEOPLE LOSE THEIR LAND, AND OFTEN THEIR LANGUAGES:\n• Since contact, Indigenous people have been killed or forced to assimilate. They are STILL resisting language and culture loss.\n• This loss has been particularly SEVERE in California.\n• ISHI, a man of the Yahi nation — no one has spoken Yahi since Ishi died in 1916.\n\nWHERE UC DAVIS NOW STANDS:\n• Patwin people lived along Putah Creek until the 1830s.\n• Mexican soldiers captured them and took them to the Solano mission (in what is now Sonoma).\n• The Contemplative Garden in the UCD Arboretum memorializes their names.\n• Today many of their descendants live along Cache Creek.\n\nPATWIN LANGUAGE & PEOPLE TODAY:\n• Patwin is the language of the YOCHA DEHE nation, which funds reclamation with profits from the Cache Creek casino. Efforts include:\n   – Language classes for community members\n   – A school for the children with a bilingual website; UCD linguists helped develop a spelling system easy to type on a regular keyboard\n   – Road signs with original place names along what is now Highway 16",
+      "image": null,
+      "module": "wk09",
+      "chapter": 9,
+      "source": "[Brotherton, ANTH 4 Lecture: Language Loss & Reclamation in California (adapted from a talk by Lajos Szoboszlai)]"
+    },
     {
       "id": "ch8-cw-n001",
       "title": "Pragmatics Classwork — Maxim Violations and Face-Threatening Acts",
