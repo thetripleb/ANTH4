@@ -412,6 +412,15 @@
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch7-ppt-g012",
+      "term": "antonymy",
+      "def": "The relation between words that are opposites with respect to at least one aspect of their meaning: young/old, boy/girl, hot/cold, come/go.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch2-ppt-g011",
       "term": "Appalachian English",
       "def": "A regional variety spoken in the Appalachian Mountains (crossing North Carolina, Tennessee, West Virginia and others), frequently stigmatized as uneducated or lower-class — a judgment the lecture identifies as classist rather than linguistic.",
@@ -601,6 +610,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch7-ppt-g030",
+      "term": "benefactive",
+      "def": "The semantic role of an NP for which an action is performed: I baked a cake for [my brother]; Cristiano Ronaldo bought a car for [me].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch3-ppt-g006",
       "term": "bilabial",
       "def": "A place of articulation produced by bringing both lips together: [p], [b], [m].",
@@ -709,6 +727,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
+      "id": "ch7-ppt-g028",
+      "term": "cause (semantic role)",
+      "def": "Any natural force that brings about a change of state. Causes do NOT require agents — no intention, no volition: [The snow] caved in the roof.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch10-g017",
       "term": "change from above",
       "def": "Language change that speakers are consciously aware of, often spreading from higher-prestige speech (e.g., importing 'r-fulness' into NYC English).",
@@ -752,6 +779,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 5]"
+    },
+    {
+      "id": "ch7-ppt-g024",
+      "term": "classifier",
+      "def": "An obligatory grammatical element used with nouns when counting in many languages, similar to English 'five ears of corn' or 'five pieces of bread'. The choice is usually based on semantic properties of the noun — Indonesian orang for people, ekor for animals, biji for small round objects, helai for thin flat objects.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch6-g004",
@@ -824,6 +860,15 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
+    },
+    {
+      "id": "ch7-ppt-g014",
+      "term": "complementary antonyms",
+      "def": "Antonyms where if one is true the other is false, with no middle ground: dead/alive, pass/fail, off/on.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch4-g011",
@@ -925,6 +970,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 6]"
     },
     {
+      "id": "ch7-ppt-g002",
+      "term": "content word",
+      "def": "A word carrying core lexical meaning: mug, cup, bowl, glass. Contrasted with function words. Lexical-semantic relations such as antonymy, polysemy, and homonymy apply mainly to these.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch8-g015",
       "term": "context",
       "def": "The shared situation and common ground (what participants mutually take to be established) against which utterances are interpreted and update the conversation.",
@@ -950,6 +1004,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Phonetics (adapted from Drs. Georgia Zellou & Masoud Jasbi)]"
+    },
+    {
+      "id": "ch7-ppt-g013",
+      "term": "contrary antonyms",
+      "def": "Antonyms occupying opposite regions of a SCALE that has intermediate values: young/old, thin/thick. Something can be neither clearly young nor clearly old.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch4-g008",
@@ -1096,6 +1159,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 12]"
     },
     {
+      "id": "ch7-ppt-g018",
+      "term": "deixis",
+      "def": "The marking of the orientation or position of entities and events with respect to certain points of reference. Deictic words require CONTEXT to be understood — 'Meet me here tomorrow' versus 'Meet John at the library on Tuesday, February 19th'. They are both SYMBOLIC (conventional) and INDEXICAL (context-dependent); often called 'pointing words'.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch7-g003",
       "term": "denotation",
       "def": "What a linguistic expression points to in the world (more precisely, in our cognitive model of the world); written ⟦x⟧. The denotation of 'pencil' is the set of all pencils.",
@@ -1184,6 +1256,15 @@
       "module": "wk10",
       "chapter": 10,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
+    },
+    {
+      "id": "ch7-ppt-g004",
+      "term": "dictionary-style definition",
+      "def": "A theory of word meaning in which mental representations resemble dictionary entries — words defined using other words plus usage examples. PRO: useful and can genuinely help people learn meanings. CON: circular — if every word is defined by other words, nothing connects to anything more basic.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch3-g035",
@@ -1501,6 +1582,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
     },
     {
+      "id": "ch7-ref-g005",
+      "term": "force / causer",
+      "def": "An inanimate entity or natural phenomenon that instigates a change of state without intent: [The heavy gale] shattered the window panes. The reference table's name for what the lecture calls CAUSE.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
       "id": "ch6-ppt-g020",
       "term": "formal language",
       "def": "A language L defined as a SET of sentences. Eng = {They are happy, Bob is in the room, The cat ran, ...} versus Not-Eng = {*is happy he, *cat the ran, ...}.",
@@ -1544,6 +1634,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch7-ppt-g003",
+      "term": "function word",
+      "def": "A word serving a grammatical function rather than carrying core meaning: she, the, is, will, there. Deixis and tense/mood are the semantic phenomena that apply here.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch6-g027",
@@ -1616,6 +1715,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch7-ref-g003",
+      "term": "goal (semantic role)",
+      "def": "The endpoint, final destination, or TARGETED STATE toward which an action or movement is directed: They walked over to [the campus library]. Note that it covers abstract targeted states as well as physical destinations.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
     },
     {
       "id": "ch1-g003",
@@ -1753,6 +1861,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
     },
     {
+      "id": "ch7-ppt-g016",
+      "term": "homophony",
+      "def": "Two words identical in form but with NO relation in meaning — the formal identity is pure coincidence: ail~ale, assent~ascent, bier~beer, dough~doe, past~passed, bank~bank.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch9-g011",
       "term": "Hul'q'umi'num'",
       "def": "A Coast Salish language of British Columbia, the focus of family- and community-based reclamation work described in the chapter.",
@@ -1760,6 +1877,33 @@
       "module": "wk09",
       "chapter": 9,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 9]"
+    },
+    {
+      "id": "ch7-ppt-g009",
+      "term": "hypernym",
+      "def": "The more general term in a hyponymic relation — the superset. 'Dog' is the hypernym of 'poodle'; 'cook' is the hypernym of 'fry', 'boil', and 'roast'.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-g010",
+      "term": "hyponym",
+      "def": "The more specific term in a hyponymic relation — the subset. 'Poodle' is a hyponym of 'dog'; 'stir-fry' and 'sauté' are hyponyms of 'fry'.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-g008",
+      "term": "hyponymy",
+      "def": "A relation between two words, one more general and one more specific. Word X is a HYPONYM of word Y if X is a subset of Y; Y is the HYPERNYM. dog (hypernym) / poodle (hyponym); shirt ~ tank top; cook ~ fry; child ~ baby.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch1-ppt-g012",
@@ -1843,6 +1987,15 @@
       "source": "[Brotherton, ANTH/HUM 4 Week 2 Video Lecture: Language and Power (parts 1-5)]"
     },
     {
+      "id": "ch7-ppt-g022",
+      "term": "inclusive vs. exclusive 'we'",
+      "def": "A person-deixis distinction in first person plural: 'we including you' versus 'we not including you'. English does not mark this; many other languages do.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch2-g019",
       "term": "indexical bleaching",
       "def": "Replacing or mispronouncing someone's name to make it 'sound more English/white,' stripping their connection to family, community, and language (Bucholtz).",
@@ -1904,6 +2057,15 @@
       "module": "wk05",
       "chapter": 5,
       "source": "[Brotherton, LIN 001 / ANTH 4 Lecture: Morphology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-g027",
+      "term": "instrument",
+      "def": "The semantic role of the means by which an event is carried out — the intermediary through which an agent performs the action. There is usually an agent present: Michel cut the bread with [the knife]; The child broke the window with [a hammer].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch1-ppt-g007",
@@ -2266,6 +2428,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch7-ppt-g023",
+      "term": "lexicalization",
+      "def": "The encoding of concepts in the words of a language. Different languages lexicalize different concepts — Inuktitut aput 'snow on the ground', qana 'falling snow'; Pennsylvania German fedderschei 'the condition of being reluctant to write letters'; French flâner 'to wander around aimlessly but enjoyably'. ⚠ This is NOT in itself evidence for language relativism: speakers of other languages can still understand the concept.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch5-g024",
       "term": "lexically conditioned allomorphy",
       "def": "Allomorph choice determined by the specific root, which must be memorized (e.g., ox→oxen, sheep→sheep).",
@@ -2392,6 +2563,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch7-ppt-g031",
+      "term": "locative (semantic role)",
+      "def": "The semantic role referring to the location of an action or state: [Midwest] is cold in winter; I live in [Europe]; We will meet at [the lounge].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch3-g018",
       "term": "manner of articulation",
       "def": "How air flows through the vocal tract, based on the size/shape of the constriction (stop, fricative, approximant, affricate, tap, trill).",
@@ -2480,6 +2660,15 @@
       "module": "wk01",
       "chapter": 1,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 1]"
+    },
+    {
+      "id": "ch7-ppt-g005",
+      "term": "mental image definition",
+      "def": "A theory in which word meaning is stored as a mental image, a prototype. PRO: we really do use mental images when conceptualizing. CON: different people have different experiences and images (think of 'mom'), the images are prototypical, and some concepts are hard to visualize (e.g. 'reciprocity', 'from').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch1-g005",
@@ -2977,6 +3166,24 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch7-ref-g004",
+      "term": "path (semantic role)",
+      "def": "The trajectory, route, or ground covered over the course of a MOVEMENT event: The runner sped along [the gravel track]. Path requires motion through space.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ppt-g026",
+      "term": "patient",
+      "def": "The semantic role of the entity that undergoes a change of state or is directly affected by an event: I cleaned [the car]; Hyun-ju broke [the glass]; Mike burned [the cake].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch2-g023",
       "term": "perceptual adaptation",
       "def": "Improved comprehension of an unfamiliar talker or accent as a result of more listening experience; extends across speakers and even across different accents.",
@@ -3029,6 +3236,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch7-ppt-g019",
+      "term": "person deixis",
+      "def": "Deixis marking participant roles: I, she, he, they. The most basic opposition found across languages is speaker (1st person 'I') versus hearer (2nd person 'you'). Third person pronouns are common but not universal. Other distinctions: formal vs. informal (you/thou), inclusive vs. exclusive 'we', and singular/dual/trial/paucal/plural.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch3-g016",
@@ -3157,6 +3373,15 @@
       "source": "[Brotherton, HUM/ANTH 4 Lecture: Syntax (adapted from Dr. Masoud Jasbi & Dr. Georgia Zellou)]"
     },
     {
+      "id": "ch7-ppt-g001",
+      "term": "phrasal semantics",
+      "def": "The study of meaning patterns conveyed in phrases and sentences, as opposed to lexical semantics, which studies meaning patterns in individual words.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch6-g018",
       "term": "phrase",
       "def": "A set of words that act together as a single unit and can occupy the same structural position.",
@@ -3227,6 +3452,15 @@
       "module": "wk03",
       "chapter": 3,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
+    },
+    {
+      "id": "ch7-ppt-g017",
+      "term": "polysemy",
+      "def": "A single word having multiple meanings that are distinct but RELATED — typical for most lexemes. rent (payment) ~ to rent (as tenant) ~ to rent (as landlord); eye (body part) ~ eye (verb); wood (from a tree) ~ wood (place of many trees). Often a shift from one semantic frame to another: surf (ocean → Internet), attack (war → problems), foot (body → landscape), head (body → organization).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch5-ppt-g018",
@@ -3490,6 +3724,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 10]"
     },
     {
+      "id": "ch7-ppt-g029",
+      "term": "recipient",
+      "def": "The semantic role of an NP that receives a physical object: Ivan gave a banana to [Amanda]; Suzanna brought [me] a cake.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch2-g015",
       "term": "reclamation",
       "def": "Repurposing a slur as a marker of shared identity and solidarity against oppression (e.g., 'queer'); not all targeted members may be ready to embrace a reclaimed term.",
@@ -3560,6 +3803,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch7-ppt-g015",
+      "term": "reversive antonyms",
+      "def": "Antonyms denoting movement in opposite directions (come/go) or change between reversible states (melt/freeze).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch3-ppt-g018",
@@ -3641,6 +3893,15 @@
       "module": "wk11",
       "chapter": 14,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 14]"
+    },
+    {
+      "id": "ch7-ppt-g025",
+      "term": "semantic role",
+      "def": "The meaning relationship holding between a verb and its NP arguments — the way a referent noun contributes to the state, action, or situation in a phrase. A fairly small, abstract set, and INDEPENDENT of grammatical roles.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch2-ppt-g005",
@@ -3841,6 +4102,24 @@
       "source": "[Brotherton, LIN 1 Lecture 1: What Is Language & Linguistics? (adapted from Zellou & Greer)]"
     },
     {
+      "id": "ch7-ref-g002",
+      "term": "source (semantic role)",
+      "def": "The starting point, initial physical location, or prior state from which an entity moves: We traveled all the way from [Oakland].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ppt-g020",
+      "term": "spatial deixis",
+      "def": "Deixis marking location: here, there, this, that. 'Here' = near the speaker; 'there' = away from the speaker. Many languages have three-term systems (near speaker / near hearer / far from both), as in Fijian oŋgo, oŋgori, oya.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch2-g021",
       "term": "specific singular they",
       "def": "Use of 'they/them' to refer to a single, known individual (e.g., 'Samnang told me they needed an extension'); an in-progress grammatical change resisted by prescriptivists.",
@@ -3938,6 +4217,15 @@
       "module": "wk02",
       "chapter": 2,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
+    },
+    {
+      "id": "ch7-ref-g001",
+      "term": "stimulus (semantic role)",
+      "def": "The entity, event, or concept that triggers a mental or sensory response in an Experiencer: [The loud alarm] startled the horse. Stimulus and Experiencer are a pair. (Not to be confused with 'stimulus' in a matched-guise study.)",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
     },
     {
       "id": "ch3-g048",
@@ -4075,6 +4363,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 4]"
     },
     {
+      "id": "ch7-ppt-g007",
+      "term": "synonymy",
+      "def": "The relation between words or expressions that have the same meaning in some or all contexts. Synonyms usually have slightly different meanings and frequently have overlapping — but not identical — senses: vacation/holiday, automobile/car, remember/recall, purchase/buy, big/large.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch6-ppt-g021",
       "term": "syntactic ambiguity",
       "def": "When the grammar can assign at least two structures to the same sentence, and those structures sometimes correspond to different interpretations. 'I saw the man in my car' and 'black coffee drinkers' are lecture examples. (Your textbook calls this structural ambiguity.)",
@@ -4147,6 +4444,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 2]"
     },
     {
+      "id": "ch7-ppt-g011",
+      "term": "taxonomy",
+      "def": "The multi-layered structure created by nested hyponymic relationships: cook → fry, boil, roast → stir-fry, sauté, blanch, simmer.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
       "id": "ch11-g006",
       "term": "telegraphic speech",
       "def": "An early multiword stage containing mostly content words (nouns, verbs) and omitting function words like obligatory determiners — like a telegram.",
@@ -4154,6 +4460,24 @@
       "module": "wk13",
       "chapter": 11,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 11]"
+    },
+    {
+      "id": "ch7-ppt-g032",
+      "term": "temporal (semantic role)",
+      "def": "The semantic role referring to the time at which an action or state occurred: She left home [yesterday]; I graduated from high school in [2002].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-g021",
+      "term": "temporal deixis",
+      "def": "Deixis marking time: yesterday, before, after, now. In many languages it is marked through tense affixes on the verb — English has a two-term past/non-past system, Kusaiean a future/non-future system, and Lithuanian a three-term past/present/future system.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch3-g031",
@@ -4352,6 +4676,15 @@
       "module": "wk04",
       "chapter": 4,
       "source": "[Brotherton, ANTH 4 Lecture: Phonology (adapted from Dr. Georgia Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-g006",
+      "term": "usage-based definition",
+      "def": "A theory in which word meaning is stored together with the ways and contexts in which the word is used. The same vessel is a 'bowl' with rice in it and a 'cup' with a hot drink in it.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
     },
     {
       "id": "ch2-g005",
@@ -7900,6 +8233,447 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch7-ppt-f001",
+      "front": "What is semantics?",
+      "back": "The study of meaning — specifically the systematic ways languages structure meaning, especially in words and phrases; how meaning is represented and transmitted; and how meaning depends on structure.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f002",
+      "front": "What does the mug/cup/bowl/glass exercise demonstrate?",
+      "back": "That word meanings are NOT clear-cut. Boundaries are fuzzy, with clear cases and unclear cases. Meaning depends on context — the same vessel is a 'bowl' with rice in it and a 'cup' with a hot drink; large = 'bowl', small = 'cup'. Meanings are tied to human uses and social/cultural norms, like whether something has a saucer.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f003",
+      "front": "Name the three theories of how word meaning is mentally represented, and the conclusion.",
+      "back": "DICTIONARY-STYLE (defined using other words), MENTAL IMAGE (stored as a prototype), and USAGE-BASED (stored with the contexts of use). The conclusion: mental representations are probably composed of ALL THREE aspects.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f004",
+      "front": "Give the pro and con of dictionary-style definitions.",
+      "back": "PRO: useful, and can genuinely help people learn word meanings. CON: it's a paraphrase rather than anything basic — if words are defined in terms of other words, how is any meaning ever learned? Nothing connects to anything more fundamental. (Think of children, or people who can't read.)",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f005",
+      "front": "Give the pro and con of mental image definitions.",
+      "back": "PRO: mental images really are used when we conceptualize things. CON: different people have different experiences and images — think of 'mom' — so how do we share meanings? The images are prototypical, and some concepts (reciprocity, 'from') are hard to visualize at all.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f006",
+      "front": "Define synonymy and give examples. Are synonyms ever identical?",
+      "back": "Words or expressions with the same meaning in some or all contexts: vacation/holiday, youth/adolescent, automobile/car, remember/recall, purchase/buy, big/large. They usually have slightly different meanings — overlapping but not identical senses (film/movie/flick; eat/consume/ingest/wolf down).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f007",
+      "front": "Define hyponymy, hypernym, and hyponym.",
+      "back": "A relation between a more general and a more specific word. X is a HYPONYM of Y if X is a subset of Y; Y is the HYPERNYM (superset). dog = hypernym, poodle = hyponym. Multi-layered hyponymic relationships create TAXONOMIES: cook → fry/boil/roast → stir-fry/sauté/blanch/simmer.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f008",
+      "front": "Name and define the three types of antonymy.",
+      "back": "CONTRARY — opposite regions of a scale with intermediate values (young/old, thin/thick). COMPLEMENTARY — when one is true the other is false (dead/alive, pass/fail, off/on). REVERSIVE — movement in opposite directions (come/go) or change between reversible states (melt/freeze).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f009",
+      "front": "Homophony vs. polysemy — what's the test?",
+      "back": "HOMOPHONY: identical in form, NO relation in meaning — the identity is coincidence (ail~ale, bank~bank). POLYSEMY: one word, multiple meanings that are distinct but RELATED (eye as body part and verb; head as body part and organization leader). The test is whether the meanings are historically/conceptually connected.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f010",
+      "front": "Give examples of polysemy as a shift between semantic frames.",
+      "back": "surf (ocean → Internet), attack (war/fighting → problems), foot (body part → landscape, 'foot of a hill'), head (body part → organization), tail (body part → following behind).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f011",
+      "front": "Classify: 'Selena hit the ball with the wooden bat' / 'The bat flew away'.",
+      "back": "HOMOPHONY. The two 'bat' meanings have no relation — the identical form is coincidence.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f012",
+      "front": "Classify: 'I purchased a couch' / 'I bought the matching tables'.",
+      "back": "SYNONYMY. Purchase and buy are different words with the same meaning.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f013",
+      "front": "Classify: 'my hair looking funny' / 'a funny joke'.",
+      "back": "POLYSEMY. One word with two distinct but related senses (odd/strange versus amusing).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f014",
+      "front": "What is deixis, and why is it both symbolic and indexical?",
+      "back": "The marking of orientation or position of entities and events relative to points of reference — words needing CONTEXT to be understood. SYMBOLIC because conventional; INDEXICAL because dependent on context. They are 'pointing words' (here, now, I, you) whose referents change with the situation.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f015",
+      "front": "Name the three types of deixis with examples.",
+      "back": "PERSON — I, she, he, they. SPATIAL — here, there, this, that. TEMPORAL — yesterday, tomorrow, before, after.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f016",
+      "front": "What distinctions can person deixis encode beyond 1st/2nd/3rd?",
+      "back": "FORMAL vs. INFORMAL (you vs. thou). INCLUSIVE vs. EXCLUSIVE first person plural 'we' ('we including you' vs. 'we not including you'). And number beyond singular/plural — DUAL (exactly two), TRIAL (exactly three), PAUCAL (a few but not many).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f017",
+      "front": "Describe the Fijian and Malagasy spatial deixis systems.",
+      "back": "FIJIAN has a three-term system: oŋgo 'this (near me)', oŋgori 'this (near you)', oya 'that (away from you and me)'. MALAGASY has a rich remoteness system with three degrees of nearness: eo / eto / ety — 'here / right here / right next to me'.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f018",
+      "front": "Compare the English, Kusaiean, and Lithuanian tense systems.",
+      "back": "ENGLISH — two-term, past vs. non-past ('I walk' / 'I walked'). KUSAIEAN — two-term, future vs. non-future (Sepe el mas ekweyah/ingena 'was/is sick'; Sepe el ac misac 'will die'). LITHUANIAN — three-term: skait-o PRES, skait-ỹs FUT, skait-ė PAST.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f019",
+      "front": "What is lexicalization, and what does it NOT prove?",
+      "back": "The encoding of concepts in the words of a language. Different languages lexicalize different concepts (Inuktitut aput/qana/piqsirpoq; Pennsylvania German fedderschei; French flâner). ⚠ It does NOT prove language relativism — a missing word doesn't mean speakers can't understand the concept; it only means they haven't coined a term for it.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f020",
+      "front": "What are classifiers, and what determines the choice?",
+      "back": "Obligatory grammatical elements used with nouns when counting in many languages — like English 'five ears of corn'. The choice is based on SEMANTIC PROPERTIES of the noun. Indonesian: orang (people), ekor (animals), biji (small round objects — eggs, bullets, jewels, grapes), helai (thin flat objects — paper, cloth, leaves, feathers, handkerchiefs).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f021",
+      "front": "What is the key point about semantic roles vs. grammatical roles?",
+      "back": "THEY ARE INDEPENDENT. Not all agents are subjects, and not all patients are objects. Syntactic role is the grammatical position in the sentence; semantic role is the part an NP plays in the actual event.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f022",
+      "front": "Analyze 'The dog bit the cat' and 'The cat was bitten by the dog' for both role types.",
+      "back": "ACTIVE: 'the dog' = Subject (syntactic) and Agent (semantic); 'the cat' = Object and Patient. PASSIVE: 'the cat' = Subject but PATIENT; 'the dog' = oblique but AGENT. The passive dissociates the two systems.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f023",
+      "front": "How are syntactic and semantic roles encoded in English?",
+      "back": "SYNTACTIC roles are determined by linear order, sometimes verb agreement, sometimes morphological form. SEMANTIC roles are NOT coded overtly in English — there is no morphology marking them; we interpret them.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f024",
+      "front": "List the nine semantic roles from the lecture.",
+      "back": "Agent, Patient, Experiencer, Instrument, Cause, Recipient, Benefactive, Locative, Temporal.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f025",
+      "front": "Distinguish Agent, Experiencer, and Cause.",
+      "back": "AGENT — the responsible initiator/doer, connected with volition, will, or intentionality ([Tammy] drove the car). EXPERIENCER — receives sensory input, NOT connected with volition ([Fatima] likes blueberry pancakes). CAUSE — a natural force bringing about a change of state, no intention or volition ([The snow] caved in the roof).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f026",
+      "front": "Distinguish Recipient from Benefactive.",
+      "back": "RECIPIENT receives a physical object: Ivan gave a banana to [Amanda]. BENEFACTIVE is the one FOR WHOM an action is performed: I baked a cake for [my brother].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f027",
+      "front": "'Hilda gave Carlos a present' vs. 'The storm gave Carlos the chills' — analyze Carlos.",
+      "back": "SAME grammatical role, DIFFERENT semantic role. In both, Carlos is the INDIRECT OBJECT. But in the first he is the RECIPIENT; in the second he is the EXPERIENCER.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f028",
+      "front": "'Marcus opened the door' vs. 'The key opened the door' — what does this show?",
+      "back": "Both subjects have the same SYNTACTIC role but different SEMANTIC roles: Marcus = Agent, the key = Instrument. English subjects can carry different semantic roles depending on the verb and situation.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f029",
+      "front": "What does the Haida data show?",
+      "back": "That some languages mark SEMANTIC roles morphologically, where English marks grammatical ones. Haida uses a different pronoun for agent and experiencer: 'skuts hl guntl'aats'' ('I swallowed a bone') marks 'I' as 1.SG.AGNT, while 'dang dii kuyaadaang' ('I love you') marks both as experiencers. English pronouns mark SUBJ/OBJ instead ('I see him' / 'He sees me').",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f030",
+      "front": "Define referent and sense.",
+      "back": "REFERENT — the entity in the external world that a linguistic expression relates to; the real-world thing an utterance refers to. SENSE — the meaning of an expression in the mind; the mental conception of the thing referred to. They are somewhat independent.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f031",
+      "front": "Can an expression have sense without reference? Give the lecture example.",
+      "back": "Yes. 'The current king of France' makes perfect sense — it has mental associations — but has no referent, since there is no such person. 'The current president of France' has both. 'A unicorn' is another sense-without-reference case.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f032",
+      "front": "Do referents have to be real? ",
+      "back": "No. The lecture uses 'Garfield' as a referent for 'cat' — but Garfield isn't anywhere in the world. Referents can be ideas, concepts, or historical/fictional figures shared by a community of speakers.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f033",
+      "front": "What do 'Clark Kent' and 'Superman' demonstrate?",
+      "back": "That two expressions can share a single REFERENT while differing in SENSE. People can use both terms without realizing they point to the same person.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-f034",
+      "front": "Why do we need both sense and reference?",
+      "back": "SENSE lets us discuss how one object can be referred to in many different ways. REFERENCE lets us talk about meaning being fundamentally related to experience and to things that exist in the world. Also, senses do not have to be 'correct' to make a reference — speaker and listener just need shared knowledge enough for a similar understanding.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ref-f001",
+      "front": "How many roles are in the reference table vs. the lecture, and what's added?",
+      "back": "The TABLE lists 14 roles; the LECTURE lists 9. The table adds THEME, STIMULUS, SOURCE, GOAL, and PATH, and renames the lecture's CAUSE as FORCE/CAUSER.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f002",
+      "front": "Theme vs. Patient — what's the deciding question?",
+      "back": "WAS IT CHANGED? PATIENT undergoes a change of state or is directly affected (The frost melted [the ice]). THEME is moved, located, or described WITHOUT being fundamentally changed (He placed [the textbook] on the desk).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f003",
+      "front": "How do the textbook, the table, and the lecture define theme and patient?",
+      "back": "TEXTBOOK (Anderson): a patient is a theme that is ALSO changed — so patient is a subtype of theme. TABLE: theme and patient are separate; theme is explicitly NOT changed. LECTURE: has no theme; patient covers anything affected. All three agree the deciding test is whether the entity is changed.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f004",
+      "front": "What is the Stimulus, and what role does it always pair with?",
+      "back": "The entity, event, or concept that TRIGGERS a mental or sensory response. It pairs with the EXPERIENCER: in 'The loud alarm startled the horse', the alarm is the Stimulus and the horse is the Experiencer.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f005",
+      "front": "Name the three motion roles with an example of each.",
+      "back": "SOURCE — where movement starts (from Oakland). GOAL — the endpoint or targeted state (to the campus library). PATH — the route covered along the way (along the gravel track).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f006",
+      "front": "Recipient vs. Benefactive under the reference table?",
+      "back": "RECIPIENT comes into PHYSICAL POSSESSION of an object (I sent my classmate a copy of the notes). BENEFACTIVE profits from — or is disadvantaged by — the action WITHOUT necessarily possessing anything (She proofread the paper for her friend).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f007",
+      "front": "Force/Causer vs. Agent vs. Instrument?",
+      "back": "AGENT acts intentionally and volitionally (The student drafted the syntax tree). FORCE/CAUSER is inanimate or natural and has NO intent (The heavy gale shattered the window panes). INSTRUMENT is the inanimate tool an agent uses (He split the logs with an axe).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-f008",
+      "front": "Can Goal apply to an abstract state, not just a place?",
+      "back": "Yes. The table defines Goal as the endpoint, final destination, OR TARGETED STATE. So 'for relaxation' in 'We were playing a game of Monopoly for relaxation' is a defensible Goal — relaxation is the state the activity aims at.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-cw-f001",
+      "front": "Is 'rose' (the flower) and 'rose' (past tense of rise) polysemy or homophony?",
+      "back": "HOMOPHONY. The two senses have no meaning relation — one is a noun for a plant, the other an irregular past-tense verb form. Polysemy requires distinct but RELATED meanings, as with 'head' (body part → leader of an organization).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-f002",
+      "front": "How do you decide between homophony and polysemy on an exam?",
+      "back": "Ask whether the two senses are CONNECTED. If you can trace a conceptual or historical link — mouth of a body → mouth of a cave; bright light → bright person — it's POLYSEMY. If the link is pure coincidence — tail/tale, rose/rose, bank/bank — it's HOMOPHONY.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-f003",
+      "front": "What is the semantic role of 'a game of Monopoly' in 'We were playing a game of Monopoly for relaxation'?",
+      "back": "THEME. The game is what the activity is about, and it isn't changed, so it's Theme rather than Patient. It is NOT a Path — Path requires motion through space (along the gravel track). 'For relaxation' is a defensible GOAL, since Goal covers a targeted state.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-f004",
+      "front": "Analyze 'Angela was reading stories to the children this morning' for semantic roles.",
+      "back": "Angela = AGENT. stories = THEME (read, but not changed). this morning = TEMPORAL. the children = RECIPIENT is the common answer, though strictly the table's Recipient requires physical possession — since hearing a story transfers nothing physical, GOAL or BENEFACTIVE is arguably a tighter fit. Know both arguments.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-f005",
+      "front": "Analyze 'He supplied the reporters with information' for semantic roles.",
+      "back": "He = AGENT. the reporters = RECIPIENT. information = THEME — the thing transferred, which isn't itself changed.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-f006",
+      "front": "Analyze 'Earle has been earning money through his poetry' for semantic roles.",
+      "back": "Earle = AGENT. money = THEME. his poetry = INSTRUMENT — the means by which the earning is carried out.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-f007",
+      "front": "What hypernym works best for 'fish', and why is 'marine life' imprecise?",
+      "back": "ANIMAL (or vertebrate). 'Marine life' means sea-dwelling organisms, which excludes freshwater fish like trout and catfish — so it isn't a true superset of 'fish'. A hypernym must properly contain every member of the hyponym.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
     }
   ],
   "questions": [
@@ -15820,9 +16594,1356 @@
       "module": "wk06",
       "chapter": 6,
       "source": "[ANTH 4 Syntax classwork: constituency, transitivity, ambiguity, and grammatical-role coding]"
+    },
+    {
+      "id": "ch7-ppt-q001",
+      "type": "mc",
+      "text": "Semantics is best defined as the study of:",
+      "options": [
+        "Meaning, and how it depends on structure",
+        "Sound patterns",
+        "Word formation",
+        "Sentence structure alone"
+      ],
+      "answer": "Meaning, and how it depends on structure",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q002",
+      "type": "mc",
+      "text": "What does the mug/cup/bowl/glass exercise show about word meaning?",
+      "options": [
+        "Boundaries are fuzzy and context-dependent",
+        "Meanings are precisely defined",
+        "Only size determines the category",
+        "Word meanings are universal across languages"
+      ],
+      "answer": "Boundaries are fuzzy and context-dependent",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q003",
+      "type": "mc",
+      "text": "Which theory holds that word meaning is stored as a prototype?",
+      "options": [
+        "Mental image definition",
+        "Dictionary-style definition",
+        "Usage-based definition",
+        "Referential definition"
+      ],
+      "answer": "Mental image definition",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q004",
+      "type": "mc",
+      "text": "The main objection to dictionary-style definitions is that:",
+      "options": [
+        "Words defined by other words never connect to anything more basic",
+        "They are too visual",
+        "They ignore grammar",
+        "They are impossible to write"
+      ],
+      "answer": "Words defined by other words never connect to anything more basic",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q005",
+      "type": "mc",
+      "text": "'Poodle' is to 'dog' as:",
+      "options": [
+        "Hyponym is to hypernym",
+        "Hypernym is to hyponym",
+        "Synonym is to antonym",
+        "Homophone is to polyseme"
+      ],
+      "answer": "Hyponym is to hypernym",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q006",
+      "type": "mc",
+      "text": "'Dead' and 'alive' are which type of antonym?",
+      "options": [
+        "Complementary",
+        "Contrary",
+        "Reversive",
+        "Gradable"
+      ],
+      "answer": "Complementary",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q007",
+      "type": "mc",
+      "text": "'Young' and 'old' are which type of antonym?",
+      "options": [
+        "Contrary",
+        "Complementary",
+        "Reversive",
+        "Absolute"
+      ],
+      "answer": "Contrary",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q008",
+      "type": "mc",
+      "text": "'Melt' and 'freeze' are which type of antonym?",
+      "options": [
+        "Reversive",
+        "Contrary",
+        "Complementary",
+        "Scalar"
+      ],
+      "answer": "Reversive",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q009",
+      "type": "mc",
+      "text": "'Selena hit the ball with the wooden bat' / 'The bat flew away' illustrates:",
+      "options": [
+        "Homophony",
+        "Polysemy",
+        "Synonymy",
+        "Antonymy"
+      ],
+      "answer": "Homophony",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q010",
+      "type": "mc",
+      "text": "'I woke up with my hair looking funny' / 'I told a funny joke' illustrates:",
+      "options": [
+        "Polysemy",
+        "Homophony",
+        "Synonymy",
+        "Antonymy"
+      ],
+      "answer": "Polysemy",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q011",
+      "type": "mc",
+      "text": "'Head' meaning a body part and 'head' meaning the leader of an organization is an example of:",
+      "options": [
+        "Polysemy — a shift between semantic frames",
+        "Homophony",
+        "Synonymy",
+        "Hyponymy"
+      ],
+      "answer": "Polysemy — a shift between semantic frames",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q012",
+      "type": "mc",
+      "text": "Words whose meanings change with context, like 'here', 'now', 'I', and 'you', are:",
+      "options": [
+        "Deictic",
+        "Synonymous",
+        "Homophonous",
+        "Hypernyms"
+      ],
+      "answer": "Deictic",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q013",
+      "type": "mc",
+      "text": "Fijian oŋgo / oŋgori / oya is an example of:",
+      "options": [
+        "A three-term spatial deixis system",
+        "Temporal deixis",
+        "Person deixis",
+        "Classifiers"
+      ],
+      "answer": "A three-term spatial deixis system",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q014",
+      "type": "mc",
+      "text": "English marks tense with a two-term system contrasting:",
+      "options": [
+        "Past and non-past",
+        "Future and non-future",
+        "Past, present, and future",
+        "Perfective and imperfective"
+      ],
+      "answer": "Past and non-past",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q015",
+      "type": "mc",
+      "text": "Indonesian uses 'ekor' when counting:",
+      "options": [
+        "Animals",
+        "People",
+        "Small round objects",
+        "Thin flat objects"
+      ],
+      "answer": "Animals",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q016",
+      "type": "mc",
+      "text": "Indonesian 'helai' is used for eggs? No — which class does 'helai' count?",
+      "options": [
+        "Thin flat objects such as paper, cloth, and leaves",
+        "Animals",
+        "People",
+        "Small round objects"
+      ],
+      "answer": "Thin flat objects such as paper, cloth, and leaves",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q017",
+      "type": "mc",
+      "text": "The fact that Inuktitut has separate words for snow on the ground and falling snow demonstrates:",
+      "options": [
+        "Lexicalization",
+        "Language relativism",
+        "Polysemy",
+        "Deixis"
+      ],
+      "answer": "Lexicalization",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q018",
+      "type": "mc",
+      "text": "In 'The cat was bitten by the dog', what is the semantic role of 'the cat'?",
+      "options": [
+        "Patient",
+        "Agent",
+        "Instrument",
+        "Experiencer"
+      ],
+      "answer": "Patient",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q019",
+      "type": "mc",
+      "text": "In 'The cat was bitten by the dog', what is the GRAMMATICAL role of 'the cat'?",
+      "options": [
+        "Subject",
+        "Object",
+        "Oblique",
+        "Indirect object"
+      ],
+      "answer": "Subject",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q020",
+      "type": "mc",
+      "text": "In 'Michel cut the bread with the knife', 'the knife' has the semantic role of:",
+      "options": [
+        "Instrument",
+        "Agent",
+        "Patient",
+        "Cause"
+      ],
+      "answer": "Instrument",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q021",
+      "type": "mc",
+      "text": "In '[The snow] caved in the roof', 'the snow' has the semantic role of:",
+      "options": [
+        "Cause",
+        "Agent",
+        "Instrument",
+        "Patient"
+      ],
+      "answer": "Cause",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q022",
+      "type": "mc",
+      "text": "In '[Fatima] likes blueberry pancakes', Fatima is the:",
+      "options": [
+        "Experiencer",
+        "Agent",
+        "Patient",
+        "Benefactive"
+      ],
+      "answer": "Experiencer",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q023",
+      "type": "mc",
+      "text": "In 'I baked a cake for [my brother]', 'my brother' is the:",
+      "options": [
+        "Benefactive",
+        "Recipient",
+        "Patient",
+        "Experiencer"
+      ],
+      "answer": "Benefactive",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q024",
+      "type": "mc",
+      "text": "'Hilda gave Carlos a present' vs. 'The storm gave Carlos the chills'. Carlos has:",
+      "options": [
+        "Same grammatical role, different semantic role",
+        "Different grammatical role, same semantic role",
+        "Same of both",
+        "Different of both"
+      ],
+      "answer": "Same grammatical role, different semantic role",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q025",
+      "type": "mc",
+      "text": "In 'The storm gave Carlos the chills', the semantic role of Carlos is:",
+      "options": [
+        "Experiencer",
+        "Recipient",
+        "Agent",
+        "Benefactive"
+      ],
+      "answer": "Experiencer",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q026",
+      "type": "mc",
+      "text": "'Marcus opened the door' vs. 'The key opened the door' shows that:",
+      "options": [
+        "One syntactic role can carry different semantic roles",
+        "Semantic roles determine word order",
+        "The key is an agent",
+        "Both subjects are patients"
+      ],
+      "answer": "One syntactic role can carry different semantic roles",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q027",
+      "type": "mc",
+      "text": "Haida marks which kind of role in its pronouns?",
+      "options": [
+        "Semantic roles (agent vs. experiencer)",
+        "Grammatical roles (subject vs. object)",
+        "Case only",
+        "Tense"
+      ],
+      "answer": "Semantic roles (agent vs. experiencer)",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q028",
+      "type": "mc",
+      "text": "The phrase 'the current king of France':",
+      "options": [
+        "Makes sense but has no referent",
+        "Makes no sense and has no referent",
+        "Makes sense and has a referent",
+        "Has a referent but no sense"
+      ],
+      "answer": "Makes sense but has no referent",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q029",
+      "type": "mc",
+      "text": "The phrase 'Mickey Mouse':",
+      "options": [
+        "Makes sense and has a referent",
+        "Makes sense but has no referent",
+        "Makes no sense",
+        "Has a referent but no sense"
+      ],
+      "answer": "Makes sense and has a referent",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q030",
+      "type": "mc",
+      "text": "'Clark Kent' and 'Superman' demonstrate that:",
+      "options": [
+        "Two expressions can share a referent but differ in sense",
+        "Two expressions can share a sense but differ in referent",
+        "Sense and reference are identical",
+        "Neither has a referent"
+      ],
+      "answer": "Two expressions can share a referent but differ in sense",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q031",
+      "type": "tf",
+      "text": "True or False: Synonyms always have exactly identical meanings in all contexts.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q032",
+      "type": "tf",
+      "text": "True or False: In polysemy, the multiple meanings of a word are distinct but related.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q033",
+      "type": "tf",
+      "text": "True or False: Semantic roles and grammatical roles are always the same.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q034",
+      "type": "tf",
+      "text": "True or False: English has overt morphology that marks the semantic roles of noun phrases.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q035",
+      "type": "tf",
+      "text": "True or False: An agent is connected with volition, will, or intentionality.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q036",
+      "type": "tf",
+      "text": "True or False: A referent must be a real, physically existing thing in the world.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q037",
+      "type": "tf",
+      "text": "True or False: The fact that a language lacks a single word for a concept proves its speakers cannot understand that concept.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q038",
+      "type": "fitb",
+      "text": "A relation between a general word and a more specific one is called ____.",
+      "answer": "hyponymy",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q039",
+      "type": "fitb",
+      "text": "Two words identical in form but unrelated in meaning, such as 'bier' and 'beer', show ____.",
+      "answer": "homophony",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q040",
+      "type": "fitb",
+      "text": "Words such as 'here', 'now', 'I', and 'you', whose meaning depends on context, are called ____ words.",
+      "answer": "deictic",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q041",
+      "type": "fitb",
+      "text": "The encoding of concepts in the words of a language is called ____.",
+      "answer": "lexicalization",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q042",
+      "type": "fitb",
+      "text": "The semantic role of a natural force that brings about a change of state, with no volition, is ____.",
+      "answer": "cause",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q043",
+      "type": "fitb",
+      "text": "The meaning of an expression in the mind, as opposed to the real thing it points to, is its ____.",
+      "answer": "sense",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q044",
+      "type": "match",
+      "text": "Match each type of antonymy to its example pair.",
+      "pairs": [
+        {
+          "left": "Contrary",
+          "right": "young / old"
+        },
+        {
+          "left": "Complementary",
+          "right": "pass / fail"
+        },
+        {
+          "left": "Reversive",
+          "right": "melt / freeze"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q045",
+      "type": "match",
+      "text": "Match each meaning relationship to its example.",
+      "pairs": [
+        {
+          "left": "Synonymy",
+          "right": "purchase / buy"
+        },
+        {
+          "left": "Homophony",
+          "right": "bier / beer"
+        },
+        {
+          "left": "Polysemy",
+          "right": "eye (body part) / eye (verb)"
+        },
+        {
+          "left": "Hyponymy",
+          "right": "dog / poodle"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q046",
+      "type": "match",
+      "text": "Match each type of deixis to its examples.",
+      "pairs": [
+        {
+          "left": "Person deixis",
+          "right": "I, she, he, they"
+        },
+        {
+          "left": "Spatial deixis",
+          "right": "here, there, this, that"
+        },
+        {
+          "left": "Temporal deixis",
+          "right": "yesterday, tomorrow, before, after"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q047",
+      "type": "match",
+      "text": "Match each semantic role to its lecture example.",
+      "pairs": [
+        {
+          "left": "Agent",
+          "right": "[Tammy] drove the car"
+        },
+        {
+          "left": "Patient",
+          "right": "Hyun-ju broke [the glass]"
+        },
+        {
+          "left": "Experiencer",
+          "right": "[Tom] smelled the flowers"
+        },
+        {
+          "left": "Instrument",
+          "right": "Michel cut the bread with [the knife]"
+        },
+        {
+          "left": "Cause",
+          "right": "[The snow] caved in the roof"
+        },
+        {
+          "left": "Benefactive",
+          "right": "I baked a cake for [my brother]"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q048",
+      "type": "match",
+      "text": "Match each Indonesian classifier to what it counts.",
+      "pairs": [
+        {
+          "left": "orang",
+          "right": "People"
+        },
+        {
+          "left": "ekor",
+          "right": "Animals"
+        },
+        {
+          "left": "biji",
+          "right": "Small round objects (eggs, grapes)"
+        },
+        {
+          "left": "helai",
+          "right": "Thin flat objects (paper, leaves)"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-q049",
+      "type": "match",
+      "text": "Match each language to its tense system.",
+      "pairs": [
+        {
+          "left": "English",
+          "right": "Two-term: past / non-past"
+        },
+        {
+          "left": "Kusaiean",
+          "right": "Two-term: future / non-future"
+        },
+        {
+          "left": "Lithuanian",
+          "right": "Three-term: past / present / future"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ref-q001",
+      "type": "mc",
+      "text": "According to the reference table, which role is moved, located, or described WITHOUT being fundamentally changed?",
+      "options": [
+        "Theme",
+        "Patient",
+        "Experiencer",
+        "Instrument"
+      ],
+      "answer": "Theme",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q002",
+      "type": "mc",
+      "text": "In 'The loud alarm startled the horse', 'the loud alarm' is the:",
+      "options": [
+        "Stimulus",
+        "Experiencer",
+        "Agent",
+        "Force/Causer"
+      ],
+      "answer": "Stimulus",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q003",
+      "type": "mc",
+      "text": "In 'We traveled all the way from Oakland', 'Oakland' is the:",
+      "options": [
+        "Source",
+        "Goal",
+        "Path",
+        "Locative"
+      ],
+      "answer": "Source",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q004",
+      "type": "mc",
+      "text": "In 'The runner sped along the gravel track', 'the gravel track' is the:",
+      "options": [
+        "Path",
+        "Goal",
+        "Source",
+        "Locative"
+      ],
+      "answer": "Path",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q005",
+      "type": "mc",
+      "text": "In 'The heavy gale shattered the window panes', 'the heavy gale' is the:",
+      "options": [
+        "Force/Causer",
+        "Agent",
+        "Instrument",
+        "Stimulus"
+      ],
+      "answer": "Force/Causer",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q006",
+      "type": "mc",
+      "text": "The lecture's role 'Cause' corresponds to which role in the reference table?",
+      "options": [
+        "Force/Causer",
+        "Instrument",
+        "Stimulus",
+        "Source"
+      ],
+      "answer": "Force/Causer",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q007",
+      "type": "mc",
+      "text": "In 'She proofread the paper for her friend', 'her friend' is the:",
+      "options": [
+        "Benefactive",
+        "Recipient",
+        "Goal",
+        "Experiencer"
+      ],
+      "answer": "Benefactive",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q008",
+      "type": "mc",
+      "text": "In 'He placed the textbook on the desk', 'the textbook' is the:",
+      "options": [
+        "Theme",
+        "Patient",
+        "Locative",
+        "Instrument"
+      ],
+      "answer": "Theme",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q009",
+      "type": "mc",
+      "text": "Which three roles describe parts of a motion event?",
+      "options": [
+        "Source, Goal, Path",
+        "Agent, Patient, Theme",
+        "Stimulus, Experiencer, Recipient",
+        "Locative, Temporal, Instrument"
+      ],
+      "answer": "Source, Goal, Path",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q010",
+      "type": "tf",
+      "text": "True or False: Under the reference table, a Theme undergoes a change of state.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q011",
+      "type": "tf",
+      "text": "True or False: Goal can refer to a targeted state, not only a physical destination.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q012",
+      "type": "tf",
+      "text": "True or False: A Recipient must come into physical possession of an object.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q013",
+      "type": "fitb",
+      "text": "The role that triggers a mental or sensory response in an Experiencer is the ____.",
+      "answer": "Stimulus",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q014",
+      "type": "fitb",
+      "text": "The route or ground covered during a movement event is the ____.",
+      "answer": "Path",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q015",
+      "type": "match",
+      "text": "Match each reference-table role to its example.",
+      "pairs": [
+        {
+          "left": "Agent",
+          "right": "The student drafted the syntax tree"
+        },
+        {
+          "left": "Patient",
+          "right": "The frost melted the ice"
+        },
+        {
+          "left": "Theme",
+          "right": "He placed the textbook on the desk"
+        },
+        {
+          "left": "Stimulus",
+          "right": "The loud alarm startled the horse"
+        },
+        {
+          "left": "Instrument",
+          "right": "He split the logs with an axe"
+        },
+        {
+          "left": "Force/Causer",
+          "right": "The heavy gale shattered the window panes"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-q016",
+      "type": "match",
+      "text": "Match each motion and setting role to its example.",
+      "pairs": [
+        {
+          "left": "Source",
+          "right": "We traveled all the way from Oakland"
+        },
+        {
+          "left": "Goal",
+          "right": "They walked over to the campus library"
+        },
+        {
+          "left": "Path",
+          "right": "The runner sped along the gravel track"
+        },
+        {
+          "left": "Locative",
+          "right": "The lists are sitting on the desk"
+        },
+        {
+          "left": "Temporal",
+          "right": "The morning seminar wrapped up at noon"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-cw-q001",
+      "type": "mc",
+      "text": "'Rose' (a flower) and 'rose' (past tense of rise) is an example of:",
+      "options": [
+        "Homophony",
+        "Polysemy",
+        "Synonymy",
+        "Hyponymy"
+      ],
+      "answer": "Homophony",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q002",
+      "type": "mc",
+      "text": "'Mouth' (oral cavity) and 'mouth' (an opening or entrance) is an example of:",
+      "options": [
+        "Polysemy",
+        "Homophony",
+        "Antonymy",
+        "Synonymy"
+      ],
+      "answer": "Polysemy",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q003",
+      "type": "mc",
+      "text": "'Tail' (animal appendage) and 'tale' (a story) is an example of:",
+      "options": [
+        "Homophony",
+        "Polysemy",
+        "Synonymy",
+        "Hyponymy"
+      ],
+      "answer": "Homophony",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q004",
+      "type": "mc",
+      "text": "Which is the best hypernym for 'fish'?",
+      "options": [
+        "Animal",
+        "Marine life",
+        "Salmon",
+        "Seafood"
+      ],
+      "answer": "Animal",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q005",
+      "type": "mc",
+      "text": "In 'We were playing a game of Monopoly for relaxation', 'a game of Monopoly' is the:",
+      "options": [
+        "Theme",
+        "Path",
+        "Patient",
+        "Instrument"
+      ],
+      "answer": "Theme",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q006",
+      "type": "mc",
+      "text": "In 'We were playing a game of Monopoly for relaxation', 'for relaxation' is best analyzed as:",
+      "options": [
+        "Goal — a targeted state",
+        "Path",
+        "Source",
+        "Locative"
+      ],
+      "answer": "Goal — a targeted state",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q007",
+      "type": "mc",
+      "text": "In 'Earle has been earning money through his poetry', 'his poetry' is the:",
+      "options": [
+        "Instrument",
+        "Theme",
+        "Agent",
+        "Source"
+      ],
+      "answer": "Instrument",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q008",
+      "type": "tf",
+      "text": "True or False: Two senses of a word count as polysemy only if the meanings are related.",
+      "answer": "True",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q009",
+      "type": "tf",
+      "text": "True or False: 'A game of Monopoly' in 'We were playing a game of Monopoly' is a Path.",
+      "answer": "False",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q010",
+      "type": "fitb",
+      "text": "A hypernym must be a proper ____ of the hyponym — it has to contain every member.",
+      "answer": "superset",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q011",
+      "type": "match",
+      "text": "Match each word pair to its meaning relationship.",
+      "pairs": [
+        {
+          "left": "Tail / Tale",
+          "right": "Homophony"
+        },
+        {
+          "left": "Bright (light) / Bright (clever)",
+          "right": "Polysemy"
+        },
+        {
+          "left": "Rose (flower) / Rose (rise)",
+          "right": "Homophony — unrelated senses"
+        },
+        {
+          "left": "Head (body) / Head (of a company)",
+          "right": "Polysemy — frame shift"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-q012",
+      "type": "match",
+      "text": "Match each element of 'He supplied the reporters with information' to its semantic role.",
+      "pairs": [
+        {
+          "left": "He",
+          "right": "Agent"
+        },
+        {
+          "left": "the reporters",
+          "right": "Recipient"
+        },
+        {
+          "left": "information",
+          "right": "Theme"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
     }
   ],
   "notes": [
+    {
+      "id": "ch7-cw-n002",
+      "title": "★ KEY EXAM POINTS — Semantics Classwork & Common Mistakes",
+      "body": "★ HOMOPHONY vs. POLYSEMY: ask whether the senses are RELATED. Related = polysemy. Coincidence = homophony.\n★ ROSE (flower) / ROSE (past of rise) IS HOMOPHONY. Two unrelated parts of speech sharing a form is a red flag for coincidence.\n★ Reliable polysemy signals: body part → landscape or organization (mouth, head, foot); concrete → abstract metaphor (bright).\n★ A HYPERNYM MUST CONTAIN EVERY MEMBER. Test it against edge cases — 'marine life' fails for freshwater fish.\n★ PATH REQUIRES MOTION THROUGH SPACE. Something being played, read, earned, or supplied is a THEME, not a Path.\n★ THEME = involved but UNCHANGED (stories being read, money being earned, information being supplied). PATIENT = CHANGED.\n★ GOAL covers TARGETED STATES too — 'for relaxation' is a legitimate Goal.\n★ RECIPIENT strictly means PHYSICAL POSSESSION. Watch for 'to'-phrases where nothing physical changes hands.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-cw-n001",
+      "title": "Semantics Classwork — Word Meanings and Semantic Roles",
+      "body": "PART I — HOMOPHONY OR POLYSEMY?\n• Tail (animal appendage) / Tale (a story) → HOMOPHONY.\n• Mouth (oral cavity) / Mouth (an opening or entrance) → POLYSEMY — body-to-landscape frame shift.\n• Bright (emitting light) / Bright (intelligent) → POLYSEMY — metaphorical extension.\n• Rose (flower) / Rose (past tense of rise) → HOMOPHONY. ⚠ The senses are NOT related: one is a plant noun, the other an irregular past-tense verb. Coincidence of form only.\n• Head (upper body) / Head (highest position in an organization) → POLYSEMY — the lecture lists this exact pair as a frame shift.\nTHE TEST: can you trace a conceptual or historical connection? Connected → polysemy. Coincidence → homophony.\n\nHYPERNYMS:\n• Hammer → tool ✓ | T-shirt → clothing ✓ | Pink → color ✓\n• Fish → ANIMAL (or vertebrate). ⚠ 'Marine life' excludes freshwater fish, so it isn't a true superset.\n\nHYPONYMS: appliance → refrigerator, washer, dryer, dishwasher ✓ | musical instrument → flute, tuba, drums ✓ | furniture → couch, chair, recliner, table ✓ | fish → shark, flounder, salmon ✓\n\nPART 2 — SEMANTIC ROLES (analyzed with the 14-role reference table, which includes Theme, Goal, and Path):\n• 'We persuaded Mary to apply for the job as bus driver.' — We = AGENT; Mary = EXPERIENCER (being persuaded is a psychological effect); the job = GOAL (targeted endpoint).\n• 'He supplied the reporters with information.' — He = AGENT; the reporters = RECIPIENT; information = THEME. ✓\n• 'Earle has been earning money through his poetry.' — Earle = AGENT; money = THEME; his poetry = INSTRUMENT. ✓\n• 'We were playing a game of Monopoly for relaxation.' — We = AGENT; a game of Monopoly = THEME (⚠ NOT Path); for relaxation = GOAL (a targeted state). ✓ for Goal.\n• 'Angela was reading stories to the children this morning.' — Angela = AGENT; stories = THEME; the children = RECIPIENT (common answer — see edge case); this morning = TEMPORAL.\n\nEDGE CASE — 'reading stories TO the children': the table's Recipient requires PHYSICAL POSSESSION. Hearing a story transfers nothing physical, so GOAL (the endpoint the reading is directed at) or BENEFACTIVE (they benefit) is arguably tighter. Recipient is still widely accepted for 'to'-phrases with transfer-like verbs. Be ready to argue either way.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 Semantics & Pragmatics classwork - Parts 1-2: word meanings and semantic roles]"
+    },
+    {
+      "id": "ch7-ref-n003",
+      "title": "★ KEY EXAM POINTS — Semantic Roles Reference Table",
+      "body": "★ 14 ROLES in the table vs. 9 in the lecture. The table ADDS Theme, Stimulus, Source, Goal, Path, and RENAMES Cause → Force/Causer.\n★ THEME vs. PATIENT: ask 'was it CHANGED?' Changed = Patient. Moved, located, or described but unchanged = Theme.\n★ Textbook says patient is a SUBTYPE of theme; the table says they're SEPARATE. Both use change as the test.\n★ STIMULUS triggers the response; EXPERIENCER has it. They come as a pair: [the alarm] startled [the horse].\n★ THE MOTION TRIO: SOURCE (from), GOAL (to / toward a targeted state), PATH (along / through).\n★ GOAL INCLUDES ABSTRACT TARGETED STATES, not just places — 'for relaxation' qualifies.\n★ PATH REQUIRES MOTION THROUGH SPACE. A thing being played, read, or earned is never a Path.\n★ RECIPIENT = PHYSICAL POSSESSION. BENEFACTIVE = profits WITHOUT possessing.\n★ AGENT (intent) vs. FORCE/CAUSER (no intent, natural) vs. INSTRUMENT (a tool an agent uses).\n★ 'Stimulus' also appears in your wk02 notes with a DIFFERENT meaning — the element held constant in a matched-guise study. Don't mix them up.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-n002",
+      "title": "Lecture vs. Reference Table vs. Textbook — Reconciling the Role Lists",
+      "body": "THREE SOURCES, THREE INVENTORIES — know where they agree and where they don't.\n\nLECTURE (9 roles): Agent, Patient, Experiencer, Instrument, Cause, Recipient, Benefactive, Locative, Temporal.\n\nREFERENCE TABLE (14 roles): adds THEME, STIMULUS, SOURCE, GOAL, PATH, and renames Cause as FORCE/CAUSER.\n\nTEXTBOOK (Anderson, wk06): lists agent, experiencer, theme/patient, instrument, goal, source, and more.\n\nTHE THEME / PATIENT PROBLEM — the most important difference:\n• TEXTBOOK: 'a patient is a theme that is also changed by the event' — patient is a SUBTYPE of theme.\n• TABLE: theme is 'without being fundamentally changed' — theme and patient are SEPARATE.\n• LECTURE: no theme at all; patient covers anything that 'undergoes a change of state, or [is] directly affected'.\n★ THE COMMON GROUND: all three use CHANGE as the deciding test.\n   Changed → PATIENT.   Not changed (moved, located, described) → THEME.\n\nEQUIVALENCES:\n• Lecture CAUSE = Table FORCE/CAUSER (natural force, no intent).\n• Table STIMULUS has no lecture equivalent — it's the trigger paired with an Experiencer.\n• Table SOURCE / GOAL / PATH have no lecture equivalent — they handle motion events.\n\n⚠ EXAM STRATEGY: if a question uses roles the lecture never taught (Theme, Goal, Path), it is drawing on the table or the textbook. If it offers only the nine lecture roles, choose from those — and an unchanged object then defaults to PATIENT, since the lecture has no Theme.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ref-n001",
+      "title": "Semantic Roles Reference Table — the 14-Role Inventory",
+      "body": "SOURCE: the uploaded 'Inventory of Standard Semantic Roles' reference table — the standard thematic roles (theta-roles) used across major syntactic and semantic frameworks.\n\nPARTICIPANT ROLES:\n• AGENT — animate entity that intentionally, volitionally performs or initiates an action. [The student] drafted the syntax tree.\n• PATIENT — undergoes a physical action, is directly affected, and CHANGES its state. The frost melted [the ice].\n• THEME — undergoes motion, is located, or is described WITHOUT being fundamentally changed. He placed [the textbook] on the desk.\n• EXPERIENCER — animate entity that experiences a psychological, mental, or sensory perception. [Mary] understands the structural theory.\n• STIMULUS — the entity, event, or concept that TRIGGERS a mental or sensory response in an Experiencer. [The loud alarm] startled the horse.\n• RECIPIENT — a specific animate endpoint that comes into PHYSICAL POSSESSION of an object. I sent [my classmate] a copy of the notes.\n• BENEFACTIVE — profits from (or is disadvantaged by) an action WITHOUT necessarily possessing anything. She proofread the paper for [her friend].\n• INSTRUMENT — the inanimate tool, means, or object used BY AN AGENT. He split the logs with [an axe].\n• FORCE / CAUSER — an inanimate entity or natural phenomenon that instigates change WITHOUT INTENT. [The heavy gale] shattered the window panes.\n\nMOTION ROLES:\n• SOURCE — the starting point, initial location, or prior state. We traveled all the way from [Oakland].\n• GOAL — the endpoint, destination, or TARGETED STATE. They walked over to [the campus library].\n• PATH — the trajectory, route, or ground covered during movement. The runner sped along [the gravel track].\n\nSETTING ROLES:\n• LOCATIVE — the physical or spatial site where an event occurs or an entity is situated. The vocabulary lists are sitting on [the desk].\n• TEMPORAL — the point or duration of time of an event or state. The morning seminar wrapped up at [noon].",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[ANTH 4 semantic roles reference table - Inventory of Standard Semantic Roles]"
+    },
+    {
+      "id": "ch7-ppt-n008",
+      "title": "★ KEY EXAM POINTS — Semantics Lecture",
+      "body": "★ SEMANTICS = the study of meaning and how it depends on structure. PHRASAL semantics = phrases/sentences; LEXICAL semantics = words.\n★ THE MUG/CUP/BOWL EXERCISE: word meanings have FUZZY boundaries, depend on context, contents, size, and social/cultural norms.\n★ THREE THEORIES OF MENTAL REPRESENTATION: dictionary-style (circular problem), mental image/prototype (sharing problem, hard to visualize abstracts), usage-based. ANSWER: probably ALL THREE combined.\n★ SYNONYMY = same meaning, usually with slight differences and overlapping-not-identical senses.\n★ HYPONYMY: hyponym = SUBSET (poodle), hypernym = SUPERSET (dog). Nested layers create TAXONOMIES.\n★ THREE ANTONYM TYPES — memorize with examples: CONTRARY (scale with middle: young/old), COMPLEMENTARY (one true = other false: dead/alive), REVERSIVE (opposite directions or reversible states: come/go, melt/freeze).\n★ HOMOPHONY vs. POLYSEMY IS THE BIG EXAM TRAP: homophony = identical form, UNRELATED meanings, coincidence (bank/bank, bier/beer). Polysemy = one word, distinct but RELATED meanings (head: body part → organization; foot: body → hill).\n★ DEIXIS = words needing context; both SYMBOLIC (conventional) and INDEXICAL (contextual). Three types: PERSON, SPATIAL, TEMPORAL.\n★ Know the systems: Fijian THREE-term spatial (near me / near you / far from both); English past/non-past; Kusaiean future/non-future; Lithuanian three-term.\n★ LEXICALIZATION = encoding concepts in words (Inuktitut snow, fedderschei, flâner). ⚠ IT DOES NOT PROVE LANGUAGE RELATIVISM.\n★ CLASSIFIERS are obligatory in many languages and chosen by SEMANTIC properties: Indonesian orang (people), ekor (animals), biji (small round), helai (thin flat).\n★ ★ THE KEY POINT OF THE UNIT: SEMANTIC ROLES AND GRAMMATICAL ROLES ARE INDEPENDENT. Not all agents are subjects; not all patients are objects.\n★ ACTIVE: subject = agent, object = patient. PASSIVE: subject = PATIENT, oblique = AGENT. The passive is what dissociates them.\n★ THE NINE ROLES: Agent (volition), Patient (undergoes change), Experiencer (sensory, NO volition), Instrument (means, needs an agent), Cause (natural force, NO agent), Recipient (gets a physical object), Benefactive (action done FOR them), Locative, Temporal.\n★ AGENT vs. CAUSE vs. INSTRUMENT: agent has volition; cause is a natural force with none; instrument is the means and usually implies an agent.\n★ RECIPIENT vs. BENEFACTIVE: recipient RECEIVES an object; benefactive is who it's done FOR.\n★ THE CARLOS PAIR: 'Hilda gave Carlos a present' (RECIPIENT) vs. 'The storm gave Carlos the chills' (EXPERIENCER) — same grammatical role (indirect object), different semantic role.\n★ ENGLISH has NO overt morphology for semantic roles. HAIDA marks them in pronouns (agent 'I' ≠ experiencer 'I'), where English marks subject/object instead.\n★ SENSE = meaning in the mind. REFERENT = the real thing it points to. 'The king of France' has SENSE but NO referent. 'Clark Kent'/'Superman' = one referent, two senses. Referents need not be real (Garfield, Mickey Mouse).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n007",
+      "title": "Reference and Sense",
+      "body": "There are two fundamental aspects of linguistic meaning: SENSE and REFERENCE. They are somewhat independent.\n\nREFERENT — the entity in the external world to which a linguistic expression relates; the real-world thing an utterance refers to.\nSENSE — the meaning of an expression by virtue of how it is said; the mental conception of the thing the utterance refers to.\n\nFOR GENERAL CONCEPTS this is easy:\n• The REFERENTS of 'cat' are all the instances of cat in the world.\n• The SENSE of 'cat' is all the mental knowledge associated with 'cat' in the mind of a listener.\n\nREFERENTS DON'T HAVE TO BE REAL:\n• The book gives 'Garfield' as a referent for 'cat' — but where is Garfield in the world?\n• Referents can be ideas, concepts, or historical/fictional figures shared by a community of speakers.\n\nSENSE WITHOUT REFERENCE:\n• 'The current president of France' — makes sense, HAS a referent.\n• 'The current king of France' — makes a different sense, has NO referent. It is still a meaningful phrase.\n• 'A unicorn' is the same: mental associations, no real referent.\n\nONE PHRASE, MANY SENSES:\n• 'The president of the United States' can mean the head of the executive branch generally, OR a fictional character, OR a specific person.\n• The senses of a phrase may also change over time.\n• The referent of 'The President of the United States of America' changes with each administration, but the phrase keeps largely the same meaning — which suggests the phrase has meaning INDEPENDENT of its referent.\n\nONE REFERENT, MANY SENSES:\n• 'Clark Kent' and 'Superman' mean different things but refer to a single person. They differ in SENSE. People can use both terms without realizing they point to the same person.\n\nSENSES DO NOT HAVE TO BE 'CORRECT' to make a reference — speaker and listener simply need shared knowledge allowing a similar understanding of the utterance.\n\nWHY WE NEED BOTH:\n• SENSE lets us discuss how a single object can be referred to in many different ways.\n• REFERENCE lets us talk about meaning being fundamentally related to experience and to things existing in the world.\n\n★ CLICKER ANSWERS:\n• 'Mickey Mouse' → makes sense, HAS a referent (we all agree on a mental concept for it).\n• 'The queen/king of America' → makes sense, has NO referent (we won't all arrive at a collective understanding of this individual).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n006",
+      "title": "Semantic Roles and Their Independence from Grammatical Roles",
+      "body": "GRAMMAR VS. MEANING:\n• Different types of GRAMMATICAL (syntactic) roles hold between verbs and NP arguments.\n• ALSO, different types of SEMANTIC (meaning-based) roles hold between verbs and arguments.\n• ★ THESE ARE SEPARATE AND CAN BE INDEPENDENT. This is flagged as the KEY POINT of the unit.\n\nSEMANTIC ROLE = the way a referent noun contributes to the state/action/situation in a phrase. A fairly small, abstract set.\n\nTHE ACTIVE/PASSIVE DEMONSTRATION:\n   'The dog bit the cats'\n      Syntactic role:  Subject   |  Object\n      Semantic role:   Agent     |  Patient\n   → In a simple sentence with the verb in unmarked ACTIVE form, the subject is the agent.\n\n   'The cats were bitten by the dog'\n      Syntactic role:  Subject   |  [oblique]\n      Semantic role:   Patient   |  Agent\n   → With the verb morphologically marked as PASSIVE, the subject is the patient and the oblique is the agent.\n\nHOW EACH IS ENCODED:\n• SYNTACTIC roles — determined by linear order in English; sometimes verb agreement; sometimes morphological form.\n• SEMANTIC roles — NOT coded overtly in English; no overt morphology. We interpret them.\n\nTHE NINE SEMANTIC ROLES:\n• AGENT — the responsible INITIATOR of an action, the doer. Connected with VOLITION, will, or intentionality. [Tammy] drove the car. [Jorge] gave me flowers. [I] broke the window.\n• PATIENT — the entity that undergoes a change of state or is directly affected. I cleaned [the car]. Hyun-ju broke [the glass]. Mike burned [the cake].\n• EXPERIENCER — an NP that receives SENSORY INPUT. NOT connected with volition or will. [Fatima] likes blueberry pancakes. [Wei] felt threatened by the lion. [Tom] smelled the flowers.\n• INSTRUMENT — the MEANS by which an event is carried out; the intermediary through which an agent acts. Usually requires an agent. Michel cut the bread with [the knife]. The child broke the window with [a hammer].\n• CAUSE — any NATURAL FORCE bringing about a change of state. Does NOT require an agent (no intention, no volition). [The snow] caved in the roof.\n• RECIPIENT — an NP which receives a PHYSICAL OBJECT. Ivan gave a banana to [Amanda]. Suzanna brought [me] a cake.\n• BENEFACTIVE — an NP FOR WHICH an action is performed. I baked a cake for [my brother].\n• LOCATIVE — the location of an action or state. [Midwest] is cold in winter. I live in [Europe].\n• TEMPORAL — the time at which the action or state occurred. She left home [yesterday]. I graduated in [2002].\n\n★ THE CARLOS EXAMPLE:\n   'Hilda gave Carlos a present' / 'The storm gave Carlos the chills'\n   • GRAMMATICAL role in both: INDIRECT OBJECT (same)\n   • SEMANTIC role: RECIPIENT in the first, EXPERIENCER in the second (different)\n   → Same grammatical role, different semantic role.\n\n★ THE SUBJECT EXAMPLES — one syntactic role, many semantic roles:\n• Marcus opened the door → AGENT | The key opened the door → INSTRUMENT (both Subject)\n• [Miska] opened the door → Agent | [My cake] was eaten by Sarah → Patient | [I] smell smoke → Experiencer (or Agent, depending on the event) — all grammatical SUBJECTS.\n\nCROSS-LINGUISTICALLY — HAIDA (indigenous language of California, ~14 living speakers):\n• skuts hl guntl'aats' ('bone 1.SG.AGNT swallowed') = 'I swallowed a bone' → 'I' is marked as AGENT.\n• dang dii kuyaadaang ('2.SG.EXP 1.SG.EXP love') = 'I love you' → both are marked as EXPERIENCERS.\n• Different pronoun for Agent 'I' and Experiencer 'I'.\n★ CONTRAST: in English, pronouns mark GRAMMATICAL roles ('I see him' vs. 'He sees me'). In Haida, pronouns mark SEMANTIC roles.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n005",
+      "title": "Lexicalization and Classifiers",
+      "body": "DO ALL LANGUAGES EXPRESS CONCEPTS THE SAME WAY? No — there is evidence that languages differ in how they express particular concepts within a single word.\n\nINUKTITUT — words for snow:\n• aput 'snow on the ground' | qana 'falling snow' | piqsirpoq 'drifting snow' | qimuqsuq 'snow drift'\n\nENGLISH — animals:\n• cub 'baby bear' | piglet 'baby pig' | kitten 'baby cat' | puppy 'baby dog' | lamb 'baby sheep' | cow 'female cattle' | bull 'male cattle'\n\nPENNSYLVANIA GERMAN:\n• fedderschei 'the condition of being reluctant to write letters'\n• aagehaar 'an eyelash hair that grows inwardly and irritates the sclera'\n\nFRENCH:\n• flâner 'to wander around aimlessly but enjoyably' | chez X 'at the house/place of X'\n\nLEXICALIZATION = when concepts are encoded in the words of a language. The fact that different languages lexicalize different concepts tells us languages differ in how they express particular concepts.\n\n⚠ IMPORTANT CAVEAT: when a specific lexical item exists for a concept in one language and not another, it just means the speakers of that language have created a term for a specific concept. It is NOT impossible for speakers of another language to understand that concept. In other words, THIS IS NOT NECESSARILY EVIDENCE FOR LANGUAGE RELATIVISM — the idea of your language shaping how you view the world.\n\nCLASSIFIERS:\n• In many languages, classifiers after nouns are OBLIGATORY elements of the grammar.\n• Similar to English expressions like 'five ears of corn' or 'five pieces of bread'.\n• Very often the choice of classifier is based on SEMANTIC PROPERTIES of the noun.\nINDONESIAN:\n• ORANG — counting people: dua orang laki-laki 'two men'; tiga orang guru 'three teachers'\n• EKOR — counting animals: lima ekor burung 'five birds'; sepuluh ekor anjing 'ten dogs'\n• BIJI — small round objects: dua belas biji telur 'a dozen eggs'; enam biji peluru 'six bullets'; tiga biji buah anggur 'three grapes'\n• HELAI — thin flat objects: enam helai kertas 'six pieces of paper'; dua belas helai duan 'twelve leaves'; enam belas helai bulu 'sixteen feathers'",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n004",
+      "title": "Deixis",
+      "body": "DEIXIS is the marking of the orientation or position of entities and events with respect to certain points of reference. Deictic words REQUIRE CONTEXT to be understood.\n   'Meet me here tomorrow.'  vs.  'Meet John at the library on Tuesday, February 19th.'\n• Without deixis our communication system breaks down in funny or frustrating ways (cf. 'Who's on First').\n\nDeixis is BOTH:\n• SYMBOLIC — since it is conventional\n• INDEXICAL — since it depends on context\n• Often called 'POINTING WORDS': here and now, I and you. These words do not always refer to the same set of referents; their meanings change with context.\n\nTHREE TYPES:\n• PERSON DEIXIS — I, she, he, they\n• SPATIAL DEIXIS — here, there, this, that\n• TEMPORAL DEIXIS — yesterday, tomorrow, before, after\n\nPERSON DEIXIS:\n• The most basic opposition across many languages is SPEAKER ('1st person', I) vs. HEARER ('2nd person', you).\n• 3rd person pronouns (he, she, they) are common but NOT universal.\n• Other distinctions: FORMAL vs. INFORMAL ('you' vs. 'thou'); INCLUSIVE vs. EXCLUSIVE first person plural 'we' ('we including you' vs. 'we not including you'); and number — SINGULAR, DUAL (exactly two), TRIAL (exactly three), PAUCAL (a few but not too many), PLURAL (many).\n\nSPATIAL DEIXIS:\n• HERE → the located object is near the speaker. THERE → away from the speaker.\n• Many languages have THREE-TERM systems: near the speaker / near the hearer / far from the speaker.\n• FIJIAN: na ŋone oŋgo 'this child (near me)' | na ŋone oŋgori 'this child (near you)' | na ŋone oya 'that child (away from you and me)'\n• MALAGASY has a rich remoteness system — three degrees of nearness: eo / eto / ety = 'here / right here / right next to me'.\n\nTEMPORAL DEIXIS:\n• Marked by words (yesterday, before, after, now) and in many languages by TENSE AFFIXES on the verb.\n• ENGLISH — two-term, past vs. non-past: 'I walk to school everyday' / 'I walked to school everyday'.\n• KUSAIEAN — two-term, future vs. non-future: 'Sepe el mas ekweyah/ingena' (was/is sick); 'Sepe el ac misac' (will die).\n• LITHUANIAN — three-term: jìs skaĩt-o 'he reads' (PRES), skaĩt-ỹs 'he will read' (FUT), skaĩt-ė 'he read' (PAST).",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n003",
+      "title": "Lexical Semantic Relations: the '-nyms'",
+      "body": "Words, meanings and concepts do NOT exist in isolation. They can be grouped into sets and may be semantically related to other words.\n   Dark vs. Light | Branch vs. Branch | Mammal vs. Dog | Terrier vs. Dog\n\nSYNONYMY — words or expressions with the same meaning in some or all contexts. Synonyms usually have slightly DIFFERENT meanings and frequently have overlapping but not identical senses.\n   vacation/holiday | youth/adolescent | automobile/car | remember/recall | purchase/buy | big/large\n   Also: film, movie, flick, motion picture | eat, consume, ingest, wolf down | sleep, slumber, catch some z's\n\nHYPONYMY — a relation between two words, one more general (HYPERNYM) and one more specific (HYPONYM).\n• Word X is a HYPONYM of Y if X is a SUBSET of Y.\n• Word X is a HYPERNYM of Y if Y is a SUBSET of X.\n   dog (hypernym) / poodle (hyponym) | shirt ~ tank top | cook ~ fry | child ~ baby\n• Multi-layered hyponymic relationships create TAXONOMIES:\n     cook → fry, boil, roast → stir-fry, sauté, blanch, simmer\n\nANTONYMY — words that are opposites with respect to at least one aspect of their meaning.\n   young/old | boy/girl | hot/cold | come/go | thin/thick | dark/light | risky/safe | rich/poor\nTHREE TYPES:\n• CONTRARY — opposite regions of a SCALE with intermediate values (young/old, thin/thick)\n• COMPLEMENTARY — when one is true, the other is false (dead/alive, pass/fail, off/on)\n• REVERSIVE — movement in opposite directions (come/go), or change between reversible states (melt/freeze)\n\nHOMOPHONY — two words identical in FORM but with NO relation in meaning. The formal identity is just COINCIDENCE.\n   ail~ale | assent~ascent | bier~beer | dough~doe | past~passed | bank~bank\n\nPOLYSEMY — a single word with multiple meanings that are distinct but RELATED. Typical for most lexemes.\n   rent (payment) ~ to rent (tenant) ~ to rent (landlord) | eye (body part) ~ eye (verb) | wood (from a tree) ~ wood (place of many trees)\n• Often a SHIFT FROM ONE SEMANTIC FRAME TO ANOTHER:\n     surf (ocean → Internet) | attack (war → problems) | foot (body → landscape) | head (body → organization) | tail (body → following behind)\n• NOT synonymy (same meaning) and NOT homophony (same sound, unrelated).\n\nMENTAL LEXICON: a single sequence of phonemes can have multiple RELATED meanings attached ('bright' — polysemy), or can happen to be identical in two words with nothing else in common ('bank' — homophony).\n\n★ CLICKER ANSWERS FROM THE DECK:\n• 'Selena hit the ball with the wooden bat' / 'The bat flew away' → HOMOPHONY\n• 'I purchased a couch' / 'I bought the matching tables' → SYNONYMY\n• 'my hair looking funny' / 'a funny joke' → POLYSEMY",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n002",
+      "title": "Fuzzy Meaning and How Word Meanings Are Represented",
+      "body": "THE MUG / CUP / BOWL / GLASS EXERCISE:\n• A long series of images, each asking: mug, cup, bowl, glass, or other?\n• THE POINT: do these words have clearly defined meanings, or are the boundaries FUZZY? Are there clear cases and unclear cases?\n\nDOES IT MATTER WHAT'S IN THEM?\n• Same vessel + rice = 'bowl'\n• Same vessel + hot drink = 'cup'\n\nDOES SIZE / RELATION TO US MATTER?\n• Large = 'bowl'; small = 'cup'\n\nCONCLUSION: word meanings are NOT clear-cut. They may depend on many factors including features of CONTEXT, and they are related to human uses and social/cultural norms (like having saucers, or what we put inside something).\n\nWHAT IS THE MENTAL REPRESENTATION OF A WORD'S MEANING?\n\n1. DICTIONARY-STYLE DEFINITIONS — stored like dictionary entries, defined using other words plus usage examples.\n   • PRO: useful; a paraphrase of meaning; can actually help people learn word meanings.\n   • CON: how can we learn the meaning of any word if words are defined in terms of other words? Not connected to anything more basic. (Think of children, or people who can't read, or having a concept with no word attached.)\n\n2. MENTAL IMAGE DEFINITIONS — stored as a mental image, a PROTOTYPE ('DOG').\n   • PRO: mental images really are things we use when we conceptualize.\n   • CON: different people have different experiences and images — how do we share meanings? (Think of 'mom'.) The images are prototypical, and some things are hard to visualize (e.g. 'reciprocity', 'from').\n\n3. USAGE-BASED DEFINITIONS — stored with the ways and contexts in which we use them (rice = bowl, hot drink = cup).\n\n★ CONCLUSION: mental representations are probably composed of ALL THREE of these aspects.\n\nLEXICAL SEMANTICS AND THE LEXICON:\n• CONTENT WORDS: mug, cup, bowl, glass — relations like antonymy, polysemy, homonymy apply here.\n• FUNCTION WORDS: she, the, is, will, there — phenomena like deixis and tense/mood apply here.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
+    {
+      "id": "ch7-ppt-n001",
+      "title": "Topics to Know — Semantics (roadmap)",
+      "body": "The lecture listed these as the concepts to master:\n• PHRASAL SEMANTICS: semantic roles\n• LEXICAL SEMANTICS: the '-nyms' (synonymy, hyponymy, antonymy, homophony, polysemy)\n• DEIXIS\n• LEXICALIZATION\n\nWHAT IS SEMANTICS?\n• The study of meaning.\n• The study of the systematic ways in which languages structure meaning, especially in words and phrases.\n• The way meaning is represented and transmitted.\n• The way meaning depends on structure.\n\nLEVELS OF GRAMMAR (assembly-line model): Phonology → Morphology → Syntax → Semantics.\n\nPHRASAL SEMANTICS = meaning patterns conveyed in phrases and sentences.\nLEXICAL SEMANTICS = meaning patterns in words.",
+      "image": null,
+      "module": "wk07",
+      "chapter": 7,
+      "source": "[Brotherton, HUM/ANTH 4 Lecture: Semantics (adapted from Dr. G. Zellou)]"
+    },
     {
       "id": "ch6-cw-n002",
       "title": "★ KEY EXAM POINTS — Syntax Classwork & Common Mistakes",
