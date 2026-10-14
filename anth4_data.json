@@ -11,7 +11,7 @@
       "title": "Introduction: What Is Language & Linguistics",
       "chapter": 1,
       "order": 1,
-      "name": "Week 1 — Introduction: What Is Language & Linguistics",
+      "name": "Module 1 : Introduction: What Is Language & Linguistics",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 1",
       "chapters": [
         1
@@ -24,7 +24,7 @@
       "title": "Language, Power, and Privilege",
       "chapter": 2,
       "order": 2,
-      "name": "Week 2 — Language, Power, and Privilege",
+      "name": "Module 2 : Language, Power, and Privilege",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 2",
       "chapters": [
         2
@@ -37,7 +37,7 @@
       "title": "Phonetics",
       "chapter": 3,
       "order": 3,
-      "name": "Week 3 — Phonetics",
+      "name": "Module 3 : Phonetics",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 3",
       "chapters": [
         3
@@ -50,7 +50,7 @@
       "title": "Phonology",
       "chapter": 4,
       "order": 4,
-      "name": "Week 4 — Phonology",
+      "name": "Module 4 : Phonology",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 4",
       "chapters": [
         4
@@ -63,7 +63,7 @@
       "title": "Morphology",
       "chapter": 5,
       "order": 5,
-      "name": "Week 5 — Morphology",
+      "name": "Module 5 : Morphology",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 5",
       "chapters": [
         5
@@ -76,7 +76,7 @@
       "title": "Syntax",
       "chapter": 6,
       "order": 6,
-      "name": "Week 6 — Syntax",
+      "name": "Module 6 : Syntax",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 6",
       "chapters": [
         6
@@ -89,7 +89,7 @@
       "title": "Semantics",
       "chapter": 7,
       "order": 7,
-      "name": "Week 7 — Semantics",
+      "name": "Module 7 : Semantics",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 7",
       "chapters": [
         7
@@ -102,7 +102,7 @@
       "title": "Pragmatics",
       "chapter": 8,
       "order": 8,
-      "name": "Week 8 — Pragmatics",
+      "name": "Module 8 : Pragmatics",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 8",
       "chapters": [
         8
@@ -115,7 +115,7 @@
       "title": "Reclaiming Indigenous Languages",
       "chapter": 9,
       "order": 9,
-      "name": "Week 9 — Reclaiming Indigenous Languages",
+      "name": "Module 9 : Reclaiming Indigenous Languages",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 9",
       "chapters": [
         9
@@ -128,7 +128,7 @@
       "title": "Language Variation and Change",
       "chapter": 10,
       "order": 10,
-      "name": "Week 10 — Language Variation and Change",
+      "name": "Module 10 : Language Variation and Change",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 10",
       "chapters": [
         10
@@ -141,7 +141,7 @@
       "title": "Historical Linguistics",
       "chapter": 14,
       "order": 11,
-      "name": "Week 11 — Historical Linguistics",
+      "name": "Module 11 : Historical Linguistics",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 14",
       "chapters": [
         14
@@ -156,7 +156,7 @@
       "order": 12,
       "status": "TBD",
       "note": "Source not in this textbook; Benjamin will upload data later.",
-      "name": "Week 12 — History of English",
+      "name": "Module 12 : History of English",
       "desc": "Source TBD — not covered by the Anderson textbook",
       "chapters": [],
       "created": "2026-08-06T23:58:36.648Z"
@@ -167,7 +167,7 @@
       "title": "Child Language Acquisition",
       "chapter": 11,
       "order": 13,
-      "name": "Week 13 — Child Language Acquisition",
+      "name": "Module 13 : Child Language Acquisition",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 11",
       "chapters": [
         11
@@ -180,7 +180,7 @@
       "title": "Second Language Acquisition",
       "chapter": 12,
       "order": 14,
-      "name": "Week 14 — Second Language Acquisition",
+      "name": "Module 14 : Second Language Acquisition",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 12",
       "chapters": [
         12
@@ -195,7 +195,7 @@
       "order": 15,
       "status": "TBD",
       "note": "Source not designated in this textbook; Benjamin will upload data later.",
-      "name": "Week 15 — Bilingualism",
+      "name": "Module 15 : Bilingualism",
       "desc": "Source TBD — not covered by the Anderson textbook",
       "chapters": [],
       "created": "2026-08-06T23:58:36.648Z"
@@ -206,36 +206,12 @@
       "title": "Psycholinguistics",
       "chapter": 13,
       "order": 16,
-      "name": "Week 16 — Psycholinguistics",
+      "name": "Module 16 : Psycholinguistics",
       "desc": "Anderson et al., Essentials of Linguistics, Ch. 13",
       "chapters": [
         13
       ],
       "created": "2026-08-06T23:58:36.648Z"
-    },
-    {
-      "id": "mv78cudk3a5i8",
-      "name": "Module 1 : Introduction to Language and Linguistics",
-      "desc": "",
-      "created": "2026-10-13T22:06:01.928Z"
-    },
-    {
-      "id": "mv78dvrqasj74",
-      "name": "Module 1 : Introduction: What Is Language & Linguistics",
-      "desc": "",
-      "created": "2026-10-13T22:06:50.390Z"
-    },
-    {
-      "id": "mv78ejsy49xra",
-      "name": "Module 2 : Language, Power, and Privilege",
-      "desc": "",
-      "created": "2026-10-13T22:07:21.538Z"
-    },
-    {
-      "id": "mv78f4dzjdh1p",
-      "name": "Module 3 : Phonetics",
-      "desc": "",
-      "created": "2026-10-13T22:07:48.215Z"
     }
   ],
   "glossary": [
