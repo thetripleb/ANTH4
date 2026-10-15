@@ -576,6 +576,15 @@
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 3]"
     },
     {
+      "id": "ch3-ipa-g002",
+      "term": "articulation goal",
+      "def": "A treatment target set by an SLP for a specific speech sound in error. Accurate IPA transcription identifies exactly which sound to target.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
       "id": "ch1-g008",
       "term": "articulatory phonetics",
       "def": "Knowledge of how the articulators (mouth, tongue, lips; or hands, fingers, wrists) are used to produce the sounds or signs of a language.",
@@ -4462,6 +4471,15 @@
       "module": "wk08",
       "chapter": 8,
       "source": "[Anderson et al. (2022), Essentials of Linguistics, 2nd ed., Ch. 8]"
+    },
+    {
+      "id": "ch3-ipa-g001",
+      "term": "speech sound disorder",
+      "def": "A difficulty producing speech sounds accurately. SLPs identify the specific sounds in error by transcribing a child's speech in IPA, which pinpoints the error precisely enough to write articulation goals.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
     },
     {
       "id": "ch14-g008",
@@ -9396,6 +9414,69 @@
       "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch3-ipa-f001",
+      "front": "Why do SLPs transcribe a child's speech in IPA instead of regular spelling?",
+      "back": "Spelling doesn't map one-to-one to sounds — the letter 'c' is /k/ in 'cat' but /s/ in 'cereal'. IPA gives one symbol per sound, so the SLP can identify exactly which sound is in error and write targeted articulation goals.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-f002",
+      "front": "Give the key words for /ʃ/, /ʒ/, /ʧ/, and /ʤ/ from the handout.",
+      "back": "/ʃ/ show · /ʒ/ measure · /ʧ/ chicken · /ʤ/ jam",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-f003",
+      "front": "Give the key words for /θ/, /ð/, /ŋ/, and /j/ from the handout.",
+      "back": "/θ/ think (voiceless) · /ð/ them (voiced) · /ŋ/ sing · /j/ yes",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-f004",
+      "front": "Give the key words for /ɪ/, /ɛ/, /æ/, and /ʌ/ from the handout.",
+      "back": "/ɪ/ sit · /ɛ/ mess · /æ/ bag · /ʌ/ cup",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-f005",
+      "front": "Give the key words for /ʊ/, /ɔ/, and /ɝ/ from the handout.",
+      "back": "/ʊ/ foot · /ɔ/ saw · /ɝ/ her",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-f006",
+      "front": "Give the key words for the three diphthongs on the handout.",
+      "back": "/aɪ/ pie · /ɔɪ/ toy · /aʊ/ proud",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-f007",
+      "front": "How does the handout's vowel notation differ from your lecture's?",
+      "back": "The handout writes the vowels of 'race' and 'soap' as plain /e/ and /o/, and 'pop' as /a/. Your lecture writes them as diphthongs [eɪ] (bate) and [oʊ] (boat), and uses /ɑ/ for the low back vowel. Clinical handouts often simplify like this — on the exam, use the lecture's notation.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
     }
   ],
   "questions": [
@@ -19702,9 +19783,291 @@
       "module": "wk08",
       "chapter": 9,
       "source": "[Brotherton, ANTH 4 Lecture: Language Revitalization]"
+    },
+    {
+      "id": "ch3-ipa-q001",
+      "type": "mc",
+      "text": "According to the handout, why can't regular spelling be used to record a child's speech accurately?",
+      "options": [
+        "One letter can stand for different sounds, like 'c' in cat and cereal",
+        "IPA symbols are faster to write",
+        "Children can't spell yet",
+        "Spelling only works for vowels"
+      ],
+      "answer": "One letter can stand for different sounds, like 'c' in cat and cereal",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q002",
+      "type": "mc",
+      "text": "Which IPA symbol represents the sound at the start of 'show'?",
+      "options": [
+        "/ʃ/",
+        "/ʧ/",
+        "/s/",
+        "/ʒ/"
+      ],
+      "answer": "/ʃ/",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q003",
+      "type": "mc",
+      "text": "Which IPA symbol represents the middle consonant of 'measure'?",
+      "options": [
+        "/ʒ/",
+        "/ʃ/",
+        "/z/",
+        "/ʤ/"
+      ],
+      "answer": "/ʒ/",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q004",
+      "type": "mc",
+      "text": "Which IPA symbol represents the final sound of 'sing'?",
+      "options": [
+        "/ŋ/",
+        "/n/",
+        "/g/",
+        "/ŋg/"
+      ],
+      "answer": "/ŋ/",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q005",
+      "type": "mc",
+      "text": "Which IPA symbol represents the first sound of 'yes'?",
+      "options": [
+        "/j/",
+        "/y/",
+        "/ʤ/",
+        "/i/"
+      ],
+      "answer": "/j/",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q006",
+      "type": "mc",
+      "text": "The handout marks /θ/ (think) and /ð/ (them) as differing in:",
+      "options": [
+        "Voicing",
+        "Place of articulation",
+        "Manner of articulation",
+        "Nasality"
+      ],
+      "answer": "Voicing",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q007",
+      "type": "mc",
+      "text": "Which vowel symbol matches the vowel in 'cup'?",
+      "options": [
+        "/ʌ/",
+        "/u/",
+        "/ʊ/",
+        "/ɑ/"
+      ],
+      "answer": "/ʌ/",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q008",
+      "type": "mc",
+      "text": "Which vowel symbol matches the vowel in 'foot'?",
+      "options": [
+        "/ʊ/",
+        "/u/",
+        "/o/",
+        "/ʌ/"
+      ],
+      "answer": "/ʊ/",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q009",
+      "type": "tf",
+      "text": "True or False: In the IPA, the letter 'c' always corresponds to the symbol /k/.",
+      "answer": "False",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q010",
+      "type": "tf",
+      "text": "True or False: The handout writes the vowel in 'soap' as /o/, while the lecture would transcribe 'boat' with the diphthong [oʊ].",
+      "answer": "True",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q011",
+      "type": "fitb",
+      "text": "The IPA symbol /ʧ/ is the first sound in the handout's key word '____'.",
+      "answer": "chicken",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q012",
+      "type": "fitb",
+      "text": "The IPA symbol /ʤ/ is the first sound in the handout's key word '____'.",
+      "answer": "jam",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q013",
+      "type": "match",
+      "text": "Match each consonant symbol to its handout key word.",
+      "pairs": [
+        {
+          "left": "/ʃ/",
+          "right": "show"
+        },
+        {
+          "left": "/ʒ/",
+          "right": "measure"
+        },
+        {
+          "left": "/ʧ/",
+          "right": "chicken"
+        },
+        {
+          "left": "/ʤ/",
+          "right": "jam"
+        },
+        {
+          "left": "/ŋ/",
+          "right": "sing"
+        },
+        {
+          "left": "/j/",
+          "right": "yes"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q014",
+      "type": "match",
+      "text": "Match each vowel symbol to its handout key word.",
+      "pairs": [
+        {
+          "left": "/i/",
+          "right": "sleep"
+        },
+        {
+          "left": "/ɪ/",
+          "right": "sit"
+        },
+        {
+          "left": "/ɛ/",
+          "right": "mess"
+        },
+        {
+          "left": "/æ/",
+          "right": "bag"
+        },
+        {
+          "left": "/ʌ/",
+          "right": "cup"
+        },
+        {
+          "left": "/ɝ/",
+          "right": "her"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-q015",
+      "type": "match",
+      "text": "Match each diphthong to its handout key word.",
+      "pairs": [
+        {
+          "left": "/aɪ/",
+          "right": "pie"
+        },
+        {
+          "left": "/ɔɪ/",
+          "right": "toy"
+        },
+        {
+          "left": "/aʊ/",
+          "right": "proud"
+        }
+      ],
+      "answer": null,
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
     }
   ],
   "notes": [
+    {
+      "id": "ch3-ipa-n002",
+      "title": "★ KEY EXAM POINTS — IPA Handout vs. Lecture Notation",
+      "body": "★ IPA = one symbol per sound. Spelling fails because one letter can map to several sounds ('c' in cat vs. cereal).\n★ The trickiest consonants: /ʃ/ show, /ʒ/ measure, /ʧ/ chicken, /ʤ/ jam, /θ/ think, /ð/ them, /ŋ/ sing, /j/ yes.\n★ /θ/ and /ð/ differ ONLY in voicing — think is voiceless, them is voiced.\n★ NOTATION DIFFERENCES — know which system the exam uses:\n   • Handout /e/ race → lecture diphthong [eɪ] (bate [beɪt])\n   • Handout /o/ soap → lecture diphthong [oʊ] (boat [boʊt])\n   • Handout /a/ pop → lecture low back /ɑ/\n   • Handout /r/ ring → lecture uses [ɹ] for the English approximant\n★ Clinical handouts often simplify for parents and teachers. On a linguistics exam, use the LECTURE's notation.",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
+    {
+      "id": "ch3-ipa-n001",
+      "title": "IPA Handout — Symbols and Key Words (SLP Reference)",
+      "body": "SOURCE: Super Duper Handy Handout #664 (Stuckey, CCC-SLP).\n\nWHY SLPs USE THE IPA:\n• SLPs evaluate a child's speech production to identify specific sound disorders.\n• Assessment data is recorded by transcribing the child's speech in IPA — a universal system with one symbol per sound.\n• Many sounds match their letter (the 'p' in 'pay' is /p/), but not all: 'c' is /k/ in 'cat' and /s/ in 'cereal'.\n• Precise symbols identify the exact sound in error, so articulation goals can target it.\n\nCONSONANTS:\n/p/ pig · /b/ bed · /t/ top · /d/ duck · /k/ king · /g/ go\n/m/ moon · /n/ night · /ŋ/ sing\n/f/ fish · /v/ van · /θ/ think (voiceless) · /ð/ them (voiced)\n/s/ sun · /z/ zoo · /ʃ/ show · /ʒ/ measure · /h/ house\n/ʧ/ chicken · /ʤ/ jam\n/l/ leaf · /r/ ring · /w/ wash · /j/ yes\n\nVOWELS:\n/i/ sleep · /ɪ/ sit · /e/ race · /ɛ/ mess · /æ/ bag\n/u/ too · /ʊ/ foot · /o/ soap · /ɔ/ saw · /a/ pop\n/ʌ/ cup · /ɝ/ her\n\nDIPHTHONGS: /aɪ/ pie · /ɔɪ/ toy · /aʊ/ proud",
+      "image": null,
+      "module": "wk08",
+      "chapter": 3,
+      "source": "[Stuckey, K. (2023). What is the International Phonetic Alphabet? Handy Handout #664, Super Duper Publications]"
+    },
     {
       "id": "ch9-rv-n004",
       "title": "★ KEY EXAM POINTS — Language Loss, Reclamation & Revitalization",
